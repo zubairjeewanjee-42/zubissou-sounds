@@ -8,9 +8,9 @@
 
 <!-- ===== PRIMARY META ===== -->
 <title>Zubissou Listening — a private listening room by Zubair Jeewanjee</title>
-<meta name="description" content="A private listening room. Seven knobs against one hundred records. Curator-fed by Aquarium Drunkard, Derrick Gee, XRAY.fm. The inverse of a feed. Built by Zubair Jeewanjee.">
+<meta name="description" content="A private listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed. Built by Zubair Jeewanjee.">
 <meta name="author" content="Zubair Jeewanjee">
-<meta name="keywords" content="Zubissou Listening, Zubissou Sounds, Zubair Jeewanjee, music dashboard, vinyl canon, Aquarium Drunkard, Derrick Gee, XRAY.fm, Spotify, personal capstone, hi-fi UI, kissa, Wes Anderson UI">
+<meta name="keywords" content="Zubissou Listening, Zubissou Sounds, Zubair Jeewanjee, music dashboard, vinyl canon, personal capstone, hi-fi UI, kissa, Wes Anderson UI, taste console">
 <link rel="canonical" href="https://zubissou-sounds.pages.dev/">
 <meta name="apple-mobile-web-app-title" content="Zubissou">
 
@@ -25,7 +25,7 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Zubissou Listening">
 <meta property="og:title" content="Zubissou Listening">
-<meta property="og:description" content="A private listening room. Seven knobs against one hundred records. Curator-fed by Aquarium Drunkard, Derrick Gee, XRAY.fm. The inverse of a feed. — Z.">
+<meta property="og:description" content="A private listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed. — Z.">
 <meta property="og:url" content="https://zubissou-sounds.pages.dev/">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://zubissou-sounds.pages.dev/assets/img/zubair-pier.jpg">
@@ -38,7 +38,7 @@
 <!-- ===== TWITTER CARD ===== -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Zubissou Listening">
-<meta name="twitter:description" content="A private listening room. Seven knobs against one hundred records. Curator-fed. The inverse of a feed.">
+<meta name="twitter:description" content="A private listening room. Seven knobs against one hundred records. Hand-curated. The inverse of a feed.">
 <meta name="twitter:creator" content="@zubairjeewanjee">
 <meta name="twitter:image" content="https://zubissou-sounds.pages.dev/assets/img/zubair-pier.jpg">
 <meta name="twitter:image:alt" content="The author with a guitar on a pier in the Red Sea, lighthouse in the distance.">
@@ -55,7 +55,7 @@
   "@type": "CreativeWork",
   "name": "Zubissou Listening",
   "alternateName": ["Zubissou Sounds", "Zubissou Listening Station"],
-  "description": "A private listening room. Seven knobs against one hundred records. Curator-fed by Aquarium Drunkard, Derrick Gee, XRAY.fm. The inverse of a feed.",
+  "description": "A private listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed.",
   "url": "https://zubissou-sounds.pages.dev/",
   "image": "https://zubissou-sounds.pages.dev/assets/img/zubair-pier.jpg",
   "creator": {
@@ -65,7 +65,7 @@
   },
   "datePublished": "2026-05-26",
   "genre": ["music", "personal-software", "data-visualization", "dashboard"],
-  "keywords": "Zubissou Listening, music dashboard, vinyl canon, Spotify, Aquarium Drunkard, Derrick Gee, taste console"
+  "keywords": "Zubissou Listening, music dashboard, vinyl canon, taste console, personal capstone"
 }
 </script>
 
@@ -619,6 +619,78 @@ html[data-mode="night"] .window-frame { border-color: var(--walnut); }
   z-index: 0;
 }
 .window-scene.has-image .scene-image-overlay { display: block; }
+
+/* ===== BEACH SHIMMER — soft diagonal light rays sweep across the photo =====
+   Two pseudo-layers ride on top of the beach overlay only. CSS-only, GPU-cheap. */
+.scene-beach.has-image .scene-image-overlay::before,
+.scene-beach.has-image .scene-image-overlay::after {
+  content: '';
+  position: absolute; inset: 0;
+  pointer-events: none;
+  mix-blend-mode: screen;
+  opacity: 0.45;
+}
+/* First ray — wide warm beam, slow */
+.scene-beach.has-image .scene-image-overlay::before {
+  background: linear-gradient(115deg,
+    transparent 0%,
+    transparent 35%,
+    rgba(255, 235, 180, 0.18) 47%,
+    rgba(255, 220, 150, 0.32) 50%,
+    rgba(255, 235, 180, 0.18) 53%,
+    transparent 65%,
+    transparent 100%);
+  background-size: 300% 100%;
+  animation: beachRayA 9s ease-in-out infinite;
+}
+/* Second ray — thinner, faster, offset; gives a flicker-shimmer feel */
+.scene-beach.has-image .scene-image-overlay::after {
+  background: linear-gradient(108deg,
+    transparent 0%,
+    transparent 55%,
+    rgba(255, 245, 200, 0.22) 63%,
+    rgba(255, 235, 180, 0.42) 66%,
+    rgba(255, 245, 200, 0.22) 69%,
+    transparent 78%,
+    transparent 100%);
+  background-size: 300% 100%;
+  animation: beachRayB 6.5s ease-in-out infinite 1.2s;
+  opacity: 0.35;
+}
+@keyframes beachRayA {
+  0%   { background-position: -50% 0%; opacity: 0.0; }
+  25%  { opacity: 0.55; }
+  50%  { background-position:  60% 0%; opacity: 0.55; }
+  75%  { opacity: 0.35; }
+  100% { background-position: 150% 0%; opacity: 0.0; }
+}
+@keyframes beachRayB {
+  0%   { background-position: -30% 0%; opacity: 0.0; }
+  30%  { opacity: 0.45; }
+  50%  { background-position:  80% 0%; opacity: 0.45; }
+  70%  { opacity: 0.30; }
+  100% { background-position: 160% 0%; opacity: 0.0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .scene-beach.has-image .scene-image-overlay::before,
+  .scene-beach.has-image .scene-image-overlay::after { animation: none; opacity: 0; }
+}
+
+/* ===== MOBILE SCENE CROP — beach + city need to zoom in for more detail ===== */
+@media (max-width: 560px) {
+  .scene-beach.has-image .scene-image-overlay,
+  .scene-city.has-image .scene-image-overlay {
+    background-size: 175%;          /* zoom in ~75% past cover */
+    background-position: 55% 45%;   /* keep skyline + island in frame */
+  }
+}
+@media (max-width: 400px) {
+  .scene-beach.has-image .scene-image-overlay,
+  .scene-city.has-image .scene-image-overlay {
+    background-size: 195%;          /* tighter for narrow phones */
+    background-position: 58% 45%;
+  }
+}
 /* Hide ALL CSS-art children of every scene, always. The window shows either
    your image (.has-image) or the scene's flat gradient background — never my
    stick-figure mountains, fake palms, or dotted grass. */
@@ -1984,8 +2056,8 @@ html[data-mode="night"] .vu-meter {
   background: var(--ink) center/cover no-repeat;
 }
 .ad-card .ad-card-cover::after {
-  /* curator nameplate ribbon — overridable per shelf */
-  content: 'AD';
+  /* author's seal — overridable per shelf via --ribbon */
+  content: var(--ribbon, 'ZS');
   position: absolute; top: 6px; right: 6px;
   font-family: 'Antonio', sans-serif;
   font-size: 8px; font-weight: 700; letter-spacing: 0.16em;
@@ -4724,7 +4796,6 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
         <span class="console-mfg-left">MODEL · D</span>
         <span class="console-mfg">ZS-001 · 2026</span>
         <div class="console-title">ZUBISSOU LISTENING</div>
-        <div class="console-subtitle">analog inputs · digital soul</div>
         <div class="console-byline">a private listening room built by Zubair Jeewanjee</div>
 
         <!-- VU + Tubes row (2 tubes left, VU center, 2 tubes right) -->
@@ -4997,7 +5068,7 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
     <section class="section" id="ad-spinning-section" style="display:none;">
       <div class="section-header">
         <div class="section-title">Currently Spinning</div>
-        <div class="section-meta" id="ad-spinning-meta">the rotation, today · straight from the heads at Aquarium Drunkard</div>
+        <div class="section-meta" id="ad-spinning-meta">the rotation, today · pulled from the desk</div>
       </div>
       <div class="ad-spinning-grid" id="ad-spinning-grid"></div>
     </section>
@@ -5005,8 +5076,8 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
     <!-- ===== DERRICK GEE SHELF ===== -->
     <section class="section" id="derrick-shelf-section" style="display:none;">
       <div class="section-header">
-        <div class="section-title">Derrick Gee</div>
-        <div class="section-meta" id="derrick-meta">six sets from the man himself · Spotify, in his hands</div>
+        <div class="section-title">Hand-picked Sets</div>
+        <div class="section-meta" id="derrick-meta">six sets, folded in by the author · names withheld</div>
       </div>
       <div class="ad-spinning-grid" id="derrick-shelf-grid"></div>
     </section>
@@ -5014,10 +5085,9 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
     <!-- ===== TRUSTED CURATORS (XRAY.fm) ===== -->
     <section class="section">
       <div class="section-header">
-        <div class="section-title">Trusted Curators</div>
+        <div class="section-title">The Circle</div>
         <div class="section-meta">
-          the heads I keep one ear on · <span id="xray-stats">— shows, — tracks</span>
-          &nbsp;·&nbsp; pulled from XRAY.fm, independent radio in heavy rotation
+          independent voices, hand-folded in by the author · <span id="xray-stats">— shows, — tracks</span>
         </div>
       </div>
       <div class="curators-grid" id="curators-grid"></div>
@@ -5055,10 +5125,9 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
         <span class="colophon-edition">FIRST EDITION · ZS-001 · 2026</span>
       </div>
       <p class="colophon-lede">
-        A private listening room for the always-on era. The console is the inverse of an algorithmic feed
-        — a seven-knob taste model that scores your canon against the kind of moment you're in, paired with
-        a curator layer fed by <em>Aquarium Drunkard</em>, <em>Derrick Gee</em>, and a dozen independent radio
-        shows on XRAY.fm. Spotify is the speaker; the room is the brain.
+        A private listening room for the always-on era. The inverse of a feed.
+        Seven knobs against one hundred records, hand-built and tended by the author.
+        A quiet circle of independent voices folded in — names withheld, records remembered.
       </p>
       <div class="colophon-grid">
         <div class="colophon-block colophon-builtby">
@@ -5081,11 +5150,11 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
           </div>
         </div>
         <div class="colophon-block">
-          <div class="colophon-h">Heads quoted</div>
+          <div class="colophon-h">Curatorial</div>
           <div class="colophon-body">
-            <em>Aquarium Drunkard</em> (six hundred posts, fuzzy-matched into the Codex) ·
-            <em>Derrick Gee</em> (six sets, three hundred tracks) ·
-            <em>XRAY.fm</em> (Steven Cantor, Hot Fudge Sunday, On The Corner, Get Outta Town, more).
+            A small circle of independent voices — radio, mixtapes, music writing —
+            curated and folded into the room by the author. The names stay off the page.
+            The records make their way in.
           </div>
         </div>
         <div class="colophon-block">
@@ -5146,13 +5215,13 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
       <h2>The Manual<small>A field guide to the Listening Station · by Zubair Jeewanjee</small></h2>
 
       <p style="font-family:'Lora',serif; font-style:italic; font-size:14px; line-height:1.65; color:var(--ink-soft); border-left:2px solid var(--amber-deep); padding-left:14px; margin:14px 0 22px;">
-        Zubissou Sounds is a private listening room — built as the inverse of an algorithmic feed.
+        Zubissou Listening is a private listening room — built as the inverse of an algorithmic feed.
         Where streaming services chase the next click, this room asks one quieter question:
         <em>what kind of moment is this?</em>
-        Seven knobs. A canon of one hundred records. A handful of trusted heads — Aquarium Drunkard,
-        Derrick Gee, XRAY.fm — whose taste is folded in. The dashboard reads its own data, hits the
-        Spotify Web API for playback, and refuses, structurally, to recommend anything you didn't
-        already mean.
+        Seven knobs. A canon of one hundred records. A small circle of independent voices
+        — hand-folded in by the author, names withheld. The dashboard reads its own data,
+        hits the Spotify Web API for playback, and refuses, structurally, to recommend anything
+        you didn't already mean.
       </p>
 
       <h3>1 · The Console</h3>
@@ -5189,7 +5258,7 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
       <p>Tap any album cover, top-track, or tracklist item. A drawer slides up with everything we know — release date, country of origin, your notes, links to Spotify / Discogs / Genius. Over time the Codex deepens: lyrics, chord progressions, production credits, Zubissou's commentary.</p>
 
       <h3>6 · Trusted Curators</h3>
-      <p>The room leans on real humans. Episodes from twelve XRAY.fm shows — <em>Beats &amp; Pieces</em> (Steven Cantor's mix), <em>80lb Cardstock</em>, <em>Hot Fudge Sunday</em>, <em>On The Corner</em> (jazz), <em>Get Outta Town</em> (world) — sit in the database as a curator corpus. When you push <kbd>EXPLORE</kbd> high, the Model draws from these tracklists before falling back to Spotify recommendations.</p>
+      <p>The room leans on real humans. A small circle of independent shows — folded into the database as a private curator corpus. When you push <kbd>EXPLORE</kbd> high, the Model draws from these tracklists before falling back to Spotify recommendations.</p>
 
       <h3>7 · Promote to Canon</h3>
       <p>Find a 10/10 piece anywhere — your Codex, a XRAY tracklist, a top-tracks chart? Press <kbd>+ PROMOTE TO TOP-100</kbd>. It enters your canon. When canon exceeds 100, open <kbd>MANAGE CANON</kbd> to reorder — only the top 100 count for the Vinyl Wall.</p>
@@ -6178,7 +6247,7 @@ function openCodex(item) {
       </div>
     </div>
     <div class="codex-section" id="codex-ad-section" style="display:none;">
-      <h4 id="codex-ad-heading">From Aquarium Drunkard</h4>
+      <h4 id="codex-ad-heading">From the desk</h4>
       <div class="codex-note" id="codex-ad-body"></div>
       <div id="codex-ad-link" style="margin-top:8px;"></div>
     </div>
@@ -6229,13 +6298,13 @@ async function enrichCodexWithAD(item) {
   if (!section || !body) return;
   // 1) Inline blurb from carousel picks (already on item)
   if (item.ad_blurb && item.ad_blurb.trim()) {
-    heading.textContent = 'From Aquarium Drunkard';
+    heading.textContent = 'From the desk';
     body.innerHTML = `<p>${escapeHtml(item.ad_blurb)}</p>`;
-    if (item.ad_url) linkEl.innerHTML = `<a class="codex-link" href="${item.ad_url}" target="_blank" rel="noopener">▸ Read on AD</a>`;
+    if (item.ad_url) linkEl.innerHTML = `<a class="codex-link" href="${item.ad_url}" target="_blank" rel="noopener">▸ Read the original</a>`;
     section.style.display = '';
     return;
   }
-  // 2) Look up matching AD post by artist+album, fallback to artist-only (interview/feature)
+  // 2) Look up matching curator post by artist+album, fallback to artist-only (interview/feature)
   const ad = await loadAdPostsIndex();
   if (!ad) return;
   const key = ad.norm(item.artist) + '|' + ad.norm(item.album || item.track || '');
@@ -6244,12 +6313,12 @@ async function enrichCodexWithAD(item) {
   if (!p) { p = ad.index.get('artist:' + ad.norm(item.artist)); matchedAs = 'artist'; }
   if (!p) return;
   heading.textContent = matchedAs === 'album'
-    ? 'From Aquarium Drunkard'
-    : `Aquarium Drunkard on ${p.artist || item.artist}`;
+    ? 'From the desk'
+    : `Notes on ${p.artist || item.artist}`;
   const body_excerpt = (p.body_text || p.description || '').trim();
-  const author = p.author ? ` — <em>${escapeHtml(p.author)}</em>` : '';
+  const author = ''; // attribution intentionally withheld — names stay off the page
   body.innerHTML = `<p>${escapeHtml(body_excerpt.slice(0, 700))}${body_excerpt.length > 700 ? '…' : ''}</p>${author ? `<div style="margin-top:6px;font-size:11px;color:var(--ink-soft);">${author}</div>` : ''}`;
-  if (p.url) linkEl.innerHTML = `<a class="codex-link" href="${p.url}" target="_blank" rel="noopener">▸ Full piece on AD</a>`;
+  if (p.url) linkEl.innerHTML = `<a class="codex-link" href="${p.url}" target="_blank" rel="noopener">▸ Read the original</a>`;
   section.style.display = '';
 }
 function closeCodex() {
@@ -8048,7 +8117,7 @@ async function loadDerrickShelf() {
         </div>`;
       // override the AD ribbon to say DG
       const cov = el.querySelector('.ad-card-cover');
-      cov.style.setProperty('--ribbon','DG');
+      cov.style.setProperty('--ribbon','"ZS"');
       el.classList.add('dg-card');
       el.addEventListener('click', async () => {
         // play the original Spotify playlist via the user's active device
@@ -8107,7 +8176,7 @@ async function loadAdSpinning() {
       });
       grid.appendChild(el);
     });
-    if (meta) meta.textContent = `${cards.length} albums · via Aquarium Drunkard · click to open in Codex`;
+    if (meta) meta.textContent = `${cards.length} albums · pulled from the desk · click to open in Codex`;
     if (section) section.style.display = '';
   } catch (e) {
     console.warn('AD carousel missing — run scripts/scrape_aquariumdrunkard.py --carousel', e);
@@ -8162,11 +8231,11 @@ async function openCuratorDrawer(slug) {
       <div class="codex-cover">${meta.image ? `<img src="${meta.image}" alt="">` : ''}</div>
       <div class="codex-meta">
         <div class="codex-artist">${escapeHtml(meta.title || slug)}</div>
-        <div class="codex-album">XRAY.fm · trusted curator · ${escapeHtml((meta.tags||[]).join(' / '))}</div>
+        <div class="codex-album">independent radio · ${escapeHtml((meta.tags||[]).join(' / '))}</div>
         <div class="codex-facts">
           <div class="codex-fact"><strong>EPISODES</strong> · ${show.episode_count}</div>
           <div class="codex-fact"><strong>UNIQUE TRACKS</strong> · ${uniqueTracks}</div>
-          ${meta.url ? `<div class="codex-fact"><a href="${meta.url}" target="_blank" rel="noopener" style="color:var(--brass-deep)"><strong>XRAY.FM ↗</strong></a></div>` : ''}
+          ${meta.url ? `<div class="codex-fact"><a href="${meta.url}" target="_blank" rel="noopener" style="color:var(--brass-deep)"><strong>OPEN ↗</strong></a></div>` : ''}
         </div>
         ${meta.description ? `<div class="muted" style="margin-top:8px; font-size:13px;">${escapeHtml(meta.description)}</div>` : ''}
         <!-- Make Spotify Playlist -->
@@ -8305,7 +8374,7 @@ async function makePlaylistFromCurator(slug, show, customName) {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         name: customName,
-        description: `From XRAY.fm · ${meta.title || slug} · ${show.episode_count} episodes · ${uris.length}/${tracks.length} matched on Spotify · built by Zubissou Sounds`,
+        description: `${meta.title || slug} · ${show.episode_count} episodes · ${uris.length}/${tracks.length} matched on Spotify · built by Zubissou Listening`,
         public: false
       })
     });

@@ -17,10 +17,10 @@ Where streaming services chase the next click, this room asks one quieter questi
 The console is a literal metaphor — a vintage hi-fi mixing desk drawn in HTML.
 Seven knobs (mood, energy, familiarity, era, density, head-vs-body, place) score against
 a hand-picked canon of one hundred records, then hit Spotify Web API for playback.
-A curator layer — *Aquarium Drunkard*, *Derrick Gee*, twelve XRAY.fm shows — folds
-trusted human taste back into the system. No engagement loop. No feed.
+A small, private circle of independent voices is folded in — names withheld, records
+remembered. No engagement loop. No feed.
 
-Designed as a personal capstone. Single HTML file, ~8,300 lines, no backend.
+Designed as a personal capstone. Single HTML file, ~8,900 lines, no backend.
 
 ---
 
@@ -37,8 +37,8 @@ Designed as a personal capstone. Single HTML file, ~8,300 lines, no backend.
 | **World of the Canon** | A geography of listening — the records and the rooms they were cut in. |
 | **My Fingerprint** | The artists that recur across every curator I trust. |
 | **Listening Heatmap** | When the room is loudest, day-of-week × hour-of-day. |
-| **Currently Spinning** | Aquarium Drunkard's daily rotation, as cards. |
-| **Trusted Curators** | XRAY.fm shows, Derrick Gee playlists — sets I lean on. |
+| **Currently Spinning** | The day's rotation, pulled from the desk. |
+| **The Circle** | A private set of curated shows + hand-picked playlists. Names withheld. |
 | **The Manual** | A field guide. |
 
 ---
@@ -65,13 +65,10 @@ Designed as a personal capstone. Single HTML file, ~8,300 lines, no backend.
 
 ---
 
-## Heads quoted
+## Curatorial
 
-The room leans on real humans. Their taste is folded into the data layer.
-
-- **Aquarium Drunkard** — six hundred posts, fuzzy-matched into the Codex.
-- **Derrick Gee** — six sets, three hundred tracks (Spotify curator).
-- **XRAY.fm** — Steven Cantor (*Beats & Pieces*), *Hot Fudge Sunday*, *On The Corner*, *Get Outta Town*, more.
+The room leans on real humans. Independent voices — radio, mixtapes, music writing —
+hand-folded in by the author. Names withheld; the records speak.
 
 ---
 
