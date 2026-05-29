@@ -1,0 +1,6 @@
+rank,artist,track,album,year,genre,mood,bpm_est,why_i_love_it,spotify_url,spotify_search_url,notes
+1,Radiohead,How to Disappear Completely,Kid A,2000,Alternative,melancholic,,,,https://open.spotify.com/search/Radiohead%20How%20to%20Disappear%20Completely,example row — delete or keep
+2,Frank Ocean,Self Control,Blonde,2016,R&B,longing,,,,https://open.spotify.com/search/Frank%20Ocean%20Self%20Control,example row
+3,The Beatles,In My Life,Rubber Soul,1965,Rock,warm,,,,https://open.spotify.com/search/The%20Beatles%20In%20My%20Life,example row
+4,Sufjan Stevens,Casimir Pulaski Day,Illinois,2005,Indie Folk,grief,,,,https://open.spotify.com/search/Sufjan%20Stevens%20Casimir%20Pulaski%20Day,example row
+5,Talking Heads,This Must Be the Place (Naive Melody),Speaking in Tongues,1983,New Wave,warm,,,,https://open.spotify.com/search/Talking%20Heads%20This%20Must%20Be%20the%20Place,example row

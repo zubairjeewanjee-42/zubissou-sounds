@@ -1,0 +1,93 @@
+{
+ "slug": "by-mixtape-pink-cloud-motel-a-mixtape",
+ "kind": "by_mixtape",
+ "name": "AD Mixtape · Pink Cloud Motel :: A Mixtape",
+ "description": "Sixteen tracks spread over two continents, it's springtime at the Pink Cloud Motel. Hyacinth and citrus with the windows rolled down half mast -- shades of palm fronds, fresh cut grass, 501 cutoffs, Modelo and watery domestics. Late check-outs encouraged ...",
+ "needs_matching": true,
+ "track_count": 16,
+ "tracks": [
+  {
+   "artist": "Styrofoam Winos",
+   "track": "Don’t Mind Me",
+   "raw": "Styrofoam Winos – Don’t Mind Me"
+  },
+  {
+   "artist": "Nap Eyes",
+   "track": "Ice Grass Underpass",
+   "raw": "Nap Eyes – Ice Grass Underpass"
+  },
+  {
+   "artist": "Hot Apple Band",
+   "track": "So Long, Noodle House",
+   "raw": "Hot Apple Band – So Long, Noodle House"
+  },
+  {
+   "artist": "The Bures Band",
+   "track": "Birds Nest",
+   "raw": "The Bures Band – Birds Nest"
+  },
+  {
+   "artist": "James Matthew VII",
+   "track": "Stoned When I Pray",
+   "raw": "James Matthew VII – Stoned When I Pray"
+  },
+  {
+   "artist": "Spencer Cullum (feat. Sean’s Weird Ears)",
+   "track": "Cold Damp Valley",
+   "raw": "Spencer Cullum (feat. Sean’s Weird Ears) – Cold Damp Valley"
+  },
+  {
+   "artist": "Winter McQuinn",
+   "track": "Time Passes By",
+   "raw": "Winter McQuinn – Time Passes By"
+  },
+  {
+   "artist": "Small Paul",
+   "track": "Sinkin’ Like A Stone (Acoustic)",
+   "raw": "Small Paul – Sinkin’ Like A Stone (Acoustic)"
+  },
+  {
+   "artist": "John Andrews and The Yawns",
+   "track": "Johnny’s Cookbook",
+   "raw": "John Andrews and The Yawns – Johnny’s Cookbook"
+  },
+  {
+   "artist": "Keven Louis Lareau",
+   "track": "Take Me Back To The Country",
+   "raw": "Keven Louis Lareau – Take Me Back To The Country"
+  },
+  {
+   "artist": "Tex Crick",
+   "track": "Peaches & Cream",
+   "raw": "Tex Crick – Peaches & Cream"
+  },
+  {
+   "artist": "Mapache",
+   "track": "Life On Fire",
+   "raw": "Mapache – Life On Fire"
+  },
+  {
+   "artist": "Daniel Bachman",
+   "track": "Watermelon Slices On A Blue Bordered Plate",
+   "raw": "Daniel Bachman – Watermelon Slices On A Blue Bordered Plate"
+  },
+  {
+   "artist": "Jake Xerxes Fussell",
+   "track": "Have You Ever Seen Peaches Growing on a Sweet Potato Vine?",
+   "raw": "Jake Xerxes Fussell – Have You Ever Seen Peaches Growing on a Sweet Potato Vine?"
+  },
+  {
+   "artist": "Tobacco City",
+   "track": "Till The Moon Don’t Shine",
+   "raw": "Tobacco City – Till The Moon Don’t Shine"
+  },
+  {
+   "artist": "Richard Swift & Damien Jurado",
+   "track": "Hello Sunshine",
+   "raw": "Richard Swift & Damien Jurado – Hello Sunshine"
+  }
+ ],
+ "sources": [
+  "https://aquariumdrunkard.com/2025/04/07/pink-cloud-motel-a-mixtape/"
+ ]
+}

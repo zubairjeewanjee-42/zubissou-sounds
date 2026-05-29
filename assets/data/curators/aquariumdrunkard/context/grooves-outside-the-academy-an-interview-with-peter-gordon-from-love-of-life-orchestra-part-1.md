@@ -1,0 +1,169 @@
+# Grooves Outside The Academy: An Interview with Peter Gordon from Love of Life Orchestra (Part 1)
+
+_2025-01-21_ · by Jason Woodbury · `interview`
+**Tags:** Peter Gordon, Mixtapes
+
+[source](https://aquariumdrunkard.com/2025/01/21/grooves-outside-the-academy-an-interview-with-peter-gordon-from-love-of-life-orchestra-part-1/)
+
+## Body
+
+An almost Zelig-like figure whose life and career has seen him careen from postmodern rock and jittery Downtown dance music ensembles, to opera and theater pieces, orchestral works, contemporary DJ culture, and so much more, Peter Gordon is the type of multifaceted artist whose wide range of interests have made him something of a cornerstone of underground music culture in New York City for well over four decades now. Even if few people outside of New York know who he is. And even there he’s not a household name. But that hasn’t stopped him from casting a wide net of influence over present-day sonic exploration, in all of its various forms. 
+
+Having worked with everyone from Robert Ashley and Terry Riley as a student at Mills College in the early-1970s, to genre-busting artists like Arthur Russell, David Byrne, and Laurie Anderson during his early East Village heyday, and more recently with people like James Murphy from LCD Soundsystem and London-based electro-synth band Factory Floor, the list of collaborators Gordon has crossed paths with and inspired over the years is staggering in both its breadth and reach. And yet still not quite understood by even his most loyal fans given the sheer volume of projects he’s been involved with around the country and world. A multimedia artist and aesthetic polymath, who is just as comfortable talking about avant-garde compositional methods and the history of electronic music as he is linguistics and modern dance, Gordon is the type of intellectual omnivore that never seems to rest on his constant quest for new sounds and modes of expression. Which may sound to some like a recipe for impossibly boring academia being applied to hip modern music-making, and consequently sucking the life and fun right out of it, yet nothing could be further from the truth. 
+
+In fact, in spite of his far-reaching experimentalism—which can effortlessly tie together Eastern modalities, Western serialism, spoken word, sampling and free improvisation within more traditional frameworks—Gordon has made a point of trying to strike a delicate balance between what he considers music of the heart and body, and music of the head. Which is one of the very reasons he remains so unclassifiable as a composer, arranger, producer, and band leader even today. 
+
+Yet, that doesn’t mean his music is readily accessible either. But rather, the type of listening that rewards further investigation as you slowly catch on to his curious interior logic and the ways in which he has expanded the vocabulary of intersectional audio through both structural juxtapositions and layers of thoughtful context and applied meaning. Having also maintained a deep sense of populism and groove over the course of his career, which harkens back to his earliest days as an aspiring rock and jazz player as a transplanted teenager growing up in Munich, Gordon remains one of those rare birds who cares just as much about shaking a tail feather with his compositional approach as he does challenging staid notions of what music is, could and should be. 
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1421705426819-0'); });
+
+
+And there may be no greater example of that than the music made by his most enduring— and quintessentially New York— outfit, the great Love of Life Orchestra. Formed in 1977 on the Lower East Side after having fallen in with a wild cabal of likeminded artists and musicians that counted people like Rhys Chatham and Arthur Russell among their early ranks, and centered around spaces like The Kitchen and St. Mark’s Poetry Project, the group would maintain a rotating door policy when it came to active personnel, which remains the standard operating principle for them to this very today. Initially consisting of Gordon, co-founder and experimental percussionist David Van Tieghem, trombonist Peter Zummo, guitarist Scott Johnson, the Modern Lovers’ Ernie Brooks on bass, poet Ed Friedman, and harmonica player Ken Deifik— alongside Chatham, Russell and a wild combination of older acquaintances from his Mills College days like Kathy Acker rounding out any given performance— the band was a confounding amalgam of multiple strains of Downtown disciplines all colliding into one constantly shapeshifting mass of music. 
+
+A living organism that could also consist of smaller club-based iterations that would perform at places like Hurrah and Danceteria— and featuring twin guitarists Randy Gun and Larry Saltzman, bassist Al Scotti and others— LOLO (as they became known by way of acronym) seemed to expand and contract at will, making them a highly flexible, and innovative, live outfit. And with friends like Ned Sublette, Arto Lindsay, Bill Laswell and Mustafa Ahmed all dipping in and out of the band over the course of the 1980s, and constantly being pushed forward by Gordon’s dynamic scores and sax playing, the group stood as a proudly defiant symbol of the open-ended spirit of collaboration of the East Village’s ‘new music’ scene. Equal parts funky, dissonant, rocking and complex, the group touched on many of the hallmarks of the largely dark and brooding punk and No Wave groups of the era, but with a decidedly positive twist— as evidenced by their name— that made them truly stand out. And in some ways be forever misunderstood. These were no Contortions or Teenage Jerks, but rather something wholly unique and different unto themselves, with just as many roots in European prog rock, avant-jazz fusion, and whatever else they could lay their hands on, as anything emanating from CBGB’s or the Mudd Club. 
+
+And there may be no better proof of their subversively upbeat appeal than their debut recording from 1979, the excellent Extended Niceties EP. A four-song 12” released on the Infidelity imprint, and featuring a hyper-modern mix of driving basslines and mutant disco beats, criss-crossed with skronky guitar work, jaunty melodic interplay, and heady synthesizers, the EP has an epically cinematic vibe to it that wouldn’t feel out of place under the closing credits of an imaginary late-1970’s episode of Saturday Night Live. That is, if SNL was hip to the entirety of the Manhattan musical vanguard of the moment, and was willing to broadcast it into the living rooms of an unsuspecting nation. In fact, it was one of those epic tracks– the split B-side mashup of “Beginning of the Heartbreak” and “Don’t Don’t”— that would eventually make its way onto the now legendary FabricLive.36 mix by James Murphy and Pat Mahoney from LCD Soundsystem in 2007, helping to reintroduce Gordon’s music to a new and younger audience during the mid-2000’s NYC dance-punk explosion and ultimately reigniting his career in unforeseen ways. 
+
+But that’s just one small part of Gordon’s infinitely fascinating story. Having hung out with Captain Beefheart and the Magic Band during the Trout Mask Replica sessions as a teenager, worked on classic dance floor scorchers like Loose Joints’ “Tell You (Today),” and contributed to uncategorizable LPs by the likes of longtime friends and LOLO bandmates “Blue” Gene Tyranny and Jill Kroesen—as well as numerous video projects with his wife and fellow artist Kit Fitzgerald—there is always something new and fascinating to discover in his immense body of work. More recently featured on a fantastic LateNightTales compilation curated by Khruangbin, and having become a part of DJ nights at Brooklyn’s Nightmoves, the world is hopefully ready to delve even deeper into his incredibly rich catalog and shine a much-needed spotlight on some of his lesser known peers as well. Many of whom, like him with their own projects, made significant contributions to bringing his vision to life. And with a new profile in The New York Times last year about his remarkably prolific career and new independent record label, Adjacent Records— which has been releasing an amazing collection of new and archival recordings going back to the 1970s, including rare Love of Life Orchestra material—the world may finally be catching up with Gordon’s unique sensibilities and playful attitude. All of which has made him an important part of the modern musical zeitgeist, even though not enough people may have realized it along the way.
+
+To try and make sense of it all, and the arc of his unorthodox life, we sat down with Peter for an extended two-part interview about his formative musical experiences, how he came to work with some of the greatest iconoclasts of the 20th and 21st centuries, and what’s next on the horizon for him as an artist and record label owner. This is the first half, with the second to follow at the end of the week. This is what he had to say. | l shook 
+
+Aquarium Drunkard: I wanted to start out by asking you about some of your musical touchstones growing up and how they may have informed your eclectic palate and compositional sense, starting with your early childhood. I know you grew up in a musical family. What were some of the influences you first absorbed in your home? Were there any points of departure that you now look back on as foundational to your ear in any way?  
+
+Peter Gordon: You know, a number of things. I started with piano lessons and that lasted for about I don’t know how long. This was around first grade, and a first grader doesn’t really practice, you know? So I had some early piano lessons, which sort of got me to a certain point playing some basic Bach minuets and things like that. And then I stopped with the formal lessons, but we did have the piano in the house. And I always played the piano, and I was sort of always fascinated just by the way things sounded, and sort of exploring the piano sonically. And I remember we had the Carl Sandburg anthology of folk music, The American Songbag. And I would be left playing through those songs and picking them out and reading the lyrics. And that’s how I learned some of the basic American folk songs. Like, “Oh, that’s the song, ‘Erie Canal,’” which I sort of picked out before even hearing it. But I was always interested in rhythmic music. This was right outside Alexandria, Virginia. Both my parents worked and we’d be taken care of by black babysitters who’d be listening to the radio and they would have on American Bandstand. So I was certainly exposed to that. But there was a guy, a friend of my parents, who played piano and his name was Robert Greene. And he worked with my father at the Voice of America at the time. And he was a Jelly Roll Morton expert. So he’d be over at our house playing rags. Playing Scott Joplin and playing “Tiger Rag,” and I was just fascinated by that. And there was a kid who lived a couple of doors up the street named Scotty Freeman. And he was blind. But I’d go visit and he’d play piano, and it fascinated me because obviously he wasn’t sight reading music. But he sort of introduced me to boogie woogie and that left hand thing that was going on.
+
+AD: Did your parents play music?  
+
+Peter Gordon: Yeah. Well, my father did. My father played trumpet. He didn’t play it a lot, but he played piano. And he began piano lessons, I guess around the time I did, or before. So, there was a period when he was playing Beethoven sonatas and playing Bach and Schumann. But there was always music in the house. They really loved Broadway musicals, so there was always those recordings. As well as New Orleans jazz, Dixieland jazz, and Chicago jazz. And these were records which I would be listening to. I still have them— you know, Kid Ory. And my father would talk romantically about when he was still in New York and going to hear Bunk Johnson  when he sort of had his comeback. 
+
+AD: Did you have older siblings? 
+
+Peter Gordon: No, I had younger siblings. I was the oldest. And my brother Josh, who was three years younger, he learned trumpet. And then my brother Alex, who was nine years younger, he became a musician and songwriter as well. And they’re all still involved in music. 
+
+AD: When did you first start playing the saxophone?  
+
+Peter Gordon: Well, I started playing the clarinet when I was in fourth grade, and there were lessons at elementary school, and then I was invited to be part of the junior high school band. So I’d be taking both clarinet lessons and then playing in the band. But it really wasn’t until I moved to Germany that I began playing saxophone at the high school there. I went to Munich American High School and it went from grade 7 through 12. So it had the advantage for us younger students— like the middle school and the high school was all part of one complex—and if you could pass the auditions, you’d be playing in the high school band. I had a music teacher in high school named George Morrison. You know, some people are really incredibly talented teachers and he was an amazing mentor. So we had a high school jazz band, and I began playing the baritone sax in the jazz band and then quickly moved to tenor sax, which really had been my main instrument. But I’ll rewind a little bit. Even back when I was in fourth grade playing my clarinet for the first time and going to the music store—you know, you go and you rent the instruments— and I was getting into clarinet, but I’d looked up and saw that saxophone on the shelf, and I said, “What’s that?”
+
+AD: It was calling to you a little bit? 
+
+Peter Gordon: It was definitely calling to me. 
+
+AD: I was going to ask you about Munich, because I know you moved there following your father’s job placement with Voice of America, and you’ve spoken before about how formative those years were. In terms of seeing jazz greats like Thelonious Monk perform live, but also some of the great 60’s-era rock and roll bands in their early days, like The Stones, Kinks, Animals, and Yardbirds with Jeff Beck. It seems like they really captured your imagination, but in different and unique ways, so much of which you would synthesize into a broader language of your own later. Any performances in particular that you caught that stand out in your mind from that time period in your life? 
+
+Peter Gordon: You know, hearing the Yardbirds for the first time in a small club and seeing Jeff Beck stick his guitar up against an amp and playing feedback—the first time hearing that—and the Spencer Davis Group with Stevie Winwood. He was just a couple of years older than me. You know…holy shit! I was a big fan of the Animals. I discovered their records and then they started coming through Munich. So I was really introduced to the blues and R&B a lot through the English bands initially, and reading interviews with bands like the Animals. 
+
+AD: How small were these clubs that you were catching these bands in? 
+
+Peter Gordon: Gosh, maybe 300? These weren’t large clubs. There’d be a bar going down the center and then a stage at the end. So we’d be right up against the stage, up close and personal. So I heard bands like the Yardbirds, the Animals, Spencer Davis Group, Kinks. There was also though, a couple of blocks down— this is in the Schwabing neighborhood of Munich—there was a club, The Domicile, which was the jazz club. And there I got to hear Mal Waldron a lot. I didn’t get to hear Jimi Hendrix when he played at the club in Munich, because I chose to hear Mel Waldron that night. So, my friends told me I missed a great show. But also, we had the trumpeter Benny Bailey, he was playing there a lot at the jazz club. And so, I got to sit in at the club some time— rarely— but, you know, getting to sit in. There was a jazz drummer, Pierre Favre— who was a Swiss jazz drummer— and that was the first time I played with an amazing drummer. And I sort of realized, ‘oh, that’s what that’s like.’ You’re flying. 
+
+AD: Were you really starting to dig into jazz in general at that time in your life?
+
+Peter Gordon: Oh yeah. Very much. I mean, I was just devouring music. I had a subscription to Downbeat and I was just trying out these records, and that was when you could sort of go to the record store and listen. And I discovered ESP Records and Sun Ra. A Love Supreme was a really big record for me. But also Stan Getz’s records, especially Sweet Rain. Part of my learning process was sort of trying to learn Stan Getz solos off that record.
+
+AD: So you were also dipping your toes into some more avant-garde music with Sun Ra. That’s certainly some of the more out music from that period. Was that also appealing to you in terms of a new sort of sound and way of thinking about music and jazz? 
+
+Peter Gordon: Yeah, but this was all new to me. It was no more exotic than swing, you know? I think who really made the impact was Albert Ayler and that concept of saxophone sounds. I think being into saxophone, every player is defined by an individual sound. So I was sort of trying to explore things which I found were unique and special. 
+
+AD: So in listening to people like that, they were sort of leading you to try to find your own voice and taking inspiration from them in that way? 
+
+Peter Gordon: Yeah, but it wasn’t that transactional. I don’t know if I was even conceiving the idea of being a composer. I did some arrangements, but it was really just still learning basic harmony intervals— those types of things—while I was listening to John Coltrane and Duke Ellington. And going to the opera as well! I was fortunate. I had a lot of freedom. There was a public transportation system, so I could walk, take my bike, or take a streetcar, and go to the Munich Opera where student tickets were like the equivalent of 50 cents. And usually there’d be some empty single seat in the orchestra, and you’d be seeing a world class performance. 
+
+AD: Is that where your love of opera started in Munich? And where you went on to become interested in it yourself?
+
+Peter Gordon: Yeah! I think actually the first opera I saw, I was like thirteen. And the family took a long weekend trip to Vienna, and they took me to see The Flying Dutchman at the Vienna Opera. And the staging, the music, the story and the brass— the whole thing— that blew me away.  
+
+AD: So you weren’t bored by it as a teenager, you were actually enthralled by it?  
+
+Peter Gordon: Oh yeah. I mean, it’s big. Especially Wagner. It was big and loud and brassy. [laughs] The thing about opera is that it’s big enough, it’s long enough, that if you get bored, you take a nap, you wake up, and then something great’s happening and it’s magnificent again. [Laughs] When we were there the family had friends who were opera singers. There was an American soprano by the name of Felicia Weathers and she had sung at the major American opera houses as well. She was from Indiana but she lived in Munich and sang a lot at the Munich Opera. And then another friend of the family, Donald Arthur, was kind of an opera aficionado—trained as an opera singer, who then became a voiceover artist and had a big career doing that. But I had people who were telling me about what to listen to as well. I don’t know, opera’s really cool. 
+
+AD: So you were absorbing all of this stuff like a sponge, soaking it all in. So it didn’t matter if it was raging feedback from Jeff Beck’s amp in a dingy nightclub or a revered opera hall.
+
+Peter Gordon: Right. I mean, my first professional gig as a clarinet player was at the Hofbräuhaus playing Bavarian music. It was all a mix and I was soaking it all in. So I wasn’t dividing things down by genre. Certain things would happen this way in this style of music, and certain things would happen this way in another style of music. I guess in my own writing, it’s sort of revealing that sometimes by the displacement of an eighth note in a rhythm, it will define a whole other genre. 
+
+AD: Would you say that being exposed to all that stuff was formative in terms of how you would later go about delving into so many different genres and mixing them up and cross-pollinating them— that that started there in Munich?
+
+Peter Gordon: Yeah, I think so. It was very mixed culturally as well. I was an American living in Germany going to a US Army School. My classmates were kids whose parents were in the military, but there were also a lot of Eastern Europeans who were displaced anti-communists. So there was the consulate there, there was the military base, there were American firms of different types. There was black, white, European, American— it was sort of a big mix of things. I had friends in the school band—a black friend from Detroit—and they would have this amazing collection of this record label called Motown. You know? Then it’s like, I hear Junior Walker—what is this? So that was all part of the mix. I mean, I got to hear the Duke Ellington band play with Ella Fitzgerald singing. These are a lot of names to drop, but it’s more like these are a lot of thrills to experience.  
+
+AD: I can only imagine. A true world class education on a lot of different fronts. I was going to ask you, you moved back to the States your senior year and moved to San Fernando Valley in California, where you happened to come across Captain Beefheart and the Magic Band, who lived nearby while they were recording Trout Mask Replica. Can you take us back to first meeting Don and the band and what was going on in the Trout Mask house and what lessons and inspiration you drew for being around them? That’s another crazy educational experience in and of itself completely on the opposite end of the spectrum from Ella Fitzgerald and Duke Ellington.
+
+Peter Gordon: Well, they had this house in Canoga Park and my friend Richard met one of the band members, or Don, at a guitar store and was invited over and started going over to their house to hang out. And sometimes we’d be there for a while. My friend would go into the other room with his girlfriend, so there’d be the three of us: my friend, his girlfriend, and me. And he thought this was a good place where he could go hang out with his girlfriend away from the family house. 
+
+AD: The Trout Mask house. [Laughs] 
+
+Peter Gordon: Yeah. And me? I got to hang out with Don. And I really found it fascinating the way he would talk about music from the point of view as a visual artist. Like structurally, not in terms of like harmonies or melodies or any of those parameters, but really in terms of gestures and density. And finding his own way. Because he knew all about John Cage and all that, but he liked to talk about he liked to play it by the 50-50 method. You know, you play whatever you want and half of it’s bound to come out right, and sort of these Duchampian things where he would lacquer a piece of toast and stick it on the wall. And there was this extremely strange, angular music, but it was at the same time very rigorously structured, and almost fanatical about that. So we’d be talking and the guitar player comes in, “Hey Bill [Harkleroad], play that part.” He played the part. And then Don would say, “No, that’s wrong. Go downstairs and practice it for another four hours.” I mean, he was a real asshole that way. And he would put people, and really fine musicians, in situations that weren’t intuitive to them. So there was no falling back on habits. Then of course, there were the all-night supermarkets, and he had this humpback Volvo sedan of that era, and the whole band would get into the Volvo and we’d go to the Thrifty supermarket and do the shopping for the week at two in the morning. 
+
+AD: You read about that house, and making that album. Was it as intense as you hear about in terms of the discipline, and being disciplined, with the band? Was there an intensity in the air? 
+
+Peter Gordon: Well, the thing is, I think there was. There was sort of an electricity. But I got one on one time with Don. I wasn’t in the band. I was a one person audience that Don could expound to when the band was all burnt out of having just to listen to him, and he kept it going. So he would go on and on, and he’d be playing me cuts from Howlin’ Wolf and Muddy Waters, and expounding about not settling for fitting into the structure that they make it so easy to fit into. 
+
+AD: Did his uncompromising vision have an impact on you and your vision for your own music? And I don’t mean necessarily in the disciplinarian way, but just in terms of, this is someone who’s got a very original and laser-like focus and approach to his music. 
+
+Peter Gordon: I think what struck me more was his treating rock—treating American popular music, treating this vernacular music—as art. So, de-contextualizing it from genre. And I think that’s what really made the impact for me and led me very much down that path. Like, this is fun music, it comes from a fun place, but it’s also real stuff. It doesn’t need to be fluff. And I think that there was something that was a more subtle thing. It’s sort of like, you can really see the difference—I mean, he had a very strange relationship with Zappa. They were very close and I’d hear things that Don would utter that would appear on a Zappa record like two years later. And I think that was always sort of the relationship. Early on, even when I was still in Munich, I was first hearing the Mothers of Invention and had a big impact on me. And through Don, it was almost like, “Oh, this is the source.” Like, this is Frank’s teacher. 
+
+AD: The curtain was pulled back a little bit?
+
+Peter Gordon: Well, you could see what was very much I think performative for Frank came from a really deeper [place for Beefheart]. He never had that sort of cynicism that Frank did. I mean, Zappa’s stuff has its own universe to it. And Beefheart’s—it’s not that large of a universe as Zappa’s—but there’s a certain relationship maybe of Tesla and Edison. 
+
+AD: Yeah, right. I can see that.
+
+Peter Gordon: I mean, that’s off the top of my head. But Don was always very warm. Zappa came by the house once, and he was very standoffish, and it’s sort of like, you realize he is not a really person you wanna hang out with. 
+
+AD: I was gonna ask you about your own musical education after high school, and especially when you started attending UC San Diego and discovering the electronic music program there, where you got to work with early Moog and Buchla synthesizers. How important was that to you and expanding your mind in terms of sound worlds and resources to create music with?
+
+Peter Gordon: Well, that was very much the reason that led me to go down to San Diego, was because it specifically had those studios there. I mean, when I was in high school I had a band [Dixieland rockers, Cinema] with some friends of ours and we actually had a recording contract… 
+
+AD: Like a rock and roll band?
+
+Peter Gordon: Yeah, rock and roll band. We did a single which we recorded at Sound City Studios in the valley, which became a big famous studio. That was my first experience recording in a multi-track studio. But in the back room they had a Moog synthesizer in their maintenance room that was just sitting there, that they didn’t even even know what to do with. So they let me come in on weekends and I’d bring some headphones and I started playing around with the Moog there. I did my first year of college at USC, in which I was actually enrolled as a freshman as a film major. And the person who made a big impact to me, that I took a couple of courses with, was the film composer David Raksin. Who was really—I mean, his first Hollywood gig was orchestrating Modern Times for Chaplin.
+
+AD: Oh, wow. 
+
+Peter Gordon: And he was a real raconteur. He would talk about going to parties with Frank Zappa and Luciano Berio, and he was the one who introduced Chaplin to Arnold Schoenberg. He was a great film composer. That was the school years of 1969-70. And that was the spring of Kent State and the invasion of Cambodia, and all the campuses shut down with the demonstrations. So I was sort of left with a bunch of incompletes and then went to visit a friend who was studying at UCSD, and visited there and saw that they had a Moog studio, they had a Buchla studio, and I transferred right then. But I was already interested in the idea of electronic music, so I was sort of susceptible, because I discovered the Moog. Also, since my father was in radio, very often there was a a tape machine—a real tape machine—in the house for work. So early on, a splicing block and tape was all kind of a toy growing up. So we’d play or record things, and play backwards, and cut things up. So, I sort of discovered people make music this way. 
+
+AD: Were you listening to a lot of electronic music or composers? Were you influenced by any at that time or were you just sort of delving into it on your own? 
+
+Peter Gordon: Not until we got to California. I forget when, maybe around like late senior year or first year at college. But I discovered Terry Riley and the Morton Subotnick Silver Apples of the Moon record. That was a big record. There was Switched on Bach, which I found less interesting. But then I began exploring and listening to the more avant-garde music. And that sort of coincided with going down studying at UC San Diego. 
+
+AD: You came across two other people that would have a very big impact on your life and career going forward at UC San Diego with Ned Sublette and Robert Ashley. I was wondering if you could talk about what an important confluence of people that was for you at that point in time and the role they would play in your life going forward.  
+
+Peter Gordon: Yeah, I guess it was one of those new music power centers or a energy center. Or you could call it a magnet school. It was almost an idyllic place to live. I mean, you’re in San Diego in La Jolla, and at that time it was still an early school. So maybe there were, you know, 5,000 students there? I think at that point it was less than five or six years old for that campus. And it was the sort of thing where people would have their summer homes, which they would rent during the winter to students. So, we would have these beach houses literally right on the beach. And there was really a sense of experimentation. At that time the music department and the art department were still in Quonset huts and in old barracks from an old Marine base. So there was a lot of sort of hanging out on the lawn.
+
+AD: Was there a hippie vibe to it? 
+
+Peter Gordon: Yeah, there was a certain hippie vibe to it. There was also a heavy—like, there were people doing early work in computer arts—so there was a hippie vibe there at the same time there was the people doing the computer sciences. 
+
+AD: So, serious sort of radical academia.  
+
+Peter Gordon: Radical academia, but also very high tech. There was Ned Sublette, as well as there was a young woman studying jazz piano, Diane Galás, who was Diamanda. And this was in sunny Southern California. And she was dressed the same way that she does now, but she was playing like jazz standards. Much later I ran into her in Berlin, and she told me that actually I engineered her very first recording session. It was for a demo or something, and she had never recorded before. And she thanked me for being so understanding. 
+
+AD: Crazy. I didn’t know that. 
+
+Peter Gordon: And at the same time, in the art department, there was Jef Raskin, who created the user interface for the Macintosh computer. And another graduate student Chester Wood, he was on the team that developed MIDI. 
+
+AD: So a lot of heavy stuff going on. Heavy thinkers and heavy explorers.
+
+Peter Gordon: Yeah, heavy explorers. I mean, people might have looked like hippies, but it wasn’t like a stoner, ‘let’s hang back and let things happen.’ This was highly structural music that the composers were involved with. There was Kenneth Gaburo, who I studied with, who was very much involved in what he called “compositional linguistics”—but was really sort of an ultra-serialist, sort of a post-serialist—where every parameter needs to be completely organized and have a certain way of working. Or, there was Robert Erickson, a composer—people involved in electronic music, but through heavy analysis of acoustics. 
+
+AD: So a lot of inquiry going on into just the nature of sound, composition, and new compositional methods.  
+
+Peter Gordon: Yeah. It was really about exploration. And staying away from anything that had been done before. You know, a lot of musical academia was this way around this time. But certainly they had different ways of doing it. UCSD had a different way of doing it than Princeton did. I think at University of Illinois, they had another way of doing it. But it’s all very structural. But personally, my theory is that a lot of this also came out of the residue of Sputnik and the space race. And for university programs to get funded, if they would have this type of connection, programs could get funded at a very high level. 
+
+AD: Right. 
+
+Peter Gordon: And at that time, for example, the same way Bell Labs was doing research in terms of the arts, is what artists and people doing computer music and studying things sonically were doing. This also aided in the work that was being done in information theory, and then to the next level of communications. 
+
+AD: That sounds like a heady environment to be operating and learning in.
+
+Peter Gordon: Yeah, but at the same time you could talk this language and then produce like a two hour drone that you would just zone out to. [Laughs]
+
+ 
+
+ 
+ Posted on January 21, 2025January 22, 2025Peter Gordon The AD Interview
+ 
+
+ 
+ 
+ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1361039829957-0'); });

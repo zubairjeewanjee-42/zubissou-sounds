@@ -1,0 +1,874 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-05-26T18:42:49.407551Z",
+  "show": {
+    "slug": "optic-echo-presents",
+    "title": "Optic Echo Presents",
+    "description": "Live mixes of ambient, experimental, & modern classical vinyl with downtempo roots. Highlights of current music in these genres, with some old favorites snuck in.",
+    "image": "https://cdn.xray.fm/image/medium/OEP.jpg",
+    "tags": [
+      "mix"
+    ],
+    "url": "https://xray.fm/shows/optic-echo-presents"
+  },
+  "episode_count": 40,
+  "track_count_total": 59,
+  "episodes": [
+    {
+      "id": "70533",
+      "url": "https://xray.fm/broadcasts/70533",
+      "title": "Optic Echo Presents 5/19/26",
+      "air_date": "5-19-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP5_19_26full.mp3",
+      "track_count": 19,
+      "tracks": [
+        {
+          "time": "6:00pm",
+          "track": "I'm getting sick",
+          "artist": "Vines",
+          "album": "I'll be Here",
+          "label": "Cassie Wieland Publishing"
+        },
+        {
+          "time": "6:02pm",
+          "track": "v i r t u a l l o s s",
+          "artist": "c2",
+          "album": "Cyber Monday",
+          "label": "self-released"
+        },
+        {
+          "time": "6:03pm",
+          "track": "Sun Dogs",
+          "artist": "Green-House",
+          "album": "Hinterlands",
+          "label": "Ghostly International"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Haunt",
+          "artist": "Rival Consoles",
+          "album": "Sonne",
+          "label": "Erased Tapes"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Part 1",
+          "artist": "Rod Modell",
+          "album": "Frequencies in to Fog",
+          "label": "13"
+        },
+        {
+          "time": "6:14pm",
+          "track": "Dust Bunnies",
+          "artist": "The Black Dog",
+          "album": "Music For Photographers",
+          "label": "Dust Science"
+        },
+        {
+          "time": "6:20pm",
+          "track": "2:32",
+          "artist": "KevinTheCreep",
+          "album": "Marble Eternity",
+          "label": "Sic"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Untitled",
+          "artist": "Odd Nosdam",
+          "album": "No More Wig For Ohio",
+          "label": "Anticon"
+        },
+        {
+          "time": "6:24pm",
+          "track": "Fissures",
+          "artist": "Dialect",
+          "album": "Loose Blooms",
+          "label": "Dense Truth"
+        },
+        {
+          "time": "6:29pm",
+          "track": "ISAL Networks",
+          "artist": "Lindsheaven Virtual Plaza",
+          "album": "Transversal Worldwide Shopping",
+          "label": "Arctic Contact"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Black Sheep",
+          "artist": "Amulets",
+          "album": "Rem(a)inders",
+          "label": "Beacon Sound"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Milk Whistle / Pollen Counter",
+          "artist": "Pausal",
+          "album": "Forms",
+          "label": "Barge"
+        },
+        {
+          "time": "6:43pm",
+          "track": "Double Jinx",
+          "artist": "Dirty Art Club",
+          "album": "Silver Suite",
+          "label": "Fashionable Death"
+        },
+        {
+          "time": "6:44pm",
+          "track": "Natural",
+          "artist": "Clams Casino",
+          "album": "Rainforest",
+          "label": "Tri Angle"
+        },
+        {
+          "time": "6:44pm",
+          "track": "Natural",
+          "artist": "Clams Casino",
+          "album": "Rainforest",
+          "label": "Tri Angle"
+        },
+        {
+          "time": "6:47pm",
+          "track": "Softened by the Mirror of the Moon",
+          "artist": "Frog Concert",
+          "album": "Slumbering Sounds of the Frog Fellowship II",
+          "label": "Phantom Lure"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Trails Of Something Beautiful And I Want To Feel Better",
+          "artist": "Anders Brørby",
+          "album": "Kaiju",
+          "label": "Time Released Sound"
+        },
+        {
+          "time": "6:53pm",
+          "track": "Actin' A Fool",
+          "artist": "Funkmammoth",
+          "album": "Retirement Resort",
+          "label": "self released"
+        },
+        {
+          "time": "6:56pm",
+          "track": "Saloon Dreams",
+          "artist": "O Yuki Conjugate",
+          "album": "Slim Westerns I & II",
+          "label": "A Small Good Thing"
+        }
+      ]
+    },
+    {
+      "id": "70375",
+      "url": "https://xray.fm/broadcasts/70375",
+      "title": "Optic Echo Presents 5/12/26",
+      "air_date": "5-12-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP5_12_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "70237",
+      "url": "https://xray.fm/broadcasts/70237",
+      "title": "Optic Echo Presents 5/5/26",
+      "air_date": "5-5-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP5_5_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "70103",
+      "url": "https://xray.fm/broadcasts/70103",
+      "title": "Optic Echo Presents 4/28/26",
+      "air_date": "4-28-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP4_28_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "69953",
+      "url": "https://xray.fm/broadcasts/69953",
+      "title": "OEP 4/21/26: Spring Fund Drive week 2",
+      "air_date": "4-21-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP4_21_26SpringFundDrivewk2.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "69833",
+      "url": "https://xray.fm/broadcasts/69833",
+      "title": "OEP 4/14/26: Spring Fund Drive week 1",
+      "air_date": "4-14-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP4_14_26SpFundDrivewk1.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "69712",
+      "url": "https://xray.fm/broadcasts/69712",
+      "title": "Optic Echo Presents 4/7/26",
+      "air_date": "4-7-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP4_7_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "69569",
+      "url": "https://xray.fm/broadcasts/69569",
+      "title": "Optic Echo Presents 3/31/26",
+      "air_date": "3-31-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP3_31_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "69384",
+      "url": "https://xray.fm/broadcasts/69384",
+      "title": "Optic Echo Presents 3/24/26",
+      "air_date": "3-24-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP3_24_26full_2.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "69314",
+      "url": "https://xray.fm/broadcasts/69314",
+      "title": "OEP 3/17/26: K2",
+      "air_date": "3-17-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP3_17_26full.mp3",
+      "track_count": 23,
+      "tracks": [
+        {
+          "time": "6:00pm",
+          "track": "Calvisius",
+          "artist": "Sea Oleena",
+          "album": "Weaving A Basket",
+          "label": "Sea Oleena"
+        },
+        {
+          "time": "6:01pm",
+          "track": "stone 11, epistle 5: a tracing of our horizon",
+          "artist": "Elijah Jamal Asani",
+          "album": "as long as I long to memorise your sky",
+          "label": "AKP"
+        },
+        {
+          "time": "6:03pm",
+          "track": "Wings of Oblivion",
+          "artist": "Black Swan",
+          "album": "From the End of Time",
+          "label": "Past Inside the Present"
+        },
+        {
+          "time": "6:08pm",
+          "track": "La Cavale Des Chinois",
+          "artist": "Papillon",
+          "album": "Papillon",
+          "label": "Gonçalo F. Cardoso"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Enter",
+          "artist": "Mizu",
+          "album": "Forest Scenes",
+          "label": "NNA Tapes"
+        },
+        {
+          "time": "6:11pm",
+          "track": "You Mean The World To Me",
+          "artist": "Koen Holtkamp",
+          "album": "Field Rituals",
+          "label": "Type"
+        },
+        {
+          "time": "6:12pm",
+          "track": "Radio Spiricom",
+          "artist": "Tim Hecker",
+          "album": "Harmony in Ultraviolet",
+          "label": "Kranky"
+        },
+        {
+          "time": "6:16pm",
+          "track": "Down",
+          "artist": "Stars Of The Lid",
+          "album": "Tired Sounds Of Stars Of The Lid",
+          "label": "Kranky"
+        },
+        {
+          "time": "6:18pm",
+          "track": "In Desperate Need",
+          "artist": "Romance & Dean Hurley",
+          "album": "River of Dreams",
+          "label": "Ecstatic"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Path to Lucy",
+          "artist": "Deaf Center",
+          "album": "Pale Ravine",
+          "label": "Miasmah"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Void Manifest",
+          "artist": "Eluvium",
+          "album": "(Whirring Marvels In) Consensus Reality",
+          "label": "Temporary Residence"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Love Flows Over Us In Prismatic Waves",
+          "artist": "Jon Hopkins",
+          "album": "Music For Psychedelic Therapy",
+          "label": "Domino"
+        },
+        {
+          "time": "6:30pm",
+          "track": "Above Alone In The Sky",
+          "artist": "Joel Shearer",
+          "album": "Listening",
+          "label": "ISC Hi-Fi Selects"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Winnow",
+          "artist": "Isabel Pine",
+          "album": "Fables",
+          "label": "Kranky"
+        },
+        {
+          "time": "6:36pm",
+          "track": "Snowstorm In Epoufette",
+          "artist": "Rod Modell",
+          "album": "Northern Michigan Snowstorms",
+          "label": "13"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Without Which Nothing",
+          "artist": "Hammock",
+          "album": "Nevertheless",
+          "label": "Hammock Music"
+        },
+        {
+          "time": "6:41pm",
+          "track": "Concave",
+          "artist": "Warmth",
+          "album": "Parallel Inflection",
+          "label": "Past Inside the Present"
+        },
+        {
+          "time": "6:45pm",
+          "track": "Dive",
+          "artist": "Infinite Body",
+          "album": "Carve Out the Face of My God",
+          "label": "Post Present Medium"
+        },
+        {
+          "time": "6:47pm",
+          "track": "Echo Park",
+          "artist": "Willamette",
+          "album": "Echo Park",
+          "label": "Infraction"
+        },
+        {
+          "time": "6:50pm",
+          "track": "For Dancing in Quiet Light",
+          "artist": "Luke Schneider",
+          "album": "For Dancing in Quiet Light",
+          "label": "Centripetal Force"
+        },
+        {
+          "time": "6:50pm",
+          "track": "Black (Grey)",
+          "artist": "Kwes.",
+          "album": "Kinds",
+          "label": "Warp"
+        },
+        {
+          "time": "6:55pm",
+          "track": "The Courtesan Jigokudayu Sees Herself as a Skeleton in the Mirror of Hell",
+          "artist": "Black to Comm",
+          "album": "Seven Horses for Seven Kings",
+          "label": "Thrill Jockey"
+        },
+        {
+          "time": "6:56pm",
+          "track": "Utano",
+          "artist": "Meitei",
+          "album": "Komachi",
+          "label": "Métron"
+        }
+      ]
+    },
+    {
+      "id": "69171",
+      "url": "https://xray.fm/broadcasts/69171",
+      "title": "Optic Echo Presents 3/10/26",
+      "air_date": "3-10-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP3_10_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "69052",
+      "url": "https://xray.fm/broadcasts/69052",
+      "title": "Optic Echo Presents 3/3/26",
+      "air_date": "3-3-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP3_3_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "68927",
+      "url": "https://xray.fm/broadcasts/68927",
+      "title": "Optic Echo Presents 2/24/26",
+      "air_date": "2-24-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP2_24_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "68805",
+      "url": "https://xray.fm/broadcasts/68805",
+      "title": "Optic Echo Presents 2/17/26",
+      "air_date": "2-17-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP2_17_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "68681",
+      "url": "https://xray.fm/broadcasts/68681",
+      "title": "Optic Echo Presents 2/10/26",
+      "air_date": "2-10-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP2_10_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "68573",
+      "url": "https://xray.fm/broadcasts/68573",
+      "title": "Optic Echo Presents 2/3/26",
+      "air_date": "2-3-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP2_3_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "68481",
+      "url": "https://xray.fm/broadcasts/68481",
+      "title": "Optic Echo Presents 1/27/26",
+      "air_date": "1-27-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP1_27_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "68380",
+      "url": "https://xray.fm/broadcasts/68380",
+      "title": "Optic Echo Presents 1/20/26",
+      "air_date": "1-20-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP1_20_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "68222",
+      "url": "https://xray.fm/broadcasts/68222",
+      "title": "Optic Echo Presents 1/13/26",
+      "air_date": "1-13-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP1_13_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "68105",
+      "url": "https://xray.fm/broadcasts/68105",
+      "title": "Optic Echo Presents 1/6/26",
+      "air_date": "1-6-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP1_6_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "67858",
+      "url": "https://xray.fm/broadcasts/67858",
+      "title": "Optic Echo Presents 12/23/25",
+      "air_date": "12-23-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP12_23_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "67746",
+      "url": "https://xray.fm/broadcasts/67746",
+      "title": "Optic Echo Presents 12/16/25",
+      "air_date": "12-16-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP12_16_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "67630",
+      "url": "https://xray.fm/broadcasts/67630",
+      "title": "Optic Echo Presents 12/9/25",
+      "air_date": "12-9-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP12_9_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "67507",
+      "url": "https://xray.fm/broadcasts/67507",
+      "title": "Optic Echo Presents 12/2/25",
+      "air_date": "12-2-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP12_2_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "67391",
+      "url": "https://xray.fm/broadcasts/67391",
+      "title": "Optic Echo Presents 11/25/25",
+      "air_date": "11-25-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP11_25_26full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "67279",
+      "url": "https://xray.fm/broadcasts/67279",
+      "title": "Optic Echo Presents 11/18/25",
+      "air_date": "11-18-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP11_18_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "67169",
+      "url": "https://xray.fm/broadcasts/67169",
+      "title": "Optic Echo Presents 11/11/25",
+      "air_date": "11-11-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP11_11_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "67043",
+      "url": "https://xray.fm/broadcasts/67043",
+      "title": "Optic Echo Presents 11/4/25",
+      "air_date": "11-4-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP11_4_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "66925",
+      "url": "https://xray.fm/broadcasts/66925",
+      "title": "Optic Echo Presents 10/28/25",
+      "air_date": "10-28-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP10_28_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "66780",
+      "url": "https://xray.fm/broadcasts/66780",
+      "title": "OEP 10/21/25: Fall Fund Drive wk 2",
+      "air_date": "10-21-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP10_21_25FFDwk2.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "66650",
+      "url": "https://xray.fm/broadcasts/66650",
+      "title": "OEP 10/14/25: Fall Fund Drive wk 1",
+      "air_date": "10-14-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP10_14_25FundDrivewk1.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "66540",
+      "url": "https://xray.fm/broadcasts/66540",
+      "title": "Optic Echo Presents 10/7/25",
+      "air_date": "10-7-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP10_7_25full.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "6:00pm",
+          "track": "The Return to Iceland",
+          "artist": "Patricia Wolf",
+          "album": "Hrafnamynd",
+          "label": "Balmat"
+        },
+        {
+          "time": "6:02pm",
+          "track": "Tropic movements (Amulets Rework)",
+          "artist": "Sontag Shogun x Lau Nau",
+          "album": "Paivakahvit",
+          "label": "Beacon Sound"
+        },
+        {
+          "time": "6:07pm",
+          "track": "Give-upping (featuring Julianna Barwick)",
+          "artist": "Disiniblud",
+          "album": "Disiniblud",
+          "label": "Smugglers Way"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Balkop",
+          "artist": "Kreng",
+          "album": "Grimoire",
+          "label": "Miasmah"
+        },
+        {
+          "time": "6:15pm",
+          "track": "Flirting With Depth",
+          "artist": "Alchemist",
+          "album": "A Doctor, A Painter And An Alchemist Walk Into A Bar",
+          "label": "ALC"
+        },
+        {
+          "time": "6:16pm",
+          "track": "Beside Me In The Dawn",
+          "artist": "Infinite Body",
+          "album": "Carve Out The Face Of My God",
+          "label": "Post Present Medium"
+        },
+        {
+          "time": "6:18pm",
+          "track": "Xerrox Kryogen",
+          "artist": "Alva Noto",
+          "album": "Xerrox vol.5",
+          "label": "Noton"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Eternal Gaze",
+          "artist": "Virtual Dream Plaza",
+          "album": "Eternal Connection",
+          "label": "Geometric Lullaby"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Stranded",
+          "artist": "Anthéne",
+          "album": "Descendre",
+          "label": "Oscarson"
+        },
+        {
+          "time": "6:28pm",
+          "track": "Shining",
+          "artist": "Peace Orchestra",
+          "album": "Peace Orchestra",
+          "label": "G-Stone"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Ghost Summer",
+          "artist": "Alethe",
+          "album": "mntngr",
+          "label": "Amulet of Tears"
+        },
+        {
+          "time": "6:35pm",
+          "track": "After The Town Was Swept Away",
+          "artist": "BlankFor.ms",
+          "album": "After The Town Was Swept Away",
+          "label": "Leaving Records"
+        },
+        {
+          "time": "6:36pm",
+          "track": "Tħallinix",
+          "artist": "A Lily",
+          "album": "Saru I-Qamar",
+          "label": "Phantom Limb"
+        },
+        {
+          "time": "6:39pm",
+          "track": "Peregrine",
+          "artist": "Inventions",
+          "album": "Maze of Woods",
+          "label": "Temporary Residence"
+        },
+        {
+          "time": "6:42pm",
+          "track": "Three Words",
+          "artist": "Black Taffy",
+          "album": "Out Moon",
+          "label": "Leaving Records"
+        },
+        {
+          "time": "6:44pm",
+          "track": "Quorum",
+          "artist": "Low",
+          "album": "Double Negative",
+          "label": "Sub Pop"
+        },
+        {
+          "time": "6:48pm",
+          "track": "Circles",
+          "artist": "Blue Lake",
+          "album": "The Animal",
+          "label": "Tonal Union"
+        }
+      ]
+    },
+    {
+      "id": "66420",
+      "url": "https://xray.fm/broadcasts/66420",
+      "title": "Optic Echo Presents 9/30/25",
+      "air_date": "9-30-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP9_30_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "66289",
+      "url": "https://xray.fm/broadcasts/66289",
+      "title": "Optic Echo Presents 9/23/25",
+      "air_date": "9-23-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP9_23_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "66192",
+      "url": "https://xray.fm/broadcasts/66192",
+      "title": "Optic Echo Presents 9/16/25",
+      "air_date": "9-16-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP9_16_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "66082",
+      "url": "https://xray.fm/broadcasts/66082",
+      "title": "Optic Echo Presents 9/9/25",
+      "air_date": "9-9-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP9_9_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "65967",
+      "url": "https://xray.fm/broadcasts/65967",
+      "title": "Optic Echo Presents 9/2/25",
+      "air_date": "9-2-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP9_2_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "65848",
+      "url": "https://xray.fm/broadcasts/65848",
+      "title": "Optic Echo Presents 8/26/25",
+      "air_date": "8-26-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP8_26_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "65755",
+      "url": "https://xray.fm/broadcasts/65755",
+      "title": "Optic Echo Presents 8/19/25",
+      "air_date": "8-19-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP8_19_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "65623",
+      "url": "https://xray.fm/broadcasts/65623",
+      "title": "Optic Echo Presents 8/12/25",
+      "air_date": "8-12-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/optic-echo-presents/OEP8_12_25full.mp3",
+      "track_count": 0,
+      "tracks": []
+    }
+  ]
+}

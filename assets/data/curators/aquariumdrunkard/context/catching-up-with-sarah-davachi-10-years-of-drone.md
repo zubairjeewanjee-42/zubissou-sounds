@@ -1,0 +1,170 @@
+# Catching  Up With Sarah Davachi :: 10 Years of Drone
+
+**Catching Up With Sarah Davachi — 10 Years of Drone** · _2024-09-25_ · by Jason Woodbury · `interview`
+**Tags:** Sarah Davachi, Mixtapes
+
+[source](https://aquariumdrunkard.com/2024/09/25/catching-up-with-sarah-davachi-10-years-of-drone/)
+
+## Links
+- Bandcamp: https://sarahdavachi.bandcamp.com/album/the-head-as-form-d-in-the-crier-s-choir
+
+## Body
+
+From the start, Sarah Davachi has sought to build on the past. She excavates Renaissance harmonies, the ghosts of Bach, the places in which she has lived, and, on her newest record, the myth of Orpheus and Eurydice. Framing The Head As Form’d In The Crier’s Choir is history’s most famous failed act of passage and its protagonists’ fates, but Davachi is more interested in how we carry ourselves through the in-between. The seven pieces that make up her new double album are some of the heaviest and most dense in a career spanning over a decade and over a dozen releases.
+
+To mark the occasion, we caught up with Davachi to go deep into the back catalog, starting with the present and going in reverse. Her label imprint Late Music has also been reissuing much of this early work, encouraging a thorough dive into hours of electroacoustic beauty. Iteration remains at the forefront of her curiosity and composition, and she was kind enough to guide us through ten years of drone. | a eleanor
+
+Aquarium Drunkard: Do you still feel the ripples of your formative musical experiences, when you were first developing your sensibilities as a creative and as a musician? 
+
+Sarah Davachi: I’m the type of person who thinks that everything you experience and learn either builds on itself or sits there as something that you can call on whenever you need it, whether you do or not. It’s probably subconsciously always there. I’m a pretty solitary person, quite introverted. It’s important creatively to have space away from things. I need a lot of time and space away from actually working on something even when I work on records. There’s a finished product that I’m creating and I’ll work on it for a while, then I need to take space away from it, I listen to it over and over again and try to get a sense of it before I go back to work. 
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1421705426819-0'); });
+
+
+Even when I was figure skating [as a child], I was never practicing the things that I was supposed to be doing, which is probably why I stopped doing it. I wasn’t good, but it was a really nice time to be in my own mind and have a physical distraction so that I could just let my brain run. A lot of that is still just part of my personality. The reason I’ve stuck with certain things is because it made sense for the way that I work and the way that I think about creating stuff. It’s all in there, whether I’m actively doing it or it’s just creeping in. 
+
+AD: As someone currently working on their doctorate, how has education played a role in your practice as a performer and a touring, recording artist?
+
+Sarah Davachi: It feeds into the same thing as I was just describing, needing some kind of separation, to step back and think about things before I can feel like I’m finished working on them. Studying music in a philosophical way and being more rigorous in thinking and writing about it has helped me make sense of what I’m doing. I’m a big proponent of iteration in the way that I work. Those are aspects of the iteration of figuring out what I’m interested in and what it means. Academia is just another element of it. 
+
+AD: How have location and space affected how you think about and approach your work? You’ve lived in several different places over your career.
+
+Sarah Davachi: It’s had a big impact on me. Half of my moving around happened in my 20s, then I turned 30 the year that I moved to L.A. That feels like a separation. It’s the longest place I’ve lived other than Calgary, which was where I grew up and not necessarily by choice. It partly has to do with my personality and where I feel comfortable. There’s not an objective observance of any of these places being certain ways or not. I have a lot of complicated feelings about being in the U.S. Every time I talk to people about establishing myself in the U.S., they’ll ask, “Why?” which I understand completely. As an artist, I’ve noticed a lot more opportunities in L.A., being a little fish in a big pond for lack of a better phrase. I like the energy of feeling like a lot is going on and there are lots of places to find your way, as opposed to having to create with what you have, which I’ve done and which has its benefits as well. In an abstract way, L.A. is similar to Calgary. Part of that feels comfortable for me. I feel like I understand how to live here. It has an amazing experimental music community; there’s a large range of people to work with, which is exciting and makes living here pretty nice as a musician.
+
+Ex Fabula I – A Guide to Late Music Releases I – X by Sarah Davachi
+
+AD: I thought it would be fitting to start with Ex Fabula I, covering ten Late Music releases. More recently, you’ve been engaging with an ongoing revisitation of your work, whether for compilations or reissues — always looking backward while also looking forward.
+
+Sarah Davachi: I feel really lucky and guilty that I don’t have to worry about much of the logistics since it’s run through Warp. I’m just piggybacking on their logistical train. The medium of my work hasn’t changed necessarily. Part of why I packaged the ten releases in that way was to create the sense of it all being connected, or telling a story. That’s how I feel about the label. It’s hard to say whether I would have made all the same records otherwise. I kind of think not, because having the imprint and having that space to connect everything makes it easier to have the music move from one place to another. To me, that’s important. With my work and interest in iteration, not feeling like I have to create things that are completely different or segmented for particular audiences gives me a surreal ability to let the music develop in a way that feels more natural. That’s been a nice luxury of doing it this way. The records wouldn’t have been the same otherwise. This is also an opportunity to have fun with it, developing a feeling of what the label is and creating an aesthetic around it.
+
+AD: The Ex Fabula comp, as well as both Selected Works, have drawn attention back to earlier works, which puts them in sequence and in conversation while still being separated.
+
+Sarah Davachi: It’s been a good way to revisit those works with the distance of time, almost coming at it like a listener who also happened to be the person who made the music. Being able to say, “Oh, I actually still like this ten years later, this feels like part of what I’m still trying to say,” and highlighting those things, feels good.
+
+The Head As Form’d In The Crier’s Choir by Sarah Davachi
+
+AD: Your other release from this year is a new double album, The Head As Form’d In The Crier’s Choir. The cited reference points are two different adaptations, or investigations, of the myth of Orpheus and Eurydice, specifically Rilke’s Sonnets to Orpheus and Monteverdi’s opera, L’Orfeo. How did you first encounter these works and what about them inspired you to delve into the feelings inherent in their shared story, to add your iteration?
+
+Sarah Davachi: I wasn’t intentionally reaching toward that myth in particular. I started the collection of Rilke poems in 2020, catching up on reading during COVID. It’s interesting how something so well-known can seem contrastingly new when you revisit it from a particular direction, as opposed to something more obscure. The contrast allows it to have such a stark difference. That’s one of the things that I try to do with some of the instruments that I use as well. With the Mellotron, for instance, it has such an obvious timbral connotation. The way that I use it, removing it from that context, frees it and allows it to be heard in a different way that would otherwise be lost in particular sounding worlds. Once I started reading the poems, I had to remind myself, “I’m reading about Orpheus,” but it didn’t feel like it at all. 
+
+I’ve loved that opera for a long time. Connecting the poems and the opera had more to do with the surface-level connection of the myth. It was more about tapping into the musical structure and less about the Orphic part — that came more from the poems. The opera provided some of the musical interest that I was going for. I don’t know how to explain it in a way that doesn’t sound super emo, but the record feels pretty dark to me. I wanted to lean into that, as opposed to previous records where I felt there had to be some kind of hopeful sound. The poems toe a line in terms of longing and melancholy. There isn’t only on-the-nose sadness and it brings something else out of them. It’s an emotional thing that I’d always been hovering around in my records.  It was an opportunity to do it in more of an intentional way. 
+
+AD: It continues to deepen those feelings. You’re recontextualizing something classical and familiar from a fresh and modern perspective, whether it’s literature or opera. Over the last handful of records, you’ve been exploring how to bridge the gap between a live performance, which is more improvisational, and something very intentionally crafted at home. They may sometimes feel divergent, but you’re going into the cross-section. 
+
+Sarah Davachi: It’s the most salient thing right now in the way that I think about my music and the way that I work. Pre-COVID, I strongly separated working in the studio and performing live. I admittedly favored the music that I do in the studio. That’s the music. That’s where it happens. When I performed live, I felt very disconnected from the fact that it’s a bit of an ephemeral thing — it’s there and then it’s gone. A lot of what I wrote was very difficult or impossible to perform, so I wasn’t even interested. When I would perform, I had the freedom to not be restricted by time or space, so I leaned into that. Having that aspect removed and coming back to it a year or two later was eye-opening for me, showing how much it influenced my compositional practice without even seeing it that way. A lot of the way that I compose starts with improvisation, finding what I like and following that path. That’s the way that performance worked as well. Each time, it’s a different thing and you can learn and take different things from it. 
+
+It also coincided with writing more chamber music and doing more commissions that I wasn’t going to perform, which has always been interesting to me. I grew up playing piano, but I wasn’t composing at that point — I was just a person studying philosophy who was really interested in music. Electroacoustic music in particular offered the privacy of being able to work on my own without having to worry about what other people are going to say. Having your own space to work before sharing anything publically, feeling comfortable enough with your voice, and developing what you want to say musically helps you be more confident. When I write chamber pieces, it’s always coming from the perspective of what’s acoustically happening in the space. In my experience with ensembles, sometimes you’re working with people who just don’t get it. They don’t know what they’re supposed to be listening for. They’re just playing the notes on the page, and they’re not understanding that there’s another level of the sounds that they’re supposed to be responding to 
+
+AD: The part that can’t be put on the page. 
+
+Sarah Davachi: Maybe they just don’t care or that’s just not what they’re interested in. It’s critical to be able to work with people who can hear it and care about it because it comes through in the music. It’s really interesting to write music that allows for something unique to happen in the moment that it’s being played and to have different things happening in each performance. I’m trying to find a balance between the compositional framework that I’m creating and what I’m allowing to happen in real-time, what’s changing based on what people hear and the decisions that they’re making. That bleeds into the studio work that I do as well. When I make music now, the score is the last thing that I do. If they need to be performed, I’m emailing people and saying, “Actually, I don’t have the score yet.” I do it in a backward sense because the sound and the listening should always come first. Listening to what’s happening is intrinsic to performing live. Once you go from that, then everything else can fall into place the way that you need. Figuring out the score is just logistics, at least for my music.
+
+AD: It’s important to remember even when listening to extended electroacoustic and drone pieces. The duration almost instantiates the need to respect the act of listening, maybe more so than for something that has to catch your attention, not that one’s better or worse than the other. It helps build that practice across different kinds of music.
+
+Sarah Davachi: There’s a quote by an early music historian named Bruce Haynes that I’ve latched on to, it’s like the foundation of my dissertation. He said, “When you say something differently, you say something different.” That typifies every listening experience. Like you said, it’s not better or worse. It’s just different and requires its own listening approach, to see it for what it is. You can understand that there’s something different happening, free of any bias. You almost can’t compare listening to a three-minute song and listening to a 30-minute piece. 
+
+Antiphonals by Sarah Davachi
+
+AD: The next release I want to talk about is Antiphonals. I read that you consider it to be a spiritual sequel to Let Night Come On Bells End The Day, while in turn Antiphonals and Two Sisters informed The Head As Form’d. How do you think about your work in conversation with itself? How does that play when you’re working on something new, or revisiting something old for the first time in a while?
+
+Sarah Davachi: A lot of it tends to be a surface-level response to how [a record] sounds and how it makes me feel. The connection between this record and Let Night Come was in how I composed and recorded them; also kind of the mental space. Antiphonals was my COVID record, mostly made through 2020. I made Let Night Come very quickly. I was in a period of transition, between relationships and living places, and it was very lonely. Antiphonals also sounds like a very lonely, solitary record. I think about them in responsive, almost aesthetic ways, like, “Oh, it sounds like that because I was using the same kinds of processing or the same gear or going for the same kind of feeling.” Usually, a record starts with some kind of sense of what I want it to feel like, whether I want it to be a big chamber thing or feel like a person alone in a studio for a month, locked in the room. That’s what I tend to latch on to, remembering where I was mentally or physically, connecting certain things that feel similar to me.
+
+AD: You can hear similarities if you’ve heard the other records before, but you might not draw those connections until you see someone else pointing them out. You can listen to them in an almost context-less fashion, but you’ll still hear those throughlines more intrinsically. 
+
+Sarah Davachi: I like to think of albums as little self-contained units, but I do think of them iteratively as well. It’s nice to hear that those connections can be intrinsically felt. 
+
+Cantus, Descant by Sarah Davachi
+
+AD: Cantus, Descant was the first Late Music record. Recorded on six pipe organs across North America and Europe, it’s very unique within your discography, not just for the songwriting and the sounds. You’ve described the term descant as a melodic individual within a community, and how you want to create “narrative and characters” with your music as well as the set and stage dressing. Thinking about narrative in terms of electroacoustic music is interesting. How did this album embody and evoke that? How do you perceive its air of solitude in hindsight?
+
+Sarah Davachi: When it came out, it was weird. It was disappointing that I felt like that, because it was such an of-the-world record for me, having it represent different places and moments. It just felt very weird to listen to it in September 2020, when it came out. I like to create spaces that people can inhabit. It’s less about creating a character, but creating the setting of the place.
+
+AD: The space almost is a character in a way. 
+
+Sarah Davachi: That was part of it. I feel like it’s my most romantic record, for lack of a better word, in the sense of it being very personal and having a lot of emotion going into it. A lot of it was written throughout 2018 and 2019. I had two good friends pass away in 2018, and my mom got into a really bad car accident. She was okay, but all of that channeled into this record in a way that I hadn’t done before. When I listen to it, it’s hard for me to separate it from that time. Like I said, with every record there’s some kind of feeling that informs it from the beginning — [in this case,] I was thinking about death a lot. 
+
+It’s weird because, to me, it actually sounds like kind of a happy record. It sounds hopeful compared to other music that I make. There’s this feeling of connecting to a sense of something beyond the present moment, that sense of the individual within something bigger. Whether I was engaging with it consciously or subconsciously, I think I did both throughout. It’s interesting to hear that somebody else hears it that way, also sticking out. I guess it makes sense that that sort of thing will come out.
+
+AD: It threads the needle between heavy emotions and almost sounding hopeful, especially coming out during a universally painful time. A lot of drone music balances those two sides. It feels one way when you’re listening at a certain time and it’ll have a different feeling when you come back a couple of years later. The same piece can be devastating and revitalizing depending on when you hear it. The music that you explore can accomplish that naturally, lending itself to it.
+
+Sarah Davachi: It’s not something that I can construct. I do whatever I can on my end to make sure that I’m getting what I want from it. Ultimately, it goes out into the world and it’ll be something different for everybody else. That’s part of why live performance came back to me. It’s a strange shared yet personal experience. People don’t think about that balance enough or give it enough weight for how amazing it is.
+
+Pale Bloom by Sarah Davachi
+
+AD: Moving further along, I wanted to ask about Pale Bloom,  the “return to piano” record. What was it like revisiting an instrument that’s been a part of almost your entire musical life? The record is also unique among your discography with its two vinyl side-long pieces. 
+
+Sarah Davachi: I don’t like to say this since albums are like children, but Pale Bloom is one of my favorites. It was one of the first times where I felt like I was finally making the music that I wanted to make; it felt a bit more intentional from the beginning, whereas previous ones were a lot more exploratory. It’s a special record for that reason. It also came together in a way that was uncommon for the way that I worked. Pretty much all of my records, maybe except for All My Circles Run, were made alone in my studio, taking recordings and bringing them back to work with electroacoustically. This was the first one that was recorded and finished in a studio.
+
+The B-side, “If It Pleased Me to Appear to You Wrapped in This Drapery,” started as a live piece. That was something that I used to do on earlier albums, where I would make like five out of six pieces in the studio, and then the sixth would be something I had done live. I would figure out how to take an hour and turn it into ten minutes. This was an example of that kind of thing. It was the first thing I wrote when I moved to L.A., for an ensemble piece I was going to perform. It was for the organ and the two strings. In some way, it was the start of how I think still about writing chamber music. It dawned on me that the sound of harmonies randomly colliding within a framework is more interesting than doing it sequentially. That informs the way that I think about chamber music, having defined boundaries and then allowing for chance interactions within to define where the music goes. It was also the first time that I was engaging with microtonal composition in a deliberate way. It started as an hour-long live thing that I had to condense to 22 minutes, which is actually easier than it sounds. Thirty seconds on a record feels very different than thirty seconds live. 
+
+The A-side, the “Perfumes” pieces, was designed from the beginning to record. I was working with Superior Viaducts to record at Fantasy Studios in Berkeley, right before it closed [in 2018]. I thought, “It’s a nice studio, they have a nice piano. Maybe I’ll try the piano again.” I didn’t do it as an intentional reference to how I started by playing piano and by playing Bach; it wasn’t meant to be super on the nose. That type of music is just interesting to me. A lot of people get weird about quoting music directly. Early music was meant to be iterative, in the sense that it wasn’t meant to be a final, untouchable piece.
+
+AD: They didn’t have recording, so they couldn’t.
+
+Sarah Davachi: Being an interpretation was part of it. With that music particularly, it doesn’t bother me to dissect it and turn it into my own.
+
+Gave in Rest by Sarah Davachi
+
+AD: Gave In Rest is another record where the push and pull between in-studio recording and live performance felt present. It was also inspired by your experience living “in flux” while traveling Europe alone. This feels like an apt time to ask about solitude and how it has been a key part of your music, since the record was borne from very solitudinous experiences, with the joy and loneliness that comes from being in unfamiliar places. How has solitude shaped itself as an emotional and musical theme that you continue to revisit?
+
+Sarah Davachi: Let Night and Gave In Rest came out in the same year. They were cut from the same cloth in that they were part of a weird transitional year, going from being kind of a nomad to finally living somewhere. I was trying to get comfortable with the idea of building a life somewhere and just being there. After the loneliness of traipsing around, living out of a suitcase, and existing in that way for a while, it felt weird to try to be a normal person and have a somewhat fixed address. I’m very much a creature of habit. I like having a place that’s my own.
+
+Whereas Let Night felt like the sadder side of that, this one feels like a classic electroacoustic record for me. It was recorded in the studio; those musicians had no idea that it was gonna sound the way that it did. They’re just playing held tones and I send them the final piece, like, “Here’s what I did, I hope you’re okay with it.” This was one of those records. The emotional aspect was sort of in place before. I started working on it once I was home and was trying to find a settled feeling. I can work on it for a bit and then take a step back. I’m not forced to work on a plane or when I’m jet-lagged at 5:00 in the morning. Instead of fitting everything into these weird little moments, I was able to have a bit of that space. I could get used to it and learn to let myself enjoy it a bit more.
+
+All My Circles Run by Sarah Davachi
+
+AD: All My Circles Run is the first synth-less record, with pieces for individual instruments exploring musical isolation in a different way from before. Was there a particular catalyst that made you want to dive headfirst into that kind of composing?
+
+Sarah Davachi: In a cheeky way, I think that was my Éliane move. In the past, I’d done a lot of electroacoustic work, in the true sense of electronic and acoustic instruments mixed together. There isn’t a lot of differentiation between electronic and acoustic; I think of them being as different as a piano from a violin. I don’t see it in terms of a hard divide. Each instrument has its way of speaking. At the end of the day, the way that I’m working with these sound sources hasn’t really changed. It changed in the sense that I developed different skills and interests over time, but that’s separate from the actual sounds that I’m using. 
+
+It was more of a timbral or idiomatic thing. I’ve done a lot of work with electronic instruments; I wanted to do something similar and see what the strings will do. I used to think that in an ideal world, I would know how to play every instrument and there wouldn’t be any mental separation. At the time, I was still working like that because I wasn’t comfortable handing off the music to other people, having it be a dialogue, and being able to have a conversation about their interpretation. To me, it wasn’t a cleaved difference. I was still working in the same way; the musical materials were just different.
+
+Dominions by Sarah Davachi
+
+AD: Before we get to the very beginning, I wanted to talk about Dominions and Vergers. They were an indicator of how prolific you’ve been. That was the first time you put out two records in the same year, and that’s fairly close to a clip that you’ve maintained since then. How did those records come together, in conjunction or contrast?
+
+Sarah Davachi: I can’t believe I put out two records in a year. Like, that’s wild. How did I do that? But now, everything that I put out is a double record. [laughs] These two records are pretty different. I was in school and I was in the habit of making a lot of music. It wasn’t something I had to think about, I was just doing it. Pretty much all the pieces on Dominions were from that time and I was able to position them together into an album. The last piece started from a live performance that I truncated into a studio version. Dominions is actually my least favorite. I don’t dislike it, but it’s not a human child and it can handle the critique. I think it’s the one that least represents how I feel about my music now. It doesn’t even feel like my music in some sense. Oddly, it’s one that people like.
+
+I think it’s interesting that [those two records] came out in the same year because I hear them very differently. With Vergers, especially when I hear it now, I can see how it was reflective of the way that I’ve made records since then. It feels like an intentional record. Dominions is more like a hodgepodge of things. The A-side of Vergers was another performance that got truncated into a studio version. That was the heart of the record. The other two pieces were the first time that I was making music to match, to make an album from beginning to end. This is one side of a record, now I need another side.
+
+Vergers by Sarah Davachi
+
+AD: It feels like it begins to go into a lot of the things that you have continued to deepen and explore. Beyond the title, it doesn’t necessarily feel religious, but it’s still seeking something spiritual and comes at the ecclesiastical from an external point of view. You’re making the whole thing sanctified through the music. How have you continued to explore those kinds of themes and feelings?
+
+Sarah Davachi: It’s hard to articulate. It’s something that I’m aware of, but not something that I do intentionally. To me, it’s more of a feeling that I know I look for in music, whether it’s music that I’m making or music that I’m listening to. When it’s there, I know it, and I know that it’s changed me in some way. Then it was something that I wanted to do. When I’m making music, it’s intuitive. It’s a guiding principle when I’m working, like, “Is it getting to the feeling that I want? Is it creating the space that I want?” I can bring something that means something so particular to me, and I know that it’s going to have a completely different meaning for other people. I want to create the space for that to happen without trying to control any of the particulars. Mostly because there’s no way to do that.  The main thing that’s changed is my awareness of it. It would sort of accidentally happen because it’s something that I innately was looking for without knowing how to articulate it to myself.
+
+AD: Your craft is building the space into which people will come, not dictating what happens inside.
+
+Sarah Davachi: I remember reading a Liz Harris quote about the name Grouper, that she picks things and groups them for people to listen to. She’s experiencing something and then grouping it.  I sometimes think of myself as creating this space for people to walk into. Whatever happens in there is beyond my control. I’m creating that framework for it to happen.
+
+The Untuning of the Sky by Sarah Davachi
+
+AD: We’ve made it to the beginning. I wanted to briefly ask about The Untuning of the Sky. That’s the first release that I could find, back in 2013. What do you remember about making it, and what did you learn through that process?
+
+Sarah Davachi: Obviously, that one’s very special. It’s the firstborn. The first two LPs and a few cassettes were done in a similar way, where it was a hodgepodge of things that I had lying around and wanted to release, and things that I would make to fill in the space and make it feel like an album. I was learning how to represent myself in that way. I love making albums and I hope I still love it when I’m 85. There’s a musical part of it, which is really cool, but also in terms of sequencing or narrative, having things fit together in the confined space of an album. Then you can think about the visual and language aspects, in terms of artwork and titles. It’s not something that other art forms have in quite the same way. In music, you have the visual, the linguistic, and the sonic. It’s similar to film, you have all the parts coming together and happening over time in a really interesting way. It was fun to explore that in the beginning. 
+
+The first releases, basically up until Vergers, all fit this formula of figuring out how to make an album. The five tracks [on The Untuning of the Sky] were school assignments. I think two of them I had done for class specifically. Two others were from when I was working on my master’s thesis piece. They were studies or exercises that I had done. The opening piece, “Alms Vert,” was the first time that I had performed something live and figured out how to turn it into a studio version. That was the first time I performed outside of a school context. I played a show at this weird little space on Market Street in San Francisco called the Luggage Store Gallery. In some ways, a lot of things haven’t changed. That piece was just a synthesizer and a looping pedal, and I think that was kind of it. I was building loops and playing on top of it. I think I tried to do live flute, which didn’t work very well because I don’t play the flute. I was super timid about it. 
+
+Being at home and having everything laid out from practicing, I was like, “Why don’t I just record this and edit it?” It was interesting to start that process and go through the motions in a practical sense, like figuring out how to release it, burning CDs and mailing them to people. It was a time.
+
+AD: Over the years since your first release, what have you learned about creating and about yourself?
+
+Sarah Davachi: In relation to the being-prolific thing, I just can’t stop. My brain won’t stop. The thing that’s most precious to me, having made music for this long, is the feeling when you finally get to an endpoint with a piece, or when you’re working with an ensemble and you hear it performed for the first time — there’s always a moment where you experience your music in a certain way, where you’re like, “Whoa, holy shit. Cool!” It’s a weird alchemy of doing this work and all of a sudden, this other thing is born. I don’t know how I would function without that feeling. I always have that in mind and can’t wait for that moment. It’s self-reliance. I needed something and I made it for myself, if not for anybody else. 
+
+A lot of it has to do with the way that you make music in the world and I’m working on my own. I’m not in a band of other people who can vouch for my ideas. I’ve learned to trust myself a lot. At the end of the day, I do this because I feel like I need it. Having other people like it is just an amazing thing on top. It’s fucking wild that I can make a living out of it. There is some sense of responsibility to myself. It’s easy to get bogged down playing shows where nobody comes. It’s really important for me to learn to have the confidence that I know what I’m doing. If I’m coming from a place of caring, it’s going to be okay, which I think comes through in the work as well. 
+
+AD: I like ending interviews by asking the same general question: what’s something that you love about your own creative approach and the work you make? 
+
+Sarah Davachi: It is a nice question. It’s something that I felt early on, but I think I have a good sense of pacing. Like, I know how long things need to be, when things are too long, when things are too short. When that culminates in a piece, I think it creates a nice sense of… Dramaturgy isn’t the right word, it’s more about the sense that it fits properly — almost like the way that interior design works, where everything’s in its right place. It’s balanced nicely in labor. That’s a really hard thing to do in music. Minimalist drone is predicated on having an ear for it, knowing when things need to change. It’s like a compositional equilibrium or sense of balance.
+
+ 
+
+ 
+ Posted on September 25, 2024September 24, 2024Sarah Davachi The AD Interview
+ 
+
+ 
+ 
+ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1361039829957-0'); });

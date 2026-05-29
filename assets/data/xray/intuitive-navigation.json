@@ -1,0 +1,4551 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-05-26T18:41:19.113520Z",
+  "show": {
+    "slug": "intuitive-navigation",
+    "title": "Intuitive Navigation",
+    "description": "The latest in electronic pop, R&B, and other soulful music. Always brand new music! Feels-talk, moon-talk, and sultry jams. ",
+    "image": "https://cdn.xray.fm/image/medium/S0013921-2.jpg",
+    "tags": [
+      "mix"
+    ],
+    "url": "https://xray.fm/shows/intuitive-navigation"
+  },
+  "episode_count": 40,
+  "track_count_total": 579,
+  "episodes": [
+    {
+      "id": "70646",
+      "url": "https://xray.fm/broadcasts/70646",
+      "title": "There's something here for us both - May 23, 2026",
+      "air_date": "5-23-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/anime-hug-38.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-05-23_18-00-00.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Cold",
+          "artist": "Majid Jordan",
+          "album": "single",
+          "label": "OVO"
+        },
+        {
+          "time": "6:05pm",
+          "track": "SS26",
+          "artist": "Charli xcx",
+          "album": "single",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:08pm",
+          "track": "There's something here for us both",
+          "artist": "Vegyn",
+          "album": "single",
+          "label": "Plz make it ruins"
+        },
+        {
+          "time": "6:12pm",
+          "track": "Cola",
+          "artist": "Namasenda",
+          "album": "Limbo",
+          "label": "YEAR0001"
+        },
+        {
+          "time": "6:14pm",
+          "track": "Bad Love",
+          "artist": "Namasenda",
+          "album": "Limbo",
+          "label": "YEAR0001"
+        },
+        {
+          "time": "6:17pm",
+          "track": "Romeo Must Die",
+          "artist": "Namasenda",
+          "album": "Limbo",
+          "label": "YEAR0001"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Bones",
+          "artist": "GIRLI",
+          "album": "it's just my opinion",
+          "label": "Believe"
+        },
+        {
+          "time": "6:21pm",
+          "track": "Romantic Sadness",
+          "artist": "GIRLI",
+          "album": "it's just my opinion",
+          "label": "Believe"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Comfort",
+          "artist": "Kelsey Lu",
+          "album": "So Help Me God",
+          "label": "Dirty Hit"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Sins Of The Father",
+          "artist": "Moses Sumney",
+          "album": "Is God Is Soundtrack",
+          "label": "Lakeshore"
+        },
+        {
+          "time": "6:35pm",
+          "track": "Zinna",
+          "artist": "Visible Cloaks",
+          "album": "Paradessence",
+          "label": "RVNG"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Shapes (feat. Yoshio Ojima & Satsuki Shibano)",
+          "artist": "Visible Cloaks",
+          "album": "Paradessence",
+          "label": "RVNG"
+        },
+        {
+          "time": "6:44pm",
+          "track": "Ricky's Back ft. Machado Mijiga",
+          "artist": "CGJ",
+          "album": "Supplements",
+          "label": "self-released"
+        },
+        {
+          "time": "6:47pm",
+          "track": "The Newness",
+          "artist": "CGJ",
+          "album": "Supplements",
+          "label": "self-released"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Sheet Metal ft. Machado Mijiga",
+          "artist": "CGJ",
+          "album": "Supplements",
+          "label": "self-released"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Bellafonte",
+          "artist": "Jenevieve & Tkay Maidza",
+          "album": "Crysalis (Coda)",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:54pm",
+          "track": "Chrome Dreamz",
+          "artist": "Jenevieve",
+          "album": "Crysalis (Coda)",
+          "label": "Interscope"
+        }
+      ]
+    },
+    {
+      "id": "70513",
+      "url": "https://xray.fm/broadcasts/70513",
+      "title": "Paradise Rains - May 16, 2026",
+      "air_date": "5-16-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-05-16_18-00-00.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "6:01pm",
+          "track": "Can You Feel it Too",
+          "artist": "Tone Stith",
+          "album": "The Edge",
+          "label": "Self Release"
+        },
+        {
+          "time": "6:05pm",
+          "track": "Back Around",
+          "artist": "Tone Stith",
+          "album": "The Edge",
+          "label": "Self Release"
+        },
+        {
+          "time": "6:07pm",
+          "track": "Come to Me",
+          "artist": "Tone Stith",
+          "album": "The Edge",
+          "label": "Tone Stith"
+        },
+        {
+          "time": "6:11pm",
+          "track": "Open Arms ft. Deela",
+          "artist": "Little Simz",
+          "album": "Sugar Girl",
+          "label": "AWAL"
+        },
+        {
+          "time": "6:15pm",
+          "track": "Its here",
+          "artist": "Smerz",
+          "album": "Easy - EP",
+          "label": "Smerz"
+        },
+        {
+          "time": "6:18pm",
+          "track": "the room you described",
+          "artist": "Smerz",
+          "album": "Easy - EP",
+          "label": "Smerz"
+        },
+        {
+          "time": "6:20pm",
+          "track": "Paradise Rains",
+          "artist": "Eartheater",
+          "album": "Heavenly Body",
+          "label": "Earth Eater"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Nova",
+          "artist": "Eartheater",
+          "album": "Heavenly Body",
+          "label": "Eartheater"
+        },
+        {
+          "time": "6:30pm",
+          "track": "HMD",
+          "artist": "See You Next Year",
+          "album": "Pigeons & Planes Presents: See You Next Year 3",
+          "label": "Goodboy Records"
+        },
+        {
+          "time": "6:33pm",
+          "track": "scratch",
+          "artist": "See You Next Year",
+          "album": "Pigeons & Planes Presents: See You Next Year 3",
+          "label": "Goodboy Records"
+        },
+        {
+          "time": "6:35pm",
+          "track": "Ight Imma head out",
+          "artist": "see you next year",
+          "album": "Pigeons & Planes Presents: See You Next Year 3",
+          "label": "Goodboy records"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Real Here Now",
+          "artist": "Nick Hakim",
+          "album": "Single",
+          "label": "ATO"
+        },
+        {
+          "time": "6:43pm",
+          "track": "Water",
+          "artist": "Nick Hakim",
+          "album": "Single",
+          "label": "ATO"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Save Some For Me ft. Kehlani",
+          "artist": "Giveon",
+          "album": "Beloved: Act II",
+          "label": "Giveon"
+        },
+        {
+          "time": "6:52pm",
+          "track": "What's done is done",
+          "artist": "jorja smith",
+          "album": "Single",
+          "label": "famm"
+        },
+        {
+          "time": "6:55pm",
+          "track": "Break It ft. Lexie Liu",
+          "artist": "Yves",
+          "album": "Nail EP",
+          "label": "Peak a Boo Records"
+        }
+      ]
+    },
+    {
+      "id": "70215",
+      "url": "https://xray.fm/broadcasts/70215",
+      "title": "Angel, Give 'Em Hell - May 2, 2026",
+      "air_date": "5-2-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/2e07a2ef0504f7bc322b0e17725db044.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-05-02_18-00-00.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Undivided",
+          "artist": "Durand Bernarr",
+          "album": "Bernarr",
+          "label": "Durand"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Ayo!",
+          "artist": "Durand Bernarr",
+          "album": "Bernarr",
+          "label": "Durand"
+        },
+        {
+          "time": "6:09pm",
+          "track": "Cut Ties",
+          "artist": "Anne Hathaway",
+          "album": "Mother Mary: Greatest Hits",
+          "label": "A24"
+        },
+        {
+          "time": "6:13pm",
+          "track": "Wonder",
+          "artist": "chenayder",
+          "album": "single",
+          "label": "Sony"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Angel, Give Them Hell",
+          "artist": "Lolo Zouaï",
+          "album": "Reverie",
+          "label": "Because Music"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Les Mots (feat. Dinos)",
+          "artist": "Lolo Zouaï",
+          "album": "Reverie",
+          "label": "Because Music"
+        },
+        {
+          "time": "6:26pm",
+          "track": "Tiroteo ft. Mura Masa",
+          "artist": "Daniela Lalita",
+          "album": "single",
+          "label": "The Orchard"
+        },
+        {
+          "time": "6:28pm",
+          "track": "Plastic Camelia",
+          "artist": "Olof Dreijer",
+          "album": "Loud Bloom",
+          "label": "Rabid Records"
+        },
+        {
+          "time": "6:35pm",
+          "track": "Honour (feat. Baby Rose)",
+          "artist": "Elmiene",
+          "album": "single",
+          "label": "Polydor"
+        },
+        {
+          "time": "6:40pm",
+          "track": "Angel",
+          "artist": "Dani Offline",
+          "album": "single",
+          "label": "Eulipon"
+        },
+        {
+          "time": "6:42pm",
+          "track": "That Kind Of Girl",
+          "artist": "Onra",
+          "album": "After Dark",
+          "label": "Alicity Records"
+        },
+        {
+          "time": "6:47pm",
+          "track": "NAIL (feat. Lolo Zouaï)",
+          "artist": "Yves",
+          "album": "NAIL EP",
+          "label": "PAIX PER MIL"
+        },
+        {
+          "time": "6:49pm",
+          "track": "HALO",
+          "artist": "Yves",
+          "album": "NAIL EP",
+          "label": "PAIX PER MIL"
+        },
+        {
+          "time": "6:53pm",
+          "track": "It",
+          "artist": "Yves",
+          "album": "NAIL - EP",
+          "label": "PAIX PER MIL"
+        },
+        {
+          "time": "6:56pm",
+          "track": "DON'T ASK!",
+          "artist": "Natanya",
+          "album": "single",
+          "label": "Human Re Sources"
+        }
+      ]
+    },
+    {
+      "id": "70076",
+      "url": "https://xray.fm/broadcasts/70076",
+      "title": "Superbloom - April 25, 2026",
+      "air_date": "4-25-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/360_F_255207502_CpMYvCAuFNMNsaMPx84UzDyEclJ7ssRv.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-04-25_18-00-00.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Folded",
+          "artist": "Kehlani",
+          "album": "Kehlani",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:07pm",
+          "track": "I need you ft. Brandy",
+          "artist": "Kehlani",
+          "album": "Kehlani",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Oooh",
+          "artist": "Kehlani",
+          "album": "Kehlani",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:14pm",
+          "track": "Sweet Nuthin ft. Leon Thomas",
+          "artist": "Kehlani",
+          "album": "Kehlani",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Spring summer",
+          "artist": "Smerz",
+          "album": "single",
+          "label": "escho"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Young Folks",
+          "artist": "Dorian Electra",
+          "album": "Dorian Electrs",
+          "label": "self-released"
+        },
+        {
+          "time": "6:24pm",
+          "track": "Scarborough Fair",
+          "artist": "Dorian Electra",
+          "album": "Dorian Electra",
+          "label": "self-released"
+        },
+        {
+          "time": "6:26pm",
+          "track": "Hips Don't Lie",
+          "artist": "Dorian Electra",
+          "album": "Dorian Electra",
+          "label": "self-released"
+        },
+        {
+          "time": "6:34pm",
+          "track": "Heart and Strings",
+          "artist": "Jai'Len Josey",
+          "album": "Serial Romantic",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:36pm",
+          "track": "Serial Romantic",
+          "artist": "Jai'Len Josey",
+          "album": "Serial Romantic",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:39pm",
+          "track": "Blessed Me With A Broken Heart",
+          "artist": "rum.gold",
+          "album": "Is there anybody home?",
+          "label": "Independent Co."
+        },
+        {
+          "time": "6:42pm",
+          "track": "New girls",
+          "artist": "Quiet Light",
+          "album": "Blue angel sparkling silver 2",
+          "label": "True Panther"
+        },
+        {
+          "time": "6:48pm",
+          "track": "Superbloom",
+          "artist": "Jessie Ware",
+          "album": "Superbloom",
+          "label": "EMI"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Don't You Know Who I Am?",
+          "artist": "Jessie Ware",
+          "album": "Superbloom",
+          "label": "EMI"
+        },
+        {
+          "time": "6:55pm",
+          "track": "ready to move",
+          "artist": "Yuna",
+          "album": "The Valour Hour",
+          "label": "YRR"
+        },
+        {
+          "time": "6:58pm",
+          "track": "believer",
+          "artist": "Yuna",
+          "album": "The Valour Hour",
+          "label": "YRR"
+        }
+      ]
+    },
+    {
+      "id": "69933",
+      "url": "https://xray.fm/broadcasts/69933",
+      "title": "Spring Fund Drive 2026 week 2",
+      "air_date": "4-18-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-04-18_18-00-00.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "6:03pm",
+          "track": "Jeanne",
+          "artist": "Rosalia",
+          "album": "LUX (Complete Works)",
+          "label": "Columbia"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Nova",
+          "artist": "Rosalia",
+          "album": "LUX (Complete Works)",
+          "label": "Columbia"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Foccu Ranni",
+          "artist": "Rosalia",
+          "album": "LUX (Complete Works)",
+          "label": "Columbia"
+        },
+        {
+          "time": "6:14pm",
+          "track": "Madwoman",
+          "artist": "Laufey",
+          "album": "A Matter of Time: The Final Hour",
+          "label": "AWAL"
+        },
+        {
+          "time": "6:18pm",
+          "track": "How I Get",
+          "artist": "Laufey",
+          "album": "A Matter of Time: The Final Hour",
+          "label": "AWAL"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Keepsake",
+          "artist": "Ana Roxane",
+          "album": "Poem 1",
+          "label": "Leaving"
+        },
+        {
+          "time": "6:30pm",
+          "track": "Sao Paulo",
+          "artist": "Flying Lotus",
+          "album": "1983",
+          "label": "Brainfeeder"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Untitled #7",
+          "artist": "Flying Lotus",
+          "album": "1983",
+          "label": "Brainfeeder"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Unexpected Delight",
+          "artist": "Flying Lotus",
+          "album": "1983",
+          "label": "Brainfeeder"
+        },
+        {
+          "time": "6:39pm",
+          "track": "Everything U",
+          "artist": "DJ Seinfeld",
+          "album": "If This is It",
+          "label": "DJ Seinfeld"
+        },
+        {
+          "time": "6:39pm",
+          "track": "Everything U",
+          "artist": "DJ Seinfeld",
+          "album": "If This is It",
+          "label": "DJ Seinfeld"
+        },
+        {
+          "time": "6:42pm",
+          "track": "Try",
+          "artist": "Keyshawn V",
+          "album": "Wonderful Feeling",
+          "label": "Keyshawn V"
+        },
+        {
+          "time": "6:45pm",
+          "track": "Wonderful Feeling",
+          "artist": "Keyshawn V",
+          "album": "Wonderful Feeling",
+          "label": "Keyshawn V"
+        },
+        {
+          "time": "6:51pm",
+          "track": "drop dead",
+          "artist": "Olivia Rodrigo",
+          "album": "you seem pretty sad for a girl so in love",
+          "label": "Geffen"
+        },
+        {
+          "time": "6:55pm",
+          "track": "2SIDED",
+          "artist": "Arlo Parks",
+          "album": "Ambiguous Desire",
+          "label": "Arlo Parks"
+        },
+        {
+          "time": "6:58pm",
+          "track": "Blow My Mind",
+          "artist": "Robyn",
+          "album": "Sexistential",
+          "label": "Young"
+        }
+      ]
+    },
+    {
+      "id": "69812",
+      "url": "https://xray.fm/broadcasts/69812",
+      "title": "Spring Fund Drive - April 11, 2026",
+      "air_date": "4-11-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/26_spring_fund_drive_frog_shirt_2.png",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-04-11_18-00-00.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "6:05pm",
+          "track": "Anakin Learns His Fate",
+          "artist": "Thundercat",
+          "album": "Distracted",
+          "label": "Brainfeeder"
+        },
+        {
+          "time": "6:07pm",
+          "track": "What Is Left To Say",
+          "artist": "Thundercat",
+          "album": "Distracted",
+          "label": "Brainfeeder"
+        },
+        {
+          "time": "6:13pm",
+          "track": "running",
+          "artist": "Sparklmami",
+          "album": "single",
+          "label": "Verve"
+        },
+        {
+          "time": "6:15pm",
+          "track": "raindance",
+          "artist": "nomi.",
+          "album": "Badman",
+          "label": "Earth Angel"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Dream House",
+          "artist": "Empress Of",
+          "album": "single",
+          "label": "Major Arcana"
+        },
+        {
+          "time": "6:26pm",
+          "track": "lemonlime",
+          "artist": "Purity Ring",
+          "album": "single",
+          "label": "4AD"
+        },
+        {
+          "time": "6:31pm",
+          "track": "idea 1",
+          "artist": "Kelela",
+          "album": "single",
+          "label": "Warp"
+        },
+        {
+          "time": "6:37pm",
+          "track": "Flowers in Bloom",
+          "artist": "Tom Misch",
+          "album": "Full Circle",
+          "label": "AWAL"
+        },
+        {
+          "time": "6:41pm",
+          "track": "Blue Sole",
+          "artist": "Choker",
+          "album": "Heaven Isn't Sold",
+          "label": "Jet Fuzz"
+        },
+        {
+          "time": "6:45pm",
+          "track": "You're Here",
+          "artist": "Ms. Ray",
+          "album": "Melt",
+          "label": "Scenic Route"
+        },
+        {
+          "time": "6:53pm",
+          "track": "Automatic",
+          "artist": "Jessie Ware",
+          "album": "Superbloom",
+          "label": "EMI"
+        },
+        {
+          "time": "6:55pm",
+          "track": "Winter Woman",
+          "artist": "RAYE",
+          "album": "This Music May Contain Hope",
+          "label": "Human Re Sources"
+        }
+      ]
+    },
+    {
+      "id": "69692",
+      "url": "https://xray.fm/broadcasts/69692",
+      "title": "April 4, 2026 - Nightswimming",
+      "air_date": "4-4-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/4e9599df29ad8a7136096c70dca7dcbe.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-04-04_18-00-00.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Senses (feat. Sampha)",
+          "artist": "Arlo Parks",
+          "album": "Ambiguous Desire",
+          "label": "Transgressive"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Heaven",
+          "artist": "Arlo Parks",
+          "album": "Ambiguous Desire",
+          "label": "Transgressive"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Nightswimming",
+          "artist": "Arlo Parks",
+          "album": "Ambiguous Desire",
+          "label": "Transgressive"
+        },
+        {
+          "time": "6:16pm",
+          "track": "Dopamine",
+          "artist": "Robyn",
+          "album": "Sexistential",
+          "label": "Young"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Sucker for Love",
+          "artist": "Robyn",
+          "album": "Sexistential",
+          "label": "Young"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Talk to Me",
+          "artist": "Robyn",
+          "album": "Sexistential",
+          "label": "Young"
+        },
+        {
+          "time": "6:28pm",
+          "track": "The WhatsApp Shakespeare.",
+          "artist": "RAYE",
+          "album": "This Music May Contain Hope",
+          "label": "Human Re Sources"
+        },
+        {
+          "time": "6:31pm",
+          "track": "Click Clack Symphony ft. Hans Zimmer",
+          "artist": "RAYE",
+          "album": "This Music May Contain Hope",
+          "label": "Human Re Sources"
+        },
+        {
+          "time": "6:36pm",
+          "track": "Joy ft. Amma & Absolutely",
+          "artist": "RAYE",
+          "album": "THIS MUSIC MAY CONTAIN HOPE",
+          "label": "Human Re Sources"
+        },
+        {
+          "time": "6:43pm",
+          "track": "Klouds Will Carry Me To Sleep",
+          "artist": "Gelli Haha",
+          "album": "Switcheroo",
+          "label": "Innovative Leisure"
+        },
+        {
+          "time": "6:46pm",
+          "track": "Tiramisu",
+          "artist": "Gelli Haha",
+          "album": "Switcheroo",
+          "label": "Innoative Leisure"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Bounce House",
+          "artist": "Gelli Haha",
+          "album": "Switcheroo",
+          "label": "Innovative Leisure"
+        },
+        {
+          "time": "6:54pm",
+          "track": "Friend of a Friend",
+          "artist": "rum.gold",
+          "album": "Is There Anybody Home?",
+          "label": "Independent Co."
+        },
+        {
+          "time": "6:57pm",
+          "track": "Asleep at the Wheel",
+          "artist": "rum.gold",
+          "album": "Is There Anybody Home?",
+          "label": "Independent Co."
+        }
+      ]
+    },
+    {
+      "id": "69549",
+      "url": "https://xray.fm/broadcasts/69549",
+      "title": "All I Did Was Dream About You - March 28, 2026",
+      "air_date": "3-28-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/tumblr_9ff0930846e2606d1306404c9454bb96_cce70d16_540.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-03-28_18-00-00.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "6:01pm",
+          "track": "Light by the Window",
+          "artist": "Elmiene",
+          "album": "sounds for someone",
+          "label": "polydor"
+        },
+        {
+          "time": "6:05pm",
+          "track": "Told You I'll Make it",
+          "artist": "Elmiene",
+          "album": "sounds for someone",
+          "label": "Polydor"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Lonely People",
+          "artist": "Elmiene",
+          "album": "Sounds for someone",
+          "label": "Polydor"
+        },
+        {
+          "time": "6:12pm",
+          "track": "Bird in the Rafters",
+          "artist": "A.G. Cook",
+          "album": "The Moment (the score)",
+          "label": "A24 Music"
+        },
+        {
+          "time": "6:16pm",
+          "track": "Residue",
+          "artist": "A.G Cook",
+          "album": "The Moment (the score)",
+          "label": "A24 Music"
+        },
+        {
+          "time": "6:19pm",
+          "track": "See",
+          "artist": "Moin ft. Sophia Al-Maria & Ben Vince)",
+          "album": "Belly Up",
+          "label": "AD 93"
+        },
+        {
+          "time": "6:23pm",
+          "track": "All I Did Was Dream About You (feat. The Marias)",
+          "artist": "beabadoobee",
+          "album": "single",
+          "label": "Dirty Hit"
+        },
+        {
+          "time": "6:28pm",
+          "track": "Waiting Room",
+          "artist": "Jenevieve & Jordan Ward",
+          "album": "single",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:31pm",
+          "track": "Grey Matter",
+          "artist": "Sade Olutola",
+          "album": "Arrow Heart EP",
+          "label": "self-released"
+        },
+        {
+          "time": "6:34pm",
+          "track": "I want it",
+          "artist": "PZU",
+          "album": "Return to sender",
+          "label": "Free traits"
+        },
+        {
+          "time": "6:37pm",
+          "track": "Red Moon",
+          "artist": "Tom Misch",
+          "album": "Full Circle",
+          "label": "AWAL"
+        },
+        {
+          "time": "6:40pm",
+          "track": "Thinkin Bout You",
+          "artist": "Flea",
+          "album": "Honora",
+          "label": "Nonesuch"
+        },
+        {
+          "time": "6:50pm",
+          "track": "Untitled II",
+          "artist": "Ana Roxanne",
+          "album": "Poem I",
+          "label": "kranky"
+        },
+        {
+          "time": "6:55pm",
+          "track": "Stonefly (Seafeel remix)",
+          "artist": "Maria Somerville",
+          "album": "Luster (Remixes)",
+          "label": "4AD"
+        }
+      ]
+    },
+    {
+      "id": "69417",
+      "url": "https://xray.fm/broadcasts/69417",
+      "title": "Garden at Nighttime - March 21, 2026",
+      "air_date": "3-21-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/8vnz.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-03-21_18-00-00.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "ThunderWave ft. Willow",
+          "artist": "Thundercat",
+          "album": "Disctracted",
+          "label": "Brainfeeder"
+        },
+        {
+          "time": "6:06pm",
+          "track": "You're Here",
+          "artist": "Ms. Ray",
+          "album": "Melt",
+          "label": "Scenic Route"
+        },
+        {
+          "time": "6:09pm",
+          "track": "Thin Ice",
+          "artist": "Ms. Ray",
+          "album": "Melt",
+          "label": "Scenic Route"
+        },
+        {
+          "time": "6:12pm",
+          "track": "The 343 Loop",
+          "artist": "King Krule",
+          "album": "Help 2",
+          "label": "War Child"
+        },
+        {
+          "time": "6:17pm",
+          "track": "One More Night",
+          "artist": "BTS",
+          "album": "Arirang",
+          "label": "Big Hit Music"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Please",
+          "artist": "BTS",
+          "album": "ARIRANG",
+          "label": "Big Hit Music"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Anti-Superstar",
+          "artist": "Haute & Freddy",
+          "album": "Big Disgrace",
+          "label": "Runaway Carnie Co"
+        },
+        {
+          "time": "6:25pm",
+          "track": "Scantily Clad",
+          "artist": "Haute & Freddy",
+          "album": "Big Disgrace",
+          "label": "Runaway Carnie Co"
+        },
+        {
+          "time": "6:33pm",
+          "track": "Honour",
+          "artist": "Elmiene",
+          "album": "Sounds for Someone",
+          "label": "Polydor"
+        },
+        {
+          "time": "6:34pm",
+          "track": "Saviour",
+          "artist": "Elmiene",
+          "album": "Sounds for someone",
+          "label": "Polydor"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Ase",
+          "artist": "Jill Scott",
+          "album": "To Whom It May Concern",
+          "label": "Human Re Sources"
+        },
+        {
+          "time": "6:45pm",
+          "track": "Garden at Nighttime",
+          "artist": "Alessia Cara",
+          "album": "Love or Lack Thereof",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:47pm",
+          "track": "Shapeshifter",
+          "artist": "Alessia Cara & Nelly Furtado",
+          "album": "Love or Lack Thereof",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:51pm",
+          "track": "I'm in Trouble",
+          "artist": "Alessia Cara & Norah Jones",
+          "album": "Love or Lack Thereof",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:54pm",
+          "track": "Dance No More",
+          "artist": "Harry Styles",
+          "album": "Kiss all the Time, DIsco Occasionally",
+          "label": "Erskine Records"
+        },
+        {
+          "time": "6:58pm",
+          "track": "Miss Me (Tinashe flip)",
+          "artist": "Bomani x Lilturtleshawty",
+          "album": "Miss Me",
+          "label": "n/a"
+        }
+      ]
+    },
+    {
+      "id": "69288",
+      "url": "https://xray.fm/broadcasts/69288",
+      "title": "Mar 14, 2026",
+      "air_date": "3-14-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-03-14_18-00-00.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "6:01pm",
+          "track": "Walkd Out Music",
+          "artist": "James Blake",
+          "album": "Trying Times",
+          "label": "James Blake"
+        },
+        {
+          "time": "6:04pm",
+          "track": "Days go By",
+          "artist": "James Blake",
+          "album": "Trying Times",
+          "label": "James Blake"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Snappy",
+          "artist": "Seiichi Yamamoto",
+          "album": "Access memory of",
+          "label": "Seiicho Yamamoto"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Get Go",
+          "artist": "Arlo Parks",
+          "album": "Ambigous Desire",
+          "label": "Arlo Parks"
+        },
+        {
+          "time": "6:13pm",
+          "track": "Breathe",
+          "artist": "Toast",
+          "album": "Dust & Feathers",
+          "label": "Toast"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Don't Hold Back",
+          "artist": "Bijoux Cone",
+          "album": "Single",
+          "label": "Bijoux Cone"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Miss You",
+          "artist": "Ms Ray & Nourished by Time",
+          "album": "Single",
+          "label": "Ms Ray"
+        },
+        {
+          "time": "6:26pm",
+          "track": "Signs",
+          "artist": "Ms Ray",
+          "album": "Melt",
+          "label": "Ms Ray"
+        },
+        {
+          "time": "6:29pm",
+          "track": "The Key",
+          "artist": "Ms Ray",
+          "album": "Melt",
+          "label": "Ms Ray"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Reflections",
+          "artist": "Bijoux Cone",
+          "album": "Love is Trash",
+          "label": "Bijoux Cone"
+        },
+        {
+          "time": "6:40pm",
+          "track": "Carpentry Office",
+          "artist": "Aramis",
+          "album": "9",
+          "label": "Aramis"
+        },
+        {
+          "time": "6:42pm",
+          "track": "Even God Gets Stuck In Devotion (feat. Austyn Wohlers)",
+          "artist": "Dagmar Zuniga",
+          "album": "in filth your mystery is kingdom",
+          "label": "Dagmar"
+        },
+        {
+          "time": "6:45pm",
+          "track": "Plenty for all the masses",
+          "artist": "Dagmar Zuniga",
+          "album": "in filth your mystery is kingdom",
+          "label": "in filth your mystery is kingdom"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Late Autumn",
+          "artist": "Jeff Parker ETA IVtet",
+          "album": "The Way Out of Easy",
+          "label": "Nonesuch/International Anthem, 2024"
+        }
+      ]
+    },
+    {
+      "id": "69154",
+      "url": "https://xray.fm/broadcasts/69154",
+      "title": "Mar 7, 2026",
+      "air_date": "3-7-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-03-07_18-00-00.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "6:01pm",
+          "track": "The Lake",
+          "artist": "Fever Ray",
+          "album": "The Bride! Soundtrack",
+          "label": "Warner"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Wrong Flower",
+          "artist": "Fever Ray",
+          "album": "The Bride! Soundtrack",
+          "label": "Warner"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Save the Day",
+          "artist": "SZA",
+          "album": "Hoppers",
+          "label": "Pixar"
+        },
+        {
+          "time": "6:13pm",
+          "track": "Eyes of the World ft. Sky Ferreira",
+          "artist": "Charli XCX",
+          "album": "Wuthering Heights",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:18pm",
+          "track": "Aperture",
+          "artist": "Harry Styles",
+          "album": "Kiss All the Time. Disco, Occasionally",
+          "label": "Columbia"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Coming Up Roses",
+          "artist": "Harry Styles",
+          "album": "Kiss All the Time. Disco, Occasionally",
+          "label": "Columbia"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Death of Love",
+          "artist": "James Blake",
+          "album": "Trying Times",
+          "label": "James Blake"
+        },
+        {
+          "time": "6:31pm",
+          "track": "I had a dream she took my hand",
+          "artist": "James Blake",
+          "album": "Trying Times",
+          "label": "James Blake"
+        },
+        {
+          "time": "6:36pm",
+          "track": "Be Great (ft. Trombone Shorty)",
+          "artist": "Jill Scott",
+          "album": "To Whom This May Concern",
+          "label": "Blues Babe Records"
+        },
+        {
+          "time": "6:36pm",
+          "track": "Norfside ft. Tierra Whack",
+          "artist": "Jill Scott",
+          "album": "To Whom this May Concern",
+          "label": "Blues Babe Records"
+        },
+        {
+          "time": "6:42pm",
+          "track": "Seven Years",
+          "artist": "Yebba",
+          "album": "Jean",
+          "label": "RCA"
+        },
+        {
+          "time": "6:46pm",
+          "track": "What You Need (colours show)",
+          "artist": "Tems & Colours",
+          "album": "Single",
+          "label": "Colours"
+        },
+        {
+          "time": "6:51pm",
+          "track": "in the business of feeling",
+          "artist": "Arima Ederra",
+          "album": "A Rush to nowhere",
+          "label": "RCA"
+        },
+        {
+          "time": "6:53pm",
+          "track": "In this life",
+          "artist": "Arima Ederra",
+          "album": "A Rush to Nowhere",
+          "label": "RCA"
+        },
+        {
+          "time": "6:56pm",
+          "track": "Gemini Eyes",
+          "artist": "Arima Ederra",
+          "album": "A Rush to Nowhere",
+          "label": "RCA"
+        }
+      ]
+    },
+    {
+      "id": "69032",
+      "url": "https://xray.fm/broadcasts/69032",
+      "title": "No Love Lost to Kindness - Feb 28, 2026",
+      "air_date": "2-28-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/huge_avatar.jpeg",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-02-28_18-00-00.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "6:03pm",
+          "track": "Walking Dead",
+          "artist": "rum.gold",
+          "album": "Is there anybody home?",
+          "label": "Independent Co"
+        },
+        {
+          "time": "6:05pm",
+          "track": "Rae Town",
+          "artist": "Choker",
+          "album": "Heaven Ain't Sold",
+          "label": "Jet Fuzz"
+        },
+        {
+          "time": "6:09pm",
+          "track": "Heard What You Said",
+          "artist": "Arima Ederra",
+          "album": "A Rush to Nowhere",
+          "label": "RCA"
+        },
+        {
+          "time": "6:12pm",
+          "track": "Piece of You",
+          "artist": "Joji & Giveon",
+          "album": "Piss in the Wind",
+          "label": "Palace Creek"
+        },
+        {
+          "time": "6:16pm",
+          "track": "Phoebe's Song",
+          "artist": "Yumi Zouma",
+          "album": "No Love Lost to Kindness",
+          "label": "Nettwerk"
+        },
+        {
+          "time": "6:20pm",
+          "track": "Drag",
+          "artist": "Yumi Zouma",
+          "album": "No Love Lost to Kindness",
+          "label": "Nettwerk"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Judgement Day",
+          "artist": "Yumi Zouma",
+          "album": "No Love Lost to Kindness",
+          "label": "Nettwerk"
+        },
+        {
+          "time": "6:28pm",
+          "track": "The Lake",
+          "artist": "Fever Ray",
+          "album": "The Bride! Soundtrack",
+          "label": "Warner"
+        },
+        {
+          "time": "6:33pm",
+          "track": "Save the Day",
+          "artist": "SZA",
+          "album": "Hoppers Soundtrack",
+          "label": "Disney/Pixar"
+        },
+        {
+          "time": "6:35pm",
+          "track": "Save My Love",
+          "artist": "Kygo, Khalid, Gryffin",
+          "album": "single",
+          "label": "Sony"
+        },
+        {
+          "time": "6:39pm",
+          "track": "Deeper (Rudimental Remix)",
+          "artist": "Disclosure, Leon Thomas",
+          "album": "single",
+          "label": "Apollo Records"
+        },
+        {
+          "time": "6:43pm",
+          "track": "Drip (Joe Goddard remix)",
+          "artist": "Kaitlyn Aurelia Smith",
+          "album": "GUSH Remixes",
+          "label": "Nettwerk"
+        },
+        {
+          "time": "6:50pm",
+          "track": "What's In Your Soul",
+          "artist": "Yael Naim",
+          "album": "Solaire",
+          "label": "Mouselephant"
+        }
+      ]
+    },
+    {
+      "id": "68909",
+      "url": "https://xray.fm/broadcasts/68909",
+      "title": "Crystallise My Tears - February 21, 2026",
+      "air_date": "2-21-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/LvLLeKJ.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-02-21_18-00-00.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Play",
+          "artist": "WILLOW",
+          "album": "Petal rock black",
+          "label": "Three six zero"
+        },
+        {
+          "time": "6:04pm",
+          "track": "I would die 4 u",
+          "artist": "WILLOW",
+          "album": "Petal rock black",
+          "label": "Three six zero"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Themselves",
+          "artist": "Jordan Ward",
+          "album": "Backward",
+          "label": "ARTium"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Yellow Eyes",
+          "artist": "Yebba",
+          "album": "Jean",
+          "label": "RCA"
+        },
+        {
+          "time": "6:13pm",
+          "track": "Two Hearts",
+          "artist": "Danny L. Harle & Dua Lipa",
+          "album": "Cerulean",
+          "label": "XL"
+        },
+        {
+          "time": "6:18pm",
+          "track": "Crystallise my Tears",
+          "artist": "Danny L Harle, Oklou & MNEK",
+          "album": "Cerulean",
+          "label": "XL"
+        },
+        {
+          "time": "6:21pm",
+          "track": "On & On",
+          "artist": "Danny L Harle & Caroline Polachek",
+          "album": "Cerulean",
+          "label": "XL"
+        },
+        {
+          "time": "6:28pm",
+          "track": "Geppetto",
+          "artist": "Choker",
+          "album": "Heaven Ain't Sold",
+          "label": "Jett Fuzz"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Good",
+          "artist": "Choker",
+          "album": "Heaven Ain't Sold",
+          "label": "Jett Fuzz"
+        },
+        {
+          "time": "6:36pm",
+          "track": "Moses",
+          "artist": "Hemlocke Springs",
+          "album": "The apple tree under the sea",
+          "label": "AWAL"
+        },
+        {
+          "time": "6:39pm",
+          "track": "Set me free",
+          "artist": "Hemlocke Springs",
+          "album": "The apple tree under the sea",
+          "label": "AWAL"
+        },
+        {
+          "time": "6:45pm",
+          "track": "Don't Leave",
+          "artist": "Jorja Smith",
+          "album": "single",
+          "label": "FAMM"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Ride",
+          "artist": "Jessie Ware",
+          "album": "Superbloom",
+          "label": "EMI"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Roamer",
+          "artist": "spill tab",
+          "album": "AngieAngieAngie",
+          "label": "Because"
+        },
+        {
+          "time": "6:54pm",
+          "track": "Suckerrr",
+          "artist": "spill tab",
+          "album": "AngieAngieAngie",
+          "label": "Because"
+        }
+      ]
+    },
+    {
+      "id": "68779",
+      "url": "https://xray.fm/broadcasts/68779",
+      "title": "The Art of Loving - February 14, 2026",
+      "air_date": "2-14-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/5c4009d09fdf01b73e26e252e4ebadce.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-02-14_18-00-00.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "6:04pm",
+          "track": "Through the Fire",
+          "artist": "Chaka Khan",
+          "album": "I Feel for You",
+          "label": "Warner"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Cry for You",
+          "artist": "Jodeci",
+          "album": "Diary of a Mad Band",
+          "label": "MCA"
+        },
+        {
+          "time": "6:12pm",
+          "track": "Never too Much",
+          "artist": "Luther Vandross",
+          "album": "Never too much",
+          "label": "Sony"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Dying for You",
+          "artist": "Charli XCX",
+          "album": "Wuthering Heights",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Always Everywhere",
+          "artist": "Charli XCX",
+          "album": "Wuthering Heights",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:25pm",
+          "track": "Out of Myself",
+          "artist": "Charli XCX",
+          "album": "Wuthering Heights",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:28pm",
+          "track": "Seeing Things",
+          "artist": "Charli XCX",
+          "album": "Wuthering Heights",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:33pm",
+          "track": "So Easy (To Fall In Love)",
+          "artist": "Olivia Dean",
+          "album": "The Art of Loving",
+          "label": "UMG"
+        },
+        {
+          "time": "6:36pm",
+          "track": "Romance in Me",
+          "artist": "Nourished by Time",
+          "album": "Catching Chickens",
+          "label": "XL"
+        },
+        {
+          "time": "6:39pm",
+          "track": "Yamaha",
+          "artist": "Dijon",
+          "album": "Baby",
+          "label": "R&R"
+        },
+        {
+          "time": "6:43pm",
+          "track": "I Want You Around",
+          "artist": "Snoh Aalegra",
+          "album": "Ugh, those feels again",
+          "label": "Sony"
+        },
+        {
+          "time": "6:49pm",
+          "track": "The Man I Love",
+          "artist": "Kate Bush",
+          "album": "Best of the Other Sides",
+          "label": "EMI"
+        },
+        {
+          "time": "6:53pm",
+          "track": "Moon River",
+          "artist": "Frank Ocean",
+          "album": "Moon River",
+          "label": "Blonded"
+        },
+        {
+          "time": "6:56pm",
+          "track": "Your Song",
+          "artist": "Elton John",
+          "album": "Elton John",
+          "label": "Uni"
+        }
+      ]
+    },
+    {
+      "id": "68661",
+      "url": "https://xray.fm/broadcasts/68661",
+      "title": "Ask the Waves - Feb 7, 2026",
+      "air_date": "2-7-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/76dd806e895cb70a7258dcc68dd728e8.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-02-07_18-00-00.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "6:03pm",
+          "track": "Stranger",
+          "artist": "Jordan Ward",
+          "album": "Backward",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:07pm",
+          "track": "Noisy Neighbors",
+          "artist": "Jordan Ward",
+          "album": "Backward",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Champion Sound",
+          "artist": "Jordan Ward",
+          "album": "Backward",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:14pm",
+          "track": "Dreamer",
+          "artist": "Sassy 009",
+          "album": "Dreamer+",
+          "label": "PIAS"
+        },
+        {
+          "time": "6:16pm",
+          "track": "Mirrors",
+          "artist": "SASSY 009 & Yunè Pinku",
+          "album": "Dreamer+",
+          "label": "PIAS"
+        },
+        {
+          "time": "6:18pm",
+          "track": "Tell Me",
+          "artist": "Sassy 009 and Blood Orange",
+          "album": "Dreamer+",
+          "label": "PIAS"
+        },
+        {
+          "time": "6:21pm",
+          "track": "Stellar Parallax (feat. Caroline Polachek)",
+          "artist": "Danny L Harle, Rachika Nayar",
+          "album": "Azimuth Divergence",
+          "label": "XL Recordings"
+        },
+        {
+          "time": "6:24pm",
+          "track": "Ask the Waves",
+          "artist": "Danny L Harle & Rachika Nayar",
+          "album": "Azimuth Divergence",
+          "label": "XL Recordings"
+        },
+        {
+          "time": "6:30pm",
+          "track": "Protector",
+          "artist": "SAULT",
+          "album": "Chapter 1",
+          "label": "Forever Living Originals"
+        },
+        {
+          "time": "6:33pm",
+          "track": "Good things will come after the pressure",
+          "artist": "SAULT",
+          "album": "Chapter 1",
+          "label": "Forever Living Originals"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Heal Something",
+          "artist": "Sasha Keable",
+          "album": "Act II",
+          "label": "Flight Club Records"
+        },
+        {
+          "time": "6:41pm",
+          "track": "Silently",
+          "artist": "Puma Blue",
+          "album": "Croak Dream",
+          "label": "PIAS"
+        },
+        {
+          "time": "6:47pm",
+          "track": "There Goes My Heart",
+          "artist": "Ella Mai",
+          "album": "Do You Still Love Me?",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:49pm",
+          "track": "100",
+          "artist": "Ella Mai",
+          "album": "Do You Still Love Me?",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:53pm",
+          "track": "I Could Get Used to This",
+          "artist": "Jessie Ware",
+          "album": "Superbloom",
+          "label": "EMI"
+        },
+        {
+          "time": "6:58pm",
+          "track": "Miss Me (Tinashe flip)",
+          "artist": "Bomani x Lilturtleshawty",
+          "album": "Miss Me",
+          "label": "n/a"
+        }
+      ]
+    },
+    {
+      "id": "68338",
+      "url": "https://xray.fm/broadcasts/68338",
+      "title": "Ta-Da! - January 17, 2026",
+      "air_date": "1-17-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-01-17_18-00-00.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Cry against the wind",
+          "artist": "Elmiene",
+          "album": "sounds for someone",
+          "label": "polydor"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Reclusive",
+          "artist": "Elmiene",
+          "album": "sounds for someone",
+          "label": "polydor"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Ta Da!",
+          "artist": "Ariel",
+          "album": "Ta Da!",
+          "label": "Self Release"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Marigold",
+          "artist": "Ariel",
+          "album": "Ta Da!",
+          "label": "Self Release"
+        },
+        {
+          "time": "6:14pm",
+          "track": "Oxygen",
+          "artist": "Ariel",
+          "album": "Ta Da!",
+          "label": "Ariel"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Lead it Up",
+          "artist": "GENA",
+          "album": "Single",
+          "label": "Lex Records"
+        },
+        {
+          "time": "6:21pm",
+          "track": "Lean",
+          "artist": "Charlotte Day Wilson & Saya Gray",
+          "album": "Single",
+          "label": "Charlotte Day"
+        },
+        {
+          "time": "6:25pm",
+          "track": "w-w-w-w-w",
+          "artist": "hemlock springs",
+          "album": "the apple tree under the sea",
+          "label": "hemlock"
+        },
+        {
+          "time": "6:31pm",
+          "track": "2SIDED",
+          "artist": "Arlo Parks",
+          "album": "Ambiguous Desire",
+          "label": "Arlo Parks"
+        },
+        {
+          "time": "6:34pm",
+          "track": "Proof",
+          "artist": "Choker",
+          "album": "Heaven ain't sold",
+          "label": "Choker"
+        },
+        {
+          "time": "6:37pm",
+          "track": "Mothers of Riches",
+          "artist": "Michelangelo Dying",
+          "album": "Cate Le Bon",
+          "label": "Mexican Summer"
+        },
+        {
+          "time": "6:41pm",
+          "track": "Hush",
+          "artist": "Puma Blue",
+          "album": "Croak Dream",
+          "label": "PIAS"
+        },
+        {
+          "time": "6:46pm",
+          "track": "Dopamine",
+          "artist": "Robyn",
+          "album": "Sexistential",
+          "label": "Young"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Talk To me",
+          "artist": "Robyn",
+          "album": "Sexistential",
+          "label": "Young"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Your Love",
+          "artist": "Honey Water",
+          "album": "Girlfriend",
+          "label": "Honey Water"
+        },
+        {
+          "time": "6:55pm",
+          "track": "Sideways",
+          "artist": "Honey Water",
+          "album": "Girlfriend",
+          "label": "Honey"
+        },
+        {
+          "time": "6:58pm",
+          "track": "Higher",
+          "artist": "Honey Water",
+          "album": "Girlfriend",
+          "label": "Honey"
+        }
+      ]
+    },
+    {
+      "id": "68195",
+      "url": "https://xray.fm/broadcasts/68195",
+      "title": "Best of 2025, Part 2 - Jan 10, 2026",
+      "air_date": "1-10-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/331eff12-eb68-11ec-954e-0ecc81f4ee58-972x597.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2026-01-10_18-00-00.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "6:01pm",
+          "track": "The Field",
+          "artist": "Blood Orange",
+          "album": "Essex Honey",
+          "label": "RCA"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Moonshine",
+          "artist": "Joviale",
+          "album": "Mount Crystal",
+          "label": "Ghostly International"
+        },
+        {
+          "time": "6:09pm",
+          "track": "idiot in the Park",
+          "artist": "Nourished by Time",
+          "album": "The Passionate Ones",
+          "label": "XL"
+        },
+        {
+          "time": "6:12pm",
+          "track": "Nice to Each Other",
+          "artist": "Olivia Dean",
+          "album": "The art of loving",
+          "label": "Capitol"
+        },
+        {
+          "time": "6:18pm",
+          "track": "Stranger to love",
+          "artist": "dexter in the newsagent",
+          "album": "Time Flies",
+          "label": "dexter"
+        },
+        {
+          "time": "6:20pm",
+          "track": "Montón",
+          "artist": "Tei Shi",
+          "album": "Make believe I make believe",
+          "label": "self-released"
+        },
+        {
+          "time": "6:24pm",
+          "track": "Beam Me Up",
+          "artist": "Jenevieve",
+          "album": "Crysalis",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Weirdo",
+          "artist": "Emma-Jean Thackray",
+          "album": "Weirdo",
+          "label": "Parlophone"
+        },
+        {
+          "time": "6:34pm",
+          "track": "Exit",
+          "artist": "Laurie Torres",
+          "album": "Apres Coup",
+          "label": "Tonal Union"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Slow (feat. Obongjayar)",
+          "artist": "Annahstasia",
+          "album": "Tether",
+          "label": "drink sum wtr"
+        },
+        {
+          "time": "6:42pm",
+          "track": "Porcelana",
+          "artist": "Rosalia",
+          "album": "Lux",
+          "label": "Sony"
+        },
+        {
+          "time": "6:50pm",
+          "track": "Chlorine",
+          "artist": "TOPS",
+          "album": "Bury the Key",
+          "label": "Ghostly International"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Call Me",
+          "artist": "Anna of the North",
+          "album": "No One Knows You Better",
+          "label": "PIAS"
+        },
+        {
+          "time": "6:56pm",
+          "track": "The First Lovesong",
+          "artist": "Jens Lekman",
+          "album": "Songs for Other People's Weddings",
+          "label": "Secretly Canadian"
+        },
+        {
+          "time": "7:00pm",
+          "track": "She Went Astray",
+          "artist": "Brìghde Chaimbeul",
+          "album": "Sunwise",
+          "label": "tak:til/Glitterbeat"
+        }
+      ]
+    },
+    {
+      "id": "68081",
+      "url": "https://xray.fm/broadcasts/68081",
+      "title": "BEST OF 2025, Part 1! (Rerun)",
+      "air_date": "1-3-2026",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/Smerz-Benjamin-Barron-and-Bror-August.png",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-12-27_18-00-00.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Baby!",
+          "artist": "Dijon",
+          "album": "Baby",
+          "label": "Warner"
+        },
+        {
+          "time": "6:05pm",
+          "track": "YUKON",
+          "artist": "Justin Bieber",
+          "album": "SWAG",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Husbands",
+          "artist": "Geese",
+          "album": "Getting Killed",
+          "label": "Partisan"
+        },
+        {
+          "time": "6:16pm",
+          "track": "You Got Time and I Got Money",
+          "artist": "Smerz",
+          "album": "Big City Life",
+          "label": "escho"
+        },
+        {
+          "time": "6:21pm",
+          "track": "Delusional",
+          "artist": "Erika de Casier",
+          "album": "Lifetime",
+          "label": "Independent Jeep"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Playthings",
+          "artist": "Snuggle",
+          "album": "Goodbyehouse",
+          "label": "escho"
+        },
+        {
+          "time": "6:26pm",
+          "track": "thus is why (i don't spring 4 love)",
+          "artist": "Saya Gray",
+          "album": "Saya",
+          "label": "Dirty Hit"
+        },
+        {
+          "time": "6:32pm",
+          "track": "She is My Drug",
+          "artist": "Amaarae",
+          "album": "Black Star",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:36pm",
+          "track": "DtMF",
+          "artist": "Bad Bunny",
+          "album": "Debi Tirar mas Fotos",
+          "label": "Rimas"
+        },
+        {
+          "time": "6:40pm",
+          "track": "What You Need",
+          "artist": "Tems",
+          "album": "Love is a Kingdom",
+          "label": "RCA"
+        },
+        {
+          "time": "6:44pm",
+          "track": "London Summers",
+          "artist": "Odeal",
+          "album": "The Summer That Saved My Life",
+          "label": "OVMBR"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Unconditional",
+          "artist": "JADE",
+          "album": "That's Showbiz Baby!",
+          "label": "RCA"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Sum",
+          "artist": "Rochelle Jordan",
+          "album": "Through the Wall",
+          "label": "Empire"
+        },
+        {
+          "time": "6:56pm",
+          "track": "place of my own",
+          "artist": "Purity Ring",
+          "album": "Purity Ring",
+          "label": "Secretly"
+        }
+      ]
+    },
+    {
+      "id": "67942",
+      "url": "https://xray.fm/broadcasts/67942",
+      "title": "BEST OF 2025, Part 1!",
+      "air_date": "12-27-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/Smerz-Benjamin-Barron-and-Bror-August.png",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-12-27_18-00-00.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Baby!",
+          "artist": "Dijon",
+          "album": "Baby",
+          "label": "Warner"
+        },
+        {
+          "time": "6:05pm",
+          "track": "YUKON",
+          "artist": "Justin Bieber",
+          "album": "SWAG",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Husbands",
+          "artist": "Geese",
+          "album": "Getting Killed",
+          "label": "Partisan"
+        },
+        {
+          "time": "6:16pm",
+          "track": "You Got Time and I Got Money",
+          "artist": "Smerz",
+          "album": "Big City Life",
+          "label": "escho"
+        },
+        {
+          "time": "6:21pm",
+          "track": "Delusional",
+          "artist": "Erika de Casier",
+          "album": "Lifetime",
+          "label": "Independent Jeep"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Playthings",
+          "artist": "Snuggle",
+          "album": "Goodbyehouse",
+          "label": "escho"
+        },
+        {
+          "time": "6:26pm",
+          "track": "thus is why (i don't spring 4 love)",
+          "artist": "Saya Gray",
+          "album": "Saya",
+          "label": "Dirty Hit"
+        },
+        {
+          "time": "6:32pm",
+          "track": "She is My Drug",
+          "artist": "Amaarae",
+          "album": "Black Star",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:36pm",
+          "track": "DtMF",
+          "artist": "Bad Bunny",
+          "album": "Debi Tirar mas Fotos",
+          "label": "Rimas"
+        },
+        {
+          "time": "6:40pm",
+          "track": "What You Need",
+          "artist": "Tems",
+          "album": "Love is a Kingdom",
+          "label": "RCA"
+        },
+        {
+          "time": "6:44pm",
+          "track": "London Summers",
+          "artist": "Odeal",
+          "album": "The Summer That Saved My Life",
+          "label": "OVMBR"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Unconditional",
+          "artist": "JADE",
+          "album": "That's Showbiz Baby!",
+          "label": "RCA"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Sum",
+          "artist": "Rochelle Jordan",
+          "album": "Through the Wall",
+          "label": "Empire"
+        },
+        {
+          "time": "6:56pm",
+          "track": "place of my own",
+          "artist": "Purity Ring",
+          "album": "Purity Ring",
+          "label": "Secretly"
+        }
+      ]
+    },
+    {
+      "id": "67849",
+      "url": "https://xray.fm/broadcasts/67849",
+      "title": "Love You More at Christmas Time - December 20, 2025",
+      "air_date": "12-20-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/200_3.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/kxry2025122018.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "6:05pm",
+          "track": "Santa Claus is Coming To Town",
+          "artist": "Laufey",
+          "album": "A Very Laufey Holiday",
+          "label": "AWAL"
+        },
+        {
+          "time": "6:08pm",
+          "track": "This Christmas",
+          "artist": "Donny Hathaway",
+          "album": "Donny Hathaway",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:12pm",
+          "track": "Joy to the World",
+          "artist": "Whitney Houston",
+          "album": "Preachers Wife Soundtrack",
+          "label": "Arista"
+        },
+        {
+          "time": "6:16pm",
+          "track": "Winter Wonderland",
+          "artist": "Jacob Mann",
+          "album": "Sleigh Ride",
+          "label": "One Minute Records"
+        },
+        {
+          "time": "6:21pm",
+          "track": "Merry Merry Christmas :)",
+          "artist": "Jay Park",
+          "album": ";( Merry Christmas :)",
+          "label": "Roc Nation"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Love You More at Christmas Time",
+          "artist": "Kelly Rowland",
+          "album": "Love You More at Christmas Time",
+          "label": "Universal"
+        },
+        {
+          "time": "6:26pm",
+          "track": "Last Christmas",
+          "artist": "Khalid",
+          "album": "Last Christmas",
+          "label": "RCA"
+        },
+        {
+          "time": "6:29pm",
+          "track": "santa doesn't know you like i do",
+          "artist": "Sabrina Carpenter",
+          "album": "Fruitcake",
+          "label": "Island"
+        },
+        {
+          "time": "6:34pm",
+          "track": "The Christmas Song",
+          "artist": "Olivia Dean",
+          "album": "single",
+          "label": "Universal"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Christmas Time is Here",
+          "artist": "Khruangbin",
+          "album": "single",
+          "label": "Dead Oceans"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Christmas Time is Here",
+          "artist": "Khruangbin",
+          "album": "single",
+          "label": "Dead Oceans"
+        },
+        {
+          "time": "6:41pm",
+          "track": "Sleigh Ride",
+          "artist": "TLC",
+          "album": "single",
+          "label": "BMG"
+        },
+        {
+          "time": "6:46pm",
+          "track": "This Christmas I'm Coming Home",
+          "artist": "Leon Bridges & Norah Jones",
+          "album": "single",
+          "label": "Columbia"
+        },
+        {
+          "time": "6:48pm",
+          "track": "Little Drummer Boy ft. Solange",
+          "artist": "Desiny's Child",
+          "album": "8 Days of Christmas",
+          "label": "Sony"
+        },
+        {
+          "time": "6:51pm",
+          "track": "Have Yourself A Merry Little Christmas",
+          "artist": "Gallant & Jensen McRae",
+          "album": "single",
+          "label": "Warner"
+        },
+        {
+          "time": "6:57pm",
+          "track": "Joy to the World ft. Alex Isley",
+          "artist": "Robert Glasper",
+          "album": "In December",
+          "label": "Loma Vista"
+        }
+      ]
+    },
+    {
+      "id": "67714",
+      "url": "https://xray.fm/broadcasts/67714",
+      "title": "Dec 13, 2025",
+      "air_date": "12-13-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-12-13_18-00-00.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "6:05pm",
+          "track": "PDA",
+          "artist": "Jae Stephens",
+          "album": "Total Sellout",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Afterbody",
+          "artist": "Jae Stephens",
+          "album": "Total Sellout",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:11pm",
+          "track": "Girl Like Me (Kaytranada remix)",
+          "artist": "Pinkpantheress",
+          "album": "Fancy Some More",
+          "label": "Warner"
+        },
+        {
+          "time": "6:16pm",
+          "track": "Nice to Know (Sega Bodega Remix)",
+          "artist": "PinkPantheress",
+          "album": "Fancy Some More?",
+          "label": "Parlaphone"
+        },
+        {
+          "time": "6:16pm",
+          "track": "Romeo (with Ravyn Lanae)",
+          "artist": "PinkPantheress",
+          "album": "Fancy Some More?",
+          "label": "Warner"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Chanel",
+          "artist": "Tyla",
+          "album": "Single",
+          "label": "Tyla"
+        },
+        {
+          "time": "6:25pm",
+          "track": "First",
+          "artist": "Tems",
+          "album": "Love is a Kingdom",
+          "label": "RCA"
+        },
+        {
+          "time": "6:28pm",
+          "track": "I'm Not Sure",
+          "artist": "Tems",
+          "album": "Love is a Kingdom",
+          "label": "RCA"
+        },
+        {
+          "time": "6:30pm",
+          "track": "Big Daddy",
+          "artist": "Tems",
+          "album": "Love is a Kingdom",
+          "label": "RCA"
+        },
+        {
+          "time": "6:33pm",
+          "track": "Is There a Reason",
+          "artist": "Tems",
+          "album": "Love is a Kingdom",
+          "label": "RCA"
+        },
+        {
+          "time": "6:35pm",
+          "track": "Cry Against the Wind",
+          "artist": "Elmiene",
+          "album": "Single",
+          "label": "Polydor"
+        },
+        {
+          "time": "6:41pm",
+          "track": "COCONUT (feat. Eem Triplin)",
+          "artist": "SAILORR & Eem Triplin",
+          "album": "From Floridas Finest Deluxxx",
+          "label": "Sailorr"
+        },
+        {
+          "time": "6:43pm",
+          "track": "Grrl's Grrl",
+          "artist": "Sailorr",
+          "album": "From Floridas Finest Deluxxx",
+          "label": "Sailorr"
+        },
+        {
+          "time": "6:46pm",
+          "track": "Cut Up",
+          "artist": "Sailorr",
+          "album": "From Floridas Finest Deluxxx",
+          "label": "Sailorr"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Ur Mother's Son",
+          "artist": "Sailorr",
+          "album": "From Floridas Finest Deluxxx",
+          "label": "Sailorr"
+        },
+        {
+          "time": "6:51pm",
+          "track": "Imperfections",
+          "artist": "Jelisa & Ovall",
+          "album": "Single",
+          "label": "Jelisa"
+        },
+        {
+          "time": "6:57pm",
+          "track": "Is it Alright? (ft Joyce Wrice)",
+          "artist": "Jaz Karis & 3ee",
+          "album": "Single",
+          "label": "Jaz Karis"
+        }
+      ]
+    },
+    {
+      "id": "67601",
+      "url": "https://xray.fm/broadcasts/67601",
+      "title": "Can I Take You Picture? - Dec 6, 2025",
+      "air_date": "12-6-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-12-06_18-00-00.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Bumpy",
+          "artist": "Oneohtrix Point Never",
+          "album": "Tranquilizer",
+          "label": "Warp"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Fear of Symmetry",
+          "artist": "Oneohtrix Point Never",
+          "album": "Tranquilizer",
+          "label": "Warp"
+        },
+        {
+          "time": "6:10pm",
+          "track": "All Together Quietly",
+          "artist": "Loris S. Sarid",
+          "album": "Ambient $",
+          "label": "Moon Glyph"
+        },
+        {
+          "time": "6:14pm",
+          "track": "Southside Broadway",
+          "artist": "Loris S. Sarid",
+          "album": "Ambient $",
+          "label": "Moon Glyph"
+        },
+        {
+          "time": "6:17pm",
+          "track": "Corner Of My Eye",
+          "artist": "Floating Points",
+          "album": "Single",
+          "label": "Pluto"
+        },
+        {
+          "time": "6:25pm",
+          "track": "Croak Dream",
+          "artist": "Puma Blue",
+          "album": "Croak Dream",
+          "label": "PIAS"
+        },
+        {
+          "time": "6:31pm",
+          "track": "Desire",
+          "artist": "Puma Blue",
+          "album": "Croak Dream",
+          "label": "PIAS"
+        },
+        {
+          "time": "6:34pm",
+          "track": "High Road",
+          "artist": "Charlotte Day Wilson",
+          "album": "Single",
+          "label": "XL"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Selfish",
+          "artist": "Charlotte Day Wilson",
+          "album": "single",
+          "label": "XL"
+        },
+        {
+          "time": "6:43pm",
+          "track": "Boyfriend Forever",
+          "artist": "Jae Stephens",
+          "album": "Total Sellout",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:46pm",
+          "track": "Him&Him&Him",
+          "artist": "Jae Stephens",
+          "album": "Total Sellout",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:48pm",
+          "track": "Precious",
+          "artist": "Jae Stephens",
+          "album": "Total Sellout",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:52pm",
+          "track": "All Your Trust",
+          "artist": "Jahkoy",
+          "album": "90 Day Trial",
+          "label": "mocking bird"
+        },
+        {
+          "time": "6:55pm",
+          "track": "Can I take your picture?",
+          "artist": "Jahkoy",
+          "album": "90 Day Trial",
+          "label": "mocking bird"
+        },
+        {
+          "time": "6:58pm",
+          "track": "Mine",
+          "artist": "Tems",
+          "album": "Love is A Kingdom",
+          "label": "RCA"
+        }
+      ]
+    },
+    {
+      "id": "67490",
+      "url": "https://xray.fm/broadcasts/67490",
+      "title": "Take Me Dancing!  October 4, 2025 (Rerun)",
+      "air_date": "11-29-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/nogg.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-10-04_18-00-00.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "6:01pm",
+          "track": "Take Me Dancing ft. SZA",
+          "artist": "Doja Cat",
+          "album": "Vie",
+          "label": "RCA"
+        },
+        {
+          "time": "6:05pm",
+          "track": "Gorgeous",
+          "artist": "Doja Cat",
+          "album": "Vie",
+          "label": "RCA"
+        },
+        {
+          "time": "6:09pm",
+          "track": "Lady Lady",
+          "artist": "Olivia Dean",
+          "album": "The Art of Loving",
+          "label": "Capitol"
+        },
+        {
+          "time": "6:12pm",
+          "track": "A Couple Minutes",
+          "artist": "Olivia Dean",
+          "album": "The Art of Loving",
+          "label": "Capitol"
+        },
+        {
+          "time": "6:18pm",
+          "track": "Josephine",
+          "artist": "Daphni",
+          "album": "Josephine - EP",
+          "label": "Daphni"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Sad Piano House",
+          "artist": "Daphni",
+          "album": "Josephine - EP",
+          "label": "Daphni"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Words 2 Say",
+          "artist": "Rochelle Jordan",
+          "album": "Through The Wall",
+          "label": "Empire"
+        },
+        {
+          "time": "6:30pm",
+          "track": "Bite the Bait",
+          "artist": "Rochelle Jordan",
+          "album": "Through the Wall",
+          "label": "Rochelle"
+        },
+        {
+          "time": "6:35pm",
+          "track": "Just How You Are",
+          "artist": "Leon Thomas",
+          "album": "PHOLKS",
+          "label": "Leon Thomas"
+        },
+        {
+          "time": "6:39pm",
+          "track": "Disarray",
+          "artist": "Lianne La Havas",
+          "album": "Single",
+          "label": "Lianne La Havas"
+        },
+        {
+          "time": "6:44pm",
+          "track": "Green Juice",
+          "artist": "Anaiis",
+          "album": "Devotion & The Black Divine",
+          "label": "Dream Sequence"
+        },
+        {
+          "time": "6:49pm",
+          "track": "You Look at Me Like Art",
+          "artist": "Micaela Young",
+          "album": "Single",
+          "label": "Self Release"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Oh Snap",
+          "artist": "Cecile Mclorin Salvant",
+          "album": "Oh Snap",
+          "label": "Nonesuch"
+        }
+      ]
+    },
+    {
+      "id": "67371",
+      "url": "https://xray.fm/broadcasts/67371",
+      "title": "Love is a Kingdom - November 22, 2025",
+      "air_date": "11-22-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/giphy-1_7.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-11-22_18-00-00.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "6:04pm",
+          "track": "What You Need",
+          "artist": "Tems",
+          "album": "Love is a Kingdom",
+          "label": "RCA"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Lagos Love",
+          "artist": "Tems",
+          "album": "Love is a Kingdom",
+          "label": "RCA"
+        },
+        {
+          "time": "6:12pm",
+          "track": "Nights In The Sun (feat. Wizkid)",
+          "artist": "Odeal",
+          "album": "The falls that saved us",
+          "label": "Ovmbr"
+        },
+        {
+          "time": "6:14pm",
+          "track": "Give Me More",
+          "artist": "Obongjayar",
+          "album": "Paradise Now & Forever",
+          "label": "September Records"
+        },
+        {
+          "time": "6:19pm",
+          "track": "No",
+          "artist": "Summer Walker",
+          "album": "Finally Over It",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Finally Over It",
+          "artist": "Summer Walker",
+          "album": "Finally Over It",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:24pm",
+          "track": "Situationship",
+          "artist": "Summer Walker",
+          "album": "Finally Over It",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:26pm",
+          "track": "Stranger to love",
+          "artist": "dexter in the newsagent",
+          "album": "Time Flies",
+          "label": "dexter"
+        },
+        {
+          "time": "6:31pm",
+          "track": "Can't Find Her",
+          "artist": "EJ Ross & Jay Versace",
+          "album": "single",
+          "label": "self-released"
+        },
+        {
+          "time": "6:33pm",
+          "track": "Make Me Feel",
+          "artist": "Sabri",
+          "album": "What I feel now",
+          "label": "Empire"
+        },
+        {
+          "time": "6:37pm",
+          "track": "Painting The Wall",
+          "artist": "Miles.",
+          "album": "Esotericism",
+          "label": "November Boy"
+        },
+        {
+          "time": "6:42pm",
+          "track": "Dopamine",
+          "artist": "Robyn",
+          "album": "single",
+          "label": "Konichiwa"
+        },
+        {
+          "time": "6:46pm",
+          "track": "Siren is Out of Reach",
+          "artist": "Shygirl & TDJ",
+          "album": "Alias is Me",
+          "label": "Because"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Trilogy ft. Malibu",
+          "artist": "Ange Halliwell",
+          "album": "Spirit are you here?",
+          "label": "Ange Halliwell"
+        }
+      ]
+    },
+    {
+      "id": "67260",
+      "url": "https://xray.fm/broadcasts/67260",
+      "title": "No One Knows You Better - Nov 15, 2025",
+      "air_date": "11-15-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/animesher.com_anime-friends-haruchika-gif-1335588.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-11-15_18-00-00.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "6:03pm",
+          "track": "Sushi",
+          "artist": "FKA Twigs",
+          "album": "Eusexua Afterglow",
+          "label": "Young Turks"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Brown Sugah",
+          "artist": "Isaiah Falls",
+          "album": "Lucky You",
+          "label": "LVRS"
+        },
+        {
+          "time": "6:09pm",
+          "track": "Twin",
+          "artist": "2BYG",
+          "album": "The Yearbook",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:17pm",
+          "track": "No One Knows You Better",
+          "artist": "Anna of the North",
+          "album": "No One Knows You Better",
+          "label": "PIAS"
+        },
+        {
+          "time": "6:20pm",
+          "track": "Call Me",
+          "artist": "Anna of the North",
+          "album": "No One Know You Better",
+          "label": "PIAS"
+        },
+        {
+          "time": "6:24pm",
+          "track": "3AM in San Francisco",
+          "artist": "Lolo Zouaï",
+          "album": "single",
+          "label": "Because Music"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Chains of Love",
+          "artist": "Charli XCX",
+          "album": "Wuthering Heights",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:30pm",
+          "track": "House",
+          "artist": "Charli XCX & John Cale",
+          "album": "Wuthering Heights",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:38pm",
+          "track": "People Everywhere II",
+          "artist": "Khruangbin",
+          "album": "The Universe Smiles Upon You II",
+          "label": "Night Time Stories"
+        },
+        {
+          "time": "6:42pm",
+          "track": "A Title Comes",
+          "artist": "Tortoise",
+          "album": "Touch",
+          "label": "Nonesuch"
+        },
+        {
+          "time": "6:46pm",
+          "track": "Thank You",
+          "artist": "Cecile Mclorin Savant",
+          "album": "Oh Snap",
+          "label": "Nonesuch"
+        },
+        {
+          "time": "6:53pm",
+          "track": "Special",
+          "artist": "dexter in the newsagent",
+          "album": "Time Flies",
+          "label": "dexter"
+        },
+        {
+          "time": "6:56pm",
+          "track": "Did You Try",
+          "artist": "dexter in the newsagent",
+          "album": "Time Flies",
+          "label": "dexter"
+        }
+      ]
+    },
+    {
+      "id": "67150",
+      "url": "https://xray.fm/broadcasts/67150",
+      "title": "Lux - November 8, 2025",
+      "air_date": "11-8-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/00-promo-rosalia.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-11-08_18-00-00.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "6:05pm",
+          "track": "Diviniza",
+          "artist": "Rosalia",
+          "album": "Lux",
+          "label": "Sony"
+        },
+        {
+          "time": "6:09pm",
+          "track": "Porcelana",
+          "artist": "Rosalia",
+          "album": "Lux",
+          "label": "Sony"
+        },
+        {
+          "time": "6:14pm",
+          "track": "La Yuglar",
+          "artist": "Rosalia",
+          "album": "Lux",
+          "label": "Sony"
+        },
+        {
+          "time": "6:20pm",
+          "track": "Easy (Astrid Sonne EDIT)",
+          "artist": "Smerz",
+          "album": "Big City Life EDITS",
+          "label": "escho"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Close (Clarissa Connelly EDIT)",
+          "artist": "Smerz",
+          "album": "Big City Life EDITS",
+          "label": "escho"
+        },
+        {
+          "time": "6:27pm",
+          "track": "You got time and I got money (feat. Clairo) [VVTZJ EDIT]",
+          "artist": "SMERZ",
+          "album": "Big City Life EDITS",
+          "label": "escho"
+        },
+        {
+          "time": "6:33pm",
+          "track": "Selfish",
+          "artist": "Charlotte Day Wilson",
+          "album": "single",
+          "label": "XL"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Cumulus / Memory",
+          "artist": "Sampha",
+          "album": "single",
+          "label": "Young Turks"
+        },
+        {
+          "time": "6:45pm",
+          "track": "No good",
+          "artist": "Monte Booker",
+          "album": "Noise (meaning)",
+          "label": "EQT"
+        },
+        {
+          "time": "6:48pm",
+          "track": "Planets",
+          "artist": "Monte Booker",
+          "album": "Noise (meaning)",
+          "label": "EQT"
+        },
+        {
+          "time": "6:53pm",
+          "track": "Art Museum (2am)",
+          "artist": "Cautious Clay",
+          "album": "The Hours: Night",
+          "label": "Fantasy Records"
+        },
+        {
+          "time": "6:55pm",
+          "track": "Alchemy (3am)",
+          "artist": "Cautious Clay",
+          "album": "The Hours: Night",
+          "label": "Fantasy Records"
+        },
+        {
+          "time": "6:58pm",
+          "track": "Spin the Block",
+          "artist": "Masego",
+          "album": "single",
+          "label": "Capitol"
+        }
+      ]
+    },
+    {
+      "id": "67021",
+      "url": "https://xray.fm/broadcasts/67021",
+      "title": "I Miss the Way You Swim - Nov 1, 2025",
+      "air_date": "11-1-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/tumblr_mxsgh10THD1sax5fho4_500.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-11-01_18-00-00.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "6:03pm",
+          "track": "devotions",
+          "artist": "KeiyaA",
+          "album": "hooke's law",
+          "label": "XL"
+        },
+        {
+          "time": "6:07pm",
+          "track": "nobody show",
+          "artist": "keiyaA",
+          "album": "hooke's law",
+          "label": "XL"
+        },
+        {
+          "time": "6:12pm",
+          "track": "Desire",
+          "artist": "Puma Blue",
+          "album": "Croak Dream",
+          "label": "Play it Again Sam"
+        },
+        {
+          "time": "6:13pm",
+          "track": "Baby!",
+          "artist": "Dijon",
+          "album": "Baby",
+          "label": "Warner"
+        },
+        {
+          "time": "6:20pm",
+          "track": "lost in devotion",
+          "artist": "Carly Rae Jepsen",
+          "album": "Emotion (10th Anniversary)",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Run Away With Me (Rostam Remix)",
+          "artist": "Carly Rae Jepsen",
+          "album": "Emotion (10th Anniversary)",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Guardian Angel",
+          "artist": "Carly Rae Jepsen",
+          "album": "Emotion (10th Anniversary)",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:35pm",
+          "track": "What's Good",
+          "artist": "Oklou",
+          "album": "Choke enough (deluxe)",
+          "label": "True Panther"
+        },
+        {
+          "time": "6:36pm",
+          "track": "Baby",
+          "artist": "Gabriel Jacoby",
+          "album": "single",
+          "label": "Concord"
+        },
+        {
+          "time": "6:39pm",
+          "track": "Kjj",
+          "artist": "Actress",
+          "album": "Tranzkript 1",
+          "label": "Modern Obscure Music"
+        },
+        {
+          "time": "6:45pm",
+          "track": "Jellyfish",
+          "artist": "Sigrid",
+          "album": "There's Always More that I Could Say",
+          "label": "EMI"
+        },
+        {
+          "time": "6:48pm",
+          "track": "broken well",
+          "artist": "Purity RIng",
+          "album": "Purity Ring",
+          "label": "4AD"
+        },
+        {
+          "time": "6:51pm",
+          "track": "I Miss The Way You Swim",
+          "artist": "Kaitlyn Aurelia Smith",
+          "album": "I Miss The Way You Swim",
+          "label": "Ghostly International"
+        }
+      ]
+    },
+    {
+      "id": "66901",
+      "url": "https://xray.fm/broadcasts/66901",
+      "title": "OCTOBER 28, 2023 - SPOOKY SEASON! (Rerun)",
+      "air_date": "10-25-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/black-cat-animated.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2023-10-28_18-00-00.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "6:04pm",
+          "track": "Frankenstein",
+          "artist": "Rina Sawayama",
+          "album": "Hold the Girl",
+          "label": "Dirty Hit"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Bury A Friend",
+          "artist": "Billie Eilish",
+          "album": "When We All Fall Asleep, Where Do We Go?",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:11pm",
+          "track": "Vampire",
+          "artist": "Olivia Rodrigo",
+          "album": "Guts",
+          "label": "Geffen"
+        },
+        {
+          "time": "6:14pm",
+          "track": "Zombies",
+          "artist": "Childish Gambino",
+          "album": "Awaken my Love",
+          "label": "AWAL"
+        },
+        {
+          "time": "6:24pm",
+          "track": "Haunted Water",
+          "artist": "SPELLLING",
+          "album": "Mazy Fly",
+          "label": "Sacred Bones"
+        },
+        {
+          "time": "6:28pm",
+          "track": "Amaryllis",
+          "artist": "Lydia Ainsworth",
+          "album": "Sparkles & Debris",
+          "label": "Zombie Cat"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Under Ice",
+          "artist": "Kate Bush",
+          "album": "Hounds of Love",
+          "label": "EMI"
+        },
+        {
+          "time": "6:34pm",
+          "track": "In Templum Dei",
+          "artist": "Jozef van Wissem (ft. Zola Jesus)",
+          "album": "Only Lovers Left Alive OST",
+          "label": "ATP Recordings"
+        },
+        {
+          "time": "6:42pm",
+          "track": "Dancing Circles",
+          "artist": "Sampha",
+          "album": "Lahai",
+          "label": "Young Turks"
+        },
+        {
+          "time": "6:46pm",
+          "track": "Suspended",
+          "artist": "Sampha",
+          "album": "Lahai",
+          "label": "Young Turks"
+        },
+        {
+          "time": "6:48pm",
+          "track": "Evidence",
+          "artist": "Sampha",
+          "album": "Lahai",
+          "label": "Young Turks"
+        },
+        {
+          "time": "6:54pm",
+          "track": "I Put A Spell On You [Cover]",
+          "artist": "IZA",
+          "album": "single",
+          "label": "Warner Music Brazil"
+        },
+        {
+          "time": "6:57pm",
+          "track": "Dracula's Wedding (Ft. Kelis)",
+          "artist": "Andre 3000",
+          "album": "Speakerboxx / The Love Below",
+          "label": "Arista"
+        }
+      ]
+    },
+    {
+      "id": "66744",
+      "url": "https://xray.fm/broadcasts/66744",
+      "title": "Prism Drift - Oct 18th, 2025",
+      "air_date": "10-18-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/200w_5.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-10-18_18-00-00.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "6:06pm",
+          "track": "The Line",
+          "artist": "D'Angelo",
+          "album": "Voodoo",
+          "label": "Virgin"
+        },
+        {
+          "time": "6:12pm",
+          "track": "Send it On",
+          "artist": "D'Angelo",
+          "album": "Voodoo",
+          "label": "Virgin"
+        },
+        {
+          "time": "6:17pm",
+          "track": "Chicken Grease",
+          "artist": "D'Angelo",
+          "album": "Voodoo",
+          "label": "Virgin Records"
+        },
+        {
+          "time": "6:28pm",
+          "track": "COME AND FIND YOU",
+          "artist": "Sudan Archives",
+          "album": "The BPM",
+          "label": "Stones Throw"
+        },
+        {
+          "time": "6:30pm",
+          "track": "whenever you're gone",
+          "artist": "Khalid",
+          "album": "after the sun goes down",
+          "label": "RCA"
+        },
+        {
+          "time": "6:34pm",
+          "track": "Sum",
+          "artist": "Rochelle Jordan",
+          "album": "Through the Wall",
+          "label": "Empire"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Doing it Too",
+          "artist": "Rochelle Jordan",
+          "album": "Through the Wall",
+          "label": "Empire"
+        },
+        {
+          "time": "6:46pm",
+          "track": "Grand Prix",
+          "artist": "Nala Sinephro",
+          "album": "The Smashing Machine",
+          "label": "Warp"
+        },
+        {
+          "time": "6:50pm",
+          "track": "Protector",
+          "artist": "Helado Negro",
+          "album": "The Last Sound on Earth",
+          "label": "big DADA"
+        },
+        {
+          "time": "6:54pm",
+          "track": "SESSA",
+          "artist": "Nome de deus",
+          "album": "Peqeuena Vertigem de amor",
+          "label": "Mexican Summer"
+        },
+        {
+          "time": "6:57pm",
+          "track": "Prism Drift",
+          "artist": "Kelly Moran",
+          "album": "Don't Trust Mirrors",
+          "label": "Warp"
+        }
+      ]
+    },
+    {
+      "id": "66632",
+      "url": "https://xray.fm/broadcasts/66632",
+      "title": "Fancy Some More - October 11, 2025",
+      "air_date": "10-11-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/https---images.genius.com-f3eff0988933e71aba2424313b12fe59.1000x1000x1.png",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-10-11_18-00-00.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "6:06pm",
+          "track": "Romeo ft. Ravyn Lenae",
+          "artist": "PinkPantheress",
+          "album": "Fancy Some More",
+          "label": "Warner"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Romeo ft. Ravyn Lenae",
+          "artist": "PinkPantheress",
+          "album": "Fancy Some More",
+          "label": "Warner"
+        },
+        {
+          "time": "6:09pm",
+          "track": "Illegal ft. Anitta",
+          "artist": "PinkPantheress",
+          "album": "Fancy Some More",
+          "label": "Warner"
+        },
+        {
+          "time": "6:11pm",
+          "track": "Girl Like Me (Kaytranada remix)",
+          "artist": "Pinkpantheress",
+          "album": "Fancy Some More",
+          "label": "Warner"
+        },
+        {
+          "time": "6:17pm",
+          "track": "Stateside ft. Bladee",
+          "artist": "PinkPantheress",
+          "album": "Fancy Some More",
+          "label": "Warner"
+        },
+        {
+          "time": "6:26pm",
+          "track": "Disco Life",
+          "artist": "Say She She",
+          "album": "Cut and Rewind",
+          "label": "Karma Chief"
+        },
+        {
+          "time": "6:29pm",
+          "track": "She Who Dares",
+          "artist": "Say She She",
+          "album": "Cut and Rewind",
+          "label": "Karma Chief"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Play This Song ft. Anderson .Paak",
+          "artist": "Mariah Carey",
+          "album": "Here for It All",
+          "label": "Mariah"
+        },
+        {
+          "time": "6:36pm",
+          "track": "nah",
+          "artist": "Khalid",
+          "album": "after the sun goes down",
+          "label": "RCA"
+        },
+        {
+          "time": "6:43pm",
+          "track": "Different Places ft. John the Blind",
+          "artist": "Amber Mark",
+          "album": "Pretty Idea",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:46pm",
+          "track": "Ooo",
+          "artist": "Amber Mark",
+          "album": "Pretty Idea",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:51pm",
+          "track": "Roll the Dice",
+          "artist": "Smerz",
+          "album": "Big City Life",
+          "label": "escho"
+        },
+        {
+          "time": "6:53pm",
+          "track": "the long night",
+          "artist": "Purity Ring",
+          "album": "Purity Ring",
+          "label": "4AD"
+        },
+        {
+          "time": "6:56pm",
+          "track": "red the sunrise",
+          "artist": "Purity Ring",
+          "album": "Purity Ring",
+          "label": "4AD"
+        }
+      ]
+    },
+    {
+      "id": "66502",
+      "url": "https://xray.fm/broadcasts/66502",
+      "title": "Take Me Dancing!  October 4, 2025",
+      "air_date": "10-4-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/nogg.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-10-04_18-00-00.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "6:01pm",
+          "track": "Take Me Dancing ft. SZA",
+          "artist": "Doja Cat",
+          "album": "Vie",
+          "label": "RCA"
+        },
+        {
+          "time": "6:05pm",
+          "track": "Gorgeous",
+          "artist": "Doja Cat",
+          "album": "Vie",
+          "label": "RCA"
+        },
+        {
+          "time": "6:09pm",
+          "track": "Lady Lady",
+          "artist": "Olivia Dean",
+          "album": "The Art of Loving",
+          "label": "Capitol"
+        },
+        {
+          "time": "6:12pm",
+          "track": "A Couple Minutes",
+          "artist": "Olivia Dean",
+          "album": "The Art of Loving",
+          "label": "Capitol"
+        },
+        {
+          "time": "6:18pm",
+          "track": "Josephine",
+          "artist": "Daphni",
+          "album": "Josephine - EP",
+          "label": "Daphni"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Sad Piano House",
+          "artist": "Daphni",
+          "album": "Josephine - EP",
+          "label": "Daphni"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Words 2 Say",
+          "artist": "Rochelle Jordan",
+          "album": "Through The Wall",
+          "label": "Empire"
+        },
+        {
+          "time": "6:30pm",
+          "track": "Bite the Bait",
+          "artist": "Rochelle Jordan",
+          "album": "Through the Wall",
+          "label": "Rochelle"
+        },
+        {
+          "time": "6:35pm",
+          "track": "Just How You Are",
+          "artist": "Leon Thomas",
+          "album": "PHOLKS",
+          "label": "Leon Thomas"
+        },
+        {
+          "time": "6:39pm",
+          "track": "Disarray",
+          "artist": "Lianne La Havas",
+          "album": "Single",
+          "label": "Lianne La Havas"
+        },
+        {
+          "time": "6:44pm",
+          "track": "Green Juice",
+          "artist": "Anaiis",
+          "album": "Devotion & The Black Divine",
+          "label": "Dream Sequence"
+        },
+        {
+          "time": "6:49pm",
+          "track": "You Look at Me Like Art",
+          "artist": "Micaela Young",
+          "album": "Single",
+          "label": "Self Release"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Oh Snap",
+          "artist": "Cecile Mclorin Salvant",
+          "album": "Oh Snap",
+          "label": "Nonesuch"
+        }
+      ]
+    },
+    {
+      "id": "66392",
+      "url": "https://xray.fm/broadcasts/66392",
+      "title": "September 27, 2025",
+      "air_date": "9-27-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-09-27_18-00-00.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Sum",
+          "artist": "Rochelle Jordan",
+          "album": "Through the Wall",
+          "label": "Empire"
+        },
+        {
+          "time": "6:05pm",
+          "track": "Never Enough",
+          "artist": "Rochelle Jordan",
+          "album": "Through the Wall",
+          "label": "Empire"
+        },
+        {
+          "time": "6:09pm",
+          "track": "Deus Deus",
+          "artist": "anaiis",
+          "album": "Devoition & the Black Devine",
+          "label": "Dream Sequence"
+        },
+        {
+          "time": "6:13pm",
+          "track": "Moonlight",
+          "artist": "anaiis",
+          "album": "Devotion & the Black Divine",
+          "label": "Dream Sequence"
+        },
+        {
+          "time": "6:20pm",
+          "track": "i am a volcano",
+          "artist": "Cecile McLorin Salvant",
+          "album": "Oh Snap",
+          "label": "Nonesuch"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Anything but now",
+          "artist": "Cecile McLorin Salvant",
+          "album": "Oh Snap",
+          "label": "Nonesuch"
+        },
+        {
+          "time": "6:25pm",
+          "track": "Second guessing",
+          "artist": "Cecile McLorin Salvant",
+          "album": "Oh Snap",
+          "label": "Nonesuch"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Beam",
+          "artist": "Joviale",
+          "album": "Mount Crystal",
+          "label": "Ghostly International"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Safe ft. Kehlani",
+          "artist": "Cardi B",
+          "album": "Am I the Drama?",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:35pm",
+          "track": "Nice ft. Tyla",
+          "artist": "Cardi B",
+          "album": "Am I the Drama?",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:39pm",
+          "track": "Shower Tears ft. Summer Walker",
+          "artist": "Cardi B",
+          "album": "Am I the Drama?",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:42pm",
+          "track": "One More Time",
+          "artist": "Doja Cat",
+          "album": "Vie",
+          "label": "Doja Cat"
+        },
+        {
+          "time": "6:46pm",
+          "track": "Vacancy",
+          "artist": "Ari Lennox",
+          "album": "Single",
+          "label": "Ari Lennox"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Carmen",
+          "artist": "Joy Crookes",
+          "album": "Juniper",
+          "label": "Sony"
+        },
+        {
+          "time": "6:53pm",
+          "track": "Brave",
+          "artist": "Joy Crookes",
+          "album": "Juniper",
+          "label": "Sony"
+        },
+        {
+          "time": "6:56pm",
+          "track": "Give Me A Smile",
+          "artist": "Elmiene",
+          "album": "Heat the Streets",
+          "label": "Elmiene"
+        }
+      ]
+    },
+    {
+      "id": "66266",
+      "url": "https://xray.fm/broadcasts/66266",
+      "title": "That's Showbiz Baby! - September 20, 2025",
+      "air_date": "9-20-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/IMG_1785.jpeg",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-09-20_18-00-00.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Backseat",
+          "artist": "Bakar",
+          "album": "BEASTIE",
+          "label": "Warp"
+        },
+        {
+          "time": "6:05pm",
+          "track": "I got a lot to learn chat",
+          "artist": "Bakar",
+          "album": "BEASTIE",
+          "label": "Warp"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Lonyo!",
+          "artist": "Bakar",
+          "album": "BEASTIE",
+          "label": "Warp"
+        },
+        {
+          "time": "6:11pm",
+          "track": "imanocean",
+          "artist": "Purity Ring",
+          "album": "purity ring",
+          "label": "4AD"
+        },
+        {
+          "time": "6:17pm",
+          "track": "Unconditional",
+          "artist": "JADE",
+          "album": "That's Showbiz Baby!",
+          "label": "RCA"
+        },
+        {
+          "time": "6:20pm",
+          "track": "Before You Break My Heart",
+          "artist": "JADE",
+          "album": "That's Showbiz Baby!",
+          "label": "RCA"
+        },
+        {
+          "time": "6:24pm",
+          "track": "Rainy Days",
+          "artist": "Mariah the Scientist",
+          "album": "Hearts Sold Separately",
+          "label": "Epic"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Waiting for Love",
+          "artist": "Anna of the North",
+          "album": "single",
+          "label": "PIAS"
+        },
+        {
+          "time": "6:34pm",
+          "track": "Marigold",
+          "artist": "Snuggle",
+          "album": "Goodbyehouse",
+          "label": "escho"
+        },
+        {
+          "time": "6:37pm",
+          "track": "Playthings",
+          "artist": "Snuggle",
+          "album": "Goodbyehouse",
+          "label": "escho"
+        },
+        {
+          "time": "6:40pm",
+          "track": "The First Lovesong",
+          "artist": "Jens Lekman",
+          "album": "Songs for Other People's Weddings",
+          "label": "Secretly Canadian"
+        },
+        {
+          "time": "6:44pm",
+          "track": "Candy From A Stranger",
+          "artist": "Jens Lekman",
+          "album": "Songs for Other People's Weddings",
+          "label": "Secretly Canadian"
+        },
+        {
+          "time": "6:51pm",
+          "track": "Echo in the Field",
+          "artist": "Kelly Moran",
+          "album": "Don't Trust Mirrors",
+          "label": "Warp"
+        },
+        {
+          "time": "6:55pm",
+          "track": "Serpentine",
+          "artist": "Disiniblud (Rachika Nayar, Nina Keith, Cassandra Croft)",
+          "album": "Disiniblud",
+          "label": "Smugglers Way"
+        }
+      ]
+    },
+    {
+      "id": "66173",
+      "url": "https://xray.fm/broadcasts/66173",
+      "title": "Cry About It! - September 13, 2025",
+      "air_date": "9-13-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/a90fe21457dbc5d06b8579d55d7cbda1.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-09-13_18-00-00.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "6:06pm",
+          "track": "Moonshine",
+          "artist": "Joviale",
+          "album": "Mount Crystal",
+          "label": "Ghostly"
+        },
+        {
+          "time": "6:11pm",
+          "track": "Heavy",
+          "artist": "Joviale",
+          "album": "Mount Crystal",
+          "label": "Ghostly"
+        },
+        {
+          "time": "6:14pm",
+          "track": "I think you're special ft. Tems",
+          "artist": "Justin Bieber",
+          "album": "Swag II",
+          "label": "Def Jam"
+        },
+        {
+          "time": "6:18pm",
+          "track": "Monton",
+          "artist": "Tei Shi",
+          "album": "Make believe I make believe",
+          "label": "self-released"
+        },
+        {
+          "time": "6:21pm",
+          "track": "Iris",
+          "artist": "Tei Shi",
+          "album": "Mkae believe I make believe",
+          "label": "self-released"
+        },
+        {
+          "time": "6:24pm",
+          "track": "Call on Me",
+          "artist": "Daniel Caesar",
+          "album": "single",
+          "label": "Republic"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Slapped By My Life",
+          "artist": "Jessy Lanza",
+          "album": "single",
+          "label": "Hyperdub"
+        },
+        {
+          "time": "6:31pm",
+          "track": "Get Out Of Your Hair (feat. Sunni Colón)",
+          "artist": "Peyton",
+          "album": "Au",
+          "label": "Stones Throw"
+        },
+        {
+          "time": "6:34pm",
+          "track": "Eye Love ft. Brian Alexander Morgan",
+          "artist": "Peyton",
+          "album": "Au",
+          "label": "Stones Throw"
+        },
+        {
+          "time": "6:37pm",
+          "track": "Hey There (with Baby Rose)",
+          "artist": "Cuco",
+          "album": "Ridin' (Deluxe)",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:41pm",
+          "track": "I Can Go (feat. Mabe Fratti & Mustafa)",
+          "artist": "Blood Orange",
+          "album": "Essex Honey",
+          "label": "RCA"
+        },
+        {
+          "time": "6:47pm",
+          "track": "Cry about it! (feat. Ravyn Lenae)",
+          "artist": "Kali Uchis",
+          "album": "single",
+          "label": "Capitol"
+        },
+        {
+          "time": "6:50pm",
+          "track": "rain...",
+          "artist": "Queen Naija",
+          "album": "single",
+          "label": "Capitol"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Burning Blue",
+          "artist": "Mariah the Scientist",
+          "album": "Hearts Sold Separately",
+          "label": "Epic"
+        },
+        {
+          "time": "6:55pm",
+          "track": "All I Want + In Pursuit",
+          "artist": "Mariah the Scientist",
+          "album": "Hearts Sold Separately",
+          "label": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "66058",
+      "url": "https://xray.fm/broadcasts/66058",
+      "title": "It's lovely, come on in - September 6, 2025",
+      "air_date": "9-6-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/beca26f50d2c9257583413266d874274.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-09-06_18-00-00.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "6:03pm",
+          "track": "Snow",
+          "artist": "Joviale",
+          "album": "Mount Crystal",
+          "label": "Ghostly"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Hark!",
+          "artist": "Joviale",
+          "album": "Mounty Crystal",
+          "label": "Ghostly"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Horseshow",
+          "artist": "Thredd",
+          "album": "It's lovely, come on in",
+          "label": "Scenic Route"
+        },
+        {
+          "time": "6:13pm",
+          "track": "And you and me",
+          "artist": "Valiant Vermin",
+          "album": "single",
+          "label": "self-released"
+        },
+        {
+          "time": "6:18pm",
+          "track": "Incomprehensible",
+          "artist": "Big Thief",
+          "album": "Double Infinity",
+          "label": "4AD"
+        },
+        {
+          "time": "6:21pm",
+          "track": "Grandmother ft. Laraaji",
+          "artist": "Big Thief",
+          "album": "Double Infinity",
+          "label": "4AD"
+        },
+        {
+          "time": "6:28pm",
+          "track": "Your Ride",
+          "artist": "TOPS",
+          "album": "Bury the Key",
+          "label": "Ghostly"
+        },
+        {
+          "time": "6:31pm",
+          "track": "Standing at the Edge of Fire",
+          "artist": "TOPS",
+          "album": "Bury the Key",
+          "label": "Ghostly"
+        },
+        {
+          "time": "6:36pm",
+          "track": "Damage Control",
+          "artist": "Elmiene",
+          "album": "Heat the Streets",
+          "label": "Polydor"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Miss Hot July",
+          "artist": "Elmiene",
+          "album": "Heat the Streets",
+          "label": "Polydor"
+        },
+        {
+          "time": "6:42pm",
+          "track": "Sugar ft. Shygirl",
+          "artist": "SG Lewis",
+          "album": "Anemoia",
+          "label": "PMR"
+        },
+        {
+          "time": "6:44pm",
+          "track": "Contour",
+          "artist": "Pino Palladino and Blake Mills",
+          "album": "That Wasn't a Dream",
+          "label": "New Deal/Impulse"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Smile",
+          "artist": "Dominic Fike",
+          "album": "Rocket",
+          "label": "Columbia"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Still Feel It",
+          "artist": "Dominic Fike",
+          "album": "Rocket",
+          "label": "Columbia"
+        },
+        {
+          "time": "6:55pm",
+          "track": "Canela Pura",
+          "artist": "Sofia Kourtesis",
+          "album": "Volver",
+          "label": "Ninja Tune"
+        },
+        {
+          "time": "6:57pm",
+          "track": "Eleven",
+          "artist": "Daphni",
+          "album": "Eleven",
+          "label": "Jiaolong"
+        }
+      ]
+    },
+    {
+      "id": "65954",
+      "url": "https://xray.fm/broadcasts/65954",
+      "title": "The World Just Got a Little More Big",
+      "air_date": "8-30-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-08-30_18-00-00.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "6:02pm",
+          "track": "Comafields",
+          "artist": "Burial",
+          "album": "Comafields/Imaginary Festival",
+          "label": "Hyperdub, 2025"
+        },
+        {
+          "time": "6:13pm",
+          "track": "Imaginary Festival",
+          "artist": "Burial",
+          "album": "Comafields/Imaginary Festival",
+          "label": "Hyperdub"
+        },
+        {
+          "time": "6:21pm",
+          "track": "Thinking Clean",
+          "artist": "Blood Orange",
+          "album": "Essex Honey",
+          "label": "RCA"
+        },
+        {
+          "time": "6:24pm",
+          "track": "Life ft. Tirzah & Charlotte Dos Santos",
+          "artist": "Blood Orange",
+          "album": "Essex Honey",
+          "label": "RCA"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Westerburg",
+          "artist": "Blood Orange",
+          "album": "Essex Honey",
+          "label": "RCA"
+        },
+        {
+          "time": "6:31pm",
+          "track": "The Train (King's Cross)",
+          "artist": "Blood Orange",
+          "album": "Essex Honey",
+          "label": "RCA"
+        },
+        {
+          "time": "6:35pm",
+          "track": "Anything (best friend)",
+          "artist": "Tei Shi",
+          "album": "Make believe I make believe",
+          "label": "Self Release"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Best be leaving",
+          "artist": "Tei Shi",
+          "album": "Make believe I make believe",
+          "label": "Self Release"
+        },
+        {
+          "time": "6:41pm",
+          "track": "The World Just Got a Little More Big",
+          "artist": "Kaitlyn Aurelia Smith",
+          "album": "Gush",
+          "label": "Gush"
+        },
+        {
+          "time": "6:45pm",
+          "track": "Automatic",
+          "artist": "Dijon",
+          "album": "Baby",
+          "label": "Warner"
+        },
+        {
+          "time": "6:49pm",
+          "track": "Don't Worry Babe/I Got U Babe",
+          "artist": "Kaytranada",
+          "album": "Aint no damn way!",
+          "label": "RCA"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Tyler, The Creator",
+          "artist": "Sugar on my Tongue",
+          "album": "Don't tap the glass",
+          "label": "Sony"
+        },
+        {
+          "time": "6:55pm",
+          "track": "Do it! (Again!)",
+          "artist": "Kaytranada",
+          "album": "Aint no damn way!",
+          "label": "RCA"
+        }
+      ]
+    },
+    {
+      "id": "65827",
+      "url": "https://xray.fm/broadcasts/65827",
+      "title": "Bury the Key - August 23, 2025",
+      "air_date": "8-23-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/81e791cb7869b4fc4eb3a4fa9c5ee583.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-08-23_18-00-00.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "6:04pm",
+          "track": "Automatic Love",
+          "artist": "Nourished by Time",
+          "album": "The Passionate Ones",
+          "label": "XL"
+        },
+        {
+          "time": "6:08pm",
+          "track": "idiot in the Park",
+          "artist": "Nourished by Time",
+          "album": "The Passionate Ones",
+          "label": "XL"
+        },
+        {
+          "time": "6:11pm",
+          "track": "Crazy People",
+          "artist": "Nourished by Time",
+          "album": "The Passionate Ones",
+          "label": "XL"
+        },
+        {
+          "time": "6:14pm",
+          "track": "The Passionate Ones",
+          "artist": "Nourished by Time",
+          "album": "The Passionate Ones",
+          "label": "XL"
+        },
+        {
+          "time": "6:21pm",
+          "track": "Chlorine",
+          "artist": "TOPS",
+          "album": "Bury the Key",
+          "label": "Ghostly International"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Wheels at Night",
+          "artist": "TOPS",
+          "album": "Bury the Key",
+          "label": "Ghostly International"
+        },
+        {
+          "time": "6:26pm",
+          "track": "Call you Back",
+          "artist": "TOPS",
+          "album": "Bury the Key",
+          "label": "Ghostly International"
+        },
+        {
+          "time": "6:29pm",
+          "track": "Lover Girl",
+          "artist": "Laufey",
+          "album": "A Matter of Time",
+          "label": "AWAL"
+        },
+        {
+          "time": "6:30pm",
+          "track": "Carousel",
+          "artist": "Laufey",
+          "album": "A Matter of Time",
+          "label": "AWAL"
+        },
+        {
+          "time": "6:37pm",
+          "track": "Automatic ft. Dende",
+          "artist": "Zyah Belle",
+          "album": "Are You Still Listening?",
+          "label": "Third & Hayden"
+        },
+        {
+          "time": "6:41pm",
+          "track": "Kindalove",
+          "artist": "Dijon",
+          "album": "Baby",
+          "label": "R&R"
+        },
+        {
+          "time": "6:45pm",
+          "track": "I Know I'm Not Wrong",
+          "artist": "Sam Wilkes",
+          "album": "104.3",
+          "label": "Psychic Hotline"
+        },
+        {
+          "time": "6:51pm",
+          "track": "What's Between Us",
+          "artist": "Kaitlyn Aurelia Smith",
+          "album": "Gush",
+          "label": "Nettwerk"
+        },
+        {
+          "time": "6:56pm",
+          "track": "Drip",
+          "artist": "Kaitlyn Aurelia Smith",
+          "album": "Gush",
+          "label": "Nettwerk"
+        },
+        {
+          "time": "6:59pm",
+          "track": "Mossy Stump",
+          "artist": "Steve Gunn",
+          "album": "Music for Writers",
+          "label": "Three Lobed Recordings"
+        }
+      ]
+    },
+    {
+      "id": "65732",
+      "url": "https://xray.fm/broadcasts/65732",
+      "title": "Eternal Re-Imagined - August 16, 2025",
+      "air_date": "8-16-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/5bae4f29216fb6ee939b40d9e5f3f17c.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-08-16_18-00-00.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "6:04pm",
+          "track": "Baby!",
+          "artist": "Dijon",
+          "album": "Baby",
+          "label": "Warner"
+        },
+        {
+          "time": "6:07pm",
+          "track": "Yamaha",
+          "artist": "Dijon",
+          "album": "Baby",
+          "label": "Warner"
+        },
+        {
+          "time": "6:11pm",
+          "track": "My Man",
+          "artist": "Dijon",
+          "album": "Baby",
+          "label": "Warner"
+        },
+        {
+          "time": "6:15pm",
+          "track": "Stay",
+          "artist": "Leith Ross",
+          "album": "I Can See the Future",
+          "label": "Republic"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Crysalis",
+          "artist": "Jenevieve",
+          "album": "Crysalis",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:24pm",
+          "track": "Nocturne",
+          "artist": "Jenevieve",
+          "album": "Crysalis",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Beam Me Up",
+          "artist": "Jenevieve",
+          "album": "Crysalis",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:31pm",
+          "track": "Pity (feat. Tanya Stephens)",
+          "artist": "Mahalia",
+          "album": "Luvergirl",
+          "label": "Warner"
+        },
+        {
+          "time": "6:33pm",
+          "track": "Pressure Points (feat. Lila Ike')",
+          "artist": "Mahalia",
+          "album": "Luvergirl",
+          "label": "Warner Music UK"
+        },
+        {
+          "time": "6:38pm",
+          "track": "SPACE INVADER",
+          "artist": "KAYTRANADA",
+          "album": "Ain't No Damn Way!",
+          "label": "RCA"
+        },
+        {
+          "time": "6:44pm",
+          "track": "Things",
+          "artist": "Kaytranada",
+          "album": "Ain't No Damn Way!",
+          "label": "RCA"
+        },
+        {
+          "time": "6:46pm",
+          "track": "Doing It Too",
+          "artist": "Rochelle Jordan",
+          "album": "Through the Wall",
+          "label": "Empire"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Molly's Song",
+          "artist": "Anand Wilder",
+          "album": "Psychic Lessons",
+          "label": "Last Gang Records"
+        },
+        {
+          "time": "6:55pm",
+          "track": "Eternal Re-Imagined",
+          "artist": "Holly Herndon",
+          "album": "Eternal Re-Imagined",
+          "label": "4AD"
+        }
+      ]
+    },
+    {
+      "id": "65609",
+      "url": "https://xray.fm/broadcasts/65609",
+      "title": "To douse a scalded tongue - August 9, 2025",
+      "air_date": "8-9-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/anime-girl-feeling-like-im-melting-in-heat-xq6txl5ody5trtcw.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-08-09_18-00-00.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "6:05pm",
+          "track": "Kiss Me Through the Phone ft. PinkPantheress",
+          "artist": "Amaarae",
+          "album": "Black Star",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:10pm",
+          "track": "She is My Drug",
+          "artist": "Amaarae",
+          "album": "Black Star",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:13pm",
+          "track": "100drum",
+          "artist": "Amaarae",
+          "album": "Black Star",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:17pm",
+          "track": "Soap (feat. PinkPantheress)",
+          "artist": "Yves",
+          "album": "Soft Error",
+          "label": "Paix Per Mil"
+        },
+        {
+          "time": "6:23pm",
+          "track": "Under the Sun",
+          "artist": "Say She She",
+          "album": "Cut & Rewind",
+          "label": "Karma Chief"
+        },
+        {
+          "time": "6:26pm",
+          "track": "Annihilation",
+          "artist": "TOPS",
+          "album": "Bury the Key",
+          "label": "Ghostly International"
+        },
+        {
+          "time": "6:28pm",
+          "track": "thus is why (i don't spring 4 love)",
+          "artist": "Saya Gray",
+          "album": "Saya",
+          "label": "Dirty Hit"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Have a Baby (With Me)",
+          "artist": "Daniel Caesar",
+          "album": "single",
+          "label": "Republic"
+        },
+        {
+          "time": "6:37pm",
+          "track": "Why",
+          "artist": "Sasha Keable",
+          "album": "Act Right",
+          "label": "Fight Club"
+        },
+        {
+          "time": "6:40pm",
+          "track": "Feel Something",
+          "artist": "Sasha Keable",
+          "album": "Act Right",
+          "label": "Fight Club"
+        },
+        {
+          "time": "6:43pm",
+          "track": "My Name",
+          "artist": "Yanna G & Chase N. Cashe",
+          "album": "single",
+          "label": "self-release"
+        },
+        {
+          "time": "6:47pm",
+          "track": "WE DON'T COUNT (feat. NINA)",
+          "artist": "Yves Tumor",
+          "album": "single",
+          "label": "Warp"
+        },
+        {
+          "time": "6:50pm",
+          "track": "Cross My Heart and Hope to Die",
+          "artist": "Yumi Zouma",
+          "album": "single",
+          "label": "Nettwerk"
+        },
+        {
+          "time": "6:53pm",
+          "track": "To douse a scalded tongue",
+          "artist": "Yaelokre",
+          "album": "single",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:57pm",
+          "track": "Max Potential",
+          "artist": "Nourished by Time",
+          "album": "The Passionate Ones",
+          "label": "XL"
+        }
+      ]
+    },
+    {
+      "id": "65491",
+      "url": "https://xray.fm/broadcasts/65491",
+      "title": "Corazon - August 3, 2025",
+      "air_date": "8-2-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/source_6.gif",
+      "audio_url": "https://cdn.xray.fm/audio/intuitive-navigation/intuitive-navigation_2025-08-02_18-00-00.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "6:03pm",
+          "track": "Somewhere in Between",
+          "artist": "Blood Orange",
+          "album": "Essex Honey",
+          "label": "RCA"
+        },
+        {
+          "time": "6:06pm",
+          "track": "Update",
+          "artist": "Burna Boy",
+          "album": "No Sign of Weakness",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:11pm",
+          "track": "Love Me Not",
+          "artist": "Ravyn Lenae",
+          "album": "Bird's Eye",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:17pm",
+          "track": "Instructions",
+          "artist": "Mahalia",
+          "album": "Luvergirl",
+          "label": "Warner"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Sugar Sweet (feat. Shenseea & Kehlani)",
+          "artist": "Mariah Carey",
+          "album": "Here For It All",
+          "label": "gamma"
+        },
+        {
+          "time": "6:22pm",
+          "track": "Head Over Heels",
+          "artist": "Jenevieve",
+          "album": "Crysalis",
+          "label": "Interscope"
+        },
+        {
+          "time": "6:26pm",
+          "track": "(un)Folded",
+          "artist": "Kehlani",
+          "album": "single",
+          "label": "Atlantic"
+        },
+        {
+          "time": "6:30pm",
+          "track": "Corazon",
+          "artist": "Sofia Kourtesis",
+          "album": "Volver",
+          "label": "Ninja Tune"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Unidos ft. Daphni",
+          "artist": "Sofia Kourtesis",
+          "album": "Volver",
+          "label": "Ninja Tune"
+        },
+        {
+          "time": "6:42pm",
+          "track": "Walking Seoul",
+          "artist": "Lewis OfMan",
+          "album": "Seoul Mixtape",
+          "label": "Profil de Fac"
+        },
+        {
+          "time": "6:50pm",
+          "track": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
+          "artist": "Blood Orange",
+          "album": "Essex Honey",
+          "label": "RCA"
+        },
+        {
+          "time": "6:53pm",
+          "track": "With You",
+          "artist": "Jorja Smith",
+          "album": "single",
+          "label": "FAMM"
+        },
+        {
+          "time": "6:57pm",
+          "track": "Spend It",
+          "artist": "Summer Walker",
+          "album": "single",
+          "label": "Interscope"
+        }
+      ]
+    }
+  ]
+}

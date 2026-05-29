@@ -1,0 +1,63 @@
+{
+ "slug": "by-mixtape-first-last-japanese-private-press-vol-4",
+ "kind": "by_mixtape",
+ "name": "AD Mixtape · First & Last: Japanese Private Press, Vol. 4",
+ "description": "This fourth volume of First And Last features a menagerie of tunes for the early days of summer (with seven of the twelve songs culled from EPs), from psych-pop to breezy bossa nova, wrapping up with a grip of introspective folk.",
+ "needs_matching": true,
+ "track_count": 10,
+ "tracks": [
+  {
+   "artist": "インチ (Condor)",
+   "track": "愛惜 (1974)",
+   "raw": "インチ (Condor) – 愛惜 (1974)"
+  },
+  {
+   "artist": "伏見京子 (Kyoko Fushimi)",
+   "track": "Play (1973)",
+   "raw": "伏見京子 (Kyoko Fushimi) – Play (1973)"
+  },
+  {
+   "artist": "ラブ (Love)",
+   "track": "ニ人の海 (1970)",
+   "raw": "ラブ (Love) – ニ人の海 (1970)"
+  },
+  {
+   "artist": "Tap-Tup",
+   "track": "海は深くあいの色 (1973 or 1974)",
+   "raw": "Tap-Tup – 海は深くあいの色 (1973 or 1974)"
+  },
+  {
+   "artist": "田中寛 (Hiroshi Tanaka)・ 不破洋一 (Yoichi Fuwa)",
+   "track": "No. 2 (1974)",
+   "raw": "田中寛 (Hiroshi Tanaka)・ 不破洋一 (Yoichi Fuwa) – No. 2 (1974)"
+  },
+  {
+   "artist": "安芸ヒロシ (Hiroshi Angei)",
+   "track": "あなたにそつ (197?)",
+   "raw": "安芸ヒロシ (Hiroshi Angei) – あなたにそつ (197?)"
+  },
+  {
+   "artist": "川島弘之 (Hiroyuki Kawashima)",
+   "track": "俺のベイビー (1976)",
+   "raw": "川島弘之 (Hiroyuki Kawashima) – 俺のベイビー (1976)"
+  },
+  {
+   "artist": "Flowing Love Band",
+   "track": "散 歩 (1974)",
+   "raw": "Flowing Love Band – 散 歩 (1974)"
+  },
+  {
+   "artist": "山神水神 (Sanjin Suijin)",
+   "track": "イズレニシテモ (Any How) (1972)",
+   "raw": "山神水神 (Sanjin Suijin) – イズレニシテモ (Any How) (1972)"
+  },
+  {
+   "artist": "むらやまゆうじ (Yuji Murayama)",
+   "track": "人間になれよ (197?)",
+   "raw": "むらやまゆうじ (Yuji Murayama) – 人間になれよ (197?)"
+  }
+ ],
+ "sources": [
+  "https://aquariumdrunkard.com/2022/05/12/first-last-japanese-private-press-vol-4/"
+ ]
+}

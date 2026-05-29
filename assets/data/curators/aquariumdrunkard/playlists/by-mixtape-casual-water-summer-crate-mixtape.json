@@ -1,0 +1,78 @@
+{
+ "slug": "by-mixtape-casual-water-summer-crate-mixtape",
+ "kind": "by_mixtape",
+ "name": "AD Mixtape · Casual Water / Summer Crate Mixtape",
+ "description": "Floated this medley of selections from our summer crate over to our friends at Reverberation Radio last week as part of their ongoing guest mix series. Lots of dub. Lots of reverb. Laisse rouler. King Tubby & Yabbu U - Conquering Dub (excerpt) Serge Gainsbourg - Javanaise Remake Rikki Ililonga - Fire High Mono Mono",
+ "needs_matching": true,
+ "track_count": 13,
+ "tracks": [
+  {
+   "artist": "King Tubby & Yabbu U",
+   "track": "Conquering Dub (excerpt)",
+   "raw": "King Tubby & Yabbu U – Conquering Dub (excerpt)"
+  },
+  {
+   "artist": "Serge Gainsbourg",
+   "track": "Javanaise Remake",
+   "raw": "Serge Gainsbourg – Javanaise Remake"
+  },
+  {
+   "artist": "Rikki Ililonga",
+   "track": "Fire High",
+   "raw": "Rikki Ililonga – Fire High"
+  },
+  {
+   "artist": "Mono Mono",
+   "track": "Give A Beggar A Chance",
+   "raw": "Mono Mono – Give A Beggar A Chance"
+  },
+  {
+   "artist": "Luiz Melodia",
+   "track": "Baby Rose",
+   "raw": "Luiz Melodia – Baby Rose"
+  },
+  {
+   "artist": "Bob Chance",
+   "track": "Jungle Talk",
+   "raw": "Bob Chance – Jungle Talk"
+  },
+  {
+   "artist": "Ryo Kawasaki",
+   "track": "Hawaiian Caravan",
+   "raw": "Ryo Kawasaki – Hawaiian Caravan"
+  },
+  {
+   "artist": "Brian Eno & David Byrne",
+   "track": "Regiment",
+   "raw": "Brian Eno & David Byrne – Regiment"
+  },
+  {
+   "artist": "Basa Basa",
+   "track": "African Soul Power (excerpt)",
+   "raw": "Basa Basa – African Soul Power (excerpt)"
+  },
+  {
+   "artist": "Talking Heads",
+   "track": "Fela’s Riff (Unfinished Outtake)",
+   "raw": "Talking Heads – Fela’s Riff (Unfinished Outtake)"
+  },
+  {
+   "artist": "Serge Gainsbourg",
+   "track": "Des Laids Des Dubs (excerpt)",
+   "raw": "Serge Gainsbourg – Des Laids Des Dubs (excerpt)"
+  },
+  {
+   "artist": "Shintaro Sakamoto",
+   "track": "From The Dead (7”)",
+   "raw": "Shintaro Sakamoto – From The Dead (7”)"
+  },
+  {
+   "artist": "John Holm",
+   "track": "Du E En Stor Grabb Nu",
+   "raw": "John Holm – Du E En Stor Grabb Nu"
+  }
+ ],
+ "sources": [
+  "https://aquariumdrunkard.com/2018/07/11/casual-water-summer-crate-mixtape/"
+ ]
+}

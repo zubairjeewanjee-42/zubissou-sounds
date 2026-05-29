@@ -1,0 +1,48 @@
+{
+ "slug": "by-mixtape-some-strange-rain-michael-nau-a-mixtape",
+ "kind": "by_mixtape",
+ "name": "AD Mixtape · Some Strange Rain :: Michael Nau / A Mixtape",
+ "description": "On his new ep The Load, Michael Nau chases his latest album, Some Twist, with another shot. The songs are drawn from the same batch as that full-length, but fully worth their own attention. The title track couples JJ Cale vibes with skronking free jazz; \"Sure It Can\" drifts into blissful R&B; \"Diamond Anyway\" finds",
+ "needs_matching": true,
+ "track_count": 7,
+ "tracks": [
+  {
+   "artist": "The Wailers",
+   "track": "It Hurts To Be Alone",
+   "raw": "The Wailers – It Hurts To Be Alone"
+  },
+  {
+   "artist": "Charlotte Dada",
+   "track": "Don’t Let Me Down",
+   "raw": "Charlotte Dada – Don’t Let Me Down"
+  },
+  {
+   "artist": "Lijadu Sisters",
+   "track": "Come On Home",
+   "raw": "Lijadu Sisters – Come On Home"
+  },
+  {
+   "artist": "Gabby Pahinui",
+   "track": "Hi’ilawe",
+   "raw": "Gabby Pahinui – Hi’ilawe"
+  },
+  {
+   "artist": "Gal Costa",
+   "track": "Baby",
+   "raw": "Gal Costa – Baby"
+  },
+  {
+   "artist": "Margo Guryan",
+   "track": "Don’t Go Away",
+   "raw": "Margo Guryan – Don’t Go Away"
+  },
+  {
+   "artist": "Washington Phillips",
+   "track": "Mother’s Last Words To Her Son",
+   "raw": "Washington Phillips – Mother’s Last Words To Her Son"
+  }
+ ],
+ "sources": [
+  "https://aquariumdrunkard.com/2017/11/03/some-strange-rain-michael-nau-a-mixtape/"
+ ]
+}

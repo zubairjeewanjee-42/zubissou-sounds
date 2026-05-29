@@ -1,0 +1,53 @@
+{
+ "slug": "by-mixtape-creme-de-menthe-a-sound-collage",
+ "kind": "by_mixtape",
+ "name": "AD Mixtape · Crème De Menthe // A Sound Collage",
+ "description": "If you've been around a minute, you'll remember the original iteration of the AD Transmissions podcast, a format we phased into our present (more \"traditional\") model in 2016. But this? It's a return to the sound collage framework.",
+ "needs_matching": true,
+ "track_count": 8,
+ "tracks": [
+  {
+   "artist": "Jimmy Jukebox",
+   "track": "Motor Boat (AD Rive Gauche edit)",
+   "raw": "Jimmy Jukebox – Motor Boat (AD Rive Gauche edit)"
+  },
+  {
+   "artist": "Shintaro Sakamoto",
+   "track": "From The Dead (7″)",
+   "raw": "Shintaro Sakamoto – From The Dead (7″)"
+  },
+  {
+   "artist": "Julien Gasc",
+   "track": "Luke Howard",
+   "raw": "Julien Gasc – Luke Howard"
+  },
+  {
+   "artist": "Ronald Langestraat",
+   "track": "I’m Ready For Dancing",
+   "raw": "Ronald Langestraat – I’m Ready For Dancing"
+  },
+  {
+   "artist": "Patrick Cowley",
+   "track": "One Hot Afternoon (edit)",
+   "raw": "Patrick Cowley – One Hot Afternoon (edit)"
+  },
+  {
+   "artist": "Klauss Weiss",
+   "track": "Survivor",
+   "raw": "Klauss Weiss – Survivor"
+  },
+  {
+   "artist": "Todd Rundgren",
+   "track": "The Spark of Life (edit)",
+   "raw": "Todd Rundgren – The Spark of Life (edit)"
+  },
+  {
+   "artist": "Deerhunter",
+   "track": "Nocturne",
+   "raw": "Deerhunter – Nocturne"
+  }
+ ],
+ "sources": [
+  "https://aquariumdrunkard.com/2019/02/11/creme-de-menthe-a-sound-collage/"
+ ]
+}

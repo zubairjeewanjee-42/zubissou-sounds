@@ -1,0 +1,22 @@
+{
+ "slug": "currently-spinning",
+ "kind": "by_type",
+ "name": "AD · Currently Spinning",
+ "description": "AD's current homepage carousel — 6 albums on rotation.",
+ "spotify_album_ids": [
+  "4p6XlfiwlyCZzYyZW9lVL3",
+  "3sjIDWWnYzzS7PF3vjZmcB",
+  "0kxlBCNxF5jEFOwUzR3vna",
+  "7FqSyloel4zhfQSP96RM7N",
+  "3skYxKUaW4eEybNFSfpcK8",
+  "0I4OoU70unqcUu7G2iqAjK"
+ ],
+ "sources": [
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
+ ]
+}

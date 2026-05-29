@@ -1,0 +1,68 @@
+{
+ "slug": "by-mixtape-grey-on-gray-a-december-mixtape",
+ "kind": "by_mixtape",
+ "name": "AD Mixtape · Grey On Gray :: A December Mixtape",
+ "description": "All vinyl hour long slide to close out another weird year. Fireside GORP-jazz, new age, and beyond. 1969-2022.",
+ "needs_matching": true,
+ "track_count": 11,
+ "tracks": [
+  {
+   "artist": "Rich Ruth",
+   "track": "Taken Back",
+   "raw": "Rich Ruth – Taken Back"
+  },
+  {
+   "artist": "Ezra Feinberg",
+   "track": "Ovation",
+   "raw": "Ezra Feinberg – Ovation"
+  },
+  {
+   "artist": "Kim Åge Furuhaug",
+   "track": "Haraldsvik Camping >> Astagjol",
+   "raw": "Kim Åge Furuhaug – Haraldsvik Camping >> Astagjol"
+  },
+  {
+   "artist": "Nico Georis",
+   "track": "Hot Slots (excerpt)",
+   "raw": "Nico Georis – Hot Slots (excerpt)"
+  },
+  {
+   "artist": "Joys Union Group",
+   "track": "Cloud Paint",
+   "raw": "Joys Union Group – Cloud Paint"
+  },
+  {
+   "artist": "Michael Garrison",
+   "track": "To The Other Side Of The Sky",
+   "raw": "Michael Garrison – To The Other Side Of The Sky"
+  },
+  {
+   "artist": "David Darling",
+   "track": "Cycle Two: Trio",
+   "raw": "David Darling – Cycle Two: Trio"
+  },
+  {
+   "artist": "Oregon",
+   "track": "Travel By Day",
+   "raw": "Oregon – Travel By Day"
+  },
+  {
+   "artist": "Henri Texier",
+   "track": "L’elephant",
+   "raw": "Henri Texier – L’elephant"
+  },
+  {
+   "artist": "Bennie Maupin",
+   "track": "Ensenada",
+   "raw": "Bennie Maupin – Ensenada"
+  },
+  {
+   "artist": "Tim Buckley",
+   "track": "Gypsy Woman",
+   "raw": "Tim Buckley – Gypsy Woman"
+  }
+ ],
+ "sources": [
+  "https://aquariumdrunkard.com/2022/12/27/grey-on-gray-a-december-mixtape/"
+ ]
+}

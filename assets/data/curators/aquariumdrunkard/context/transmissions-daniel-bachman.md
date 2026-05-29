@@ -1,0 +1,274 @@
+# Transmissions :: Daniel Bachman
+
+**Transmissions — Daniel Bachman** · _2024-07-24_ · by Jason Woodbury · `podcast`
+**Tags:** Daniel Bachman, Mixtapes
+
+[source](https://aquariumdrunkard.com/2024/07/24/transmissions-daniel-bachman/)
+
+## Links
+- Bandcamp: https://threelobed.bandcamp.com/album/river
+
+## Body
+
+This week on a far-ranging episode of Transmissions: guitarist, folklorist, and all-around-top-notch thinker Daniel Bachman. 
+
+A songwriter and composer from Fredericksburg, Virginia, Bachman first began releasing records under the name Sacred Harp, before adopting his own name for a series of finger-picked classics like 2012’s Seven Pines and 2015’s River, which Aquarium Drunkard’s Tyler Wilcox called “a solo acoustic tour de force that can easily stand proud next to John Fahey’s Days America or Jack Rose’s Kensington Blues. It’s that good.” 
+
+In the years since, Bachman’s music has grown more and more experimental, and also, it’s become more directly informed by climate change. His latest, for the fine folks at Longform Edition, who’ve appeared on this very podcast, is called Quaker Run Wildfire (10​/​24​/​23​–​11​/​17​/​23) for Fiddle and Guitar. A 25-minute piece of drone, guitar, fiddle, and field recordings, it was inspired and directly confronts the devastating wildfire that tore through the Middle Appalachians. “How additional global heating at the cost of extractive industry will impact future climate breakdown in the region remains unknown. One thing however is certain… a new fire regime has arrived,” Bachman writes. 
+
+Transmissions :: Daniel Bachman
+
+Aquarium Drunkard is supported by our subscribers. Head over and peruse our site, where you’ll find nearly 20 years of playlists, recommendations, reviews, interviews, podcasts, essays, and more. Head to Aquarium Drunkard and subscribe, where you can also read an abridged and edited transcript of this conversation. Subscribe at Aquarium Drunkard. 
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1421705426819-0'); });
+
+
+Transmissions is a part of the Talkhouse Podcast Network. Visit the Talkhouse for more interviews, fascinating reads, and podcasts.
+
+Daniel Bachman: Hey, Jason.
+
+Aquarium Drunkard: Hey, man. How’s it going?
+
+Daniel Bachman: Good. You ready to give this another shot?
+
+AD: We’re doing it. It’s happening.
+
+Daniel Bachman: Oh, man. Thank you for your patience. We have clear skies as far as I’m concerned. I think it’s going to be good today.
+
+AD: Well, it’s so funny, I find myself thinking about how on reflecting since our attempted interview, I was like, I should have just gone with your phone call because as I was listening to the records in the days since I found myself thinking about how often you use seemingly different audio sources for your work. Is that a fair way to put it?
+
+Daniel Bachman: Yes, definitely. I didn’t think about that with the phone the other day, but you’re totally right on.
+
+AD: In addition to telecommunication-type samples, you utilize radio work. I think about phone calls and I think about the sound of ”the phone” and it’s almost an anachronism that has outlived its time. The sound of somebody on the phone has outlived people actually wanting to do phone calls in some ways.
+
+Daniel Bachman: I totally agree. Yeah, I still use it. Actually, I have a connector to plug in my field recorder to still connect off of our landline, so I still get a lot of phone calls and stuff that I want to record that still have that sound. I’m glad the WiFi’s working though. That was stressful.
+
+AD: Yeah, I bet. So the clouds have cleared and everything is okay. I think we can sort of take it back from where we had started on the last one, but I wanted to talk with you a little bit about your setup out there. I think you described it as a pretty big garden, but you’ve been growing your own food for a little while. How did you and your partner get into that sort of scene?
+
+Daniel Bachman: Well, we lived in Charlottesville before this. Both of us were really having fun planting flowers and doing a little bit in the garden beds that we had in the city. Since 2013, I’ve been working on and off gardening jobs, some hardcore landscaping, just bring the mowers and string-trimmers in and do that stuff—there’s a lot of more thoughtful, there’s a lot of high-end clients around Charlottesville, Fredericksburg, Richmond. So we did a lot of houses like that, and so I kind of have been working with plants for, it’s kind of wild to think about it, but almost a decade now, but never did vegetables. So when we moved out here, we got really into the idea of, oh man, let’s see what we can with just a little bit of space, and it just keeps growing and growing. Once you get those first beds established, it’s really easy to add a couple more, and we’re actually adding a whole nother non-fenced in garden next month. That’s just going to be like corn and squash and beans and stuff. 
+
+AD:  Why is it that you don’t need to put a fence around that stuff?
+
+Daniel Bachman: Well, we should because we have a lot of wildlife that’ll eat stuff, but we’re still going to do some stuff in a fenced-in garden, kind of like the squash that we know we want to get in there, but it is kind of just an excuse just to get some beds really put together. A friend of ours is bringing a tractor over and we’re going to till it. Just kind of keep experimenting. We’re doing peanuts for the first time, which I’m really excited about.
+
+AD: Jimmy Carter style.
+
+Daniel Bachman: I know. Well, we are really lucky. We have a friend that I used to work with that I was doing construction carpentry work with. He lets us rent this building for about $600 a month, and we pay the utilities on the building as well, and it includes use of the field. So we’re just really enjoying having this space and honestly, having the rent that cheap is the only way that I’m able to survive just doing my own work right now. I’ve had to do a lot of other jobs, but because the rent’s so cheap, we can make it work, so it’s very cool. We’re very lucky right now.
+
+AD: What has been your favorite thing to grow? What turned out best in your opinion?
+
+Daniel Bachman: I love growing the winter squash. We’ve done kobocha, a couple of those varieties and those are great, but the one that I love the most is called the Pennsylvania Dutch crook neck. They are massive, kind of bell-shaped, they call them neck pumpkins, which is a new term. It’s essentially like a pumpkin that has a long neck on it. But yeah, we’ve really had great luck with those, and we’re trying a couple new varieties of squash this year that are local varieties grown specifically around here, and yeah, I don’t know. My partner, Aldona Dye, she is a PhD and does musicology music history research, and we’re both really into local history, so we really like growing a lot of the very rare local heirlooms. We did a lot of sweet potatoes last year, local sweet potato varieties that are a couple hundred years old, and it’s really a cool way to connect with history by eating this food that’s not really even sold at market a lot these days.
+
+AD: I think that there’s such an interesting element of your work that is that Deep Time sensibility, a sort of historically digging in and thinking about the past and the present and the way that they are connected. So I think that it’s so interesting to have something like growing an heirloom be a literal way of tying into that and connecting to that history. That’s really cool. Do you have a recording set up out there? How are you recording these days? Because as I already alluded, you’re somebody who’s used free apps on your phone, obviously more analog means as well at times, but how are you doing things these days? What’s most exciting to you?
+
+Daniel Bachman: Well, it’s really interesting. When the COVID pandemic started, I started kind of obviously playing gigs and stuff was off the table for years, and I’m still not really doing a lot of stuff these days, but it really kind of opened my mind to thinking about making music that I don’t have to so strictly try to recreate live. You know what I mean? And it was really this freeing moment where I was like, wow, I could think about making guitar compositions and stuff that I’ll try to recreate or I could lean into some of these things. I was just getting into Ableton at the time, around 2020, and really understanding how much of a powerful tool that is. I’ve really just leaned into it. We don’t have a lot of room. We really only have, this is a three-room apartment. We have a very large shared workspace area, and so I have one little corner of that that I’ve got my computer and then everything is pretty much just one or two tape machines. Nothing special.
+
+And then I have a Zoom field recorder, and so I do everything with those and including bouncing the tapes to the zoom recorder and then digitizing them and stuff. And the stuff that I’m working on right now I’m really excited about. It is all drum machines from my phone, so I can just be outside or something and make a beat or something. You can also pair it with different oscillators or drone apps and stuff that I have on my phone so I can kind of make these soundscapes on my phone. Then what I’ll do, I’ll just freely play for 20, 30 minutes until I have something that I was like, oh, there’s a couple cool passages in there, and then I’ll take that and I’ll put it in my computer and I’ll chop up each individual note or note what I would call ’em, note clusters. If you have some notes that sound good together. 
+
+Then I will completely rearrange all of those in Ableton and make a completely new piece out of it. And it’s so fun. It’s like I’m honestly feeling like I’m able to express myself emotionally better doing this because I can sit with tones or sounds and I can pitch stuff up or pitch it down, or if I have something that’s really fast, but I’m like, oh, there’s a mournful quality to that. Let’s see how it is if I stretch it out a lot. You really have that freedom. So I’m really just leaning into that. I was kind of talking to somebody the other day that I’m kind of shooting myself in the foot a little bit because I truly don’t know how I’d ever recreate this stuff live, but it is so exciting that it’s really like it is getting me pumped up to come to work every day, so to speak.
+
+AD: Does the notion of not being able to play it live or not being sure exactly how to present it or whatever, is that something that you had to get over to some degree? I mean, did you feel slightly hung up on that concept when you were making records before?
+
+Daniel Bachman: Oh, yeah, definitely. And also making tunes that will fit on an A or B side of a LP. 
+
+AD: Thinking of it sort of conceptually in terms of the format, right?
+
+Daniel Bachman: Yeah. It’s limiting and it’s frustrating, especially that I’m kind of getting into some of these lengths of tunes that don’t fit so evenly. So with this new stuff, I’m totally just like, okay, I’m not going to worry about any of that. I’m just going to make what I want. I did have to get over it, and part of me wants to really start thinking about, oh, how am I going to do this? But I’m still so into developing these techniques and these ways of even thinking about making music and stuff that I’m just going to let that come in its own time. 
+
+AD: That’s a smart idea. But it is interesting to imagine the ways that you might present this stuff live. 
+
+Daniel Bachman: I know. 
+
+AD: I know, because there are techniques for doing so, right? I mean, utilizing, it’s weird. I mean, for a long time I suppose there was sort of a reluctance to have a laptop on stage for certain, at least if you’re primarily known as a solo acoustic guitar kind of guy. You know what I mean? The sort of the new American primitivism-style or whatever. So it’s like to have a laptop on stage might’ve seemed really weird, but I wonder if to some degree we’re kind of seeing a freeing up of the different ways people might present stuff. I think the embrace of digital technologies like that and the sort of immediacy of it. I play around with the Zoom a lot too, and I play around a lot with just the microphone on my iPhone. You know what I mean? 
+
+Daniel Bachman: Oh, yeah, me too.
+
+AD: I think you can get some really expressive and interesting sounding recordings out of just this absolutely basic gear. It’s so funny to me that we live in this age where that kind of technology is just so immediately accessible to us. It probably would’ve been unthinkable in a certain sense even 20 years ago, but now we’re trying to figure out how to get away from these devices too. You know what I mean? It’s such a strange push/pull because as a handheld recording device—and for that matter, a music player—the iPhone’s pretty great, you know what I mean? But with it comes all of this other stuff that we’re repulsed by, so I feel like it’s a little bit of a tricky thing. You know what I mean? That line to walk.
+
+Daniel Bachman: Yeah, they’re powerful tools. They can be at least, and I mean, I’m really, it’s amazing. When I started making music, I was really into making kind of similar stuff that I am now. It was really exciting to think about. Almost, I’ll be straight up with you, that I was really inspired by those Books, the first three records that The Books put out. Just production wise, I was like, wow, this is just the most incredible stuff. And I was really trying to recreate that, but have it be banjo and guitar based, and I just didn’t have the ability to then at all. 
+
+I’ve really only had Garageband on a clunky used computer and a tape machine. So it’s really cool to be, I really do feel like if I can hear a sound or if I can envision something, that I can create it, it does. You’ve really got to work at it. Sometimes with this wildfire piece that I have coming out in a couple of weeks, I wanted to recreate a crunchiness and just a power of the fire—how sound kind of warps through fire.
+
+If you’ve ever sat across a campfire, you can hear somebody speaking like that. It took a month or so to really find that sound. But I was able to get very close to what I wanted in Ableton. It’s just really amazing to be working right now and not hung up on like, oh, I got to make this, or I got to make that and just really go with it. It is, I mean, I don’t know. I don’t know how else to say it. It’s just really mind blowing sometimes what this stuff can create.
+
+AD: I think about the technology available. A tool like Ableton, right? It allows you to do so much, and then as AI tools get developed. I mean, I find myself a little bit torn because on one hand, I think if you view the sort of computing power from a purely creative sense or whatever—is AI different than a plugin? You know what I mean? Or is AI that, is it different functionally than that? And then it’s like, I think, yeah, it’s probably not all that different, but then when you think about the implications commercially and under the economics of it, that’s when it becomes maybe terrible. You know what I mean?
+
+Daniel Bachman: Yeah. I think we’ve already kind of seen the earliest fingers of that kind of creeping in. But yeah, I haven’t used any AI. I’ve used speech generator software that just freely open-source stuff online, but I have not tried anything as far as I know, at least, with AI yet. I don’t know though. I mean, maybe there will be something to experiment with someday, but it isn’t something I’ve really, I don’t know. I haven’t really thought about taking it there yet or trying it.
+
+AD: Neither have I all that much. There are some interesting, AI song stem splitters. You can upload a song and break it down into constituent parts and stuff like that, and it’ll do it automatically, but it’s like, of course you could learn how to do that too in any DAW, right? You know what I mean? It’s like, it’s not that the AI has some sort of exclusive ability to do that, it’s just that it does it in just a few seconds. 
+
+That sort of immediacy, especially if you’re thinking about the ways we can manipulate sounds. It’s like, of course there are probably cool and creative ways to use this stuff, but they’re also cool and creative ways to do other things. So I don’t know. I think it, it’s an interesting thing, and especially because people so much associated you with a certain kind of traditionalism. When you mentioned being stuff like the books and stuff early on and how that was a big influence, what were some other sort of touchstones for you in terms of more, be it experimental or sound collage or even noise. I mean, was that a part of your listening diet at any point?
+
+Daniel Bachman: Oh yeah, definitely. Even more so because when that stuff was coming out, it was, I mean, it wasn’t uncool to old-time music and stuff or bluegrass, but it definitely was not cool. Especially I remember in the community that I grew up in, there was a fair amount of large bluegrass and then smaller old-time bluegrass groups that played at bars and stuff. It was just kind of like uncool. We were into Sabbath and then eventually, I mean, you’re in middle school and high school and getting into music and stuff, but yeah, I was really fortunate to work with this man named Brent Eyestone. Some people might be familiar with his record label Magic Bullet Records. It actually became a skate shop. His brother opened a skate shop, and they kind of went into business in Fredericksburg together, but Brent was doing skate punk, hardcore, post-hardcore whatever you want to classify metal noise and post rock in 2004, 2005. I started working with him just stuffing jackets at the label at his house, which was walkable.
+
+I could ride my bike from my parents’ house and he’d gave me a couple twenties or buy me dinner or something every once in a while, and in return, he introduced me to Lightning Bolt. He was like, oh, you got check out Lightning Bolt. They’re like the sickest band comments on fire. Even before I knew about Ben Chasny stuff, I was like, oh, wow. Comets on Fire is awesome. And he really was into noise and buying noise tapes and CDs and stuff. So I remember we actually did a deep clean on our house the other day, and I found a stack of all those CDs, and I was like, wow, it’s so cool. But that Wolf Eyes CD of Rotten Tropics, that was truly mind blowing to my friend group. That was like we were into stuff like Mike Seeger and the Dock Boggs and The Books, but we were also, Maryland Deathfest was a really big thing in this area, and so a lot of my friends were metalheads and stuff and into that stuff. So the noise music was really a meeting of those kind of interests that everybody was like, stuff is just totally out of control. So I still really have a soft spot for a lot of that stuff. It’s almost like a teenage nostalgia, you know what I mean?
+
+AD: On your records, increasingly, as you moved away from that sort of more traditional rootsy-inspired stuff into stuff that definitely verges into abrasion in a noisy fashion. But it’s really fascinating to think about that as just as pretty much integral to your understanding of music as stuff like bluegrass, because you were surrounded by it, and that’s how we form those deep connections with sounds. You know what I mean? I think about, but also it makes me think about how when I reflect on my early days, 2004, picking up magazines like Arthur. 
+
+Daniel Bachman: Oh, 100%,
+
+AD: And Arthur had its finger, Jay Babcock and his contributors had a finger on the metal. The metal was a side of it, right. You know what I mean? I remember definitely. I remember checking out stuff on Southern Lord that of course wouldn’t have been really in my purview so much in terms of some stuff, but at the exact same time that I’m getting into Fahey or whatever. You know what I mean?
+
+Daniel Bachman: Totally. Well, and I don’t know if it was Arthur that got me into it. Jack Rose was from Fredericksburg and had a lot of people that I knew that were friends with him and knew him and stuff. So I kind of knew about Jack’s music before Fahey. But the stuff that, the reason I really was so kind of taken by the Fahey stuff was like, it’s like, whoa, there really are people that are deeply interested in early American cultural expressions and also abstracting them simultaneously. You know what I mean? Then of course, I found out about Pelt and I was like, whoa, these dudes are from here. Wow. Mike Gangloff has continued to excel in that spirit. 
+
+AD: Totally. 
+
+Daniel Bachman: I mean, that was kind of my in. I was always int…I didn’t really know to call it old-time music and stuff, but my dad was from the ‘sixties ’60s folkie era, spent a lot of time in New York and then spent a lot of time in West Virginia, and so he had a great record collection too. So I still have all his Verve and Folkways stuff. 
+
+AD: Wow. That’s great.
+
+Daniel Bachman: Yeah, it was really all of those things. I guess what I’m trying to say is when Fahey came around, I was like, oh, wow, that’s a way to do it. Now, I know there are many ways to do it and many ways to think about it, but for years I kind of thought that that was the only way, yeah. 
+
+AD: I remember getting into Fahey. It was funny because I had heard stuff like Leo Kottke and things like that before Fahey. Sort of more, at least the way I understood them, slightly poppier expressions, right? But I think so much about how Fahey had the, gosh, I don’t know how you’d put it, the sort of imprimatur of people like Thurston Moore and all of these cool heads that I admired. You know what I mean? But here’s the other thing. There was a whole other angle on Fahey in certain ways, because I remember that. Do you remember the compilation, I Am the Resurrection?
+
+Daniel Bachman: Oh, yeah. I think we bought that at Borders books in 2004 or something. That was my first record of knowing who that dude was. 
+
+AD: I remember checking it out because of Sufjan Stevens, whose records I was so into, especially a record like Seven Swans, which sort of has that more mournful acoustic roots feel at the core of it. But I remember people like M. Ward talking about Fahey—so I felt like I sort of had these two weird angles on it. But then you look at Fahey himself, and he does have stuff that is more commercially-minded if you want to be crass—but I think it’s good stuff. But the Christmas records are a great example, right? Of him being very traditionally and fairly thoughtful in his execution. 
+
+Then of course, you go to the Mill Pond thing or whatever, and it’s just screeching death-obsessed noise. And so you’re like, well, yeah, no, this dude was in it pretty much until the end, which is a really expressive and interesting figure to think about. 
+
+So it makes sense why he was so influential. But of course, Jack Rose is the figure who I think is probably most responsible for so much of the guitar soli resurgence and stuff. So it’s interesting to know that he was kind of in the orbit and stuff. Did you have any experiences with him directly?
+
+Daniel Bachman: Oh, yeah. My mom is a licensed clinical social worker, and she had a office that was right downtown Fredericksburg. Underneath and next door was the guitar shop called Apple Music, and it was such an awesome kind of old head-style guitar, Fender guitar shop. They sold Taylor guitars and they sold Fenders, and a couple of my friends worked there, and they sold Jack’s CDs in there. 
+
+I remember being like, whoa, what’s this? And they’re like, that’s Jack. I think I got his Two Originals of…CD from there. So I probably 16 and listening to that stuff and just freaking out about it a little bit. And we lived so close to DC, Baltimore, Philly, and even New York, that you could leave after work if you worked a morning shift or whatever. 
+
+I had dropped out of high school, so I was not in high school at this time, so I could leave my job and drive to New York City and then stay at a gig until one o’clock in the morning and then drive back and get back at 4:00 AM even, and I did that quite a bit.
+
+Sometimes I did it alone, and I’m like, wow, I kind of can’t believe I did that. But I went to a number of gigs that Jack played, and he was always really friendly. I remember I saw him in Baltimore with a bunch of my friends that went to the high school that he went to, and he was like, oh, so-and-so teacher is still teaching and sharing. He was really cool and everybody that was from the Fredericksburg area, he was like, Ah, I’m from there. Do you remember this? And it’s always really neat, and he always remembered my name, and the last time I saw him was at the…no, actually, I think that’s not true. The time I really remember was at the Arthur fundraiser that was at the Market Hotel in New York and that was an awesome festival. But my sister and I ended up doing a poster for him at a hometown gig in Fredericksburg, and he ended up using that image for his Luck in the Valley record, his last record.
+
+AD: His shadow looms so large. I remember, but he also had such strong opinions. Sometimes I imagine if he was around now, how much he would be annoyed by the prevalence of New Age-y touchstones in so much music. You know what I mean? I love it. But I also love that sense of strong taste that he exuded, which is again, another quality that I guess he shares with Fahey to some degree. 
+
+Daniel Bachman: Yeah. He was a really killer player, and really, I mean, him and Keith Wood from Hush Harbors are really, those were my two dudes that were local. I guess Hush Arbors started in the Shenandoah Valley, so it was a little bit farther away, but I knew that he was making music around the Charlottesville/Waynesboro area, and they were the first dudes that I’ve really saw doing it. You know what I mean? Putting out records, playing gigs all over the place. Because I didn’t really think that you could do that. And it’s a shame, even thinking about those years, I worked in restaurants for years and years that had live music, and there was this really good, I won’t name any names, I won’t out anybody, but there’s this really great local dobro player, and we were having a smoke break together. He was like, ah, what are you into? I was like, I really like Jack’s playing. He was like, oh, you like that stuff? I was like, yeah, I think it’s most badass stuff out there, but there was a jealousy almost, because sure, this dude was like, he is really a killer dobro player—plays on a bunch of records and stuff—but Jack was out there killing it in Germany and all over the country and all over the world and stuff. So I don’t know. I’m still waiting for him to get more recognition locally. It still hasn’t happened.
+
+AD: That sense of regionalism and understanding your own approach to music in part through the sort of example set by others in the community, you know what I mean? I’m from Arizona, and so people will talk about who comes from Phoenix, and when I think about the Meat Puppets—the Meat Puppets are one of the headiest bands ever. But then I think about how, like you said, but locally, they’re thought of as they have good shows when they will play. But I wish more people even could recognize that stuff because it’s as close as I think we can come to a sort of civic pride in some ways, our artistic legacy. 
+
+Daniel Bachman: Yeah, absolutely. 
+
+AD: The rest of the cultural apparatus feels so shot through and useless these days, so that’s the closest thing we can get, I think. And so it’s an interesting, we find ourselves in an interesting place, I think, in that regard. But
+
+Daniel Bachman: Yeah, and Jack was, I really think of him as just…people use the term American primitive a lot. I don’t really think about it like that. I kind of go to the more general term of fingerstyle player. You know what I mean? What if you asked Doc Watson what, I actually was listening to a live Doc Watson track the other day, and he was like, I’m going to play a little fingerstyle now. That’s the world that Jack was coming into, and he was really just dedicated to pushing it to a new place. 
+
+Prior to him, one of his tunes, “Rappahannock River Rag for William Moore,” William Moore was living, at least from the research that I’ve done, genealogical records online census stuff, says that William Moore was living in Fredericksburg just a hundred years before Jack did. And so that’s kind of the thing that I’m really taking from his spirit and music is pushing, learning the technique and trying to understand where this music and stuff comes from, but then really bringing it into a new time and not being afraid to do that and stuff. Jack’s playing was unlike anything, really. A lot of it, at least, was unlike a lot of stuff that had come before, even though you could hear those Basho flourishes. 
+
+AD: Yeah. It’s not like it was completely without antecedent or whatever, but at the same time, he was taking, well, I think that’s actually not to pile on your unnamed dobro player, but I think that that’s partially where some of that jealousy came from was because Jack wasn’t approaching it from even an instrumentalist standpoint necessarily. You know what I mean? 
+
+Or he was obviously, it gets so tricky to talk about this, not like he wasn’t deeply talented and technically proficient, you know what I mean? But totally what I mean is I think he projected a complete aura of the art. You know what I mean? It was like his presentation, the way he played, the way the records looked, the way he communicated himself. 
+
+It’s funny that you bring up a couple of years ago when we had, gosh, it’s been close to four years ago almost, or three, and we had Yasmin Williams on here. Her and I talked about specifically that term American primitivism and how it has culturally and politically sounding—it has real implications. You know what I mean? But it’s interesting because my own understanding of it has definitely evolved enough to understand that what Fahey was trying to do was essentially, he was essentially trying to put a name to this sort of, I think, more singular thing than the music he was he was referencing. You know what I mean? I think he was naming his thing a little more than he was trying to name the thing. And I wonder sometimes if essentially it was just the shoegaze of its day, you know what I mean? Like a marketing term. 
+
+Daniel Bachman: Has become a little bit bad. I know that. Yeah. It’s interesting because I do my own interpretation of him or the way I think about, it’s that he was a trickster. Right?
+
+AD: That’s a good way to put it. 
+
+Daniel Bachman: And I kind of feel like there was a little tongue in cheek eye rolling a little bit, even in his own joke to establish that if you watch the DVD from the ’90s, he said that people are calling his music like post-industrial noise or something, and he rolls his eyes, and it feels like that might’ve been some of his feeling. I can’t say for sure. But it is interesting to think that it has taken a life on his own. I do know that Fahey was very interested in establishing the steel-string guitar as a concert instrument, and that was his intention. I think he did a good job. That’s what he did. He established that was, if that’s what he was hinting at with the whole American primitive thing, then he did it.
+
+AD: Not to mention along the way, Takoma put out some really cool and interesting records that JB Smith record. That’s one that I always reference, because again, because Fahey, that trickster archetype that we’re talking about, it extends in multiple directions, of course. From his absurdist comedy to his sometimes outright gross nastiness. 
+
+Daniel Bachman: Negative, very nasty stuff at times,
+
+AD: Right? And I mean, it’s definitely not one of those things where I’m like, well, we to, it was a different time. That’s not what I’m saying at all. I’m saying that when we’re talking about the archetype of the trickster, it’s going to intentionally push our buttons, and it’s going to intentionally refuse easy categorization. 
+
+His art ultimately does that, and that’s why I tend to think of him more in the lines of he thought he was trying to almost tap into a certain kind of mythical spirit, I think. And I think that he actually does achieve that in a weird way. And when people do talk about some of his, especially the grosser more racist stuff that he would sometimes say or whatever, when people talk about that stuff, I do think about how that JB Smith record—I think was probably a pretty sincere attempt at engaging with Blackness or a Black artist in a respectful way, and that he has many examples of that too.
+
+You know what I mean? But it’s like he ends up being a complicated figure, and I guess to some degree, no other probably, we wouldn’t be talking about him if he weren’t so complicated and interesting to some degree. So I always find him an interesting topic, but also that so much of what now would get categorized under that term is drawing from such wildly disparate traditions and sources. Michael Rother is just as influential on so much of what we hear; or Bill Frisell, for that matter, all these incredible musicians who have brought their own sort of thing to it. I think that the genre, which, by the way, part of what’s interesting to me is thinking about your latest record When The Roses Come Again, to me, it is you accomplishing that goal of trying to take this music into the present. 
+
+Daniel Bachman: Thank you. Yeah.
+
+AD: From the sonic collage aspects to it, to the sort of way in which it, I mean, there’s stuff that settles into drones that just feel so to me, spiritually resonant in a way that speaks to your understanding of time bending music and traditions that are outside of what somebody would associate with Fahey. “On a Summer Over Yonder” is one that I wanted to cite just because it’s such a beautiful thing, but it also feels so unique and of its own. So I really feel like I think you’re on the right path with that. And I’m curious, where does it come from that DIY ethic that you mentioned when you were young, where you basically hit the road right away? Do you feel emboldened that this is, have you always had a sense of this as a sort of mission, I guess is what I mean?
+
+Daniel Bachman: Well, I mean, honestly, in the simplest way of thinking about it for me is I love making things. I do a lot of stuff that, I have a lot of hobbies other than gardening too. I’m kind of into wood carving and doing other fun art projects and stuff, and I’m really into the process of making stuff—its really exciting. And that’s all figures, the people we’ve been talking about. They were kind of just doing their own thing. That gave me the confidence early on. But how I have to approach the stuff is that I have to feel excited about it. And I came close to making the same record twice after I put out that River record,
+
+AD: Which is a great record.
+
+Daniel Bachman: I had a lot of fun making it. I think I still, I listened to it probably a year or two ago, and it was like, ah, I think I did a good job, but I have to, it’s not like I’m trying to reinvent every record, but I do feel like there has to be a certain amount of personal growth, understanding of the instrument. Understanding of ideas and technique that every record, how I look at it is built on the last, so I made this last record. I learned a bunch of techniques making that Axacan and The Morning Star record, you know what I mean? And Almanac too. I learned a lot of the editing stuff with that one. I really just to take, what makes me excited to work every day is really how I use it as my gauge of where to go, you know what I mean? And how to work on this stuff.
+
+I’ve just started on a new one, and I just got this drum loop sample. I don’t even know what time signature it’s in. It’s very odd, but it is this out of time weird meter to it, and that I’m able to now have the energy and the thought to push into that idea. You know what I mean? Yeah. It’s always kind of the path of least resistance. I’ll be honest with you, if I had to sit down and try to make another record like that River record, I would be miserable. It would feel like a chore, and I don’t want the process to ever really feel like that. It’s a kind of battle to not feel that way at times, especially when you start relying on this stuff for income, which is an unfortunate part where we’re at. But yeah, I’m just being real about it.
+
+AD: No, yeah. I’m glad that you are being real about it, and it’s true that you have to figure out how to make it exciting for you in order for it to happen or in order for it to feel good, I suppose. You mentioned that you feel like you almost made that record again. Was it a situation where you did start to feel pulled into that zone of feeling like it was a chore? Did that start to happen? Were you in the midst of making something and you had to kind of move in a different space, or what happened?
+
+Daniel Bachman: Well, it was now that years have gone by, I’m able to really pinpoint around 2015 and 2016, where I was working with a pro booking agent here in the US and I was not playing a lot of DIY venues or spaces or friends’ houses, or even venues still. I was doing a lot of that stuff too, but I was pretty much going to Buffalo on a Wednesday night and playing to four people, but getting a $200 guarantee, you know what I mean? And I could have kept doing that, but what I was doing was I was playing tunes that I had down. I had ’em really tight. I was playing ’em every night. And I did that for about two years, and it was burning me out and making me hate creating this stuff. And it was a bummer. And I feel like a lot of people can probably have been in similar situations, can empathize with that.
+
+And I really do feel like I was faced at a crossroads almost, of taking the more commercial option, which I could have just kept playing those gigs and just keep making music like that or lean into the ideas and the other stuff that I wanted to do. And it took quite a bit of self-reflection. I had to stop for a couple years. Moved back in with my parents. I was working more gardening jobs like that and stuff, and taking a step back, I was able to say, oh, you know what? I still really making all this stuff, but this is where my heart’s at is. Like I said, that The Morning Star record, I got Ableton on a laptop, and that was when I was really like, okay, wow. I can start trust in my gut a little bit more with what I want to make. And I got to give a shout out to Glenn Jones here, Glenn, if you ever hear this, thank you so much.
+
+Because he is a man inspiration for me, kind of listening to my own intuitive sense as an artist. He came to see me play at the Middle East in Boston, and he was like, Hey, you’re really tight. Sounds great up there. But he was like, you’re still playing other people. He’s like, I can hear a lot of this person, or I can hear a lot of this person. He’s like, why don’t you explore your own emotions and your own experiences more? And at first, I won’t lie, I was kind of like, Eh, thanks, Glen. Thanks for coming to my gig. And I thought I played pretty good. He didn’t like it? But wasn’t what he was saying and it stuck with me. It’s been some of the best advice I ever got. So
+
+AD: You said that Ableton, when you were able to manipulate the sounds in that more deeper and expansive and myriad ways, that you felt you could express things more emotionally. I’m curious if it was, what was it about that process that you think helped that to start to crack open for you in terms of that emotional thing? And what did it look like when you realized, oh, that that’s exactly what’s happening, more like you’ve tapped more into your own voice as opposed to that notion of imitating others or whatever, however you want to put that. You know what I mean? What did that look like for you?
+
+Daniel Bachman: Yeah, that is really hard to pinpoint, but I do know it’s hard because all these records really kind of are a blur. They are, yeah,
+
+AD: Sure.
+
+Daniel Bachman: I’m trying to remember specific moments that could have been like. I guess I mean, oh, go ahead. Well, I mean, the speed especially. So one thing that I’ve learned, it’s funny, you could look at what I’m doing as electrifying this instrument a little bit because I am able to do stuff that I’m limited to the sustain on the acoustic guitar. 
+
+I love playing the acoustic guitar. I love the resonance of it. You can feel it in your body when you play it. It’s a very physical thing. But it does not sustain and you can’t get a lot of tone, differential tone out of it unless you’re really doing some prepared guitar stuff, but you’re kind of getting into a new territory when you’re doing that stuff. And I’m still really interested in melodic stuff with the guitar. So when I started slowing stuff down and pairing it with environmental recordings, I had this recording of a, and some people that might be listening to this, Hey, if you think I’m cheating, it is totally cool, but I’m going to be open about how I make this stuff.
+
+We were talking about using the iPhone and stuff. If you have a great take and you have a drone or you have a field recording or something that you love that that’s the base of the track that you want to do, but you have this guitar part, I will take that guitar part and tune it to the other thing rather than the other way around. In that, I’ve found that some of these really expressive guitar parts that I’ll play and stuff, really they shine when paired with other stuff. Or even just slowed down or sped up. I’m working on a piece right now that I’ve really been like, ah, I don’t know how to get it to move anymore. And it was as simple as taking the entire part up two octaves. It’s just so effective. It would be completely impossible to recreate on the acoustic guitar, but I have a raw take of me playing it the way I like it, bump it up two octaves, and it’s a whole new thing. You know what I mean?
+
+AD: I think that those, I mean, just think that it’s just that’s the most beautiful thing that we can do that. But also when we think about so many of our favorite naturalistic records from the ’60s or ’70s, how many of those have a little vari-speed going on? You know what I mean? Or whatever else. So it’s like, we can do that definitely, if it’s cheating, I mean, at the risk of sounding like a, who cares if it’s cheating when I listen to your record, I think the feeling that I get from it and the intensity of emotion that it allows me to access to some degree, it’s like, yeah, this is just what it’s supposed to be. 
+
+I also think that that notion of layering multiple audio sources. I have so many demos on my phone where you can hear bird song sitting in the backyard or we have some chimes in the backyard, and I haven’t done anything with this stuff in my own music yet, but tuning down chimes and things like that, and just totally, it feels to me in a certain degree, it feels almost like accessing the same sort of zones that sometimes meditation can for me. Where it’s like you feel like you get in between two moments or something, or you get in between two tones, or you know what it’s like. I don’t know. To me that we have that technology at our disposal. I love that you’re using it to modernize your approach while still honoring that deep root that is at the core of it, which is just music. So anyway, I don’t know. That’s awesome. I love to hear that. 
+
+Daniel Bachman: Thanks for listening to me blab on about it. 
+
+AD: Dude, I think it’s great.
+
+Daniel Bachman: I feel very fortunate right now because like I said, for years, I felt kind of stuck, but I am truly excited again about making stuff. If I can say anything, it’s like there are no rules in these creative communities that we’re working in with what you, I mean, really the only limitation is your imagination with some of this stuff. And I got so hung up for years, honestly, trying to live other people’s lives, I think, and it’s been a really cool process kind of coming into my own ideas about making stuff. I don’t know how to put it really. I’m not.
+
+AD: No, I know. It’s funny. I think about, I remember talking with Ryley Walker, somebody who you did a lot of traveling with early on, and who has always been somebody who’s just great at shouting out your guys’ influence on each other, I think. But I would talk with him, and I remember talking with him and being sort of taken aback by how blatant he was, where he was just like, Yeah, those early records are me pretending to be some British singer. He probably said it in a much funnier way than I’m saying it. Certainly more entertaining. But he was like, yeah, he kind of copped to that notion. And it’s like everybody does that to a degree with their early work. There’s always some level of that, and you can’t get away from it, and you’ll never actually fully escape the influence of others, of course. But to understand and watch his records and see like, oh, yeah, there’s this post-rock thing working in there, and there’s this ECM-y jazzy thing, and whatever else.
+
+It’s that trick. I think of the more you sound like yourself, the more you tap into something universal. The most specific stuff is the most universal stuff somehow, and it’s just really, it’s an ineffable quality, I think. And so I’m psyched that because the notion of you not making records would really be a huge drag. You know what I mean? And so I’m glad that you found ways to keep yourself. Something else I wanted to ask. I really enjoyed the Sycamore City and Other True Stories thing you did, which I found your writing really effective too. I thought that the story, “Comfort Food” specifically kind of hit me in the gut. I felt like I’ve lived that afternoon, and that was really something. I’m curious how long you have been writing. I mean, is it fair to categorize those as short stories? 
+
+Daniel Bachman: Definitely. I’d call ’em that. Man, it’s so funny. I feel like that’s what I really want to be sinking my teeth into and coming to work every morning and working on stuff. Unfortunately, writing really does not pay the bills all.
+
+AD: No, hey, no freaking kidding, man. [Laughs] 
+
+Daniel Bachman: It’s not a cakewalk doing experimental guitar. You know what I mean? 
+
+AD: “But I can’t find time to write. I have to devote my time to this lucrative guitar, solo acoustic guitar performance. 
+
+Daniel Bachman: Totally. I’m just being a little funny. But no, it is a passion of mine that I am finally able to, so I mentioned I’m a high school dropout. I went to a really gnarly high school to begin with. Stafford High School, if there’s any other Stafford graduates out there, what’s up? But it was super. I can get into it more if you want, but it was traumatizing for a lot of reasons and I transferred to a better high school. It just had more funding. There wasn’t as much violence or drug use and teacher misconduct and stuff, and they had a creative writing class. And the teacher…I’ll admit, I was already on my way to just checking out, you know what I mean? Sure. But the teacher saw, I was writing short stories and poetry and stuff, and he made an example about making fun of my stuff in front of the class a couple of times, and it really got me to turn off, and I dropped out shortly thereafter and still see this dude around.He still gives me a hard time and stuff, but it’s what it is. 
+
+But because of that experience, I just never thought I would do it, ever. I was kind like, ah, no. I mean, it was traumatizing, honestly, to be like, here’s my poem. And then the whole class be like “ha ha.” And so I am just now starting to feel confident with my ideas and storytelling. But yeah, I’m so interested in our colonial history here and the reverberations—emotionally, spiritually, even in the physical remnants of it in this area, and really inspired by people like Poe. I did do a short stint at a community college around here. That was just some of the best educational experience I ever had, had this instructor named LaZalia Richardson who had us reading John Cheever and Flannery O’Connor and stuff like that. I mean, that was really when my mind was blown about what you can do in a short story format.
+
+So that collection that you’re referring to, I’m a little embarrassed about parts of it. It’s my first crack at writing, but I have two stories right now that I’m working on slowly that I’m really pumped about. One is set in the colonial era, the 17th century in the back country of where I grew up, but it was the back country, and really want to use that as a way to talk about some of the lesser known colonial history in this area. And then I got another one that’s kind of like a more futurism, mid-20th century effects the climate breakdown. And in my mind, these things are connected and
+
+AD: Oh, yeah. I think that’s such an important thing to, I mean, I really do wonder sometimes the way I understanding the way the past informs not just the present, but the way we think about the future powerfully. I am a huge science fiction fan, but so much of the science fiction imagination is so colonial in its root. You know what I mean? So to unpack that means we have to unpack even our, I think about William Tyler and Marissa Anderson calling that record Lost Futures, the sort of Mark Fisher concept of it’s easier to imagine the end of the world than it is to imagine the end of capitalism. When I think about the way your stories, the thing I liked so much, particularly about Sycamore City and Other True Stories was there’s no way around it than to reckon with the deeply violent quality of American life.
+
+And the more right now, when we look at the situation, I’m not sure when this is going to air. And my deepest hope is that at some point saying the situation in Gaza is referring to some sort of past tense atrocity as opposed to an ongoing one. But there no doubt will be some other atrocity that replaces it. You know what I mean? Even if that is to happen. But when we think about all of that stuff, it’s like, I don’t know. It’s just the violence that is so inherent to the nation literature is one of the few places where we can sort of unpack that in some way that actually allows for the depth, you know what I mean? Which makes it that much worse that we’re all reading. I mean, I can only speak for myself. I’m reading so much less than I should be because of the barrage of things that I’m supposed to think about or consider. You know what I mean? And it’s insidious, so I’m so glad that you were able to—first off, screw that one guy for making fun of you. 
+
+Daniel Bachman: It’s okay. I mean, it’s
+
+AD: Part, it’s not, okay, Daniel, we’re going to cancel him. I’m just kidding. Name him. He’s getting canceled. He’s off. He’s gone. I’m just kidding. 
+
+Daniel Bachman: I will be honest. I grew up with a highly propagandized underst of American history, and what I’ve come to understand is that Virginia really does represent the mood and mindset of this settler, colonial, extractive. I mean, really, everything about where it started, I mean, they didn’t start with tobacco here. They found to exploit it just like we find mineral wealth or other things, other places to exploit them now. But it’s been a very long, strange understanding of breaking down a lot of that stuff. 
+
+And I’m really finding that creative writing is a great way to even process my own traumas. Growing up here, I really normalized a lot of stuff that I look back on now with horror. It’s one of the reasons why I really am such a Poe head is because I really feel like Edgar Allan Poe, just really just, whether you’re talking about disease epidemics like yellow fever, tuberculosis, cholera, whatever, or even just the violence of the society of the mid 19th century. He does such an excellent job at even just hinting at the mood of the people and stuff. And it’s just really a interesting way to look at history, too. His own work.
+
+AD: Yeah.
+
+Daniel Bachman: I’m very interested in exploring it, but like I said, the problem is funding it, just finding the time, because I do have a lot of other stuff that I do. If anybody’s got any tips or some grants out there for short story composition, hit me up, I’d appreciate any help or ideas.
+
+AD: Well, straight up though, I mean, the fact that it comes as a PDF with the album on Bandcamp, to me, that’s great and kind of revelatory in its own way because it’s like the ability to do something like that speaks to the lowered bar for entry, that you can distribute a collection of short stories. But of course, you’ve also got music that ties to it. And to me, I thought it was great to read your in prose form because it’s obvious that the records have a conceptual depth and that you’re somebody who wants to reflect on present concerns, because present concerns are pretty universal, right? You know what I mean?
+
+I was listening to a Les McCann song the other day and just thinking like, oh my God, this sounds, it was written yesterday. You know what I mean? Or whatever. And so you realize there are, I think that’s another reason why when you talk about the past, right? It’s like, I don’t know. I’m drawn to writers who do have a sense of history of where they’re from because that history informs where we’re at now and where we’re going. 
+
+And if we’re ever going to imagine a future where there’s a less extractive impulse at the core of our society, then we have to start understanding the way it informed most of the structures of our understanding of the world. You know what I mean? Yeah. That’s a thing that it’s easy to say that and then just live with hundreds of contradictory acts all day. You know what I mean? So it’s like I’m excited that you’re pushing into stories in addition to music, in addition to all the different stuff you do. I knew it was going to be so great to hang out and chat, and I really appreciate you taking the time and so glad that we can make this happen. Daniel, thank you for doing this.
+
+Daniel Bachman: Oh, no problem, Jason. And really thanks for the patience with the wifi here. It was a rare occurrence.
+
+AD: Well, thank you for your patience with my dental schedule, so we got it all figured out. Well, thank you so much, Dan. Yeah.
+
+Daniel Bachman: Well, thanks again, Jason. I’ll talk to you in a little bit.
+
+ 
+
+ 
+ Posted on July 24, 2024July 24, 2024Daniel Bachman Podcast
+ 
+
+ 
+ 
+ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1361039829957-0'); });

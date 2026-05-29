@@ -1,0 +1,3459 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-05-26T18:43:08.523889Z",
+  "show": {
+    "slug": "searchingforthesound",
+    "title": "Searching For The Sound",
+    "description": "A weekly exploration of African and African American sounds from the '60's, '70's and beyond with cross-genre journeys into psych-rock, funk, disco, R&B, Soul, blues and the many flavors of jazz. Sounds of liberation, love, identity, the spiritual and pure groove from the greatest musical tradition your mind and body will ever embrace.",
+    "image": "https://cdn.xray.fm/image/medium/download_2_.jpg",
+    "tags": [
+      "world"
+    ],
+    "url": "https://xray.fm/shows/searchingforthesound"
+  },
+  "episode_count": 40,
+  "track_count_total": 423,
+  "episodes": [
+    {
+      "id": "70612",
+      "url": "https://xray.fm/broadcasts/70612",
+      "title": "SFTS 5/23/26 Psychedelic Soul",
+      "air_date": "5-23-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Psychedelic_Soul.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "I Love Every Little Thing About You",
+          "artist": "Syreeta",
+          "album": "Syreeta",
+          "label": "Mowest"
+        },
+        {
+          "time": "7:05am",
+          "track": "Black Maybe",
+          "artist": "Syreeta",
+          "album": "Syreeta",
+          "label": "Mowest"
+        },
+        {
+          "time": "7:09am",
+          "track": "I Love Having You Around",
+          "artist": "Stevie Wonder",
+          "album": "Music of My Mind",
+          "label": "Tamla"
+        },
+        {
+          "time": "7:16am",
+          "track": "Ball of Confusion",
+          "artist": "The Undisputed Truth",
+          "album": "The Undisputed Truth",
+          "label": "Gordy"
+        },
+        {
+          "time": "7:27am",
+          "track": "I Wanna Know If It's Good To You",
+          "artist": "Funkadelic",
+          "album": "Free Your Mind and Your Ass Will Follow",
+          "label": "Westbound"
+        },
+        {
+          "time": "7:33am",
+          "track": "Little Ole Country Boy",
+          "artist": "Parliament",
+          "album": "Osmium",
+          "label": "Invictus"
+        },
+        {
+          "time": "7:37am",
+          "track": "Psychedelic Shack",
+          "artist": "The Temptations",
+          "album": "Psychedelic Shack",
+          "label": "Gordy"
+        },
+        {
+          "time": "7:40am",
+          "track": "Get Down",
+          "artist": "War",
+          "album": "All Day Music",
+          "label": "United Artists"
+        },
+        {
+          "time": "7:45am",
+          "track": "I Walk on Gilded Splinters",
+          "artist": "Dr. John",
+          "album": "Gris Gris",
+          "label": "ATCO"
+        },
+        {
+          "time": "7:52am",
+          "track": "Spaced Cowboy",
+          "artist": "Sly and The Family Stone",
+          "album": "There's A Riot Goin' On",
+          "label": "Epic"
+        },
+        {
+          "time": "7:57am",
+          "track": "Running Away",
+          "artist": "Sly and The Family Stone",
+          "album": "There's a Riot Goin' On",
+          "label": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "70483",
+      "url": "https://xray.fm/broadcasts/70483",
+      "title": "SFTS 5/16/26 Jazz Bones",
+      "air_date": "5-16-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Jazz_Bones.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Elysee",
+          "artist": "J.J. Johnson",
+          "album": "78rpm",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:03am",
+          "track": "Sometimes I'm Happy",
+          "artist": "Bennie Green",
+          "album": "The Bennie Green Sextet",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:07am",
+          "track": "Liberty Bell",
+          "artist": "Bob Brookmeyer",
+          "album": "Bob Brookmeyer Featuring John Williams and Red Mitchell",
+          "label": "Crown Records"
+        },
+        {
+          "time": "7:09am",
+          "track": "Trixie",
+          "artist": "J.J. Johnson and Kai Winding",
+          "album": "The Great Kai and J.J.",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:15am",
+          "track": "Speak Low",
+          "artist": "Kai Winding",
+          "album": "The Incredible Kai Winding Trombones",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:19am",
+          "track": "Thandiwa",
+          "artist": "Grachan Moncur III",
+          "album": "Some Other Stuff",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:27am",
+          "track": "Aco dei de Madrugada",
+          "artist": "Grachan Moncur IIII",
+          "album": "Aco dei de Madrugada",
+          "label": "BYG Actuel"
+        },
+        {
+          "time": "7:34am",
+          "track": "Sop City",
+          "artist": "Curtis Fuller",
+          "album": "Smokin'",
+          "label": "Mainstream"
+        },
+        {
+          "time": "7:42am",
+          "track": "Black Bath",
+          "artist": "Curtis Fuller",
+          "album": "Crankin'",
+          "label": "Mainstream"
+        },
+        {
+          "time": "7:51am",
+          "track": "Maiden Voyage",
+          "artist": "Roswell Rudd",
+          "album": "Flexible Flyer",
+          "label": "Arista Freedom"
+        }
+      ]
+    },
+    {
+      "id": "70319",
+      "url": "https://xray.fm/broadcasts/70319",
+      "title": "SFTS 5/9/26 Mike Vernon",
+      "air_date": "5-9-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Mike_Vernon.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Have You Heard",
+          "artist": "John Mayall/Eric Clapton",
+          "album": "Bluesbreakers",
+          "label": "London"
+        },
+        {
+          "time": "7:05am",
+          "track": "The Supernatural",
+          "artist": "John Mayall/Peter Green",
+          "album": "A Hard Road",
+          "label": "London"
+        },
+        {
+          "time": "7:08am",
+          "track": "Broken Wings",
+          "artist": "John Mayall",
+          "album": "The Blues Alone",
+          "label": "Ace of Clubs"
+        },
+        {
+          "time": "7:12am",
+          "track": "Man of The World",
+          "artist": "Fleetwood Mac",
+          "album": "Fleetwood Mac's Greatest Hits",
+          "label": "CBS"
+        },
+        {
+          "time": "7:15am",
+          "track": "Love That Burns",
+          "artist": "Fleetwood Mac",
+          "album": "English Rose",
+          "label": "Epic"
+        },
+        {
+          "time": "7:20am",
+          "track": "Bare Wires",
+          "artist": "John Mayall",
+          "album": "Bare Wires",
+          "label": "London"
+        },
+        {
+          "time": "7:22am",
+          "track": "Where Did I Belong",
+          "artist": "John Mayall",
+          "album": "Bare Wires",
+          "label": "London"
+        },
+        {
+          "time": "7:25am",
+          "track": "I Started Walking",
+          "artist": "John Mayall",
+          "album": "Bare Wires",
+          "label": "London"
+        },
+        {
+          "time": "7:27am",
+          "track": "Open Up A New Door",
+          "artist": "John Mayall",
+          "album": "Bare Wires",
+          "label": "London"
+        },
+        {
+          "time": "7:31am",
+          "track": "Fire",
+          "artist": "John Mayall",
+          "album": "Bare Wires",
+          "label": "London"
+        },
+        {
+          "time": "7:34am",
+          "track": "I Know Now",
+          "artist": "John Mayall",
+          "album": "Bare Wires",
+          "label": "London"
+        },
+        {
+          "time": "7:39am",
+          "track": "Look In The Mirror",
+          "artist": "John Mayall",
+          "album": "Bare Wires",
+          "label": "London"
+        },
+        {
+          "time": "7:43am",
+          "track": "May Be Wrong",
+          "artist": "Savoy Brown",
+          "album": "Blue Matter",
+          "label": "Parrot"
+        },
+        {
+          "time": "7:52am",
+          "track": "Pity The Fool",
+          "artist": "Jellybread",
+          "album": "First Slice",
+          "label": "Blue Horizon"
+        },
+        {
+          "time": "7:55am",
+          "track": "I'm On My Way",
+          "artist": "Christine McVie",
+          "album": "The Legendary Christine Perfect Album",
+          "label": "Sire"
+        }
+      ]
+    },
+    {
+      "id": "70164",
+      "url": "https://xray.fm/broadcasts/70164",
+      "title": "SFTS 5/2/26 Bold '70's",
+      "air_date": "5-2-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Bold_70s.mp3",
+      "track_count": 7,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Tin Can Alley",
+          "artist": "Jack DeJohnette's Special Edition",
+          "album": "Tin Can Alley",
+          "label": "ECM"
+        },
+        {
+          "time": "7:10am",
+          "track": "Dee Blues",
+          "artist": "Charles McPherson",
+          "album": "New Horizons",
+          "label": "Xanadu"
+        },
+        {
+          "time": "7:18am",
+          "track": "Back Hand",
+          "artist": "Keith Jarrett",
+          "album": "Back Hand",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:30am",
+          "track": "Apple Cores",
+          "artist": "Sunny Murray",
+          "album": "Apple Cores",
+          "label": "Philly Jazz"
+        },
+        {
+          "time": "7:37am",
+          "track": "Move Four",
+          "artist": "Michael Mantler",
+          "album": "Movies",
+          "label": "Watt"
+        },
+        {
+          "time": "7:43am",
+          "track": "Black Lightning",
+          "artist": "Norman Connors",
+          "album": "Dark of Light",
+          "label": "Cobblestone"
+        },
+        {
+          "time": "7:55am",
+          "track": "Sea of Nurnen",
+          "artist": "Doug Hammond",
+          "album": "Reflections in the Sea of Nurnen",
+          "label": "Tribe"
+        }
+      ]
+    },
+    {
+      "id": "70039",
+      "url": "https://xray.fm/broadcasts/70039",
+      "title": "SFTS 4/25/26 Big Band!",
+      "air_date": "4-25-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Big_Band_.mp3",
+      "track_count": 8,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "West Coast Blues",
+          "artist": "Cannonball Adderley and His Orchestra",
+          "album": "African Waltz",
+          "label": "Riverside"
+        },
+        {
+          "time": "7:04am",
+          "track": "Midriff",
+          "artist": "Art Blakey's Big Band",
+          "album": "Art Blakey's Big Band",
+          "label": "Bethlehem"
+        },
+        {
+          "time": "7:07am",
+          "track": "Tunjii",
+          "artist": "The Southern University Jazz Ensemble",
+          "album": "Live at the 1971 Collegiate Jazz Festival",
+          "label": "Jazzstronaut"
+        },
+        {
+          "time": "7:14am",
+          "track": "Duet Solo Dancer",
+          "artist": "Chrles Mingus",
+          "album": "The Black Saint and The Sinner Lady",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:19am",
+          "track": "Diminuendo and Crescendo in Blue",
+          "artist": "The Duke Ellington Orchestra",
+          "album": "Ellington at Newport",
+          "label": "Columbia"
+        },
+        {
+          "time": "7:33am",
+          "track": "Maui",
+          "artist": "Horace Tapscott and the Pan African Peoples Arkestra",
+          "album": "Flight 17",
+          "label": "Nimbus"
+        },
+        {
+          "time": "7:44am",
+          "track": "Images",
+          "artist": "The Sun Ra Arkestra",
+          "album": "Lights on a Satellite",
+          "label": "In and Out Records"
+        },
+        {
+          "time": "7:51am",
+          "track": "Bulbs",
+          "artist": "The Gil Evans Orchestra",
+          "album": "Into The Hot",
+          "label": "Impulse!"
+        }
+      ]
+    },
+    {
+      "id": "69905",
+      "url": "https://xray.fm/broadcasts/69905",
+      "title": "SFTS 4/18/26 Impulse! Greatest Hits",
+      "air_date": "4-18-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Impulse_Greatest_Hits.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Stolen Moments",
+          "artist": "Oliver Nelson",
+          "album": "The Blues and The Abstract Truth",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:08am",
+          "track": "The Awakening",
+          "artist": "Ahmad Jamal",
+          "album": "The Awakening",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:15am",
+          "track": "Hold 'em Joe",
+          "artist": "Sonny Rollins",
+          "album": "Sonny Rollins on Impulse",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:20am",
+          "track": "A la Mode",
+          "artist": "Art Blakey and The Jazz Messengers",
+          "album": "Jazz Messengers",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:27am",
+          "track": "Mood Indigo",
+          "artist": "Duke Ellington and Coleman Hawkins",
+          "album": "Duke Ellington Meets Coleman",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:33am",
+          "track": "What's New?",
+          "artist": "The John Coltrane Quartet",
+          "album": "Ballads",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:36am",
+          "track": "Where Flamingos Fly",
+          "artist": "The Gil Evans Orchestra",
+          "album": "Out of The Cool",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:42am",
+          "track": "Astral Travelling",
+          "artist": "Pharaoh Sanders",
+          "album": "Thembi",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:47am",
+          "track": "Duet Solo Dances",
+          "artist": "Charles Mingus",
+          "album": "The Black Saint and The Sinner Lady",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:54am",
+          "track": "Lush Life",
+          "artist": "Johnny Hartman with The John Coltrane Quartet",
+          "album": "John Coltrane and Johnny Hartman",
+          "label": "Impulse!"
+        }
+      ]
+    },
+    {
+      "id": "69766",
+      "url": "https://xray.fm/broadcasts/69766",
+      "title": "SFTS 4/11/26 Sun Ra's Exotic Lounge",
+      "air_date": "4-11-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Sun_Ra_s_Exotic_Lounge.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "New Horizons",
+          "artist": "Sun Ra and His Myth Science Arkestra",
+          "album": "We Travel The Space Ways",
+          "label": "Saturn Records"
+        },
+        {
+          "time": "7:03am",
+          "track": "Portrait of The Living Sky",
+          "artist": "Sun Ra and His Arkestra",
+          "album": "Supersonic Jazz",
+          "label": "El Saturn"
+        },
+        {
+          "time": "7:04am",
+          "track": "Ancient Ethiopia",
+          "artist": "Le Sun Ra and His Arkestra",
+          "album": "Jazz in Silhouette",
+          "label": "El Saturn"
+        },
+        {
+          "time": "7:13am",
+          "track": "The Golden Lady",
+          "artist": "Sun Ra and His Myth Science Arkestra",
+          "album": "The Nubians of Plutonia",
+          "label": "El Saturn"
+        },
+        {
+          "time": "7:21am",
+          "track": "Spontaneous Simplicity",
+          "artist": "Sun Ra and His Myth Science Arkestra",
+          "album": "To Those of Earth and Other Worlds (compilation)",
+          "label": "Strut"
+        },
+        {
+          "time": "7:24am",
+          "track": "Africa",
+          "artist": "Sun Ra and His Myth Science Arkestra",
+          "album": "The Nubians of Plutonia",
+          "label": "El Saturn"
+        },
+        {
+          "time": "7:29am",
+          "track": "Tiny Pyramids",
+          "artist": "Sun Ra and His Myth Science Arkestra",
+          "album": "Angels and Demons at Play",
+          "label": "El Saturn"
+        },
+        {
+          "time": "7:32am",
+          "track": "The Nile",
+          "artist": "Sun Ra and His Astro Infinity Arkestra",
+          "album": "When Sun Comes Out",
+          "label": "Saturn Records"
+        },
+        {
+          "time": "7:37am",
+          "track": "The Friendly Galaxy",
+          "artist": "Sun Ra and His Solar Arkestra",
+          "album": "Secrets of The Sun",
+          "label": "El Saturn"
+        },
+        {
+          "time": "7:42am",
+          "track": "Some Day My Prince Will Come",
+          "artist": "Sun Ra and His Arkestra with June Tyson",
+          "album": "Pink Elephants on Parade",
+          "label": "Modern Harmonics"
+        },
+        {
+          "time": "7:49am",
+          "track": "Love In Outer Space",
+          "artist": "Sun Ra and His Arkestra",
+          "album": "Single",
+          "label": "Saturn Records"
+        },
+        {
+          "time": "7:52am",
+          "track": "Overtones of China",
+          "artist": "Sun Ra and His Solar Arkestra",
+          "album": "Sun Ra and His Solar Arkestra Visit Planet Earth",
+          "label": "Saturn Records"
+        }
+      ]
+    },
+    {
+      "id": "69481",
+      "url": "https://xray.fm/broadcasts/69481",
+      "title": "SFTS 3/27/26 Lady Jazzin'",
+      "air_date": "3-28-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Ldy_Jazzbos.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "It's a Minor Thing",
+          "artist": "Dorothy Ashby with Frank Wess",
+          "album": "It's a Minor Groove",
+          "label": "New Jazz"
+        },
+        {
+          "time": "7:03am",
+          "track": "Until I Met You",
+          "artist": "Shirley Scott with Clark Terry",
+          "album": "Soul Duo",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:09am",
+          "track": "My Little Girl",
+          "artist": "Bobbi Humphrey",
+          "album": "Satin Doll",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:15am",
+          "track": "Shortie's Portion",
+          "artist": "Patrice Rushen",
+          "album": "Prelusion",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:24am",
+          "track": "Battle at Armageddon",
+          "artist": "Alice Coltrane",
+          "album": "Universal Consciousnes",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:31am",
+          "track": "Light or Dark",
+          "artist": "Carla Bley",
+          "album": "Heavy Heart",
+          "label": "ECM"
+        },
+        {
+          "time": "7:37am",
+          "track": "Nuevo Raquero Estero",
+          "artist": "Jamie Branch with Fly or Die II",
+          "album": "Bird Dogs of Paradise",
+          "label": "International Anthem"
+        },
+        {
+          "time": "7:46am",
+          "track": "Concerto Alone at Montreux",
+          "artist": "Mary Lou Williams",
+          "album": "Solo Recital - Montreux Jazz Festival 1978",
+          "label": "Pablo"
+        },
+        {
+          "time": "7:52am",
+          "track": "You Make Me Feel Brand New",
+          "artist": "Brandee Younger with Dezron Douglas",
+          "album": "Force Majeure",
+          "label": "International Anthem"
+        }
+      ]
+    },
+    {
+      "id": "69388",
+      "url": "https://xray.fm/broadcasts/69388",
+      "title": "SFTS 3/20/26 500 Miles High",
+      "air_date": "3-21-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/500_Miles_High.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "O Contador/Bridges/500 Miles High",
+          "artist": "Flora Purim",
+          "album": "500 Miles High Live at Montreux",
+          "label": "Milestone"
+        },
+        {
+          "time": "7:12am",
+          "track": "Self Care",
+          "artist": "Brown Calculus",
+          "album": "Live at The Maproom",
+          "label": "Conduit Records"
+        },
+        {
+          "time": "7:16am",
+          "track": "Touch In Mine",
+          "artist": "Esperanza Spaulding",
+          "album": "Twelve Little Spells",
+          "label": "Concorde"
+        },
+        {
+          "time": "7:21am",
+          "track": "Maiden Voyage",
+          "artist": "The Third Wave",
+          "album": "The Third Wave",
+          "label": "MPS"
+        },
+        {
+          "time": "7:26am",
+          "track": "Going Out of My Head",
+          "artist": "Esther Phillips",
+          "album": "For All We Know",
+          "label": "Kudu"
+        },
+        {
+          "time": "7:33am",
+          "track": "Funnybird Song/Indonesian Dock Sucking Supreme",
+          "artist": "Carla Bley",
+          "album": "Tropic Appetites",
+          "label": "Watt"
+        },
+        {
+          "time": "7:43am",
+          "track": "Along Came Ra/The Living Myth",
+          "artist": "June Tyson with The Sun Ra Arkestra",
+          "album": "Sun Ra and His Interplanetary Vocal Arkestra",
+          "label": "Modern Harmonics"
+        },
+        {
+          "time": "7:47am",
+          "track": "Obeah Woman",
+          "artist": "Nina Simone",
+          "album": "It Is Finished",
+          "label": "RCA"
+        },
+        {
+          "time": "7:54am",
+          "track": "There Is a God",
+          "artist": "Thelma Houston",
+          "album": "Thelma Houston",
+          "label": "Mowest"
+        }
+      ]
+    },
+    {
+      "id": "69245",
+      "url": "https://xray.fm/broadcasts/69245",
+      "title": "SFTS 3/14/26 Funky Folkies",
+      "air_date": "3-14-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Funky_Folkies.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Love and Affection",
+          "artist": "Joan Armatrading",
+          "album": "Joan Armatrading",
+          "label": "A&M"
+        },
+        {
+          "time": "7:04am",
+          "track": "Hit or Miss",
+          "artist": "Odetta",
+          "album": "Odetta Sings",
+          "label": "Polydor"
+        },
+        {
+          "time": "7:07am",
+          "track": "Weasel and The White Boys Cool",
+          "artist": "Rickie Lee Jones",
+          "album": "Rickie Lee Jones",
+          "label": "Warner Bros."
+        },
+        {
+          "time": "7:13am",
+          "track": "Only You Know and I Know",
+          "artist": "Rita Coolidge",
+          "album": "Nice Feelin'",
+          "label": "A&M"
+        },
+        {
+          "time": "7:17am",
+          "track": "The Secret in This Lady's Heart",
+          "artist": "Ellen McIlwaine",
+          "album": "The Real Ellen McIlwaine",
+          "label": "Kot'Ai"
+        },
+        {
+          "time": "7:21am",
+          "track": "Billy Goat Run",
+          "artist": "Anna Black",
+          "album": "Meet Anna Black",
+          "label": "Epic"
+        },
+        {
+          "time": "7:24am",
+          "track": "Fancy",
+          "artist": "Bobbie Gentry",
+          "album": "Fancy",
+          "label": "Capitol"
+        },
+        {
+          "time": "7:28am",
+          "track": "Coyote",
+          "artist": "Joni Mitchell",
+          "album": "Hejira",
+          "label": "Asylum"
+        },
+        {
+          "time": "7:33am",
+          "track": "Heavy Burdens Me Down",
+          "artist": "Jackie DeShannon",
+          "album": "Jackie",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:36am",
+          "track": "My Baby Specializes",
+          "artist": "Delaney and Bonnie",
+          "album": "Home",
+          "label": "Stax"
+        },
+        {
+          "time": "7:39am",
+          "track": "Ain't Gonna Be Treated This Way",
+          "artist": "Dianne Davidson",
+          "album": "Mountain Mama",
+          "label": "Janus"
+        },
+        {
+          "time": "7:44am",
+          "track": "Adam",
+          "artist": "Buffy Sainte-Marie",
+          "album": "Iluminations",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:49am",
+          "track": "Love Alive Heart",
+          "artist": "Heart",
+          "album": "Little Queen",
+          "label": "Portrait"
+        },
+        {
+          "time": "7:53am",
+          "track": "Lay Baby Lay",
+          "artist": "Cher",
+          "album": "3614 Jackson Highway",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:56am",
+          "track": "Big Boss Man",
+          "artist": "Bobbie Gentry",
+          "album": "The Delta Sweete",
+          "label": "Capitol"
+        }
+      ]
+    },
+    {
+      "id": "69123",
+      "url": "https://xray.fm/broadcasts/69123",
+      "title": "SFTS 3/7/26 The Jazz Lounge",
+      "air_date": "3-7-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/The_Jazz_Lounge.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Harry's House Centerpiece",
+          "artist": "Joni Mitchell",
+          "album": "The Hissing of Summer Lawns",
+          "label": "Asylum"
+        },
+        {
+          "time": "7:06am",
+          "track": "I'm Through with Love",
+          "artist": "Lorez Alexandria",
+          "album": "Lorez Alexandria The Great",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:12am",
+          "track": "This Is Always",
+          "artist": "Annie Ross",
+          "album": "Annie Ross Sings a Song of Mulligan",
+          "label": "World Pacific"
+        },
+        {
+          "time": "7:16am",
+          "track": "Day In, Day Out",
+          "artist": "Billie Holiday",
+          "album": "Billy Holiday at Jazz at The Philharmonic",
+          "label": "Verve"
+        },
+        {
+          "time": "7:23am",
+          "track": "Don't Explain",
+          "artist": "Abbey Lincoln",
+          "album": "That's Him",
+          "label": "Riverside"
+        },
+        {
+          "time": "7:30am",
+          "track": "Jim",
+          "artist": "Sarah Vaughan",
+          "album": "Sarah Vaughan",
+          "label": "Emarcy"
+        },
+        {
+          "time": "7:35am",
+          "track": "Simple Song",
+          "artist": "Jackie and Roy",
+          "album": "Time and Love",
+          "label": "CTI"
+        },
+        {
+          "time": "7:41am",
+          "track": "So, I'm Glad There Is You",
+          "artist": "Carol Sloane",
+          "album": "Love You Madly",
+          "label": "Contemporary"
+        },
+        {
+          "time": "7:47am",
+          "track": "Dancing On The Ceiling",
+          "artist": "Jeri Southern",
+          "album": "Jeri Southern at The Crescendo",
+          "label": "Capitol"
+        },
+        {
+          "time": "7:51am",
+          "track": "It's Magic/Stormy Weather",
+          "artist": "Keely Smith",
+          "album": "Swingin' Pretty",
+          "label": "Capitol"
+        }
+      ]
+    },
+    {
+      "id": "68971",
+      "url": "https://xray.fm/broadcasts/68971",
+      "title": "SFTS 2/28/26 Lady Funk",
+      "air_date": "2-28-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Lady_Funk.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "If You Can't Take The Heat Get Out The Kitchen",
+          "artist": "Ann Byers",
+          "album": "Single",
+          "label": "Virtue"
+        },
+        {
+          "time": "7:03am",
+          "track": "You Made Me An Offer I Can't Refuse",
+          "artist": "Eloise Laws",
+          "album": "Single",
+          "label": "Music Merchant"
+        },
+        {
+          "time": "7:06am",
+          "track": "He Made A Woman Out of Me",
+          "artist": "Bettye LaVette",
+          "album": "Single",
+          "label": "Silver Fox"
+        },
+        {
+          "time": "7:09am",
+          "track": "What It Takes To Get A Good Woman",
+          "artist": "Denise LaSalle",
+          "album": "Single",
+          "label": "Westbound"
+        },
+        {
+          "time": "7:12am",
+          "track": "You Got The Love",
+          "artist": "Rufus Featuring Chaka Khan",
+          "album": "Rags to Rufus",
+          "label": "ABC"
+        },
+        {
+          "time": "7:16am",
+          "track": "Game Is My Middle Name",
+          "artist": "Betty Davis",
+          "album": "Betty Davis",
+          "label": "Just Sunshine"
+        },
+        {
+          "time": "7:21am",
+          "track": "Huff and Puff",
+          "artist": "Parlet",
+          "album": "Invasion of The Booty Snatchers",
+          "label": "Casablanca"
+        },
+        {
+          "time": "7:28am",
+          "track": "Turn The People On",
+          "artist": "Hodges, Jones and Smith",
+          "album": "Incredible",
+          "label": "20th Century"
+        },
+        {
+          "time": "7:33am",
+          "track": "Hold On",
+          "artist": "Erma Franklin",
+          "album": "Soul Sister",
+          "label": "Brunswick"
+        },
+        {
+          "time": "7:36am",
+          "track": "Morning Much Better",
+          "artist": "LaBelle",
+          "album": "LaBelle",
+          "label": "Warner Bros."
+        },
+        {
+          "time": "7:39am",
+          "track": "It's All Over But The Shouting",
+          "artist": "Millie Jackson",
+          "album": "Still Caught Up",
+          "label": "Spring"
+        },
+        {
+          "time": "7:42am",
+          "track": "Baby What You Do To Me",
+          "artist": "Vivian Reed",
+          "album": "Brown Sugar",
+          "label": "H and L Records"
+        },
+        {
+          "time": "7:46am",
+          "track": "Mr. Big Stuff",
+          "artist": "Jean Knight",
+          "album": "Mr. Big Stuff",
+          "label": "Stax"
+        },
+        {
+          "time": "7:49am",
+          "track": "Yes We Can",
+          "artist": "The Pointer Sisters",
+          "album": "The Pointer Sisters",
+          "label": "ABC Blue Thumb"
+        },
+        {
+          "time": "7:54am",
+          "track": "Disco To Go",
+          "artist": "The Brides of Funkenstein",
+          "album": "Funk or Walk",
+          "label": "Atlantic"
+        }
+      ]
+    },
+    {
+      "id": "68813",
+      "url": "https://xray.fm/broadcasts/68813",
+      "title": "SFTS 2/21/26 Blues At Newport 1964",
+      "air_date": "2-21-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Blues_at_Newport_1964.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Midnight Boogie",
+          "artist": "Robert \"Pete\" Williams",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:03am",
+          "track": "Levee Camp Blues",
+          "artist": "Robert \"Pete\" Williams",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:08am",
+          "track": "Sliding Delta",
+          "artist": "Mississippi John Hurt",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:12am",
+          "track": "Trouble, I've Had It My Days",
+          "artist": "Mississippi John Hurt",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:15am",
+          "track": "Had Time Killin' Floor Blues",
+          "artist": "Skip James",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:17am",
+          "track": "Cherry Ball Blues",
+          "artist": "Skip James",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:20am",
+          "track": "Iliinois Blues",
+          "artist": "Skip James",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:23am",
+          "track": "Death Don't Have No Mercy",
+          "artist": "Rev. Gary Davis",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:27am",
+          "track": "Son's Blues",
+          "artist": "Son House",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:33am",
+          "track": "Death Letter Blues",
+          "artist": "Son House",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:36am",
+          "track": "Hey Rattler/Oh My Lord",
+          "artist": "Dock Reese",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:41am",
+          "track": "Lord I'm Going Down South",
+          "artist": "Mississippi Fred McDowell",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:44am",
+          "track": "If The River Was Whiskey",
+          "artist": "Mississippi Fred McDowell",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:47am",
+          "track": "Cotton Field Blues",
+          "artist": "Lightnin' Hopkins",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:52am",
+          "track": "Shake That Thing",
+          "artist": "Lightnin' Hopkins",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:54am",
+          "track": "Bus Station Blues",
+          "artist": "John Lee Hooker",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        },
+        {
+          "time": "7:57am",
+          "track": "Catfish Blues",
+          "artist": "Willie Doss",
+          "album": "Great Bluesmen at Newport",
+          "label": "Vanguard"
+        }
+      ]
+    },
+    {
+      "id": "68720",
+      "url": "https://xray.fm/broadcasts/68720",
+      "title": "SFTS 2/14/26 JohnColtrane Homage",
+      "air_date": "2-14-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/John_Coltrane_Homage.mp3",
+      "track_count": 8,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Welcome",
+          "artist": "Norman Connors",
+          "album": "Slewfoot",
+          "label": "Buddha"
+        },
+        {
+          "time": "7:07am",
+          "track": "John Coltrane",
+          "artist": "The Clifford Jordan Quartet",
+          "album": "Night of the Mark VII",
+          "label": "Muse"
+        },
+        {
+          "time": "7:15am",
+          "track": "Ole",
+          "artist": "Sonny Fortune",
+          "album": "In The Spirit of John Coltrane",
+          "label": "Shanachie"
+        },
+        {
+          "time": "7:20am",
+          "track": "To Trane",
+          "artist": "The Carsten Meinert Kvartet",
+          "album": "To You",
+          "label": "Frederichsberg Records"
+        },
+        {
+          "time": "7:27am",
+          "track": "Transition",
+          "artist": "Malachi Thompson and Africa Brass",
+          "album": "Lift Every Voice",
+          "label": "Delmark"
+        },
+        {
+          "time": "7:34am",
+          "track": "Evening Trane",
+          "artist": "Hampton Hawes",
+          "album": "High In The Sky",
+          "label": "Vault"
+        },
+        {
+          "time": "7:40am",
+          "track": "Niami",
+          "artist": "The Darwin Strickland Trio",
+          "album": "Single",
+          "label": "Astro Records"
+        },
+        {
+          "time": "7:46am",
+          "track": "Terre Engloutie",
+          "artist": "The Gilles Torrent Jazztet",
+          "album": "Terre Engloutie",
+          "label": "Plainisphere"
+        }
+      ]
+    },
+    {
+      "id": "68627",
+      "url": "https://xray.fm/broadcasts/68627",
+      "title": "SFTS 2/7/26 Miles vDavis - 1950's",
+      "air_date": "2-7-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Miles_Davis_-_1950_s.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "For Adults Only",
+          "artist": "Miles Davis and Al Cohn",
+          "album": "Miles Davis Plays the Compositions of Al Cohn",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:05am",
+          "track": "Morpheus",
+          "artist": "Miles Davis and His Band",
+          "album": "78 RPM",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:07am",
+          "track": "Dr. Jackle",
+          "artist": "Miles Davis and Milt Jackson Quintet/Sextet",
+          "album": "Miles Davis and Milt Jackson Quintet/Sextet",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:16am",
+          "track": "Bluing",
+          "artist": "Miles Davis Featuring Sonny Rollins",
+          "album": "Dig",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:26am",
+          "track": "Bemsha Swing",
+          "artist": "Miles Davis and The Modern Jazz Giants",
+          "album": "Miles Davis and The Modern Jazz Giants",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:36am",
+          "track": "Diane",
+          "artist": "The Miles Davis Quintet",
+          "album": "Steamin' With The Miles Davis Quintet",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:44am",
+          "track": "Well You Needn't",
+          "artist": "The Miles Davis Quintet",
+          "album": "Steamin' With The Miles Davis Quintet",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:50am",
+          "track": "Out of The Blue",
+          "artist": "Miles Davis Featuring Sonny Rollins",
+          "album": "Dig",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:56am",
+          "track": "Tasty Pudding",
+          "artist": "Miles Davis and Al Cohn",
+          "album": "Miles Davis Plays The Compositions of Al Cohn",
+          "label": "Prestige"
+        }
+      ]
+    },
+    {
+      "id": "68536",
+      "url": "https://xray.fm/broadcasts/68536",
+      "title": "SFTS 1/31/26 Strata East Revival",
+      "air_date": "1-31-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Strata_East_Revival.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Drought",
+          "artist": "Music Inc.",
+          "album": "Live at Slugs Volume 1",
+          "label": "Strata East"
+        },
+        {
+          "time": "7:09am",
+          "track": "Two Songs For A Boy Named Mark",
+          "artist": "The Descendants of Mike and Phoebe",
+          "album": "A Spirit Speaks",
+          "label": "Strata East"
+        },
+        {
+          "time": "7:14am",
+          "track": "Sounds of Silents",
+          "artist": "Sonny Fortune",
+          "album": "Long Before Our Mothers Cried",
+          "label": "Strata East"
+        },
+        {
+          "time": "7:23am",
+          "track": "Life Waves",
+          "artist": "Cecil McBee",
+          "album": "Mutima",
+          "label": "Strata East"
+        },
+        {
+          "time": "7:32am",
+          "track": "Nation Time",
+          "artist": "The Piano Choir",
+          "album": "Handscapes",
+          "label": "Strata East"
+        },
+        {
+          "time": "7:38am",
+          "track": "Too Late Fall Back Baby",
+          "artist": "Keno Duke/Contemporaries",
+          "album": "Sense of Values",
+          "label": "Strata East"
+        },
+        {
+          "time": "7:45am",
+          "track": "Turkish Bath",
+          "artist": "Weldon Irvine",
+          "album": "In Harmony",
+          "label": "Strata East"
+        },
+        {
+          "time": "7:52am",
+          "track": "Senor Zamora",
+          "artist": "Harold Vick",
+          "album": "Don't Look Back",
+          "label": "Strata East"
+        },
+        {
+          "time": "7:58am",
+          "track": "Trying To Find A Way",
+          "artist": "Stanley Cowell",
+          "album": "Strata-2-East",
+          "label": "Strata East"
+        }
+      ]
+    },
+    {
+      "id": "68439",
+      "url": "https://xray.fm/broadcasts/68439",
+      "title": "SFTS 1/24/26 Joseph Hunter Byrd, Jr.",
+      "air_date": "1-24-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Joseph_Hunter_Byrd_Jr..mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Where Is Yesterday?",
+          "artist": "The United States of America",
+          "album": "The United States of America",
+          "label": "Columbia"
+        },
+        {
+          "time": "7:03am",
+          "track": "Coming Down",
+          "artist": "The United States of America",
+          "album": "The United States of America",
+          "label": "Columbia"
+        },
+        {
+          "time": "7:06am",
+          "track": "Love Song For The Dead Che",
+          "artist": "The United States of America",
+          "album": "The United States of America",
+          "label": "Columbia"
+        },
+        {
+          "time": "7:09am",
+          "track": "Stranded In Time",
+          "artist": "The United States of America",
+          "album": "The United States of America",
+          "label": "Columbia"
+        },
+        {
+          "time": "7:11am",
+          "track": "The American Way of Love",
+          "artist": "The United States of America",
+          "album": "The United States of America",
+          "label": "Columbia"
+        },
+        {
+          "time": "7:17am",
+          "track": "The Crucifixion",
+          "artist": "Phil Ochs",
+          "album": "The Pleasures of The Harbor",
+          "label": "A&M"
+        },
+        {
+          "time": "7:26am",
+          "track": "In a Mist",
+          "artist": "Ry Cooder",
+          "album": "Jazz",
+          "label": "Warner Bros."
+        },
+        {
+          "time": "7:28am",
+          "track": "Davenport Blues",
+          "artist": "Ry Cooder",
+          "album": "Jazz",
+          "label": "Warner Bros."
+        },
+        {
+          "time": "7:30am",
+          "track": "We Shall Be Happy",
+          "artist": "Ry Cooder",
+          "album": "Jazz",
+          "label": "Warner Bros."
+        },
+        {
+          "time": "7:33am",
+          "track": "Kalyani",
+          "artist": "Joe Byrd and The Field Hippies",
+          "album": "The American Metaphysical Circus",
+          "label": "Columbia Masterworks"
+        },
+        {
+          "time": "7:37am",
+          "track": "You Can't Ever Come Down",
+          "artist": "Joe Byrd and The Field Hippies",
+          "album": "The American Metaphysical Circus",
+          "label": "Columbia Masterworks"
+        },
+        {
+          "time": "7:40am",
+          "track": "Moonsong: Pelog",
+          "artist": "Joe Byrd and The Field Hippies",
+          "album": "The American Metaphysical Circus",
+          "label": "Columbia Masterworks"
+        },
+        {
+          "time": "7:43am",
+          "track": "Patriot's Lullabye",
+          "artist": "Joe Byrd and The Field Hippies",
+          "album": "The American Metaphysical Circus",
+          "label": "Columbia Masterworks"
+        },
+        {
+          "time": "7:46am",
+          "track": "Invisible Man",
+          "artist": "Joe Byrd and The Field Hippies",
+          "album": "The American Metaphysical Circus",
+          "label": "Columbia Masterworks"
+        },
+        {
+          "time": "7:49am",
+          "track": "Mister Fourth of July",
+          "artist": "Joe Byrd and The Field Hippies",
+          "album": "The American Metaphysical Circus",
+          "label": "Columbia Masterworks"
+        },
+        {
+          "time": "7:55am",
+          "track": "The American Metaphysical Circus",
+          "artist": "The United States of America",
+          "album": "The United States of America",
+          "label": "Columbia"
+        }
+      ]
+    },
+    {
+      "id": "68302",
+      "url": "https://xray.fm/broadcasts/68302",
+      "title": "SFTS 1/17/26 Bobby Weir",
+      "air_date": "1-17-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Bobby_Weir.mp3",
+      "track_count": 4,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Black Throated Wind/U.S. Blues",
+          "artist": "The Grateful Dead",
+          "album": "Steal Your Face",
+          "label": "Grateful Dead Records"
+        },
+        {
+          "time": "7:08am",
+          "track": "That's It For The Other One",
+          "artist": "The Grateful Dead",
+          "album": "Anthem of The Sun",
+          "label": "Warner Bros."
+        },
+        {
+          "time": "7:26am",
+          "track": "Playin In The Band",
+          "artist": "The Grateful Dead",
+          "album": "June 10, 1973 RFK Stadium",
+          "label": "Rhino"
+        },
+        {
+          "time": "7:41am",
+          "track": "Alligator/Caution Do Not Stop on Tracks",
+          "artist": "The Grateful Dead",
+          "album": "Anthem of The Sum",
+          "label": "Warner Bros."
+        }
+      ]
+    },
+    {
+      "id": "68049",
+      "url": "https://xray.fm/broadcasts/68049",
+      "title": "SFTS 1/3/26 Funky New Year",
+      "air_date": "1-3-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Funky_New_Year.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Nitty Gritty",
+          "artist": "Odell Brown",
+          "album": "Free Delivery",
+          "label": "Cadet"
+        },
+        {
+          "time": "7:03am",
+          "track": "Smokin' Cheeba",
+          "artist": "Studio Band including George Benson and Babby Cortez",
+          "album": "Harlem Underground",
+          "label": "Paul Winley Records"
+        },
+        {
+          "time": "7:10am",
+          "track": "Smiling",
+          "artist": "Charles Earland",
+          "album": "Live at The Lighthouse",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:16am",
+          "track": "Just Free",
+          "artist": "Greaterkind",
+          "album": "Change of Plans",
+          "label": "Albina Music Trust"
+        },
+        {
+          "time": "7:21am",
+          "track": "Sparky",
+          "artist": "Greaterkind",
+          "album": "Change of Plans",
+          "label": "Albina Music Trust"
+        },
+        {
+          "time": "7:25am",
+          "track": "Down In Black Bottom",
+          "artist": "The Cannonball Adderley Quintet",
+          "album": "The Price You Got To Pay To Be Free",
+          "label": "Capitol"
+        },
+        {
+          "time": "7:30am",
+          "track": "Nautilus",
+          "artist": "Bob James",
+          "album": "One",
+          "label": "CTI"
+        },
+        {
+          "time": "7:35am",
+          "track": "God Made Me Funky",
+          "artist": "The Headhunters",
+          "album": "Survival of The Fittest",
+          "label": "Arista"
+        },
+        {
+          "time": "7:44am",
+          "track": "Abdullah's Delight",
+          "artist": "Chico Hamilton",
+          "album": "Chico Hamilton and The Players",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:46am",
+          "track": "A Joyful Process",
+          "artist": "Funkadelic",
+          "album": "America Eats Its Young",
+          "label": "Westbound"
+        },
+        {
+          "time": "7:54am",
+          "track": "Hang In There",
+          "artist": "J.J. Johnson Orchestra",
+          "album": "Across 110th Street OST",
+          "label": "United Artists"
+        },
+        {
+          "time": "7:57am",
+          "track": "Cissy Strut",
+          "artist": "The Johnny Lewis Quartet",
+          "album": "Shuckin' and Jivin'",
+          "label": "Jaro"
+        }
+      ]
+    },
+    {
+      "id": "67916",
+      "url": "https://xray.fm/broadcasts/67916",
+      "title": "SFTS 1/10/26 Phil Upchurch",
+      "air_date": "1-10-2026",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Phil_Upchurc.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Ave Maria",
+          "artist": "Philip Upchurch and Tennyson Stephens",
+          "album": "Upchurch Tennyson",
+          "label": "Kudu"
+        },
+        {
+          "time": "7:04am",
+          "track": "I Am The Blackgold of the Sun",
+          "artist": "The New Rotary Connection",
+          "album": "Hey Love",
+          "label": "Cadet Concept"
+        },
+        {
+          "time": "7:10am",
+          "track": "Sweet Chariot",
+          "artist": "Philip Upchurch",
+          "album": "Darkness Darkness",
+          "label": "ABC Blue Thumb"
+        },
+        {
+          "time": "7:16am",
+          "track": "Take Five",
+          "artist": "George Benson",
+          "album": "Bad Benson",
+          "label": "CTI"
+        },
+        {
+          "time": "7:23am",
+          "track": "Earth Tones",
+          "artist": "Grover Washington, Jr.",
+          "album": "Mister Magic",
+          "label": "Kudu"
+        },
+        {
+          "time": "7:35am",
+          "track": "The Ghetto",
+          "artist": "Donny Hathaway",
+          "album": "Everything Is Everything",
+          "label": "ATCO"
+        },
+        {
+          "time": "7:42am",
+          "track": "Keep On Trippin'",
+          "artist": "Philip Upchurch",
+          "album": "Lovin' Feeling",
+          "label": "ABC Blue Thumb"
+        },
+        {
+          "time": "7:47am",
+          "track": "Memory Band",
+          "artist": "Minnie Ripperton",
+          "album": "Come To My Garden",
+          "label": "Janus Records"
+        },
+        {
+          "time": "7:51am",
+          "track": "Come Little Children",
+          "artist": "Donny Hathaway",
+          "album": "Extension of a Man",
+          "label": "ATCO"
+        },
+        {
+          "time": "7:55am",
+          "track": "Evil",
+          "artist": "Philip Upchurch and Tennyson Stephens",
+          "album": "Upchurch Tennyson",
+          "label": "Kudu"
+        }
+      ]
+    },
+    {
+      "id": "67912",
+      "url": "https://xray.fm/broadcasts/67912",
+      "title": "SFTS Melancholy Holiday",
+      "air_date": "12-27-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Melancholy_Holiday.mp3",
+      "track_count": 22,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Motherless Child",
+          "artist": "O.V. Wright",
+          "album": "Eight Men and Four Women",
+          "label": "Backbeat Records"
+        },
+        {
+          "time": "7:02am",
+          "track": "I Pledge",
+          "artist": "Lonnie and Floyd",
+          "album": "Single",
+          "label": "Jewel"
+        },
+        {
+          "time": "7:05am",
+          "track": "My Baby Waited Too Long",
+          "artist": "Mamie Perry",
+          "album": "Single",
+          "label": "Flash"
+        },
+        {
+          "time": "7:07am",
+          "track": "I Found You",
+          "artist": "James Hanns and The Soul Entertainers",
+          "album": "Single",
+          "label": "Raynard"
+        },
+        {
+          "time": "7:10am",
+          "track": "I Found Out",
+          "artist": "The Disciples",
+          "album": "Single",
+          "label": "Fortuna Records"
+        },
+        {
+          "time": "7:13am",
+          "track": "I'll Do It For You",
+          "artist": "Toussaint McCall",
+          "album": "Single",
+          "label": "Ronn"
+        },
+        {
+          "time": "7:16am",
+          "track": "Didn't I?",
+          "artist": "Darondo",
+          "album": "Single",
+          "label": "Kent"
+        },
+        {
+          "time": "7:19am",
+          "track": "Piece of My Heart",
+          "artist": "Erma Franklin",
+          "album": "Single",
+          "label": "Shout!"
+        },
+        {
+          "time": "7:22am",
+          "track": "Do You Ever Get Tired Of Hurting Me",
+          "artist": "Bettye Swan",
+          "album": "Do You Ever Get Tired of Hurting Me",
+          "label": "Capitol"
+        },
+        {
+          "time": "7:25am",
+          "track": "96 Tears",
+          "artist": "Big Maybelle",
+          "album": "Single",
+          "label": "Rojac"
+        },
+        {
+          "time": "7:27am",
+          "track": "Don't Make Me What You Don't Want Me To Be",
+          "artist": "Nick Allen",
+          "album": "Single",
+          "label": "Walas"
+        },
+        {
+          "time": "7:31am",
+          "track": "Ain't No Use In Crying",
+          "artist": "Fred Parris anThe Restless Hearts",
+          "album": "Single",
+          "label": "Checker"
+        },
+        {
+          "time": "7:33am",
+          "track": "Thunder In My Heart",
+          "artist": "Timmy Shaw",
+          "album": "Single",
+          "label": "Bon"
+        },
+        {
+          "time": "7:36am",
+          "track": "Advice",
+          "artist": "Five Towns",
+          "album": "Single",
+          "label": "Direction"
+        },
+        {
+          "time": "7:39am",
+          "track": "I've Been Trying",
+          "artist": "The Impressions",
+          "album": "Single",
+          "label": "ABC Paramount"
+        },
+        {
+          "time": "7:42am",
+          "track": "Nearer to You",
+          "artist": "Betty Harris",
+          "album": "Single",
+          "label": "Stateside"
+        },
+        {
+          "time": "7:45am",
+          "track": "Let Me Be The Man",
+          "artist": "The Fabulous Verbs",
+          "album": "Single",
+          "label": "Camaro"
+        },
+        {
+          "time": "7:48am",
+          "track": "Sipping a Cup of Coffee",
+          "artist": "The Ordells",
+          "album": "Single",
+          "label": "Dionn"
+        },
+        {
+          "time": "7:51am",
+          "track": "Where Is Love",
+          "artist": "Eldridge Holmes",
+          "album": "Single",
+          "label": "Decca"
+        },
+        {
+          "time": "7:53am",
+          "track": "Have a Little Mercy",
+          "artist": "Jean Wells",
+          "album": "Single",
+          "label": "Calla"
+        },
+        {
+          "time": "7:55am",
+          "track": "Trouble",
+          "artist": "Brenton Wood",
+          "album": "Single",
+          "label": "Double Shot"
+        },
+        {
+          "time": "7:58am",
+          "track": "Should I Take You Home",
+          "artist": "Aztlan",
+          "album": "Single",
+          "label": "Aztlan"
+        }
+      ]
+    },
+    {
+      "id": "67706",
+      "url": "https://xray.fm/broadcasts/67706",
+      "title": "SFTS 12/14/24 In The Choir (Rerun)",
+      "air_date": "12-13-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/In_The_Choir.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Cristo Redentor",
+          "artist": "Donald Byrd",
+          "album": "A New Perspective",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:05am",
+          "track": "I Am The Blackgold of The Sun",
+          "artist": "The New Rotary Connection",
+          "album": "Hey Love",
+          "label": "Cadet Concept"
+        },
+        {
+          "time": "7:11am",
+          "track": "Aquarius/Let The Sun Shine In",
+          "artist": "The Fifth Dimension",
+          "album": "The Age of Aquarius",
+          "label": "Soul City"
+        },
+        {
+          "time": "7:15am",
+          "track": "Shaker Life",
+          "artist": "The Voices of East Harlem",
+          "album": "Right On Be Free",
+          "label": "Elecktra"
+        },
+        {
+          "time": "7:22am",
+          "track": "Mary Don't You Weep",
+          "artist": "Aretha Franklin",
+          "album": "Amazing Grace",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:30am",
+          "track": "I've Longed and Searched For My Mother",
+          "artist": "Donald Byrd",
+          "album": "I'm Trying To Get Home",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:38am",
+          "track": "Les Fleurs",
+          "artist": "Minnie Ripperton",
+          "album": "Come To My Garden",
+          "label": "Janus"
+        },
+        {
+          "time": "7:41am",
+          "track": "African Drum Suite",
+          "artist": "Archie Shepp",
+          "album": "The Cry of My People",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:49am",
+          "track": "Lady Mae",
+          "artist": "The Friends of Distinction",
+          "album": "Real Friends",
+          "label": "RCA"
+        },
+        {
+          "time": "7:54am",
+          "track": "Candles In The Rain",
+          "artist": "Melanie",
+          "album": "The Four Sides of Melanie",
+          "label": "Buddha"
+        }
+      ]
+    },
+    {
+      "id": "67562",
+      "url": "https://xray.fm/broadcasts/67562",
+      "title": "SFTS 12/6/25 Holiday Spirits",
+      "air_date": "12-6-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Holiday_Spirits.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Dreams of a Love Supreme",
+          "artist": "Wendell Harrison",
+          "album": "Dreams of a Love Supreme",
+          "label": "WenHa Records"
+        },
+        {
+          "time": "7:07am",
+          "track": "Dance Eternal Spirits Dance",
+          "artist": "Billy Harper",
+          "album": "Black Saint",
+          "label": "Black Saint"
+        },
+        {
+          "time": "7:14am",
+          "track": "Om Mani Padne Om",
+          "artist": "Sahib Shihab",
+          "album": "Jazz Joint Vol. 2 \"Companionship\"",
+          "label": "Vogue Schallplatten"
+        },
+        {
+          "time": "7:19am",
+          "track": "Free Spirits Unknown",
+          "artist": "Steve Reid and The Legendary Brotherhood",
+          "album": "Nova",
+          "label": "Mustevic"
+        },
+        {
+          "time": "7:25am",
+          "track": "A Love Supreme",
+          "artist": "Carlos Santana and John McLaughlin",
+          "album": "Love, Devotion, Surrender",
+          "label": "Columbia"
+        },
+        {
+          "time": "7:33am",
+          "track": "Prayer For Peace",
+          "artist": "The Piano Choir",
+          "album": "Handscapes 2",
+          "label": "Strata East"
+        },
+        {
+          "time": "7:41am",
+          "track": "Morning Prayer",
+          "artist": "Nate Morgan",
+          "album": "Journey Into Nigrita",
+          "label": "Nimbus West"
+        },
+        {
+          "time": "7:47am",
+          "track": "The Gods of the Yoruba",
+          "artist": "Horace Silver",
+          "album": "Silver 'n Percussion",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:53am",
+          "track": "Utopia and Visions",
+          "artist": "Don Cherry",
+          "album": "Utopia and Visions",
+          "label": "Caprice Records"
+        }
+      ]
+    },
+    {
+      "id": "67468",
+      "url": "https://xray.fm/broadcasts/67468",
+      "title": "SFTS 11/29/25 Farewell Jimmy Cliff",
+      "air_date": "11-29-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Jimmy_Cliff_Farewell.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "You Can Get It If You Really Want",
+          "artist": "Jimmy Cliff",
+          "album": "The Harder They Come OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:02am",
+          "track": "Draw Your Brakes",
+          "artist": "Scotty",
+          "album": "The Harder They Come OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:05am",
+          "track": "Rivers of Babylon",
+          "artist": "The Melodians",
+          "album": "The Harder They Come OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:09am",
+          "track": "Many Rivers To Cross",
+          "artist": "Jimmy Cliff",
+          "album": "The Harder They Come OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:12am",
+          "track": "Sweet and Dandy",
+          "artist": "The Maytals",
+          "album": "The Harder They Come OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:15am",
+          "track": "The Harder They Come",
+          "artist": "Jimmy Cliff",
+          "album": "The Harder They Come OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:19am",
+          "track": "Johnny Too Bad",
+          "artist": "The Slickers",
+          "album": "The Harder They Come OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:22am",
+          "track": "Shanty Town",
+          "artist": "Desmond Dekker",
+          "album": "The Harder They Come OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:26am",
+          "track": "Pressure Drop",
+          "artist": "The Maytals",
+          "album": "The Harder They Come OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:30am",
+          "track": "Sitting In Limbo",
+          "artist": "Jimmy Cliff",
+          "album": "The Harder They Come OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:34am",
+          "track": "We A Rockers",
+          "artist": "Inner Circle",
+          "album": "Rockers OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:37am",
+          "track": "Money Worries",
+          "artist": "The Maytones",
+          "album": "Rockers OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:40am",
+          "track": "Police and Thieves",
+          "artist": "Junior Murvin",
+          "album": "Rockers OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:44am",
+          "track": "Book of Rules",
+          "artist": "The Heptones",
+          "album": "Rockers OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:47am",
+          "track": "Stepping Razor",
+          "artist": "Peter Tosh",
+          "album": "Rockers OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:51am",
+          "track": "Tenement Yard",
+          "artist": "Jacob Miller",
+          "album": "Rockers OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:53am",
+          "track": "Fade Away",
+          "artist": "Junior Byles",
+          "album": "Rockers OST",
+          "label": "Mango"
+        },
+        {
+          "time": "7:56am",
+          "track": "Rockers",
+          "artist": "Bunny Wailer",
+          "album": "Rockers OST",
+          "label": "Mango"
+        }
+      ]
+    },
+    {
+      "id": "67341",
+      "url": "https://xray.fm/broadcasts/67341",
+      "title": "SFTS 11/22/25 Chile",
+      "air_date": "11-22-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Chile.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Foto de Primera Comunion",
+          "artist": "Los Jaivas",
+          "album": "Los Jaivas",
+          "label": "Grabacion Particular"
+        },
+        {
+          "time": "7:06am",
+          "track": "La Primavera D Mis L. O'B",
+          "artist": "Los Vidrios Quebrados",
+          "album": "Fictions",
+          "label": "UES Productions"
+        },
+        {
+          "time": "7:09am",
+          "track": "Vuelve a Comenzar",
+          "artist": "Amigos de Maria",
+          "album": "Rock",
+          "label": "Odeon"
+        },
+        {
+          "time": "7:18am",
+          "track": "La Realidad",
+          "artist": "Sacros",
+          "album": "Sacros",
+          "label": "IRT"
+        },
+        {
+          "time": "7:22am",
+          "track": "La Muerte de Mi Hermano",
+          "artist": "Los Macs",
+          "album": "Kaleidescope Men",
+          "label": "RCA Victor"
+        },
+        {
+          "time": "7:25am",
+          "track": "Pisandose la Cola",
+          "artist": "Blops",
+          "album": "Blops",
+          "label": "Pena de los Parra"
+        },
+        {
+          "time": "7:31am",
+          "track": "Canto Sin Nombre",
+          "artist": "Embrujo",
+          "album": "Embrujo",
+          "label": "Arena"
+        },
+        {
+          "time": "7:36am",
+          "track": "Pobre Gato",
+          "artist": "Los Beat 4",
+          "album": "Juegos Prohibios",
+          "label": "UES"
+        },
+        {
+          "time": "7:38am",
+          "track": "I Wonder Who",
+          "artist": "Aguaturbia",
+          "album": "Volumen 2",
+          "label": "Arena"
+        },
+        {
+          "time": "7:46am",
+          "track": "Tu, Yo y Nuestra Amor",
+          "artist": "Tumulto",
+          "album": "Tumulto",
+          "label": "EMI Odeon"
+        },
+        {
+          "time": "7:51am",
+          "track": "Piramano",
+          "artist": "Blops",
+          "album": "Blops",
+          "label": "Alba"
+        },
+        {
+          "time": "7:53am",
+          "track": "Magnetism",
+          "artist": "Escombres",
+          "album": "Escombres",
+          "label": "Arena"
+        },
+        {
+          "time": "7:56am",
+          "track": "Civilacion",
+          "artist": "Los Beat 4",
+          "album": "Había Una Vez",
+          "label": "UES"
+        }
+      ]
+    },
+    {
+      "id": "67244",
+      "url": "https://xray.fm/broadcasts/67244",
+      "title": "SFTS 11/8/25 Calm Before",
+      "air_date": "11-15-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Calm_Before.mp3",
+      "track_count": 8,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "I'm A Suspect",
+          "artist": "Lonnie Holley",
+          "album": "Mith",
+          "label": "JagJaguar"
+        },
+        {
+          "time": "7:07am",
+          "track": "Long Ago Child/Fallen Star",
+          "artist": "Pat Methany",
+          "album": "New Chatauqua",
+          "label": "ECM"
+        },
+        {
+          "time": "7:17am",
+          "track": "Sweet Sucker Dance",
+          "artist": "Joni Mitchell",
+          "album": "Mingus",
+          "label": "Asylum"
+        },
+        {
+          "time": "7:25am",
+          "track": "Thembi",
+          "artist": "Pharaoh Sanders",
+          "album": "Thembi",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:32am",
+          "track": "Madame George",
+          "artist": "Van Morrison",
+          "album": "Astral Weeks",
+          "label": "Warner Bros."
+        },
+        {
+          "time": "7:42am",
+          "track": "One Note Samba",
+          "artist": "The Modern Jazz Quartet with Laurindo Almeida",
+          "album": "The Modern Jazz Quartet with Laurindo Almeida",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:47am",
+          "track": "Don't Explain",
+          "artist": "Abbey Lincoln",
+          "album": "That's Him!",
+          "label": "Riverside"
+        },
+        {
+          "time": "7:53am",
+          "track": "Shadows",
+          "artist": "Freddie Redd Quartet",
+          "album": "Shades of Redd",
+          "label": "Blue Note"
+        }
+      ]
+    },
+    {
+      "id": "67114",
+      "url": "https://xray.fm/broadcasts/67114",
+      "title": "SFTS 11/8/25 Calm Before",
+      "air_date": "11-8-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Calm_Before.mp3",
+      "track_count": 8,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "I'm A Suspect",
+          "artist": "Lonnie Holley",
+          "album": "Mith",
+          "label": "JagJaguar"
+        },
+        {
+          "time": "7:07am",
+          "track": "Long Ago Child/Fallen Star",
+          "artist": "Pat Methany",
+          "album": "New Chatauqua",
+          "label": "ECM"
+        },
+        {
+          "time": "7:17am",
+          "track": "Sweet Sucker Dance",
+          "artist": "Joni Mitchell",
+          "album": "Mingus",
+          "label": "Asylum"
+        },
+        {
+          "time": "7:25am",
+          "track": "Thembi",
+          "artist": "Pharaoh Sanders",
+          "album": "Thembi",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:32am",
+          "track": "Madame George",
+          "artist": "Van Morrison",
+          "album": "Astral Weeks",
+          "label": "Warner Bros."
+        },
+        {
+          "time": "7:42am",
+          "track": "One Note Samba",
+          "artist": "The Modern Jazz Quartet with Laurindo Almeida",
+          "album": "The Modern Jazz Quartet with Laurindo Almeida",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:47am",
+          "track": "Don't Explain",
+          "artist": "Abbey Lincoln",
+          "album": "That's Him!",
+          "label": "Riverside"
+        },
+        {
+          "time": "7:53am",
+          "track": "Shadows",
+          "artist": "Freddie Redd Quartet",
+          "album": "Shades of Redd",
+          "label": "Blue Note"
+        }
+      ]
+    },
+    {
+      "id": "66991",
+      "url": "https://xray.fm/broadcasts/66991",
+      "title": "SFTS 11/1/25 Jack DeJohnette",
+      "air_date": "11-1-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Jack_DeJohnette.mp3",
+      "track_count": 6,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Dervish Dance",
+          "artist": "The Charles Lloyd Quartet",
+          "album": "Dream Weaver",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:11am",
+          "track": "Demon's Dance",
+          "artist": "Jackie McLean",
+          "album": "Demon's Dance",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:18am",
+          "track": "Consensus",
+          "artist": "McCoy Tyner",
+          "album": "Super Trios",
+          "label": "Milestone"
+        },
+        {
+          "time": "7:27am",
+          "track": "Stratocruiser",
+          "artist": "Jack DeJohnette Directions",
+          "album": "Cosmic Chicken",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:35am",
+          "track": "Flying Spirits",
+          "artist": "Jack DeJohnette Directions",
+          "album": "Untitled",
+          "label": "ECM"
+        },
+        {
+          "time": "7:48am",
+          "track": "One For Eric",
+          "artist": "Jack DeJohnette",
+          "album": "Special Edition",
+          "label": "ECM"
+        }
+      ]
+    },
+    {
+      "id": "66866",
+      "url": "https://xray.fm/broadcasts/66866",
+      "title": "SFTS 10/24/25 Blue Eyed Soul",
+      "air_date": "10-25-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Blue_Eyed_Soul.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "300 Pounds of Heavenly Joy",
+          "artist": "Smokestack Lightnin'",
+          "album": "Off The Wall",
+          "label": "Bell"
+        },
+        {
+          "time": "7:03am",
+          "track": "Gimme Some Lovin'",
+          "artist": "The Spencer Davis Group",
+          "album": "Gimme Some Lovin'",
+          "label": "United Artists"
+        },
+        {
+          "time": "7:06am",
+          "track": "San Jose",
+          "artist": "The Apostles",
+          "album": "On Crusade",
+          "label": "Private"
+        },
+        {
+          "time": "7:09am",
+          "track": "Please, Please, Please",
+          "artist": "The Soul Survivors",
+          "album": "When The Whistle Blows Anything Goes",
+          "label": "Crimson"
+        },
+        {
+          "time": "7:12am",
+          "track": "Too Many Fish In The Sea",
+          "artist": "The Soul Survivors",
+          "album": "When The Whistle Blows Anything Goes",
+          "label": "Crimson"
+        },
+        {
+          "time": "7:18am",
+          "track": "Good Lovin'",
+          "artist": "The Young Rascals",
+          "album": "Good Lovin'",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:21am",
+          "track": "Lookin' For A Love",
+          "artist": "The J. Geils Band",
+          "album": "The Morning After",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:24am",
+          "track": "Turn On Your Lovelight",
+          "artist": "Them",
+          "album": "Them Again",
+          "label": "Parrot"
+        },
+        {
+          "time": "7:27am",
+          "track": "Bo Diddley",
+          "artist": "The Barbarians",
+          "album": "The Barbarians",
+          "label": "Laurie"
+        },
+        {
+          "time": "7:30am",
+          "track": "Memphis Tennessee",
+          "artist": "The Barbarians",
+          "album": "The Barbarians",
+          "label": "Laurie"
+        },
+        {
+          "time": "7:32am",
+          "track": "Why Don't You Love Me",
+          "artist": "The Buckinghams",
+          "album": "Time and Charges",
+          "label": "Columbia"
+        },
+        {
+          "time": "7:35am",
+          "track": "Smokestack Lightning",
+          "artist": "Things To Come",
+          "album": "I Want Out",
+          "label": "Sundazed"
+        },
+        {
+          "time": "7:37am",
+          "track": "Hard To Handle",
+          "artist": "The Grateful Dead",
+          "album": "Bear's Choice",
+          "label": "Warner Bros,"
+        },
+        {
+          "time": "7:43am",
+          "track": "Out In The Woods",
+          "artist": "Leon Russell",
+          "album": "Carney",
+          "label": "Shelter"
+        },
+        {
+          "time": "7:47am",
+          "track": "What I'd Say?",
+          "artist": "Rare Earth",
+          "album": "One World",
+          "label": "Rare Earth"
+        },
+        {
+          "time": "7:53am",
+          "track": "Feelin' Alright",
+          "artist": "Joe Cocker",
+          "album": "With a Little Help From My Friends",
+          "label": "A&M"
+        },
+        {
+          "time": "7:57am",
+          "track": "Come See About Me",
+          "artist": "Mitch Ryder and The Detroit Wheels",
+          "album": "Jenny Take A Ride",
+          "label": "New Voice"
+        }
+      ]
+    },
+    {
+      "id": "66710",
+      "url": "https://xray.fm/broadcasts/66710",
+      "title": "SFTS 10/18/25 Piano Forte",
+      "air_date": "10-18-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Piano_Forte.mp3",
+      "track_count": 8,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "One For Joe",
+          "artist": "The Elmo Hope Ensemble",
+          "album": "Hope From Riker's Island",
+          "label": "Chiaruscuro"
+        },
+        {
+          "time": "7:04am",
+          "track": "Fantasy In Blue",
+          "artist": "Bud Powell",
+          "album": "The Jazz Legacy of Bud Powell",
+          "label": "VSP Records"
+        },
+        {
+          "time": "7:07am",
+          "track": "Melanie",
+          "artist": "Freddie Redd Quintet",
+          "album": "Shades of Redd",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:17am",
+          "track": "Be Bop",
+          "artist": "The Sonny Clark Trio",
+          "album": "The Sonny Clark Trio",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:27am",
+          "track": "Monk's Blues",
+          "artist": "McCoy Tyner",
+          "album": "Live at Newport",
+          "label": "Impulse!"
+        },
+        {
+          "time": "7:34am",
+          "track": "Bemsha Swing",
+          "artist": "Thelonius Monk",
+          "album": "Brilliant Corners",
+          "label": "Riverside"
+        },
+        {
+          "time": "7:41am",
+          "track": "Today",
+          "artist": "Andrew Hill",
+          "album": "Spiral",
+          "label": "Arista Freedom"
+        },
+        {
+          "time": "7:46am",
+          "track": "Snake Out",
+          "artist": "Mal Waldron",
+          "album": "Up Popped The Devil",
+          "label": "Enja"
+        }
+      ]
+    },
+    {
+      "id": "66590",
+      "url": "https://xray.fm/broadcasts/66590",
+      "title": "SFTS 10/11/25 Funky Avant Garde",
+      "air_date": "10-11-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Funky_Avant_Garde.mp3",
+      "track_count": 8,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Inmate Man",
+          "artist": "Steve Grossman",
+          "album": "Terra Firma",
+          "label": "PM"
+        },
+        {
+          "time": "7:06am",
+          "track": "125th Street Congress",
+          "artist": "Weather Report",
+          "album": "Sweetnighter",
+          "label": "Columbia"
+        },
+        {
+          "time": "7:19am",
+          "track": "Home Again",
+          "artist": "Mal Waldron",
+          "album": "Candy Girl",
+          "label": "Calumet"
+        },
+        {
+          "time": "7:24am",
+          "track": "Flora's Song",
+          "artist": "Airto Moreira",
+          "album": "Free",
+          "label": "CTI"
+        },
+        {
+          "time": "7:32am",
+          "track": "On The Corner Take 4",
+          "artist": "Miles Davis",
+          "album": "Vote For Miles",
+          "label": "Private"
+        },
+        {
+          "time": "7:38am",
+          "track": "Where Pathways Meet",
+          "artist": "Sun Ra",
+          "album": "Lanquidity",
+          "label": "Philly Jazz"
+        },
+        {
+          "time": "7:44am",
+          "track": "Aim Your Eye",
+          "artist": "Miroslav Vitous",
+          "album": "Magical Shepherd",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "7:51am",
+          "track": "Flight of The Newborn",
+          "artist": "Return To Forever",
+          "album": "No Mystery",
+          "label": "Polydor"
+        }
+      ]
+    },
+    {
+      "id": "66447",
+      "url": "https://xray.fm/broadcasts/66447",
+      "title": "SFTS 10/4/25 Brasil",
+      "air_date": "10-4-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Brasil.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Apocalipse",
+          "artist": "Jose Mauro",
+          "album": "Obnoxious",
+          "label": "Quartin"
+        },
+        {
+          "time": "7:03am",
+          "track": "Bat Macumba",
+          "artist": "Gilberto Gil",
+          "album": "A Arte de Gilberto Gil",
+          "label": "Phillips"
+        },
+        {
+          "time": "7:05am",
+          "track": "Sorriso Salvagem",
+          "artist": "The Gentlemen",
+          "album": "The Gentlemen",
+          "label": "Rozenblit"
+        },
+        {
+          "time": "7:11am",
+          "track": "Turpe Est Sine Crine Caput",
+          "artist": "Modulo 1000",
+          "album": "Nao Fale Com Paredes",
+          "label": "Top Tape"
+        },
+        {
+          "time": "7:17am",
+          "track": "Reza Brava",
+          "artist": "Piri",
+          "album": "Single",
+          "label": "Quartin"
+        },
+        {
+          "time": "7:20am",
+          "track": "A Minha Menina",
+          "artist": "Os Mutantes",
+          "album": "Os Mutantes",
+          "label": "Polydor"
+        },
+        {
+          "time": "7:25am",
+          "track": "O Tempo",
+          "artist": "Flaviola e o Banda do Sol",
+          "album": "Flaviola e o Banda do Sol",
+          "label": "Solar"
+        },
+        {
+          "time": "7:27am",
+          "track": "Mister Misterio",
+          "artist": "Geraldo Azevedo and Alceu Valença",
+          "album": "Geraldo Azevedo and Alceu Valença",
+          "label": "Copacabana"
+        },
+        {
+          "time": "7:29am",
+          "track": "Ourico",
+          "artist": "Serguei",
+          "album": "Single",
+          "label": "Polydor"
+        },
+        {
+          "time": "7:32am",
+          "track": "Caca a Reposa",
+          "artist": "Azymuth",
+          "album": "Azymuth",
+          "label": "Som Livre"
+        },
+        {
+          "time": "7:37am",
+          "track": "Os Cara La",
+          "artist": "Azymuth remixed by Robotnik",
+          "album": "Far Out Spaced Odyssey",
+          "label": "Far Out"
+        },
+        {
+          "time": "7:42am",
+          "track": "Free",
+          "artist": "Airto",
+          "album": "Free",
+          "label": "CTI"
+        },
+        {
+          "time": "7:53am",
+          "track": "O Estrangeiro",
+          "artist": "Gaetano Veloso",
+          "album": "Estrangeiro",
+          "label": "Elecktra Musician"
+        }
+      ]
+    },
+    {
+      "id": "66360",
+      "url": "https://xray.fm/broadcasts/66360",
+      "title": "SFTS 9/27/25 First Light",
+      "air_date": "9-27-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/First_Light.mp3",
+      "track_count": 8,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "First Light",
+          "artist": "Freddie Hubbard",
+          "album": "First Light",
+          "label": "CTI"
+        },
+        {
+          "time": "7:11am",
+          "track": "Theme For A New Day",
+          "artist": "Azar Lawrence",
+          "album": "People Moving",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:16am",
+          "track": "The Awakening",
+          "artist": "Azar Lawrence",
+          "album": "People Moving",
+          "label": "Prestige"
+        },
+        {
+          "time": "7:23am",
+          "track": "Softly As In A Morning Sunrise",
+          "artist": "The Sonny Clark Trio",
+          "album": "Sonny Clark Trio",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:29am",
+          "track": "After The Morning",
+          "artist": "Pharaoh Sanders",
+          "album": "Africa",
+          "label": "Timeless Records"
+        },
+        {
+          "time": "7:36am",
+          "track": "The Morning After",
+          "artist": "Hank Mobley",
+          "album": "A Caddy For Daddy",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:45am",
+          "track": "Reawakening",
+          "artist": "Wendell Harrison",
+          "album": "Reawakening",
+          "label": "Tribe"
+        },
+        {
+          "time": "7:53am",
+          "track": "Prayer From The Sun",
+          "artist": "Doug Hammond with Karen Joseph",
+          "album": "Ellipse",
+          "label": "Idibid"
+        }
+      ]
+    },
+    {
+      "id": "66242",
+      "url": "https://xray.fm/broadcasts/66242",
+      "title": "SFTS 9/20/25 Newark Redux!",
+      "air_date": "9-20-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Newark_Redux.mp3",
+      "track_count": 6,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Layin' In The Cut",
+          "artist": "Dr. Lonnie Smith",
+          "album": "Move Your Hand",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:10am",
+          "track": "C-Jam Blues",
+          "artist": "Jimmy McGriff",
+          "album": "Black Pearl",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:21am",
+          "track": "Speak No Evil",
+          "artist": "Wayne Shorter",
+          "album": "Speak No Evil",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:29am",
+          "track": "The Coaster",
+          "artist": "Grachan Moncur III",
+          "album": "Evolution",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:41am",
+          "track": "The Morning After",
+          "artist": "Hank Mobley",
+          "album": "A Caddy For Daddy",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:51am",
+          "track": "Zoltan",
+          "artist": "Larry Young",
+          "album": "Unity",
+          "label": "Blue Note"
+        }
+      ]
+    },
+    {
+      "id": "66140",
+      "url": "https://xray.fm/broadcasts/66140",
+      "title": "SFTS 9/13/25 Newark!",
+      "air_date": "9-13-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Newark.mp3",
+      "track_count": 6,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Majestic Soul",
+          "artist": "Larry Young",
+          "album": "Contrasts",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:11am",
+          "track": "Soul Dance",
+          "artist": "Tyrone Washington",
+          "album": "Natural Essence",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:19am",
+          "track": "The Flip",
+          "artist": "Hank Mobley",
+          "album": "The Flip",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:28am",
+          "track": "Flamingo",
+          "artist": "Jimmy Smith",
+          "album": "The Sermon",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:40am",
+          "track": "The Twins",
+          "artist": "Grachan Moncur III",
+          "album": "Some Other Stuff",
+          "label": "Blue Note"
+        },
+        {
+          "time": "7:53am",
+          "track": "Adams Apple",
+          "artist": "Wayne Shorter",
+          "album": "Adams Apple",
+          "label": "Blue Note"
+        }
+      ]
+    },
+    {
+      "id": "66031",
+      "url": "https://xray.fm/broadcasts/66031",
+      "title": "SFTS 9/6/25 Live Radio",
+      "air_date": "9-6-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Live_Radio.mp3",
+      "track_count": 8,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Thank You Fallentime Be Mice Elf",
+          "artist": "Sly and The Family Stone",
+          "album": "Piknik Kasteel Groeneveld Baarn September 10 1970",
+          "label": "WHP"
+        },
+        {
+          "time": "7:05am",
+          "track": "M'Lady",
+          "artist": "Sly and The Family Stone",
+          "album": "Piknik Kasteel Groeneveld Baarn September 10 1970",
+          "label": "WHP"
+        },
+        {
+          "time": "7:12am",
+          "track": "Simple Song",
+          "artist": "Sly and The Family Stone",
+          "album": "Piknik Kasteel Groeneveld Baarn September 10 1970",
+          "label": "WHP"
+        },
+        {
+          "time": "7:16am",
+          "track": "Red House",
+          "artist": "The Jimi Hendrix Experience",
+          "album": "On The Killing Floor",
+          "label": "TMOQ"
+        },
+        {
+          "time": "7:28am",
+          "track": "Hey Joe",
+          "artist": "The Jimi Hendrix Experience",
+          "album": "On The Killing Floor",
+          "label": "TMOQ"
+        },
+        {
+          "time": "7:35am",
+          "track": "Nutty",
+          "artist": "Thelonious Monk and John Coltrane",
+          "album": "Monk/Trane",
+          "label": "Milestone"
+        },
+        {
+          "time": "7:42am",
+          "track": "Epistrophy",
+          "artist": "Thelonious Monk and John Coltrane",
+          "album": "Monk/Trane",
+          "label": "Milestone"
+        },
+        {
+          "time": "7:53am",
+          "track": "Monk's Mood",
+          "artist": "Thelonious Monk and John Coltrane",
+          "album": "Monk/Trane",
+          "label": "Milestone"
+        }
+      ]
+    },
+    {
+      "id": "65910",
+      "url": "https://xray.fm/broadcasts/65910",
+      "title": "SFTS 8/30/25 Atlantic",
+      "air_date": "8-30-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Atlantic.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "What'd I Say",
+          "artist": "Ray Charles",
+          "album": "What'd I Say",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:05am",
+          "track": "Captain Buckles",
+          "artist": "David Newman",
+          "album": "Captain Buckles",
+          "label": "Cotillion"
+        },
+        {
+          "time": "7:09am",
+          "track": "Get Me Back On Time Engine Number Nine",
+          "artist": "Wilson Pickett",
+          "album": "Wilson Picket In Philadelphia",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:16am",
+          "track": "North Carolina",
+          "artist": "Les McCann",
+          "album": "Talk To The People",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:25am",
+          "track": "Get On Down",
+          "artist": "Eddie Harris",
+          "album": "I Need Some Money",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:34am",
+          "track": "Russell and Eliot",
+          "artist": "Yusef Lateef",
+          "album": "Yusef Lateef's Detroit",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:39am",
+          "track": "I Believe To My Soul",
+          "artist": "Donny Hathaway",
+          "album": "Everything Is Everything",
+          "label": "ATCO"
+        },
+        {
+          "time": "7:45am",
+          "track": "Spirit In The Dark",
+          "artist": "Aretha Franklin and Ray Charles",
+          "album": "Live At Fillmore West",
+          "label": "Atlantic"
+        },
+        {
+          "time": "7:52am",
+          "track": "Wave",
+          "artist": "Roy Ayers",
+          "album": "Stoned Soul Picnic",
+          "label": "Atlantic"
+        }
+      ]
+    },
+    {
+      "id": "65803",
+      "url": "https://xray.fm/broadcasts/65803",
+      "title": "SFTS 8/23/25 Groove Merchant",
+      "air_date": "8-23-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Groove_Merchant.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Inner City Blues",
+          "artist": "Reuben Wilson",
+          "album": "The Sweet Life",
+          "label": "Groove Merchant"
+        },
+        {
+          "time": "7:04am",
+          "track": "153rd Street Theme",
+          "artist": "Larry Willis",
+          "album": "Inner Crisis",
+          "label": "Groove Merchant"
+        },
+        {
+          "time": "7:11am",
+          "track": "The Mean Machine",
+          "artist": "Jimmy McGriff",
+          "album": "The Mean Machine",
+          "label": "Groove Merchant"
+        },
+        {
+          "time": "7:17am",
+          "track": "Night Glider",
+          "artist": "Groove Holmes",
+          "album": "Night Glider",
+          "label": "Groove Merchant"
+        },
+        {
+          "time": "7:22am",
+          "track": "Love Ain't Nothin' But A Business Goin' On",
+          "artist": "Junior Parker",
+          "album": "Love Ain't Nothin' But A Business Goin' On",
+          "label": "Groove Merchant"
+        },
+        {
+          "time": "7:26am",
+          "track": "Cakes",
+          "artist": "Jeremy Stieg",
+          "album": "Fusion",
+          "label": "Groove Merchant"
+        },
+        {
+          "time": "7:31am",
+          "track": "Sundance",
+          "artist": "Chick Corea",
+          "album": "Sundance",
+          "label": "Groove Merchant"
+        },
+        {
+          "time": "7:40am",
+          "track": "Sweet Sister Funk",
+          "artist": "Ramon Morris",
+          "album": "Sweet Sister Funk",
+          "label": "Groove Merchant"
+        },
+        {
+          "time": "7:47am",
+          "track": "Inner Crisis",
+          "artist": "Larry Willis",
+          "album": "Inner Crisis",
+          "label": "Groove Merchant"
+        },
+        {
+          "time": "7:53am",
+          "track": "The Cisco Kid",
+          "artist": "Reuben Wilson",
+          "album": "The Cisco Kid",
+          "label": "Groove Merchant"
+        },
+        {
+          "time": "7:57am",
+          "track": "We've Only Just Begun",
+          "artist": "O'Donel Levy",
+          "album": "Breeding of Mind",
+          "label": "Groove Merchant"
+        }
+      ]
+    },
+    {
+      "id": "65705",
+      "url": "https://xray.fm/broadcasts/65705",
+      "title": "SFTS 8/16/25 Pop Jesus",
+      "air_date": "8-16-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Pop_Jesus.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Overture",
+          "artist": "David Axelrod",
+          "album": "David Axelrod's Interpretation of Handel's Messiah",
+          "label": "RCA Victor"
+        },
+        {
+          "time": "7:05am",
+          "track": "Overture",
+          "artist": "Andrew Lloyd Webber and Tim Rice",
+          "album": "Jesus Christ Superstar OST",
+          "label": "Decca"
+        },
+        {
+          "time": "7:09am",
+          "track": "Kol Nidre",
+          "artist": "The Electric Prunes and David Axelrod",
+          "album": "Release of An Oath - The Kol Nidre",
+          "label": "WB Reprise"
+        },
+        {
+          "time": "7:14am",
+          "track": "St. Martin de Porres",
+          "artist": "Mary Lou Williams",
+          "album": "Black Christ of the Andes",
+          "label": "Mary Records"
+        },
+        {
+          "time": "7:20am",
+          "track": "Amen",
+          "artist": "The Rotary Connection",
+          "album": "Rotary Connection",
+          "label": "Cadet Concept"
+        },
+        {
+          "time": "7:24am",
+          "track": "Benedictus",
+          "artist": "The Electric Prunes and David Axelrod",
+          "album": "Mass in F Minor",
+          "label": "WB Reprise"
+        },
+        {
+          "time": "7:29am",
+          "track": "Praise The Lord",
+          "artist": "Mary Lou Williams",
+          "album": "Mary Lou's Mass",
+          "label": "Marry Records"
+        },
+        {
+          "time": "7:33am",
+          "track": "May Our Amens Be True",
+          "artist": "The Rotary Connection",
+          "album": "Dinner Music",
+          "label": "Cadet Concept"
+        },
+        {
+          "time": "7:37am",
+          "track": "The Temple",
+          "artist": "Andrew Lloyd Webber and Tim Rice",
+          "album": "Jesus Christ Superstar OST",
+          "label": "Decca"
+        },
+        {
+          "time": "7:42am",
+          "track": "And The Glory of The Lord",
+          "artist": "David Axelrod",
+          "album": "David Axelrod's Interpretation of Handel's Messiah",
+          "label": "RCA Victor"
+        },
+        {
+          "time": "7:47am",
+          "track": "General Confessional",
+          "artist": "The Electric Prunes and David Axelrod",
+          "album": "Release of An Oath - The Kol Nidre",
+          "label": "WB Reprise"
+        },
+        {
+          "time": "7:51am",
+          "track": "Agnes Dei",
+          "artist": "The Electric Prunes and David Axelrod",
+          "album": "Mass In F Minor",
+          "label": "WB Reprise"
+        },
+        {
+          "time": "7:55am",
+          "track": "Final Prayer",
+          "artist": "Lalo Schifrin",
+          "album": "Rock Requiem For The Dead in The Southeast Asia War",
+          "label": "MGM"
+        }
+      ]
+    },
+    {
+      "id": "65577",
+      "url": "https://xray.fm/broadcasts/65577",
+      "title": "SFTS 8/9/25 Avant Garde Hippie Jazz",
+      "air_date": "8-9-2025",
+      "air_time": "7:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/searchingforthesound/Avant_Garde_Hippie_Jazz.mp3",
+      "track_count": 6,
+      "tracks": [
+        {
+          "time": "7:00am",
+          "track": "Flower Pot",
+          "artist": "Loadstone",
+          "album": "Loadstone",
+          "label": "Barnaby"
+        },
+        {
+          "time": "7:15am",
+          "track": "Space Swell",
+          "artist": "Luna",
+          "album": "Space Swell",
+          "label": "Arhoolie"
+        },
+        {
+          "time": "7:20am",
+          "track": "Time Is",
+          "artist": "It's A Beautiful Day",
+          "album": "It's A Beautiful Day",
+          "label": "Columbia"
+        },
+        {
+          "time": "7:30am",
+          "track": "Joyride",
+          "artist": "Friendsound",
+          "album": "Joyride",
+          "label": "RCA"
+        },
+        {
+          "time": "7:34am",
+          "track": "Enter",
+          "artist": "The Loading Zone",
+          "album": "One For All",
+          "label": "Umbrella"
+        },
+        {
+          "time": "7:50am",
+          "track": "Earth",
+          "artist": "Bethlehem Asylum",
+          "album": "Commit Yourself",
+          "label": "Ampex"
+        }
+      ]
+    }
+  ]
+}

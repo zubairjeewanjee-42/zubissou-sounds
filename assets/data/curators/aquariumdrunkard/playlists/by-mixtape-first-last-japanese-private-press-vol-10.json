@@ -1,0 +1,38 @@
+{
+ "slug": "by-mixtape-first-last-japanese-private-press-vol-10",
+ "kind": "by_mixtape",
+ "name": "AD Mixtape · First & Last: Japanese Private Press, Vol. 10",
+ "description": "Welcome to the tenth installment of First & Last, a series of mixes providing a glimpse into the world of Japanese private press, or 自主盤, pronounced “jishuban”, which loosely translates to “independent board.”",
+ "needs_matching": true,
+ "track_count": 5,
+ "tracks": [
+  {
+   "artist": "Better Bright Now",
+   "track": "Love Song (1982)",
+   "raw": "Better Bright Now – Love Song (1982)"
+  },
+  {
+   "artist": "Hiro & Yuki",
+   "track": "Open Road (1983)",
+   "raw": "Hiro & Yuki – Open Road (1983)"
+  },
+  {
+   "artist": "パル (Pal)",
+   "track": "Without You (1977)",
+   "raw": "パル (Pal) – Without You (1977)"
+  },
+  {
+   "artist": "蜃氣樓 (Shinkiro)",
+   "track": "This Is One (1976)",
+   "raw": "蜃氣樓 (Shinkiro) – This Is One (1976)"
+  },
+  {
+   "artist": "てんまる (Tenmaru)",
+   "track": "Baby (197?)",
+   "raw": "てんまる (Tenmaru) – Baby (197?)"
+  }
+ ],
+ "sources": [
+  "https://aquariumdrunkard.com/2023/08/02/first-last-japanese-private-press-vol-10/"
+ ]
+}

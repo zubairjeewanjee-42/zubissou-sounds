@@ -1,0 +1,78 @@
+{
+ "slug": "by-mixtape-some-for-the-makossa-man",
+ "kind": "by_mixtape",
+ "name": "AD Mixtape · Some For The Makossa Man",
+ "description": "“Some for The Makossa Man,” a celebration and glance at the world of afrobeat giant, Manu Dibango: a trailblazer whose music laid the groundwork for what would become disco and hip-hop. He passed away today from COVID-19. Rest in peace, Makossa Man.",
+ "needs_matching": true,
+ "track_count": 13,
+ "tracks": [
+  {
+   "artist": "Manu Dibango",
+   "track": "Tropical Garden",
+   "raw": "Manu Dibango – Tropical Garden"
+  },
+  {
+   "artist": "Manu Dibango",
+   "track": "Reggae Makossa",
+   "raw": "Manu Dibango – Reggae Makossa"
+  },
+  {
+   "artist": "Ravi Harris & The Prophets",
+   "track": "Soul Makossa",
+   "raw": "Ravi Harris & The Prophets – Soul Makossa"
+  },
+  {
+   "artist": "Manu Dibango",
+   "track": "Super Kumba",
+   "raw": "Manu Dibango – Super Kumba"
+  },
+  {
+   "artist": "Manu Dibango",
+   "track": "Abele Dance",
+   "raw": "Manu Dibango – Abele Dance"
+  },
+  {
+   "artist": "Deadline",
+   "track": "Makossa Rock",
+   "raw": "Deadline – Makossa Rock"
+  },
+  {
+   "artist": "Starvation",
+   "track": "Tam Tam Pour L’Éthiopie (Part Two)",
+   "raw": "Starvation – Tam Tam Pour L’Éthiopie (Part Two)"
+  },
+  {
+   "artist": "Manu Dibango",
+   "track": "Big Blow",
+   "raw": "Manu Dibango – Big Blow"
+  },
+  {
+   "artist": "Manu Dibango",
+   "track": "Lily",
+   "raw": "Manu Dibango – Lily"
+  },
+  {
+   "artist": "Manu Dibango",
+   "track": "Goro City",
+   "raw": "Manu Dibango – Goro City"
+  },
+  {
+   "artist": "Athanase",
+   "track": "He He He",
+   "raw": "Athanase – He He He"
+  },
+  {
+   "artist": "Manu Dibango",
+   "track": "Tom Tom",
+   "raw": "Manu Dibango – Tom Tom"
+  },
+  {
+   "artist": "Georges Anderson",
+   "track": "Fou De Toi",
+   "raw": "Georges Anderson – Fou De Toi"
+  }
+ ],
+ "sources": [
+  "https://aquariumdrunkard.com/2020/03/24/some-for-the-makossa-man/"
+ ]
+}

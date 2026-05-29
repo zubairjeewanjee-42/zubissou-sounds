@@ -1,0 +1,68 @@
+{
+ "slug": "by-mixtape-first-last-japanese-private-press-vol-1",
+ "kind": "by_mixtape",
+ "name": "AD Mixtape · First & Last: Japanese Private Press, Vol. 1",
+ "description": "Welcome to the opening installment of First & Last, a series of mixes providing a glimpse into the world of Japanese private press, or 自主盤, pronounced \"jishuban”, which loosely translates to “independent board.” This first mix, a menagerie of songs from across the spectrum of Japanese private press, serves as an introduction to subsequent mixes. Tanoshī.",
+ "needs_matching": true,
+ "track_count": 11,
+ "tracks": [
+  {
+   "artist": "伍円玉 (Goendama)",
+   "track": "天使たちが (1973)",
+   "raw": "伍円玉 (Goendama) – 天使たちが (1973)"
+  },
+  {
+   "artist": "きのこ雲 (Kinoko Gumo)",
+   "track": "ちいさな生命に名前をください (1972)",
+   "raw": "きのこ雲 (Kinoko Gumo) – ちいさな生命に名前をください (1972)"
+  },
+  {
+   "artist": "南島フォークメイツ (South Island Folkmates)",
+   "track": "ひといきWhm (1975)",
+   "raw": "南島フォークメイツ (South Island Folkmates) – ひといきWhm (1975)"
+  },
+  {
+   "artist": "緑の親指 (Midori no Oyayubi)",
+   "track": "いつまでも いつまでも (1973)",
+   "raw": "緑の親指 (Midori no Oyayubi) – いつまでも いつまでも (1973)"
+  },
+  {
+   "artist": "ザ・ウィーズ (The Weeds)",
+   "track": "じいじいの (1970)",
+   "raw": "ザ・ウィーズ (The Weeds) – じいじいの (1970)"
+  },
+  {
+   "artist": "宿屋飯盛 (Yadoya no meshimori)",
+   "track": "飛んでみたのさ (1972)",
+   "raw": "宿屋飯盛 (Yadoya no meshimori) – 飛んでみたのさ (1972)"
+  },
+  {
+   "artist": "Noah",
+   "track": "春の歌 (197?)",
+   "raw": "Noah – 春の歌 (197?)"
+  },
+  {
+   "artist": "さとうりょうこ (Ryoko Sato)",
+   "track": "渚 (1973)",
+   "raw": "さとうりょうこ (Ryoko Sato) – 渚 (1973)"
+  },
+  {
+   "artist": "Jupiter 1",
+   "track": "失恋 (1974)",
+   "raw": "Jupiter 1 – 失恋 (1974)"
+  },
+  {
+   "artist": "久利無始洋館 (Kurimushi Yokan)",
+   "track": "一通の手紙 (1975)",
+   "raw": "久利無始洋館 (Kurimushi Yokan) – 一通の手紙 (1975)"
+  },
+  {
+   "artist": "日比野てつみ (Tetsumi Hibino)",
+   "track": "愚痴 (1972)",
+   "raw": "日比野てつみ (Tetsumi Hibino) – 愚痴 (1972)"
+  }
+ ],
+ "sources": [
+  "https://aquariumdrunkard.com/2022/02/24/first-last-japanese-private-press-vol-1/"
+ ]
+}

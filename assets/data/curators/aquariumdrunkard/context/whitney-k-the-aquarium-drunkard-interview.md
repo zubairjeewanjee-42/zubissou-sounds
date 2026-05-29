@@ -1,0 +1,144 @@
+# Whitney K :: The Aquarium Drunkard Interview
+
+**Whitney K — The Aquarium Drunkard Interview** · _2025-09-12_ · by Jason Woodbury · `interview`
+**Tags:** Whitney K, Mixtapes
+
+[source](https://aquariumdrunkard.com/2025/09/12/whitney-k-the-aquarium-drunkard-interview/)
+
+## Links
+- Bandcamp: https://whitneyk.bandcamp.com/album/bubble-2
+
+## Body
+
+Bubble the new LP from Whitney K, like their previous releases, has a hypnotic and languid manner that belies percolating depth, humor and force. As often morbid and contemplative as playful and clever, Bubble plumbs life and delivers a view of it not in isolated snapshots glanced upon in the rearview, but as the blurry spectrum it appears as in hindsight. It percolates like stovetop espresso, filling the room with a sweet smell that belies an acidity, captured just shy of burnt. 
+
+Sonically, Bubble is their boldest and coherent to date, adventurous but unhurried, segueing smoothly between choogling acoustics and scalded electricity. The product of many takes, the effort to capture each tracks vibe live is palpable, as even its most disparate tracks share an atmosphere and feeling. Combine this with the group’s most contemplative and yet cheekiest lyrics to date, the result is a controlled menagerie that looks back to look forward.
+
+Ahead of this week’s release of Bubble, AD reached Konner Whitney, the group’s center if not its leader, as he prepared for an extensive tour. In his telling, the record is the result of something like letting go without losing a grip, of a great deal of intention, or lack thereof. These seeming contradictions make sense when spoken of by a person who seems to relish living in the moment, even as the surroundings change and the inputs are altered. | b kramer
+
+Aquarium Drunkard: To start, we’re an L.A. based publication. “Apocalypse Raw” doesn’t necessarily take shots at L.A., but it’s not a glowing endorsement, either. Can you unpack that and your feelings on the city?
+
+
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1421705426819-0'); });
+
+
+Konnor Whitney: Well, I’ll start by saying, everywhere’s cool and everywhere sucks. Right? So that’s just that, wherever I’ve lived has been cool and has sucked, including wherever I decide to be living at the moment. I’m sure plenty of people are having a bad morning, wandering around a horizontal maze. That song is like one of those “One Too Many Mornings” songs, and L.A. having a pretty apocalyptic feel to it. I was there maybe five years ago, it was like a place that was teetering on the edge of some oblivion. There are elements of it that really go against my [chuckling] way of viewing what a good world should be. But that song wasn’t trying to convey any of that. That’s the “One Too Many Mornings” thing: you wake up, everything’s falling apart, you gotta go. That’s it on its most basic level – talking about L.A., that’s just juicy imagery.
+
+I could explain it, but I try to talk about it more broadly. I pull from personal experiences, obviously, that may or may not be in any of these songs. Personal experiences are usually coming to me after the fact, I’m not even conscious of it happening.
+
+AD: To that end, how would characterize the change in your songwriting process over the last several years, or through this project – did you notice something happening, or was it, for lack of a better way to put it, more of the same, and you’ve always had a groove for how you approach your writing?
+
+Konnor Whitney: I’m a lot less intentioned now. There used to be a lot more of that. Which resulted in less being written. A lot more poring over and thinking about things, maybe to their detriment, and overthinking things. As far as how it goes now – I don’t know, a few of those songs were written before we started working on the record, like a year leading up to it, but a lot of it came together in the six months we were recording. “We’ll See” – that was just written in a moment of sitting down, I revised it maybe once.
+
+If I do have any process right now, it’s not so much a process but it’s certain rules for myself: if I’m trying to finish something completely, in one sitting, I’m not allowed to do that if I’m getting flustered; I’m allowed three revisions, that’s it, that’s the limit – if I don’t like it after three too bad, that’s what the song is, we don’t even have to record it, we can just move on from it. That’s two of my rules right now.
+
+AD: To me, this record in particular sounds more like a band making a record, I think in part because of how clearly we hear other voices, the harmonizing, additional instrumentation, or sound bites – not that your previous records sounded like it was only you, but it just feels more full of others.
+
+Konnor Whitney: You go through the talk about something like that, and what it’s like with other bands – that it “sounds more like a band” – I wonder sometimes where that’s coming from, if it’s not just coming from a press release. Where does that come from? Because, I was talking to a good friend of mine, who is a musician in his 70s, been playing music his whole life. He’s part of that last generation where he never really had a job. Maybe graduated high school, maybe had a job as a dishwasher, and then just got a job in a bar band, those type of people. He was like, “Ah, I know how it is,” and no, you don’t man, you never had to get a job and you lived in New York in 1976… He and I were talking about this, we talk about music a lot, he has a crazy sound system, but just that, what makes a “band,” where does that come from? And if it does sound like that, on this record, maybe it comes from there being a more collaborative process in the studio – which there was – but I think a big part of that is that most of the recordings are all live, as far as the essence of the band. Only a few overdubs here and there, a backup vocal, but the majority of the songs – the bass, drums, guitars, vocals– were all done after working on the song together and playing it a lot. That’s going to add a quality and togetherness that’s never going to be there if it’s just all overdubs.
+
+AD: It has to sound good in the moment, as well – you can’t just fix it later. I would guess it would have to have a certain amount of cohesiveness and collaboration.
+
+Konnor Whitney: Yeah – we all gotta be together. The click track isn’t a click track – it’s everybody having to find that frequency. And that’s how it was: showing up, me presenting chords and a relatively simple vocal to a degree, and “OK, let’s just play it all day, record all the takes” so that were like 25 takes of the song. You start from the beginning and the song finds itself at some point, everyone finds each other in the song. And then, by the end of the day, one of those takes is bound to be half-decent. Whatever that is, that’s the song. There’s that part of it – it was a group effort, with Michael [Halls], Josh [Boguski], and Avalon [Tassonyi] in the band and handling the production piece. Everyone got to contribute their own ideas. There’s a handful of people that contributed ideas – it wasn’t someone there saying, “no, you can’t do that,” or saying “this is what it needs” or not. A collaborative effort can come from that, too, but I think I’m of the opinion that the feeling of a band is everyone being themselves. That’s the difference between a solo artist and a band.
+
+AD: Have you always seen the moniker of “Whitney K” as a band, or has it become one as you’ve gone along the road of it.
+
+Konnor Whitney: It’s definitely become a band, for sure. It’s funny, I always liked the idea of bands, even when I would just jam with people. That’s what the ethos was, to be together, but it was never dealt with or managed that way.
+
+AD: Can you point to anything that brought it to that point, and put you in a place where you were willing to have people bring in their own ideas, either as a conscious choice or otherwise?
+
+Konnor Whitney: It was a conscious choice, but it’s also the reality of a situation, playing music with people for a while. There was a lot of letting go for me, having everyone contribute, and not trying to be a dictator. I’m going to contribute what I’m the best at in a situation, and everyone contributes what they’re best at. My role in the band is to write songs. If I got an idea for an extra overdub or a production idea, sure, I contribute that, but in recording this record, it was pretty much: the best idea wins. Whoever’s got it, that’s what we’re doing.
+
+AD: I imagine that being both nerve-wracking but also freeing. It seems you’ve landed in a place where you’re comfortable and happy with it.
+
+Konnor Whitney: Absolutely. It was definitely very freeing for me. But to be clear, I always wanted – I’ve been in some bands before, but they never lasted that long. But they weren’t totally equal partnerships. And this isn’t totally an equal partnership, I am kind of the leader or whatever, but everyone’s free to express their ideas. Especially when we started this record, that’s where we started at. The band sort of morphs a lot, but there are key people that have been in the band forever.
+
+AD: There are several songs on the record that seem to thematically or emotionally group together, but as a contradiction, as opposite ends of a spectrum. In “Freud Estate,” you talk about falling in love with everyone, while “Something Strange” seems specific, falling in love with a specific “you.” In “Sunshine2,” you’re doing drugs but you “ain’t sold none,” and you’re “more alone in a crowded room. It’s very evocative, but at the same time I find it interesting that you cover such ground, such a spectrum. Is that something you picked up on or thought about in sequencing?
+
+Konnor Whitney: I don’t know, it can be taking two opposing ideas and trying to find what the actual answer is. That’s also just the way my brain works, usually running both sides of the spectrum in parallel. That’s also the stuff I find interesting in songs, where you can tell there’s more than one thing going on. It is cool when there’s one very specific idea within a song, but my opinion is the really good songs are holding two ideas at the same time, the two opposites.
+
+Generally, in my life, I’m striving for the oneness, non-duality, but duality is just present in people, otherwise people wouldn’t be striving, there wouldn’t be a whole philosophical, intellectual strive for non-duality if the opposite wasn’t the baseline experience.
+
+AD: You’re keying in on something – I enjoy many songs, works beyond music, that hold space for that duality, but you don’t always find artists that are willing to express all those dualities in a record. They want a central theme or thrust, or a certain emotional bandwidth.
+
+Konnor Whitney: Yeah. With this record, when it was done, I guess for me it was a bit more like my approach was like years ago, before I was trying to have so much intention. It was, these are the songs I’ve written in the last six months or year. Whatever’s been going on. If I try to write with intention, it’s going to be all the songs are like this, and this is the certain box that we’re working in. I can work within some boxes if it’s beneficial, but a lot of times it’s not, because then I’ll be thinking, and I can’t just let whatever happens happen. So, to go back to what you asked earlier, was it freeing for me, yeah: no more than three re-writes, we’re just going with whatever is there, the best idea that gets presented. I was self-conscious because a bunch of these songs, after being written, I thought “these are all about the same thing.” [laughs] That’s my opinion. So, it’s cool if you’re picking up on more than one thing, cause I was initially viewing it as more of a repetitive, mirror lens.
+
+AD: You brought it up again, and I want to ask about your rules, how that’s freeing, and you don’t have to be precious about songs. Contra to that, the songs that you do select – you then have to go on the road and play repetitively. Your tour is extensive. Do you think you get tired of tracks, if only because you did not cast them away? Or do they become precious because once you’ve made them, you’re okay with them being firmly in your oeuvre, in the “Whitney K catalog,” it’s just the songs on the record, so that’s what people will want to hear.
+
+Konnor Whitney: My opinions on that change on a daily basis. Whether I’m being precious about a song or not. Some days I really like a song, and some I really don’t love. [laughs] That really just depends on my mood, and that’s like the weather: I’ve gotten slightly better at anticipating the weather and riding it out, but I can’t predict it. 
+
+Hold on, let me get into that. If there was intention with these songs, the intention – okay, there was some slight intention – the intention was simplicity: I’m not gonna overthink this stuff. It was after doing two tours of playing the older stuff. If we’re just going to be playing the same thing all the time, I’d like to sing something. Like, alright, “Song For a Friend” (from 2023’s Hard To Be a God) is a lot of fun to play, but one like that, where I’m just talking things, “Digging Through the Snow” is an example of that too – it’s like, ahh, it’s some spoken-word thing, trying to get into a mood. And with this record, just singing a melody over some chords, simple. Maybe I’ll get to move my body around a bit on stage – pop songs. The intention was that: let’s sing a melody, let’s not overthink the songs, and as far as the production goes, let’s make it as hi-fi as we can, let’s make it sound like the radio.
+
+AD: I definitely picked up that level of production, it’s crisper; I alluded to it earlier in the question about sounding more like a “band.” There are little flourishes to the record – the vocal loop in “Something Strange” stands out – fidelities you’re exploring. Why did you want to do that and how did you accomplish it?
+
+Konnor Whitney: Why more crisp and hi-fi? For example, Josh and Michael produced it and they could give more in-depth answers on the sound quality, clear answers about arrangements and the process – I wasn’t really a part of that. My part was, “let’s make it sound thoughtful” and not just sound like something that, even if it’s good, if the songwriting is good, it doesn’t just sound like something you throw on Bandcamp. Maybe you could say it’s punching above our weight. Personally I don’t think it is. I think this is how the songs should be presented.
+
+AD: Why do you say punching above your weight? Why do think someone would think that?
+
+Konnor Whitney: I think there’s a certain self-consciousness that I think can come with low-fidelity recording. And trying to not be self-conscious about that, to just make it bold, make it try to stand-along and with other music that’s coming out.
+
+The how of all these things is the result of Josh, and Michael as well, but Josh who’s been recording music for a while, who’s recorded all the Whitney K stuff since [2021’s] Two Years – everything. This is also about Josh improving and getting better at making high fidelity music. He recorded everything, he mixed everything, he mastered everything. There’s also been a journey for him within that, as a record producer, mixer, and masterer. Everyone’s trying to do the best they can, and asking, “how good can we make this?” We did it really quickly, too, we did it a lot faster than anything else we’ve done.
+
+AD: How quick was that?
+
+Konnor Whitney: There were three songs, I think, that were started before – where there were beds and stuff recorded before this, but as far as that, the whole thing was three months. About a month of tracking, recording, and then a month and a bit of mixing and mastering.
+
+AD: Efficient.
+
+Konnor Whitney: Yeah, efficiency. We’ve gotten super good at making shit be able to hold up and sound good. I think everyone was operating on their full potential when we were working on it. We wanted to make it sound like pop music. It’s shit like that – wanting to make it sound good on any sound system. Like a teenager on one broken headphone and still be able to get a song. Like dance music, rap – that can sound good on anything. Wanting to present it that way, too.
+
+AD: There are a few songs here that would seem to overtly or subtly allude to death. “Heaven,” just by virtue of the invocation, “TV Dreaming” as well. “The Ocean” has only a few lines, but it goes there as well, “Every living creature dead in the ocean.” The wonderful European movie line in “Beetlejuice.” And in “Morning After,” dragging someone outside and beating them with a hammer. It’s a bit of violence without being violent, death without being morbid. Is that a topic you noticed yourself and wanted to explore. “TV Dreaming” in particular felt depth-and-death-ful in that regard, a song maybe about looking back or looking forward.
+
+Konnor Whitney: Well, death is part of the experience of life. [chuckles] I’m definitely not someone preoccupied with it, I don’t think about death a lot. To some extent, I’m less afraid of dying and more by having unlived life. That being said, the death drive has definitely motivated plenty of my life, more so in the past. Wanting to look at death as how close can you get to it. But that usually comes about because someone desires to live and have a fuller experience. I’m looking for “where is the edge,” I’m looking for the edge of my existence. People that wanna die just die; people that are searching for that edge desperately want to be alive . . . I’ve had my experiences with being close to that, for sure. There’s also some stuff, in my life, looking back… I should be dead.
+
+“TV Dreaming” – it’s definitely a part of looking back, sure, it’s kind of a bummer song, it feels like a very serious one. But the hope in it is, “stay alive.” It’s not a “you did it.” It’s “that was crazy, and it took you to a point.” It’s about finding what the meaning is, where are the edges. That’s what that one is about.
+
+AD: Off of that, there’s several songs that speak to drugs – literally the word “drug,” or being high, even NARCAN. And a lot of songs that talk about drugs, it’s more a present feeling, the feeling of a high. But here on the record, if they’re not reflective, your songs seem to look back. Is that something that you feel, either for yourself or others, you now look back on, where maybe it was, earlier in your career, too present and not far enough in the distance to really write anything meaningful in reflection about.
+
+Konnor Whitney: Well, yeah, cause I feel like, without letting on too much, drugs are no longer a part of my life. One day at a time, by the grace of God, if you know what I’m saying. That’s part of it, too. I’d like to think that my experience of being high, being drunk and whatever, is something that’s in the past for me. I would say, I would talk about it in the past here or there, but writing about drugs when you’re on them, there’s a way it can sound cool, but honestly, it can be a bit … a little immature. I don’t know.
+
+This is a crazy aside, but remember that band Marcy Playground? “Sex and Candy,” cool song. The rest of that record? No good in my opinion, only that one good song. But I remember listening to that at my old job, lots of people who played music worked there, and so we listened to that, wondering “what else is on that record?” And aside from that one, it’s all pretty grungy, kinda Nirvana sort of stuff. Them just saying they’re doing drugs, just explicitly stating the drugs that they’re doing – it’s like, it sounds so pathetic. Kurt Cobain didn’t need to sing “I’m on heroin.” It speaks to a lack of ideas and imagination. To directly state some of those things…
+
+I guess the way I feel comfortable talking about it now is because I’m in recovery and it’s been my experience. That’s a part of my life. It feels okay to talk about that because, in part, you don’t hear a lot of songs that talk about recovery and about people being on the other side of it. You do sometimes, there’s artists that have long careers that you hear talk about that way later. There’s a cool Merle Haggard song I’ve been listening to; I’ll mess up the line, but talking about hanging out with his buddies, watching them do coke, and he can’t fucking do it anymore, he’s gotta go home. Talking about it in a real way – that song, at the time, he’s probably like 50 years old. And that actually feels real, as opposed to just bringing up an idea.
+
+I spent most of my life in the pursuit of some kind of high, or escape, or what I thought was a way to feel something more. And I’m in recovery, so yeah, there are plenty of songs on this record – well, let me be clear to you, every song but one was written after starting recovery. “Heaven,” not to put such specific meaning on any of them, but to me that song is a recovery song, that’s about being in recovery. My hope is songs further down the line won’t necessarily be about that, I don’t want them to be about that. But if this record’s got a bunch of them about it in this way, that’s cool.
+
+That was also part of the free-thinking of it, just write whatever. Whatever is coming out, if we can make a rhyming scheme out of it, put it to a melody, let’s do it. But there’s a lot of ones, to talk about “Heaven” again, that’s definitely me talking to a younger version of myself or maybe someone else. And if it connects with someone who’s in that experience, or has had that experience, that’s dope as well, too. It’s rearview shit.
+
+AD: You say that these songs were written on the other side of recovery – was that important to you or was it a symptom of the process you’re talking about, working quickly and without many revisions. Were you turning the page saying you gotta do new stuff, like you won’t even bring in an older idea?
+
+Konnor Whitney: To be clear, this is back to the rules – I didn’t have anything. I hadn’t written anything for like 2 years. [laughs] Because I was completely creatively blocked and couldn’t write a thing, and couldn’t finish a a song, and re-writing over and over and over. I was totally stuck. That’s just a reality of it – I wasn’t writing anything. And “starting down the road of recovery,” I was able to start again.
+
+I should say, “Something Strange” is old. The lyrics of that song are really old. There were at least two other versions that had those same lyrics over them, but different songs – that one is old, a before-getting-sober one. And there’s little bits of lyrics like that that have been around for years or maybe were in a different song that never got recorded – there are those. There’s a whole unrecorded Whitney K discography, songs that maybe existed for a show, or there’s some half-finished version sitting on Josh’s hard drive. Josh is – there’s a song, I think “Song For a Friend,” there’s like a hard drive worth of that song in different forms [laughs]. He could speak to the immensity of it. That was my fucked-up creative process [laughs], a very inefficient process. But that’s why a lot of the songs are, to me, leaving songs – the experience of leaving something, moving on, walking away.
+
+AD: You talk about this difference, pre/post recovery. Are there songs from pre-recovery that you don’t want to engage with in again because of what you say or how it makes you feel, or ones you do want to perform more – or are you indifferent and not precious about it.
+
+Konnor Whitney: More so just my difficulty with engaging old material generally. Maybe I’m being delusional, but it’s less a pre/post recovery thing, and more just how I feel about the song – I just don’t like it. I liked it enough when I was recording it, but at some point my opinion on it shifted, and I no longer like it. There’s a lot in the old discography that I really don’t want to go to cause it just doesn’t feel good. And the “why,” I don’t have a specific answer. That’s the weather. But songs get brought back up again, it could be as surprising to me as everybody else in the room. “I like this song,” okay, sure, but I thought you hated that song? There’s so much in what they’re about or how they come across, I’m probably not the best person to be asking about that. I would say I’m giving some specifics, but you say you have an interpretation and maybe you think you’re off or maybe on … I’m very open and more interested in what somebody else gets from the song than me.
+
+There’s a handful of songs that have been in the set and will get played on this tour that are not on this record, older ones, they’re in there more because they’re crowd pleasers. We still play them – my knee jerk reaction for not bringing old stuff in is because I don’t think it’s good. I think I’ve written better songs since. I think we should be playing the best material, in my opinion, and that’s just mine. That’s not diminishing anyone else’s contributions to it or whatever, it’s just what I think it is a better song. So, the older ones we play are, I think, the better ones, and I think people respond them to more because they’re better songs [laughs].
+
+AD: Beyond the sound of pop, there are some pop cultural references on the record, like lines about Pusha T [in “Sunshine2”] and Anderson.Paak [in “Rosy], but also things like “TV Dreaming” starting with “I was dreaming of the past,” ala “Jealous Guy” by John Lennon, “Jolene” as the title of a song – what’s your engagement with pop music, pop culture, and how do consciously or otherwise bring that into your process?
+
+Konnor Whitney: I used to engage with pop culture a lot and honestly don’t really that much anymore. I like Pusha T, and a lot of his songs are about selling drugs. I’ve been a drug user, but I haven’t been a kingpin, it’s just a cool line. The Anderson .Paak thing, that whole song is about being out in the world, hearing someone tell a story about an experience they had with a celebrity, you know, here’s this person name-dropping some shit. And [makes sound like Ms Othmar from Peanuts, “wa wa wa”] that’s all I’m hearing, someone just vocalizing their insecurities. It’s not meant to be “Anderson .Paak sucks,” it’s just people talking celebrity, just some celebrity out and about – you know, signing NDAs and shit. 
+
+Also, the idea of someone being surprised at excess by a famous person – I’m certainly not surprised by that. Like, “did you hear this thing happened?” and like, okay, sure, yeah, probably. It is what it is. But that song, too, the Rosy character in that song, I’m not trying to talk down to that person either, that person is just moving through their life and trying to find excitement where they can and genuinely loving what they’re doing. It’s like, “why’re you crying?” I’m crying because I’m fucking happy.
+
+AD: The album ends with “Lately,” which to me is a wonderful, pleasant and hopeful note, speaking about the joy that can found with others but also the joy in isolation, joy about living in the moment. After all we’ve spoken about here, the themes and your process, I wondered what you wanted to impart in that song? It’s the clearest positive song on the record.
+
+Konnor Whitney: [laughs] I sometimes just forget that that song is on the record – that song is really old, too. That recording, that song is from 2018, and was recorded at the same time as a bunch of stuff from [the EP] Hard To Be a God, so that’s actually really old, and a good example of one that I didn’t like and it just sat there for years. It got pulled out, like, “that’s actually a good song.” Same band, but different time and place. That’s a funny one because that was written when I was absolutely not sober [laughs] and not entirely satisfied with my life. That’s a good example – asking me about the meaning of songs – something gets written and then three years later, “oh, that’s what it’s about.” 
+
+[In terms of ending the record with that] That’s Josh and Michael, they handled most of that. I contributed what I could, the songs as they were written and some ideas here or there, but track listing, that’s Josh, he’s the one that came up with that whole thing, and it sounds way fucking cool. I don’t think it could have gone any better or any other way. Like the bookending, too, we got “Heaven,” that’s not necessarily positive but a “things are gonna get better” song, “don’t worry about it kid.” We go through the whole thing and then it ends on a pretty good note. We’re back on the porch.
+
+Bubble by Whitney K
+
+Bubble by Whitney K
+
+ 
+
+ 
+ Posted on September 12, 2025September 12, 2025The AD Interview Whitney K
+ 
+
+ 
+ 
+ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1361039829957-0'); });

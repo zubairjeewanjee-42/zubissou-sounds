@@ -1,0 +1,68 @@
+{
+ "slug": "by-mixtape-first-last-japanese-private-press-vol-2",
+ "kind": "by_mixtape",
+ "name": "AD Mixtape · First & Last: Japanese Private Press, Vol. 2",
+ "description": "Welcome to the second installment of First & Last, a series of mixes providing a glimpse into the world of Japanese private press, or 自主盤, pronounced “jishuban”, which loosely translates to “independent board.” This second entry picks up where volume one left off, including a live recording from a concert compilation (track one), and music from the incredibly rare First Album, by Elf, of which only fifteen copies were manufactured.",
+ "needs_matching": true,
+ "track_count": 11,
+ "tracks": [
+  {
+   "artist": "とお",
+   "track": "ねらいうち⁣ (197?)",
+   "raw": "とお – ねらいうち⁣ (197?)"
+  },
+  {
+   "artist": "Elf (エルフ)",
+   "track": "君がわからない (1975)",
+   "raw": "Elf (エルフ) – 君がわからない (1975)"
+  },
+  {
+   "artist": "Kazunari Tanaka",
+   "track": "悲しみの中に (1973)",
+   "raw": "Kazunari Tanaka – 悲しみの中に (1973)"
+  },
+  {
+   "artist": "石榑峠の萬屋 (The Ishigure Toge No Yorozuya)",
+   "track": "石榑峠の萬屋 (1973)",
+   "raw": "石榑峠の萬屋 (The Ishigure Toge No Yorozuya) – 石榑峠の萬屋 (1973)"
+  },
+  {
+   "artist": "Enough",
+   "track": "そして今 (1975)",
+   "raw": "Enough – そして今 (1975)"
+  },
+  {
+   "artist": "ローズ・マリー (Rose Mary)",
+   "track": "ローズ・マリーの赤ちやん (Rosemary’s Baby) (1975)",
+   "raw": "ローズ・マリー (Rose Mary) – ローズ・マリーの赤ちやん (Rosemary’s Baby) (1975)"
+  },
+  {
+   "artist": "佐藤俊喜 (Tosiki Satoh)",
+   "track": "無題 Untitled (1978)",
+   "raw": "佐藤俊喜 (Tosiki Satoh) – 無題 Untitled (1978)"
+  },
+  {
+   "artist": "城山のならず者 (Joyama No Narazumono)",
+   "track": "太郎どんと次郎どんの犬 (1979)",
+   "raw": "城山のならず者 (Joyama No Narazumono) – 太郎どんと次郎どんの犬 (1979)"
+  },
+  {
+   "artist": "平凡ともうひとりの唄とギター (Heibon to Mouhitori No Uta To Guitar)",
+   "track": "夏の夜 (1974)",
+   "raw": "平凡ともうひとりの唄とギター (Heibon to Mouhitori No Uta To Guitar) – 夏の夜 (1974)"
+  },
+  {
+   "artist": "Jin (たむらじん)",
+   "track": "804 (1976)",
+   "raw": "Jin (たむらじん) – 804 (1976)"
+  },
+  {
+   "artist": "自由の鐘 (Liberty Bell)",
+   "track": "かげろう (1972)",
+   "raw": "自由の鐘 (Liberty Bell) – かげろう (1972)"
+  }
+ ],
+ "sources": [
+  "https://aquariumdrunkard.com/2022/03/09/first-last-japanese-private-press-vol-2/"
+ ]
+}

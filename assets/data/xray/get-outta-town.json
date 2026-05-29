@@ -1,0 +1,4550 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-05-26T18:39:17.787364Z",
+  "show": {
+    "slug": "get-outta-town",
+    "title": "Get Outta Town",
+    "description": "Exciting sounds from all over the world. Covering a new country every week.",
+    "image": "https://cdn.xray.fm/image/medium/",
+    "tags": [
+      "world"
+    ],
+    "url": "https://xray.fm/shows/get-outta-town"
+  },
+  "episode_count": 40,
+  "track_count_total": 579,
+  "episodes": [
+    {
+      "id": "54185",
+      "url": "https://xray.fm/broadcasts/54185",
+      "title": "Get Outta Town - Mongolia (Rerun)",
+      "air_date": "10-1-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/JO_07072022_GetOuttaTown.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Yuve Yuve Yu",
+          "artist": "The HU",
+          "album": "The Gereg",
+          "label": "Eleven Seven Music"
+        },
+        {
+          "time": "2:06am",
+          "track": "The Bride & The Bachelor",
+          "artist": "Magnolian",
+          "album": "Famous Men",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:11am",
+          "track": "Dundgol Sonat",
+          "artist": "Bodikhuu",
+          "album": "Welcome to Ulaanbaatar",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:14am",
+          "track": "Mother Mongolia",
+          "artist": "Altan Urag",
+          "album": "Made in Altan Urag",
+          "label": "Altan Urag Band"
+        },
+        {
+          "time": "2:17am",
+          "track": "Suuliin Uyanga",
+          "artist": "The Lemons",
+          "album": "III",
+          "label": "HI-Fi Media Group"
+        },
+        {
+          "time": "2:22am",
+          "track": "Ulaan heruulch",
+          "artist": "Nisvanis",
+          "album": "Hncaer Tabar",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:25am",
+          "track": "The Wolf Dance",
+          "artist": "Mohanik",
+          "album": "At Amarbayasgalant",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:29am",
+          "track": "Baifang (Back to You)",
+          "artist": "Hanggai",
+          "album": "Baifang",
+          "label": "Hanggai"
+        },
+        {
+          "time": "2:34am",
+          "track": "Wisdom Eyes",
+          "artist": "Nine Treasures",
+          "album": "Wisdom Eyes",
+          "label": "Pilot Music"
+        },
+        {
+          "time": "2:37am",
+          "track": "Berimbau",
+          "artist": "Bodikhuu",
+          "album": "Rio / Bodianova",
+          "label": "Farsi Records"
+        },
+        {
+          "time": "2:39am",
+          "track": "Karangailyg Kara Hovaa (Dyngyldai)",
+          "artist": "Yat-Kha",
+          "album": "Yenisei Punk",
+          "label": "Global Music Centre"
+        },
+        {
+          "time": "2:42am",
+          "track": "Wolf Totem",
+          "artist": "The HU",
+          "album": "The Gereg",
+          "label": "Eleven Seven Music"
+        },
+        {
+          "time": "2:48am",
+          "track": "Indigo",
+          "artist": "Magnolian",
+          "album": "Indigo",
+          "label": "Magnolian"
+        },
+        {
+          "time": "2:53am",
+          "track": "Galloping Steeds",
+          "artist": "Tengger Cavalry",
+          "album": "Sunesu Cavalry",
+          "label": "Tengger Cavalry"
+        },
+        {
+          "time": "2:56am",
+          "track": "Snow",
+          "artist": "Tengger Cavalry",
+          "album": "Die on My Ride",
+          "label": "Tengger Cavalry"
+        }
+      ]
+    },
+    {
+      "id": "53958",
+      "url": "https://xray.fm/broadcasts/53958",
+      "title": "Get Outta Town - South Korea (Rerun)",
+      "air_date": "9-18-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownkorea.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01pm",
+          "track": "HIATUS",
+          "artist": "MOONSUN",
+          "album": "TOM:",
+          "label": "Decadence of Seoul"
+        },
+        {
+          "time": "2:05pm",
+          "track": "Old Town",
+          "artist": "Say Sue Me",
+          "album": "Where We Were Together",
+          "label": "Damnably"
+        },
+        {
+          "time": "2:07pm",
+          "track": "We live in the Jurassic Park",
+          "artist": "Bosudongcooler",
+          "album": "We live in the Jurassic Park",
+          "label": "Damnably"
+        },
+        {
+          "time": "2:13pm",
+          "track": "Dirty House",
+          "artist": "South Club",
+          "album": "90",
+          "label": "NHN Bugs Corp"
+        },
+        {
+          "time": "2:16pm",
+          "track": "Buckubucku (feat.EE, Rap Monster Of BTS, Dino-J)",
+          "artist": "MFBTY",
+          "album": "WondaLand",
+          "label": "FeelGhoodMusic"
+        },
+        {
+          "time": "2:20pm",
+          "track": "1:05",
+          "artist": "The Black Skirts",
+          "album": "TEAM BABY",
+          "label": "DOGGYRICH"
+        },
+        {
+          "time": "2:25pm",
+          "track": "for lovers who hesitate",
+          "artist": "JANNABI",
+          "album": "LEGEND",
+          "label": "PEPONI MUSIC"
+        },
+        {
+          "time": "2:29pm",
+          "track": "Lysgænger (Wind)",
+          "artist": "Meejah",
+          "album": "Queen of Spring",
+          "label": "Soon Records"
+        },
+        {
+          "time": "2:34pm",
+          "track": "PIZZA",
+          "artist": "OOHYO",
+          "album": "Far From the Madding City",
+          "label": "MUN HWA IN"
+        },
+        {
+          "time": "2:38pm",
+          "track": "Melt a Bed",
+          "artist": "Asian Glow, Weatherday",
+          "album": "Weatherglow",
+          "label": "Porcelain Music"
+        },
+        {
+          "time": "2:42pm",
+          "track": "A Fish Map",
+          "artist": "LeeNalchi",
+          "album": "Sugungga",
+          "label": "Zanpar"
+        },
+        {
+          "time": "2:45pm",
+          "track": "Time of Extinction",
+          "artist": "Jambinai",
+          "album": "Differance",
+          "label": "Bella Union"
+        },
+        {
+          "time": "2:49pm",
+          "track": "Aqua Man",
+          "artist": "Beenzino",
+          "album": "24:26",
+          "label": "Illionaire Records"
+        },
+        {
+          "time": "2:53pm",
+          "track": "Phonecert",
+          "artist": "10cm",
+          "album": "4.0",
+          "label": "Magic Strawberry Sound"
+        },
+        {
+          "time": "2:57pm",
+          "track": "Am I Alive",
+          "artist": "Mindy",
+          "album": "Am I Alive",
+          "label": "Make More Music Records"
+        }
+      ]
+    },
+    {
+      "id": "53615",
+      "url": "https://xray.fm/broadcasts/53615",
+      "title": "Get Outta Town - Iceland (Rerun)",
+      "air_date": "8-28-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatowniceland.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Varú∂",
+          "artist": "Sigur Rós",
+          "album": "Valtari",
+          "label": "KRUNK"
+        },
+        {
+          "time": "2:07am",
+          "track": "Guru",
+          "artist": "Júníus Meyvant",
+          "album": "Guru",
+          "label": "Record Records"
+        },
+        {
+          "time": "2:14am",
+          "track": "Bernskan",
+          "artist": "Ásgeir",
+          "album": "Sátt",
+          "label": "One Little Independent"
+        },
+        {
+          "time": "2:17am",
+          "track": "New Beginning",
+          "artist": "Pascal Pinon",
+          "album": "Pascal Pinon",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:19am",
+          "track": "Pretty Face",
+          "artist": "Sóley",
+          "album": "We Sink",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:25am",
+          "track": "Higher (feat. Vök)",
+          "artist": "GusGus",
+          "album": "Mobile Home",
+          "label": "Oroom ehf"
+        },
+        {
+          "time": "2:29am",
+          "track": "Glow",
+          "artist": "Retro Stefson",
+          "album": "Retro Stefson",
+          "label": "N/A"
+        },
+        {
+          "time": "2:32am",
+          "track": "Green Grass Of Tunnel",
+          "artist": "múm",
+          "album": "Finally We Are No One",
+          "label": "FatCat"
+        },
+        {
+          "time": "2:38am",
+          "track": "Arms",
+          "artist": "Seabear",
+          "album": "The Ghost That Carried Us Away",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:41am",
+          "track": "Random Haiku Generator",
+          "artist": "Sin Fang, Sóley & Örvar Smárason",
+          "album": "Team Dreams",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:45am",
+          "track": "Brennisteinn",
+          "artist": "Sigur Rós",
+          "album": "Kveikur",
+          "label": "KRUNK"
+        },
+        {
+          "time": "2:54am",
+          "track": "Color Decay",
+          "artist": "Júníus Meyvant",
+          "album": "Floating Harmonies",
+          "label": "Record Records"
+        }
+      ]
+    },
+    {
+      "id": "53479",
+      "url": "https://xray.fm/broadcasts/53479",
+      "title": "Get Outta Town - France (Rerun)",
+      "air_date": "8-21-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownfrance.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Bonne journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:04am",
+          "track": "Long Distance Call",
+          "artist": "Phoenix",
+          "album": "It's Never Been Like That",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:07am",
+          "track": "Canopeé",
+          "artist": "Polo & Pan",
+          "album": "Caravelle",
+          "label": "Hamburger Records"
+        },
+        {
+          "time": "2:12am",
+          "track": "Christine",
+          "artist": "Christine and the Queens",
+          "album": "Chaleur Humaine",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:16am",
+          "track": "Come",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "Spookland"
+        },
+        {
+          "time": "2:20am",
+          "track": "Si tu veux y aller",
+          "artist": "Neniu, Jouvence",
+          "album": "ALLOPOP",
+          "label": "La Souterraine"
+        },
+        {
+          "time": "2:22am",
+          "track": "Jeunesse doreé",
+          "artist": "BARON.E",
+          "album": "Jeunesse Doreé",
+          "label": "PIAS"
+        },
+        {
+          "time": "2:26am",
+          "track": "Gare du Nord",
+          "artist": "Claire Laffut",
+          "album": "Mojo",
+          "label": "Gum"
+        },
+        {
+          "time": "2:31am",
+          "track": "Le temps est bon",
+          "artist": "Bon Entendeur, Isabelle Pierre",
+          "album": "Aller-retour",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:34am",
+          "track": "Mauvaise journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:37am",
+          "track": "Le coeur nous anime",
+          "artist": "Ben Mazué, Poupie",
+          "album": "Paradis",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:41am",
+          "track": "People, I've Been Sad",
+          "artist": "Christine and the Queens",
+          "album": "La vita nuova",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:45am",
+          "track": "Makeba",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "RCA"
+        },
+        {
+          "time": "2:49am",
+          "track": "If I Ever Feel Better",
+          "artist": "Phoenix",
+          "album": "United",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:54am",
+          "track": "C'est que du bonheur",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:56am",
+          "track": "Dis-moi",
+          "artist": "BB Brunes",
+          "album": "Blonde comme moi",
+          "label": "Warner Music"
+        }
+      ]
+    },
+    {
+      "id": "53386",
+      "url": "https://xray.fm/broadcasts/53386",
+      "title": "Get Outta Town - Saharan Africa (Rerun)",
+      "air_date": "8-14-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownafrica.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Eghass Malan",
+          "artist": "Les Filles de Illighadad",
+          "album": "Eghass Malan",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:06am",
+          "track": "Chismiten",
+          "artist": "Mdou Moctar",
+          "album": "Afrique Victime",
+          "label": "Matador"
+        },
+        {
+          "time": "2:11am",
+          "track": "Toumast Tincha",
+          "artist": "Tinariwen",
+          "album": "Emmaar",
+          "label": "Anti"
+        },
+        {
+          "time": "2:15am",
+          "track": "Ila Mata",
+          "artist": "Bab L'Bluz",
+          "album": "Nayda!",
+          "label": "Real World Records"
+        },
+        {
+          "time": "2:20am",
+          "track": "Soubour",
+          "artist": "Songhoy Blues",
+          "album": "Music in Exile",
+          "label": "Atlantic Recording"
+        },
+        {
+          "time": "2:24am",
+          "track": "Agrim Agadez",
+          "artist": "Etran de L'Air",
+          "album": "Agrim Agadez",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:30am",
+          "track": "Tarha Tadagh",
+          "artist": "Imarhan",
+          "album": "Imarhan",
+          "label": "City Slang"
+        },
+        {
+          "time": "2:33am",
+          "track": "Tamiditine",
+          "artist": "Bombino",
+          "album": "Nomad",
+          "label": "Nonesuch Records"
+        },
+        {
+          "time": "2:37am",
+          "track": "Imigradan",
+          "artist": "Les Filles de Illighadad",
+          "album": "Eghass Malan",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:43am",
+          "track": "Tala Tannam",
+          "artist": "Mdou Moctar",
+          "album": "Afrique Victime",
+          "label": "Merge"
+        },
+        {
+          "time": "2:48am",
+          "track": "Sastanàqqàm",
+          "artist": "Tinariwen",
+          "album": "Elwan",
+          "label": "Anti-"
+        },
+        {
+          "time": "2:53am",
+          "track": "Sahara (feat. Iggy Pop)",
+          "artist": "Songhoy Blues",
+          "album": "Resistance",
+          "label": "Fat Possum Records"
+        },
+        {
+          "time": "2:57am",
+          "track": "Adinat",
+          "artist": "Bombino",
+          "album": "Nomad",
+          "label": "Nonesuch"
+        }
+      ]
+    },
+    {
+      "id": "53276",
+      "url": "https://xray.fm/broadcasts/53276",
+      "title": "Get Outta Town - Mongolia (Rerun)",
+      "air_date": "8-7-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/JO_07072022_GetOuttaTown.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Yuve Yuve Yu",
+          "artist": "The HU",
+          "album": "The Gereg",
+          "label": "Eleven Seven Music"
+        },
+        {
+          "time": "2:06am",
+          "track": "The Bride & The Bachelor",
+          "artist": "Magnolian",
+          "album": "Famous Men",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:11am",
+          "track": "Dundgol Sonat",
+          "artist": "Bodikhuu",
+          "album": "Welcome to Ulaanbaatar",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:14am",
+          "track": "Mother Mongolia",
+          "artist": "Altan Urag",
+          "album": "Made in Altan Urag",
+          "label": "Altan Urag Band"
+        },
+        {
+          "time": "2:17am",
+          "track": "Suuliin Uyanga",
+          "artist": "The Lemons",
+          "album": "III",
+          "label": "HI-Fi Media Group"
+        },
+        {
+          "time": "2:22am",
+          "track": "Ulaan heruulch",
+          "artist": "Nisvanis",
+          "album": "Hncaer Tabar",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:25am",
+          "track": "The Wolf Dance",
+          "artist": "Mohanik",
+          "album": "At Amarbayasgalant",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:29am",
+          "track": "Baifang (Back to You)",
+          "artist": "Hanggai",
+          "album": "Baifang",
+          "label": "Hanggai"
+        },
+        {
+          "time": "2:34am",
+          "track": "Wisdom Eyes",
+          "artist": "Nine Treasures",
+          "album": "Wisdom Eyes",
+          "label": "Pilot Music"
+        },
+        {
+          "time": "2:37am",
+          "track": "Berimbau",
+          "artist": "Bodikhuu",
+          "album": "Rio / Bodianova",
+          "label": "Farsi Records"
+        },
+        {
+          "time": "2:39am",
+          "track": "Karangailyg Kara Hovaa (Dyngyldai)",
+          "artist": "Yat-Kha",
+          "album": "Yenisei Punk",
+          "label": "Global Music Centre"
+        },
+        {
+          "time": "2:42am",
+          "track": "Wolf Totem",
+          "artist": "The HU",
+          "album": "The Gereg",
+          "label": "Eleven Seven Music"
+        },
+        {
+          "time": "2:48am",
+          "track": "Indigo",
+          "artist": "Magnolian",
+          "album": "Indigo",
+          "label": "Magnolian"
+        },
+        {
+          "time": "2:53am",
+          "track": "Galloping Steeds",
+          "artist": "Tengger Cavalry",
+          "album": "Sunesu Cavalry",
+          "label": "Tengger Cavalry"
+        },
+        {
+          "time": "2:56am",
+          "track": "Snow",
+          "artist": "Tengger Cavalry",
+          "album": "Die on My Ride",
+          "label": "Tengger Cavalry"
+        }
+      ]
+    },
+    {
+      "id": "53158",
+      "url": "https://xray.fm/broadcasts/53158",
+      "title": "Get Outta Town - France (Rerun)",
+      "air_date": "7-31-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownfrance.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:00pm",
+          "track": "Bonne journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:04pm",
+          "track": "Long Distance Call",
+          "artist": "Phoenix",
+          "album": "It's Never Been Like That",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:07pm",
+          "track": "Canopeé",
+          "artist": "Polo & Pan",
+          "album": "Caravelle",
+          "label": "Hamburger Records"
+        },
+        {
+          "time": "2:12pm",
+          "track": "Christine",
+          "artist": "Christine and the Queens",
+          "album": "Chaleur Humaine",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:16pm",
+          "track": "Come",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "Spookland"
+        },
+        {
+          "time": "2:20pm",
+          "track": "Si tu veux y aller",
+          "artist": "Neniu, Jouvence",
+          "album": "ALLOPOP",
+          "label": "La Souterraine"
+        },
+        {
+          "time": "2:22pm",
+          "track": "Jeunesse doreé",
+          "artist": "BARON.E",
+          "album": "Jeunesse Doreé",
+          "label": "PIAS"
+        },
+        {
+          "time": "2:26pm",
+          "track": "Gare du Nord",
+          "artist": "Claire Laffut",
+          "album": "Mojo",
+          "label": "Gum"
+        },
+        {
+          "time": "2:31pm",
+          "track": "Le temps est bon",
+          "artist": "Bon Entendeur, Isabelle Pierre",
+          "album": "Aller-retour",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:34pm",
+          "track": "Mauvaise journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:37pm",
+          "track": "Le coeur nous anime",
+          "artist": "Ben Mazué, Poupie",
+          "album": "Paradis",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:41pm",
+          "track": "People, I've Been Sad",
+          "artist": "Christine and the Queens",
+          "album": "La vita nuova",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:45pm",
+          "track": "Makeba",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "RCA"
+        },
+        {
+          "time": "2:49pm",
+          "track": "If I Ever Feel Better",
+          "artist": "Phoenix",
+          "album": "United",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:54pm",
+          "track": "C'est que du bonheur",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:56pm",
+          "track": "Dis-moi",
+          "artist": "BB Brunes",
+          "album": "Blonde comme moi",
+          "label": "Warner Music"
+        }
+      ]
+    },
+    {
+      "id": "53040",
+      "url": "https://xray.fm/broadcasts/53040",
+      "title": "Get Outta Town - Iceland (Rerun)",
+      "air_date": "7-24-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatowniceland.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Varú∂",
+          "artist": "Sigur Rós",
+          "album": "Valtari",
+          "label": "KRUNK"
+        },
+        {
+          "time": "2:07am",
+          "track": "Guru",
+          "artist": "Júníus Meyvant",
+          "album": "Guru",
+          "label": "Record Records"
+        },
+        {
+          "time": "2:14am",
+          "track": "Bernskan",
+          "artist": "Ásgeir",
+          "album": "Sátt",
+          "label": "One Little Independent"
+        },
+        {
+          "time": "2:17am",
+          "track": "New Beginning",
+          "artist": "Pascal Pinon",
+          "album": "Pascal Pinon",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:19am",
+          "track": "Pretty Face",
+          "artist": "Sóley",
+          "album": "We Sink",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:25am",
+          "track": "Higher (feat. Vök)",
+          "artist": "GusGus",
+          "album": "Mobile Home",
+          "label": "Oroom ehf"
+        },
+        {
+          "time": "2:29am",
+          "track": "Glow",
+          "artist": "Retro Stefson",
+          "album": "Retro Stefson",
+          "label": "N/A"
+        },
+        {
+          "time": "2:32am",
+          "track": "Green Grass Of Tunnel",
+          "artist": "múm",
+          "album": "Finally We Are No One",
+          "label": "FatCat"
+        },
+        {
+          "time": "2:38am",
+          "track": "Arms",
+          "artist": "Seabear",
+          "album": "The Ghost That Carried Us Away",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:41am",
+          "track": "Random Haiku Generator",
+          "artist": "Sin Fang, Sóley & Örvar Smárason",
+          "album": "Team Dreams",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:45am",
+          "track": "Brennisteinn",
+          "artist": "Sigur Rós",
+          "album": "Kveikur",
+          "label": "KRUNK"
+        },
+        {
+          "time": "2:54am",
+          "track": "Color Decay",
+          "artist": "Júníus Meyvant",
+          "album": "Floating Harmonies",
+          "label": "Record Records"
+        }
+      ]
+    },
+    {
+      "id": "52920",
+      "url": "https://xray.fm/broadcasts/52920",
+      "title": "Get Outta Town - Argentina (Rerun)",
+      "air_date": "7-17-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownargentina.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Corashe",
+          "artist": "Nathy Peluso",
+          "album": "Corashe",
+          "label": "Nathy Peluso Music"
+        },
+        {
+          "time": "2:03am",
+          "track": "Buen Viaje",
+          "artist": "Fémina",
+          "album": "Traspasa",
+          "label": "Fémina"
+        },
+        {
+          "time": "2:08am",
+          "track": "Química",
+          "artist": "Banda de Turistas",
+          "album": "Lo Que Más Quéres",
+          "label": "Popartdiscos"
+        },
+        {
+          "time": "2:12am",
+          "track": "Río Paraná",
+          "artist": "Suarez",
+          "album": "Excursiones",
+          "label": "FAN"
+        },
+        {
+          "time": "2:15am",
+          "track": "El Guinness",
+          "artist": "Amor Elefante",
+          "album": "Billetes Falsos",
+          "label": "Amor Elefante"
+        },
+        {
+          "time": "2:19am",
+          "track": "Vos y Yo",
+          "artist": "Las Sombras",
+          "album": "Las Sombras",
+          "label": "Queruza"
+        },
+        {
+          "time": "2:21am",
+          "track": "Vertiginosamente",
+          "artist": "Riel",
+          "album": "Sueño Electrico",
+          "label": "Buen Dia Records"
+        },
+        {
+          "time": "2:23am",
+          "track": "A 1200 Km",
+          "artist": "Las Ligas Menores",
+          "album": "Las Ligas Menores",
+          "label": "Las Ligas Menores"
+        },
+        {
+          "time": "2:29am",
+          "track": "minet",
+          "artist": "archipiélagos",
+          "album": "split",
+          "label": "dislexia free"
+        },
+        {
+          "time": "2:32am",
+          "track": "Caoscalma",
+          "artist": "Pyramides",
+          "album": "Vacíos y Variables",
+          "label": "Fuego Amigo Discos"
+        },
+        {
+          "time": "2:36am",
+          "track": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+          "artist": "Bizarrap, Nathy Peluso",
+          "album": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+          "label": "DALE PLAY Records"
+        },
+        {
+          "time": "2:40am",
+          "track": "Helados Verdes",
+          "artist": "Los Besos",
+          "album": "Helados Verdes",
+          "label": "Paula Marina Trama"
+        },
+        {
+          "time": "2:43am",
+          "track": "Paraguaya",
+          "artist": "Juana Molina",
+          "album": "Halo",
+          "label": "Crammed Discs"
+        },
+        {
+          "time": "2:47am",
+          "track": "Eu Tein",
+          "artist": "Fémina",
+          "album": "Traspasa",
+          "label": "Fémina"
+        },
+        {
+          "time": "2:53am",
+          "track": "Trapeze",
+          "artist": "Damsel Talk",
+          "album": "Fe Fi Fo Fum",
+          "label": "Damsel Talk"
+        },
+        {
+          "time": "2:56am",
+          "track": "Disimulando",
+          "artist": "Amor Elefante",
+          "album": "Oriente",
+          "label": "Amor Elefante"
+        }
+      ]
+    },
+    {
+      "id": "52802",
+      "url": "https://xray.fm/broadcasts/52802",
+      "title": "Get Outta Town - South Korea (Rerun)",
+      "air_date": "7-10-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownkorea.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01pm",
+          "track": "HIATUS",
+          "artist": "MOONSUN",
+          "album": "TOM:",
+          "label": "Decadence of Seoul"
+        },
+        {
+          "time": "2:05pm",
+          "track": "Old Town",
+          "artist": "Say Sue Me",
+          "album": "Where We Were Together",
+          "label": "Damnably"
+        },
+        {
+          "time": "2:07pm",
+          "track": "We live in the Jurassic Park",
+          "artist": "Bosudongcooler",
+          "album": "We live in the Jurassic Park",
+          "label": "Damnably"
+        },
+        {
+          "time": "2:13pm",
+          "track": "Dirty House",
+          "artist": "South Club",
+          "album": "90",
+          "label": "NHN Bugs Corp"
+        },
+        {
+          "time": "2:16pm",
+          "track": "Buckubucku (feat.EE, Rap Monster Of BTS, Dino-J)",
+          "artist": "MFBTY",
+          "album": "WondaLand",
+          "label": "FeelGhoodMusic"
+        },
+        {
+          "time": "2:20pm",
+          "track": "1:05",
+          "artist": "The Black Skirts",
+          "album": "TEAM BABY",
+          "label": "DOGGYRICH"
+        },
+        {
+          "time": "2:25pm",
+          "track": "for lovers who hesitate",
+          "artist": "JANNABI",
+          "album": "LEGEND",
+          "label": "PEPONI MUSIC"
+        },
+        {
+          "time": "2:29pm",
+          "track": "Lysgænger (Wind)",
+          "artist": "Meejah",
+          "album": "Queen of Spring",
+          "label": "Soon Records"
+        },
+        {
+          "time": "2:34pm",
+          "track": "PIZZA",
+          "artist": "OOHYO",
+          "album": "Far From the Madding City",
+          "label": "MUN HWA IN"
+        },
+        {
+          "time": "2:38pm",
+          "track": "Melt a Bed",
+          "artist": "Asian Glow, Weatherday",
+          "album": "Weatherglow",
+          "label": "Porcelain Music"
+        },
+        {
+          "time": "2:42pm",
+          "track": "A Fish Map",
+          "artist": "LeeNalchi",
+          "album": "Sugungga",
+          "label": "Zanpar"
+        },
+        {
+          "time": "2:45pm",
+          "track": "Time of Extinction",
+          "artist": "Jambinai",
+          "album": "Differance",
+          "label": "Bella Union"
+        },
+        {
+          "time": "2:49pm",
+          "track": "Aqua Man",
+          "artist": "Beenzino",
+          "album": "24:26",
+          "label": "Illionaire Records"
+        },
+        {
+          "time": "2:53pm",
+          "track": "Phonecert",
+          "artist": "10cm",
+          "album": "4.0",
+          "label": "Magic Strawberry Sound"
+        },
+        {
+          "time": "2:57pm",
+          "track": "Am I Alive",
+          "artist": "Mindy",
+          "album": "Am I Alive",
+          "label": "Make More Music Records"
+        }
+      ]
+    },
+    {
+      "id": "52547",
+      "url": "https://xray.fm/broadcasts/52547",
+      "title": "Get Outta Town - Mexico (Rerun)",
+      "air_date": "6-26-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownmexico.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "La Corriente",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:04am",
+          "track": "Ninjas",
+          "artist": "Rey Pila",
+          "album": "Ninjas",
+          "label": "Chill Apocalypse SC"
+        },
+        {
+          "time": "2:07am",
+          "track": "San Lucas",
+          "artist": "Kevin Kaarl",
+          "album": "San Lucas",
+          "label": "Kevin Kaarl"
+        },
+        {
+          "time": "2:12am",
+          "track": "Cuando Lloro",
+          "artist": "Porter",
+          "album": "Las Batallas",
+          "label": "Universal Music"
+        },
+        {
+          "time": "2:16am",
+          "track": "La Noche Total",
+          "artist": "Belafonte Sensacional",
+          "album": "La Noche Total",
+          "label": "Independent"
+        },
+        {
+          "time": "2:19am",
+          "track": "Te Guardo",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:23am",
+          "track": "Punk (feat. Little Jesus)",
+          "artist": "Girl Ultra",
+          "album": "EL SUR",
+          "label": "Finesse Records"
+        },
+        {
+          "time": "2:26am",
+          "track": "Hacernos Ací",
+          "artist": "Luisa Almaguer",
+          "album": "Mataronomatar",
+          "label": "Luisa Almaguer"
+        },
+        {
+          "time": "2:30am",
+          "track": "No Jaló (Feat. Vanessa Zamora)",
+          "artist": "Sabino",
+          "album": "No Jaló",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:34am",
+          "track": "Carta",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:37am",
+          "track": "Nada",
+          "artist": "Juan Son",
+          "album": "Mermaid Sashimi",
+          "label": "Juan Son"
+        },
+        {
+          "time": "2:41am",
+          "track": "Disciples IV",
+          "artist": "Rey Pila",
+          "album": "Disciples IV",
+          "label": "Chill Apocalypse SC"
+        },
+        {
+          "time": "2:45am",
+          "track": "Fuera de Lugar",
+          "artist": "Little Jesus, Girl Ultra",
+          "album": "Disco de Oro",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:49am",
+          "track": "Cuando",
+          "artist": "Ruzzi",
+          "album": "Nave Especial",
+          "label": "ANIMAL MINIMAL"
+        },
+        {
+          "time": "2:53am",
+          "track": "Huitzil",
+          "artist": "Porter",
+          "album": "Moctezuma",
+          "label": "Porter"
+        }
+      ]
+    },
+    {
+      "id": "52314",
+      "url": "https://xray.fm/broadcasts/52314",
+      "title": "Get Outta Town - South Korea (Rerun)",
+      "air_date": "6-12-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownkorea.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01pm",
+          "track": "HIATUS",
+          "artist": "MOONSUN",
+          "album": "TOM:",
+          "label": "Decadence of Seoul"
+        },
+        {
+          "time": "2:05pm",
+          "track": "Old Town",
+          "artist": "Say Sue Me",
+          "album": "Where We Were Together",
+          "label": "Damnably"
+        },
+        {
+          "time": "2:07pm",
+          "track": "We live in the Jurassic Park",
+          "artist": "Bosudongcooler",
+          "album": "We live in the Jurassic Park",
+          "label": "Damnably"
+        },
+        {
+          "time": "2:13pm",
+          "track": "Dirty House",
+          "artist": "South Club",
+          "album": "90",
+          "label": "NHN Bugs Corp"
+        },
+        {
+          "time": "2:16pm",
+          "track": "Buckubucku (feat.EE, Rap Monster Of BTS, Dino-J)",
+          "artist": "MFBTY",
+          "album": "WondaLand",
+          "label": "FeelGhoodMusic"
+        },
+        {
+          "time": "2:20pm",
+          "track": "1:05",
+          "artist": "The Black Skirts",
+          "album": "TEAM BABY",
+          "label": "DOGGYRICH"
+        },
+        {
+          "time": "2:25pm",
+          "track": "for lovers who hesitate",
+          "artist": "JANNABI",
+          "album": "LEGEND",
+          "label": "PEPONI MUSIC"
+        },
+        {
+          "time": "2:29pm",
+          "track": "Lysgænger (Wind)",
+          "artist": "Meejah",
+          "album": "Queen of Spring",
+          "label": "Soon Records"
+        },
+        {
+          "time": "2:34pm",
+          "track": "PIZZA",
+          "artist": "OOHYO",
+          "album": "Far From the Madding City",
+          "label": "MUN HWA IN"
+        },
+        {
+          "time": "2:38pm",
+          "track": "Melt a Bed",
+          "artist": "Asian Glow, Weatherday",
+          "album": "Weatherglow",
+          "label": "Porcelain Music"
+        },
+        {
+          "time": "2:42pm",
+          "track": "A Fish Map",
+          "artist": "LeeNalchi",
+          "album": "Sugungga",
+          "label": "Zanpar"
+        },
+        {
+          "time": "2:45pm",
+          "track": "Time of Extinction",
+          "artist": "Jambinai",
+          "album": "Differance",
+          "label": "Bella Union"
+        },
+        {
+          "time": "2:49pm",
+          "track": "Aqua Man",
+          "artist": "Beenzino",
+          "album": "24:26",
+          "label": "Illionaire Records"
+        },
+        {
+          "time": "2:53pm",
+          "track": "Phonecert",
+          "artist": "10cm",
+          "album": "4.0",
+          "label": "Magic Strawberry Sound"
+        },
+        {
+          "time": "2:57pm",
+          "track": "Am I Alive",
+          "artist": "Mindy",
+          "album": "Am I Alive",
+          "label": "Make More Music Records"
+        }
+      ]
+    },
+    {
+      "id": "51928",
+      "url": "https://xray.fm/broadcasts/51928",
+      "title": "Get Outta Town - Brazil (Rerun)",
+      "air_date": "5-22-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownbrazil.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Volta e Meia (feat. Devendra Banhart & Shintaro Sakamoto)",
+          "artist": "O Terno",
+          "album": null,
+          "label": "RISCO"
+        },
+        {
+          "time": "2:04am",
+          "track": "Ultimo Romance",
+          "artist": "Los Hermanos",
+          "album": "Ventura",
+          "label": "BMG Brasil"
+        },
+        {
+          "time": "2:07am",
+          "track": "Cartão Postal",
+          "artist": "Apanhador Só",
+          "album": "Antes Que Tu Conte Outra",
+          "label": "Apanhador Só"
+        },
+        {
+          "time": "2:11am",
+          "track": "Varias Queixas",
+          "artist": "Gilsons",
+          "album": "Varias Queixas",
+          "label": "XIRE"
+        },
+        {
+          "time": "2:14am",
+          "track": "Combatchy (feat. Lexa, Luísa Sonza & MC Rebecca)",
+          "artist": "Anitta",
+          "album": "Combatchy",
+          "label": "Warner Music Brasil"
+        },
+        {
+          "time": "2:18am",
+          "track": "Casa",
+          "artist": "Baleia",
+          "album": "Quebra Azul",
+          "label": "Sony Music Entertainment Brasil"
+        },
+        {
+          "time": "2:22am",
+          "track": "Agora o Meu Coração é Um Lixeiro Azul Vazio Escroto",
+          "artist": "Cidade Dormitório",
+          "album": "Esperando o Pior",
+          "label": "Cidade Dormitorio"
+        },
+        {
+          "time": "2:28am",
+          "track": "Acenda a Luz (feat. Bia Ferreira & Dj Thai)",
+          "artist": "Doralyce",
+          "album": "Acenda a Luz",
+          "label": "Colmeia 22"
+        },
+        {
+          "time": "2:31am",
+          "track": "Tuyo (Narcos Theme) - A Netflix Original Series Soundtrack",
+          "artist": "Rodrigo Amarante",
+          "album": "Tuyo (Narcos Theme)",
+          "label": "Gaumont Television"
+        },
+        {
+          "time": "2:33am",
+          "track": "Garupa (feat. Pabllo Vittar)",
+          "artist": "Luísa Sonza",
+          "album": "Garupa",
+          "label": "Universal Music International"
+        },
+        {
+          "time": "2:35am",
+          "track": "Tonificando",
+          "artist": "Holger",
+          "album": "Ilhabela",
+          "label": "Holger"
+        },
+        {
+          "time": "2:38am",
+          "track": "Irene",
+          "artist": "Rodrigo Amarante",
+          "album": "Cavalo",
+          "label": "Polyvinyl Record Co"
+        },
+        {
+          "time": "2:42am",
+          "track": "Culpa",
+          "artist": "O Terno",
+          "album": "Melhor do Que Parece",
+          "label": "O Terno"
+        },
+        {
+          "time": "2:45am",
+          "track": "Me Come e Some",
+          "artist": "Heavy Baile",
+          "album": "Me Come e Some",
+          "label": "Waxploitation Records"
+        },
+        {
+          "time": "2:48am",
+          "track": "Já Faz Tanto Tempo (feat. Lulu Santos)",
+          "artist": "Fresno",
+          "album": "Vou Ter Que Me Virar",
+          "label": "BMG"
+        },
+        {
+          "time": "2:51am",
+          "track": "O Rock Acabou",
+          "artist": "Moptop",
+          "album": "Moptop",
+          "label": "Universal Music International"
+        },
+        {
+          "time": "2:56am",
+          "track": "Don't",
+          "artist": "brvnks",
+          "album": "Lanches",
+          "label": "Dull Dog Records"
+        }
+      ]
+    },
+    {
+      "id": "51796",
+      "url": "https://xray.fm/broadcasts/51796",
+      "title": "Get Outta Town - Saharan Africa (Rerun)",
+      "air_date": "5-15-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownafrica.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Eghass Malan",
+          "artist": "Les Filles de Illighadad",
+          "album": "Eghass Malan",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:06am",
+          "track": "Chismiten",
+          "artist": "Mdou Moctar",
+          "album": "Afrique Victime",
+          "label": "Matador"
+        },
+        {
+          "time": "2:11am",
+          "track": "Toumast Tincha",
+          "artist": "Tinariwen",
+          "album": "Emmaar",
+          "label": "Anti"
+        },
+        {
+          "time": "2:15am",
+          "track": "Ila Mata",
+          "artist": "Bab L'Bluz",
+          "album": "Nayda!",
+          "label": "Real World Records"
+        },
+        {
+          "time": "2:20am",
+          "track": "Soubour",
+          "artist": "Songhoy Blues",
+          "album": "Music in Exile",
+          "label": "Atlantic Recording"
+        },
+        {
+          "time": "2:24am",
+          "track": "Agrim Agadez",
+          "artist": "Etran de L'Air",
+          "album": "Agrim Agadez",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:30am",
+          "track": "Tarha Tadagh",
+          "artist": "Imarhan",
+          "album": "Imarhan",
+          "label": "City Slang"
+        },
+        {
+          "time": "2:33am",
+          "track": "Tamiditine",
+          "artist": "Bombino",
+          "album": "Nomad",
+          "label": "Nonesuch Records"
+        },
+        {
+          "time": "2:37am",
+          "track": "Imigradan",
+          "artist": "Les Filles de Illighadad",
+          "album": "Eghass Malan",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:43am",
+          "track": "Tala Tannam",
+          "artist": "Mdou Moctar",
+          "album": "Afrique Victime",
+          "label": "Merge"
+        },
+        {
+          "time": "2:48am",
+          "track": "Sastanàqqàm",
+          "artist": "Tinariwen",
+          "album": "Elwan",
+          "label": "Anti-"
+        },
+        {
+          "time": "2:53am",
+          "track": "Sahara (feat. Iggy Pop)",
+          "artist": "Songhoy Blues",
+          "album": "Resistance",
+          "label": "Fat Possum Records"
+        },
+        {
+          "time": "2:57am",
+          "track": "Adinat",
+          "artist": "Bombino",
+          "album": "Nomad",
+          "label": "Nonesuch"
+        }
+      ]
+    },
+    {
+      "id": "51425",
+      "url": "https://xray.fm/broadcasts/51425",
+      "title": "Get Outta Town - Mongolia (Rerun)",
+      "air_date": "4-24-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/JO_07072022_GetOuttaTown.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Yuve Yuve Yu",
+          "artist": "The HU",
+          "album": "The Gereg",
+          "label": "Eleven Seven Music"
+        },
+        {
+          "time": "2:06am",
+          "track": "The Bride & The Bachelor",
+          "artist": "Magnolian",
+          "album": "Famous Men",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:11am",
+          "track": "Dundgol Sonat",
+          "artist": "Bodikhuu",
+          "album": "Welcome to Ulaanbaatar",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:14am",
+          "track": "Mother Mongolia",
+          "artist": "Altan Urag",
+          "album": "Made in Altan Urag",
+          "label": "Altan Urag Band"
+        },
+        {
+          "time": "2:17am",
+          "track": "Suuliin Uyanga",
+          "artist": "The Lemons",
+          "album": "III",
+          "label": "HI-Fi Media Group"
+        },
+        {
+          "time": "2:22am",
+          "track": "Ulaan heruulch",
+          "artist": "Nisvanis",
+          "album": "Hncaer Tabar",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:25am",
+          "track": "The Wolf Dance",
+          "artist": "Mohanik",
+          "album": "At Amarbayasgalant",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:29am",
+          "track": "Baifang (Back to You)",
+          "artist": "Hanggai",
+          "album": "Baifang",
+          "label": "Hanggai"
+        },
+        {
+          "time": "2:34am",
+          "track": "Wisdom Eyes",
+          "artist": "Nine Treasures",
+          "album": "Wisdom Eyes",
+          "label": "Pilot Music"
+        },
+        {
+          "time": "2:37am",
+          "track": "Berimbau",
+          "artist": "Bodikhuu",
+          "album": "Rio / Bodianova",
+          "label": "Farsi Records"
+        },
+        {
+          "time": "2:39am",
+          "track": "Karangailyg Kara Hovaa (Dyngyldai)",
+          "artist": "Yat-Kha",
+          "album": "Yenisei Punk",
+          "label": "Global Music Centre"
+        },
+        {
+          "time": "2:42am",
+          "track": "Wolf Totem",
+          "artist": "The HU",
+          "album": "The Gereg",
+          "label": "Eleven Seven Music"
+        },
+        {
+          "time": "2:48am",
+          "track": "Indigo",
+          "artist": "Magnolian",
+          "album": "Indigo",
+          "label": "Magnolian"
+        },
+        {
+          "time": "2:53am",
+          "track": "Galloping Steeds",
+          "artist": "Tengger Cavalry",
+          "album": "Sunesu Cavalry",
+          "label": "Tengger Cavalry"
+        },
+        {
+          "time": "2:56am",
+          "track": "Snow",
+          "artist": "Tengger Cavalry",
+          "album": "Die on My Ride",
+          "label": "Tengger Cavalry"
+        }
+      ]
+    },
+    {
+      "id": "51302",
+      "url": "https://xray.fm/broadcasts/51302",
+      "title": "Get Outta Town - Mexico (Rerun)",
+      "air_date": "4-17-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownmexico.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "La Corriente",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:04am",
+          "track": "Ninjas",
+          "artist": "Rey Pila",
+          "album": "Ninjas",
+          "label": "Chill Apocalypse SC"
+        },
+        {
+          "time": "2:07am",
+          "track": "San Lucas",
+          "artist": "Kevin Kaarl",
+          "album": "San Lucas",
+          "label": "Kevin Kaarl"
+        },
+        {
+          "time": "2:12am",
+          "track": "Cuando Lloro",
+          "artist": "Porter",
+          "album": "Las Batallas",
+          "label": "Universal Music"
+        },
+        {
+          "time": "2:16am",
+          "track": "La Noche Total",
+          "artist": "Belafonte Sensacional",
+          "album": "La Noche Total",
+          "label": "Independent"
+        },
+        {
+          "time": "2:19am",
+          "track": "Te Guardo",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:23am",
+          "track": "Punk (feat. Little Jesus)",
+          "artist": "Girl Ultra",
+          "album": "EL SUR",
+          "label": "Finesse Records"
+        },
+        {
+          "time": "2:26am",
+          "track": "Hacernos Ací",
+          "artist": "Luisa Almaguer",
+          "album": "Mataronomatar",
+          "label": "Luisa Almaguer"
+        },
+        {
+          "time": "2:30am",
+          "track": "No Jaló (Feat. Vanessa Zamora)",
+          "artist": "Sabino",
+          "album": "No Jaló",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:34am",
+          "track": "Carta",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:37am",
+          "track": "Nada",
+          "artist": "Juan Son",
+          "album": "Mermaid Sashimi",
+          "label": "Juan Son"
+        },
+        {
+          "time": "2:41am",
+          "track": "Disciples IV",
+          "artist": "Rey Pila",
+          "album": "Disciples IV",
+          "label": "Chill Apocalypse SC"
+        },
+        {
+          "time": "2:45am",
+          "track": "Fuera de Lugar",
+          "artist": "Little Jesus, Girl Ultra",
+          "album": "Disco de Oro",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:49am",
+          "track": "Cuando",
+          "artist": "Ruzzi",
+          "album": "Nave Especial",
+          "label": "ANIMAL MINIMAL"
+        },
+        {
+          "time": "2:53am",
+          "track": "Huitzil",
+          "artist": "Porter",
+          "album": "Moctezuma",
+          "label": "Porter"
+        }
+      ]
+    },
+    {
+      "id": "51055",
+      "url": "https://xray.fm/broadcasts/51055",
+      "title": "Get Outta Town - South Korea (Rerun)",
+      "air_date": "4-3-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownkorea.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01pm",
+          "track": "HIATUS",
+          "artist": "MOONSUN",
+          "album": "TOM:",
+          "label": "Decadence of Seoul"
+        },
+        {
+          "time": "2:05pm",
+          "track": "Old Town",
+          "artist": "Say Sue Me",
+          "album": "Where We Were Together",
+          "label": "Damnably"
+        },
+        {
+          "time": "2:07pm",
+          "track": "We live in the Jurassic Park",
+          "artist": "Bosudongcooler",
+          "album": "We live in the Jurassic Park",
+          "label": "Damnably"
+        },
+        {
+          "time": "2:13pm",
+          "track": "Dirty House",
+          "artist": "South Club",
+          "album": "90",
+          "label": "NHN Bugs Corp"
+        },
+        {
+          "time": "2:16pm",
+          "track": "Buckubucku (feat.EE, Rap Monster Of BTS, Dino-J)",
+          "artist": "MFBTY",
+          "album": "WondaLand",
+          "label": "FeelGhoodMusic"
+        },
+        {
+          "time": "2:20pm",
+          "track": "1:05",
+          "artist": "The Black Skirts",
+          "album": "TEAM BABY",
+          "label": "DOGGYRICH"
+        },
+        {
+          "time": "2:25pm",
+          "track": "for lovers who hesitate",
+          "artist": "JANNABI",
+          "album": "LEGEND",
+          "label": "PEPONI MUSIC"
+        },
+        {
+          "time": "2:29pm",
+          "track": "Lysgænger (Wind)",
+          "artist": "Meejah",
+          "album": "Queen of Spring",
+          "label": "Soon Records"
+        },
+        {
+          "time": "2:34pm",
+          "track": "PIZZA",
+          "artist": "OOHYO",
+          "album": "Far From the Madding City",
+          "label": "MUN HWA IN"
+        },
+        {
+          "time": "2:38pm",
+          "track": "Melt a Bed",
+          "artist": "Asian Glow, Weatherday",
+          "album": "Weatherglow",
+          "label": "Porcelain Music"
+        },
+        {
+          "time": "2:42pm",
+          "track": "A Fish Map",
+          "artist": "LeeNalchi",
+          "album": "Sugungga",
+          "label": "Zanpar"
+        },
+        {
+          "time": "2:45pm",
+          "track": "Time of Extinction",
+          "artist": "Jambinai",
+          "album": "Differance",
+          "label": "Bella Union"
+        },
+        {
+          "time": "2:49pm",
+          "track": "Aqua Man",
+          "artist": "Beenzino",
+          "album": "24:26",
+          "label": "Illionaire Records"
+        },
+        {
+          "time": "2:53pm",
+          "track": "Phonecert",
+          "artist": "10cm",
+          "album": "4.0",
+          "label": "Magic Strawberry Sound"
+        },
+        {
+          "time": "2:57pm",
+          "track": "Am I Alive",
+          "artist": "Mindy",
+          "album": "Am I Alive",
+          "label": "Make More Music Records"
+        }
+      ]
+    },
+    {
+      "id": "50937",
+      "url": "https://xray.fm/broadcasts/50937",
+      "title": "Get Outta Town - Iceland (Rerun)",
+      "air_date": "3-27-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatowniceland.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Varú∂",
+          "artist": "Sigur Rós",
+          "album": "Valtari",
+          "label": "KRUNK"
+        },
+        {
+          "time": "2:07am",
+          "track": "Guru",
+          "artist": "Júníus Meyvant",
+          "album": "Guru",
+          "label": "Record Records"
+        },
+        {
+          "time": "2:14am",
+          "track": "Bernskan",
+          "artist": "Ásgeir",
+          "album": "Sátt",
+          "label": "One Little Independent"
+        },
+        {
+          "time": "2:17am",
+          "track": "New Beginning",
+          "artist": "Pascal Pinon",
+          "album": "Pascal Pinon",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:19am",
+          "track": "Pretty Face",
+          "artist": "Sóley",
+          "album": "We Sink",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:25am",
+          "track": "Higher (feat. Vök)",
+          "artist": "GusGus",
+          "album": "Mobile Home",
+          "label": "Oroom ehf"
+        },
+        {
+          "time": "2:29am",
+          "track": "Glow",
+          "artist": "Retro Stefson",
+          "album": "Retro Stefson",
+          "label": "N/A"
+        },
+        {
+          "time": "2:32am",
+          "track": "Green Grass Of Tunnel",
+          "artist": "múm",
+          "album": "Finally We Are No One",
+          "label": "FatCat"
+        },
+        {
+          "time": "2:38am",
+          "track": "Arms",
+          "artist": "Seabear",
+          "album": "The Ghost That Carried Us Away",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:41am",
+          "track": "Random Haiku Generator",
+          "artist": "Sin Fang, Sóley & Örvar Smárason",
+          "album": "Team Dreams",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:45am",
+          "track": "Brennisteinn",
+          "artist": "Sigur Rós",
+          "album": "Kveikur",
+          "label": "KRUNK"
+        },
+        {
+          "time": "2:54am",
+          "track": "Color Decay",
+          "artist": "Júníus Meyvant",
+          "album": "Floating Harmonies",
+          "label": "Record Records"
+        }
+      ]
+    },
+    {
+      "id": "50659",
+      "url": "https://xray.fm/broadcasts/50659",
+      "title": "Get Outta Town - France (Rerun)",
+      "air_date": "3-13-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownfrance.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Bonne journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:04am",
+          "track": "Long Distance Call",
+          "artist": "Phoenix",
+          "album": "It's Never Been Like That",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:07am",
+          "track": "Canopeé",
+          "artist": "Polo & Pan",
+          "album": "Caravelle",
+          "label": "Hamburger Records"
+        },
+        {
+          "time": "2:12am",
+          "track": "Christine",
+          "artist": "Christine and the Queens",
+          "album": "Chaleur Humaine",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:16am",
+          "track": "Come",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "Spookland"
+        },
+        {
+          "time": "2:20am",
+          "track": "Si tu veux y aller",
+          "artist": "Neniu, Jouvence",
+          "album": "ALLOPOP",
+          "label": "La Souterraine"
+        },
+        {
+          "time": "2:22am",
+          "track": "Jeunesse doreé",
+          "artist": "BARON.E",
+          "album": "Jeunesse Doreé",
+          "label": "PIAS"
+        },
+        {
+          "time": "2:26am",
+          "track": "Gare du Nord",
+          "artist": "Claire Laffut",
+          "album": "Mojo",
+          "label": "Gum"
+        },
+        {
+          "time": "2:31am",
+          "track": "Le temps est bon",
+          "artist": "Bon Entendeur, Isabelle Pierre",
+          "album": "Aller-retour",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:34am",
+          "track": "Mauvaise journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:37am",
+          "track": "Le coeur nous anime",
+          "artist": "Ben Mazué, Poupie",
+          "album": "Paradis",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:41am",
+          "track": "People, I've Been Sad",
+          "artist": "Christine and the Queens",
+          "album": "La vita nuova",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:45am",
+          "track": "Makeba",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "RCA"
+        },
+        {
+          "time": "2:49am",
+          "track": "If I Ever Feel Better",
+          "artist": "Phoenix",
+          "album": "United",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:54am",
+          "track": "C'est que du bonheur",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:56am",
+          "track": "Dis-moi",
+          "artist": "BB Brunes",
+          "album": "Blonde comme moi",
+          "label": "Warner Music"
+        }
+      ]
+    },
+    {
+      "id": "50539",
+      "url": "https://xray.fm/broadcasts/50539",
+      "title": "Get Outta Town - France (Rerun)",
+      "air_date": "3-6-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownfrance.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Bonne journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:04am",
+          "track": "Long Distance Call",
+          "artist": "Phoenix",
+          "album": "It's Never Been Like That",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:07am",
+          "track": "Canopeé",
+          "artist": "Polo & Pan",
+          "album": "Caravelle",
+          "label": "Hamburger Records"
+        },
+        {
+          "time": "2:12am",
+          "track": "Christine",
+          "artist": "Christine and the Queens",
+          "album": "Chaleur Humaine",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:16am",
+          "track": "Come",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "Spookland"
+        },
+        {
+          "time": "2:20am",
+          "track": "Si tu veux y aller",
+          "artist": "Neniu, Jouvence",
+          "album": "ALLOPOP",
+          "label": "La Souterraine"
+        },
+        {
+          "time": "2:22am",
+          "track": "Jeunesse doreé",
+          "artist": "BARON.E",
+          "album": "Jeunesse Doreé",
+          "label": "PIAS"
+        },
+        {
+          "time": "2:26am",
+          "track": "Gare du Nord",
+          "artist": "Claire Laffut",
+          "album": "Mojo",
+          "label": "Gum"
+        },
+        {
+          "time": "2:31am",
+          "track": "Le temps est bon",
+          "artist": "Bon Entendeur, Isabelle Pierre",
+          "album": "Aller-retour",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:34am",
+          "track": "Mauvaise journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:37am",
+          "track": "Le coeur nous anime",
+          "artist": "Ben Mazué, Poupie",
+          "album": "Paradis",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:41am",
+          "track": "People, I've Been Sad",
+          "artist": "Christine and the Queens",
+          "album": "La vita nuova",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:45am",
+          "track": "Makeba",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "RCA"
+        },
+        {
+          "time": "2:49am",
+          "track": "If I Ever Feel Better",
+          "artist": "Phoenix",
+          "album": "United",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:54am",
+          "track": "C'est que du bonheur",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:56am",
+          "track": "Dis-moi",
+          "artist": "BB Brunes",
+          "album": "Blonde comme moi",
+          "label": "Warner Music"
+        }
+      ]
+    },
+    {
+      "id": "50397",
+      "url": "https://xray.fm/broadcasts/50397",
+      "title": "Get Outta Town - Saharan Africa (Rerun)",
+      "air_date": "2-27-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownafrica.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Eghass Malan",
+          "artist": "Les Filles de Illighadad",
+          "album": "Eghass Malan",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:06am",
+          "track": "Chismiten",
+          "artist": "Mdou Moctar",
+          "album": "Afrique Victime",
+          "label": "Matador"
+        },
+        {
+          "time": "2:11am",
+          "track": "Toumast Tincha",
+          "artist": "Tinariwen",
+          "album": "Emmaar",
+          "label": "Anti"
+        },
+        {
+          "time": "2:15am",
+          "track": "Ila Mata",
+          "artist": "Bab L'Bluz",
+          "album": "Nayda!",
+          "label": "Real World Records"
+        },
+        {
+          "time": "2:20am",
+          "track": "Soubour",
+          "artist": "Songhoy Blues",
+          "album": "Music in Exile",
+          "label": "Atlantic Recording"
+        },
+        {
+          "time": "2:24am",
+          "track": "Agrim Agadez",
+          "artist": "Etran de L'Air",
+          "album": "Agrim Agadez",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:30am",
+          "track": "Tarha Tadagh",
+          "artist": "Imarhan",
+          "album": "Imarhan",
+          "label": "City Slang"
+        },
+        {
+          "time": "2:33am",
+          "track": "Tamiditine",
+          "artist": "Bombino",
+          "album": "Nomad",
+          "label": "Nonesuch Records"
+        },
+        {
+          "time": "2:37am",
+          "track": "Imigradan",
+          "artist": "Les Filles de Illighadad",
+          "album": "Eghass Malan",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:43am",
+          "track": "Tala Tannam",
+          "artist": "Mdou Moctar",
+          "album": "Afrique Victime",
+          "label": "Merge"
+        },
+        {
+          "time": "2:48am",
+          "track": "Sastanàqqàm",
+          "artist": "Tinariwen",
+          "album": "Elwan",
+          "label": "Anti-"
+        },
+        {
+          "time": "2:53am",
+          "track": "Sahara (feat. Iggy Pop)",
+          "artist": "Songhoy Blues",
+          "album": "Resistance",
+          "label": "Fat Possum Records"
+        },
+        {
+          "time": "2:57am",
+          "track": "Adinat",
+          "artist": "Bombino",
+          "album": "Nomad",
+          "label": "Nonesuch"
+        }
+      ]
+    },
+    {
+      "id": "50274",
+      "url": "https://xray.fm/broadcasts/50274",
+      "title": "Get Outta Town - Argentina (Rerun)",
+      "air_date": "2-20-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownargentina.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Corashe",
+          "artist": "Nathy Peluso",
+          "album": "Corashe",
+          "label": "Nathy Peluso Music"
+        },
+        {
+          "time": "2:03am",
+          "track": "Buen Viaje",
+          "artist": "Fémina",
+          "album": "Traspasa",
+          "label": "Fémina"
+        },
+        {
+          "time": "2:08am",
+          "track": "Química",
+          "artist": "Banda de Turistas",
+          "album": "Lo Que Más Quéres",
+          "label": "Popartdiscos"
+        },
+        {
+          "time": "2:12am",
+          "track": "Río Paraná",
+          "artist": "Suarez",
+          "album": "Excursiones",
+          "label": "FAN"
+        },
+        {
+          "time": "2:15am",
+          "track": "El Guinness",
+          "artist": "Amor Elefante",
+          "album": "Billetes Falsos",
+          "label": "Amor Elefante"
+        },
+        {
+          "time": "2:19am",
+          "track": "Vos y Yo",
+          "artist": "Las Sombras",
+          "album": "Las Sombras",
+          "label": "Queruza"
+        },
+        {
+          "time": "2:21am",
+          "track": "Vertiginosamente",
+          "artist": "Riel",
+          "album": "Sueño Electrico",
+          "label": "Buen Dia Records"
+        },
+        {
+          "time": "2:23am",
+          "track": "A 1200 Km",
+          "artist": "Las Ligas Menores",
+          "album": "Las Ligas Menores",
+          "label": "Las Ligas Menores"
+        },
+        {
+          "time": "2:29am",
+          "track": "minet",
+          "artist": "archipiélagos",
+          "album": "split",
+          "label": "dislexia free"
+        },
+        {
+          "time": "2:32am",
+          "track": "Caoscalma",
+          "artist": "Pyramides",
+          "album": "Vacíos y Variables",
+          "label": "Fuego Amigo Discos"
+        },
+        {
+          "time": "2:36am",
+          "track": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+          "artist": "Bizarrap, Nathy Peluso",
+          "album": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+          "label": "DALE PLAY Records"
+        },
+        {
+          "time": "2:40am",
+          "track": "Helados Verdes",
+          "artist": "Los Besos",
+          "album": "Helados Verdes",
+          "label": "Paula Marina Trama"
+        },
+        {
+          "time": "2:43am",
+          "track": "Paraguaya",
+          "artist": "Juana Molina",
+          "album": "Halo",
+          "label": "Crammed Discs"
+        },
+        {
+          "time": "2:47am",
+          "track": "Eu Tein",
+          "artist": "Fémina",
+          "album": "Traspasa",
+          "label": "Fémina"
+        },
+        {
+          "time": "2:53am",
+          "track": "Trapeze",
+          "artist": "Damsel Talk",
+          "album": "Fe Fi Fo Fum",
+          "label": "Damsel Talk"
+        },
+        {
+          "time": "2:56am",
+          "track": "Disimulando",
+          "artist": "Amor Elefante",
+          "album": "Oriente",
+          "label": "Amor Elefante"
+        }
+      ]
+    },
+    {
+      "id": "50114",
+      "url": "https://xray.fm/broadcasts/50114",
+      "title": "Get Outta Town - Mongolia (Rerun)",
+      "air_date": "2-13-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/JO_07072022_GetOuttaTown.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Yuve Yuve Yu",
+          "artist": "The HU",
+          "album": "The Gereg",
+          "label": "Eleven Seven Music"
+        },
+        {
+          "time": "2:06am",
+          "track": "The Bride & The Bachelor",
+          "artist": "Magnolian",
+          "album": "Famous Men",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:11am",
+          "track": "Dundgol Sonat",
+          "artist": "Bodikhuu",
+          "album": "Welcome to Ulaanbaatar",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:14am",
+          "track": "Mother Mongolia",
+          "artist": "Altan Urag",
+          "album": "Made in Altan Urag",
+          "label": "Altan Urag Band"
+        },
+        {
+          "time": "2:17am",
+          "track": "Suuliin Uyanga",
+          "artist": "The Lemons",
+          "album": "III",
+          "label": "HI-Fi Media Group"
+        },
+        {
+          "time": "2:22am",
+          "track": "Ulaan heruulch",
+          "artist": "Nisvanis",
+          "album": "Hncaer Tabar",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:25am",
+          "track": "The Wolf Dance",
+          "artist": "Mohanik",
+          "album": "At Amarbayasgalant",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:29am",
+          "track": "Baifang (Back to You)",
+          "artist": "Hanggai",
+          "album": "Baifang",
+          "label": "Hanggai"
+        },
+        {
+          "time": "2:34am",
+          "track": "Wisdom Eyes",
+          "artist": "Nine Treasures",
+          "album": "Wisdom Eyes",
+          "label": "Pilot Music"
+        },
+        {
+          "time": "2:37am",
+          "track": "Berimbau",
+          "artist": "Bodikhuu",
+          "album": "Rio / Bodianova",
+          "label": "Farsi Records"
+        },
+        {
+          "time": "2:39am",
+          "track": "Karangailyg Kara Hovaa (Dyngyldai)",
+          "artist": "Yat-Kha",
+          "album": "Yenisei Punk",
+          "label": "Global Music Centre"
+        },
+        {
+          "time": "2:42am",
+          "track": "Wolf Totem",
+          "artist": "The HU",
+          "album": "The Gereg",
+          "label": "Eleven Seven Music"
+        },
+        {
+          "time": "2:48am",
+          "track": "Indigo",
+          "artist": "Magnolian",
+          "album": "Indigo",
+          "label": "Magnolian"
+        },
+        {
+          "time": "2:53am",
+          "track": "Galloping Steeds",
+          "artist": "Tengger Cavalry",
+          "album": "Sunesu Cavalry",
+          "label": "Tengger Cavalry"
+        },
+        {
+          "time": "2:56am",
+          "track": "Snow",
+          "artist": "Tengger Cavalry",
+          "album": "Die on My Ride",
+          "label": "Tengger Cavalry"
+        }
+      ]
+    },
+    {
+      "id": "50025",
+      "url": "https://xray.fm/broadcasts/50025",
+      "title": "Get Outta Town - Canada (Rerun)",
+      "air_date": "2-6-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/JO_07142022_GetOuttaTown.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "LOST (IN A GOOD WAY)",
+          "artist": "Basement Sweet",
+          "album": "LOST (IN A GOOD WAY)",
+          "label": "Basement Sweet"
+        },
+        {
+          "time": "2:04am",
+          "track": "Prime",
+          "artist": "Allie X",
+          "album": "Collxtion I",
+          "label": "Twin Music Inc"
+        },
+        {
+          "time": "2:09am",
+          "track": "Robots",
+          "artist": "Dan Mangan",
+          "album": "Nice, Nice, Very Nice",
+          "label": "Arts and Crafts"
+        },
+        {
+          "time": "2:14am",
+          "track": "Seeds",
+          "artist": "Hey Rosetta!",
+          "album": "Seeds",
+          "label": "ATO Records"
+        },
+        {
+          "time": "2:18am",
+          "track": "Stamp",
+          "artist": "The Rural Alberta Advantage",
+          "album": "Departing",
+          "label": "Saddle Creek"
+        },
+        {
+          "time": "2:21am",
+          "track": "Archie, Marry Me",
+          "artist": "Alvvays",
+          "album": "Alvvays",
+          "label": "Polyvinyl"
+        },
+        {
+          "time": "2:25am",
+          "track": "My Babe",
+          "artist": "Whitehorse",
+          "album": "My Babe",
+          "label": "Six Shooter Records"
+        },
+        {
+          "time": "2:28am",
+          "track": "Sanctuary",
+          "artist": "Allie X",
+          "album": "Collxtion I",
+          "label": "Twin Music Inc"
+        },
+        {
+          "time": "2:32am",
+          "track": "Camilo - The Magician",
+          "artist": "Said The Whale",
+          "album": "Islands Disappear",
+          "label": "Everything Forever"
+        },
+        {
+          "time": "2:36am",
+          "track": "Stand in the Water",
+          "artist": "Wildlife",
+          "album": "Strike Hard Young Diamond",
+          "label": "Wax Records Inc"
+        },
+        {
+          "time": "2:40am",
+          "track": "Cover Your Tracks",
+          "artist": "Young Galaxy",
+          "album": "Shapeshifting",
+          "label": "Paper Bag Records"
+        },
+        {
+          "time": "2:44am",
+          "track": "Tornado '87",
+          "artist": "The Rural Alberta Advantage",
+          "album": "Departing",
+          "label": "Saddle Creek"
+        },
+        {
+          "time": "2:48am",
+          "track": "Electric Pow Wow Drum",
+          "artist": "The Halluci Nation",
+          "album": "A Tribe Called Red",
+          "label": "Radicalized Records"
+        },
+        {
+          "time": "2:52am",
+          "track": "I Wanna Be Your Man",
+          "artist": "Yukon Blonde",
+          "album": "On Blonde",
+          "label": "Dine Alone Music Inc"
+        },
+        {
+          "time": "2:56am",
+          "track": "Need You (feat. Valley Girl)",
+          "artist": "Allie X",
+          "album": "CollXtion II",
+          "label": "Twin Music Inc"
+        }
+      ]
+    },
+    {
+      "id": "49909",
+      "url": "https://xray.fm/broadcasts/49909",
+      "title": "Get Outta Town - Mexico (Rerun)",
+      "air_date": "1-30-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownmexico.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "La Corriente",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:04am",
+          "track": "Ninjas",
+          "artist": "Rey Pila",
+          "album": "Ninjas",
+          "label": "Chill Apocalypse SC"
+        },
+        {
+          "time": "2:07am",
+          "track": "San Lucas",
+          "artist": "Kevin Kaarl",
+          "album": "San Lucas",
+          "label": "Kevin Kaarl"
+        },
+        {
+          "time": "2:12am",
+          "track": "Cuando Lloro",
+          "artist": "Porter",
+          "album": "Las Batallas",
+          "label": "Universal Music"
+        },
+        {
+          "time": "2:16am",
+          "track": "La Noche Total",
+          "artist": "Belafonte Sensacional",
+          "album": "La Noche Total",
+          "label": "Independent"
+        },
+        {
+          "time": "2:19am",
+          "track": "Te Guardo",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:23am",
+          "track": "Punk (feat. Little Jesus)",
+          "artist": "Girl Ultra",
+          "album": "EL SUR",
+          "label": "Finesse Records"
+        },
+        {
+          "time": "2:26am",
+          "track": "Hacernos Ací",
+          "artist": "Luisa Almaguer",
+          "album": "Mataronomatar",
+          "label": "Luisa Almaguer"
+        },
+        {
+          "time": "2:30am",
+          "track": "No Jaló (Feat. Vanessa Zamora)",
+          "artist": "Sabino",
+          "album": "No Jaló",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:34am",
+          "track": "Carta",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:37am",
+          "track": "Nada",
+          "artist": "Juan Son",
+          "album": "Mermaid Sashimi",
+          "label": "Juan Son"
+        },
+        {
+          "time": "2:41am",
+          "track": "Disciples IV",
+          "artist": "Rey Pila",
+          "album": "Disciples IV",
+          "label": "Chill Apocalypse SC"
+        },
+        {
+          "time": "2:45am",
+          "track": "Fuera de Lugar",
+          "artist": "Little Jesus, Girl Ultra",
+          "album": "Disco de Oro",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:49am",
+          "track": "Cuando",
+          "artist": "Ruzzi",
+          "album": "Nave Especial",
+          "label": "ANIMAL MINIMAL"
+        },
+        {
+          "time": "2:53am",
+          "track": "Huitzil",
+          "artist": "Porter",
+          "album": "Moctezuma",
+          "label": "Porter"
+        }
+      ]
+    },
+    {
+      "id": "49801",
+      "url": "https://xray.fm/broadcasts/49801",
+      "title": "Get Outta Town - Spain (Rerun)",
+      "air_date": "1-23-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownspain.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Canción de Pop De Amor",
+          "artist": "Cariño",
+          "album": "Movidas",
+          "label": "Elefant"
+        },
+        {
+          "time": "2:03am",
+          "track": "Good Bad Times",
+          "artist": "Hinds",
+          "album": "The Prettiest Curse",
+          "label": "Mom+Pop"
+        },
+        {
+          "time": "2:07am",
+          "track": "LA FAMA (with The Weeknd)",
+          "artist": "Rosalía",
+          "album": "Motomami",
+          "label": "Columbia Records"
+        },
+        {
+          "time": "2:10am",
+          "track": "Vigilantes del Espejo",
+          "artist": "Triangulo de Amor Bizarro",
+          "album": "Triangulo de Amor Bizarro",
+          "label": "Mushroom Pillow"
+        },
+        {
+          "time": "2:14am",
+          "track": "Que Puedo Hacer",
+          "artist": "Los Planetas",
+          "album": "Super 8",
+          "label": "BMG Ariola"
+        },
+        {
+          "time": "2:17am",
+          "track": "Ni Un Beso",
+          "artist": "Delaporte",
+          "album": "Como Anoche",
+          "label": "Mad Moon Music"
+        },
+        {
+          "time": "2:20am",
+          "track": "Solar Gap",
+          "artist": "Hinds",
+          "album": "Leave Me Alone",
+          "label": "Mom + Pop"
+        },
+        {
+          "time": "2:23am",
+          "track": "Dinamita",
+          "artist": "La Bien Querida",
+          "album": "Fuego",
+          "label": "Elefant Records"
+        },
+        {
+          "time": "2:28am",
+          "track": "Besos",
+          "artist": "Chill Chicos & shego",
+          "album": "LE CHILL",
+          "label": "Chill Chicos"
+        },
+        {
+          "time": "2:31am",
+          "track": "Emborracharme",
+          "artist": "Lori Meyers",
+          "album": "Impronta",
+          "label": "Universal"
+        },
+        {
+          "time": "2:35am",
+          "track": "LA COMBI VERSACE (feat. Tokischa)",
+          "artist": "Rosalía",
+          "album": "Motomami",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:38am",
+          "track": "Yo Invito",
+          "artist": "Amaia",
+          "album": "Yo Invito",
+          "label": "Universal"
+        },
+        {
+          "time": "2:41am",
+          "track": "Metres per segon",
+          "artist": "Da Souza",
+          "album": "Salsa agredolça",
+          "label": "Bubota Discos"
+        },
+        {
+          "time": "2:44am",
+          "track": "Si Quieres",
+          "artist": "Cariño",
+          "album": "Si Quieres",
+          "label": "Sonido Muchacho"
+        },
+        {
+          "time": "2:48am",
+          "track": "Clap Clap",
+          "artist": "Delaporte",
+          "album": "Las Montañas",
+          "label": "Mad Moon Music"
+        },
+        {
+          "time": "2:51am",
+          "track": "Fumar, beber y romper",
+          "artist": "Los Nastys",
+          "album": "Fumar, beber y romper",
+          "label": "Warner Music Spain S.L."
+        },
+        {
+          "time": "2:54am",
+          "track": "Soy Peor",
+          "artist": "The Parrots",
+          "album": "Soy Peor",
+          "label": "Heavenly Recordings"
+        }
+      ]
+    },
+    {
+      "id": "49692",
+      "url": "https://xray.fm/broadcasts/49692",
+      "title": "Get Outta Town - France (Rerun)",
+      "air_date": "1-16-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownfrance.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Bonne journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:04am",
+          "track": "Long Distance Call",
+          "artist": "Phoenix",
+          "album": "It's Never Been Like That",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:07am",
+          "track": "Canopeé",
+          "artist": "Polo & Pan",
+          "album": "Caravelle",
+          "label": "Hamburger Records"
+        },
+        {
+          "time": "2:12am",
+          "track": "Christine",
+          "artist": "Christine and the Queens",
+          "album": "Chaleur Humaine",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:16am",
+          "track": "Come",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "Spookland"
+        },
+        {
+          "time": "2:20am",
+          "track": "Si tu veux y aller",
+          "artist": "Neniu, Jouvence",
+          "album": "ALLOPOP",
+          "label": "La Souterraine"
+        },
+        {
+          "time": "2:22am",
+          "track": "Jeunesse doreé",
+          "artist": "BARON.E",
+          "album": "Jeunesse Doreé",
+          "label": "PIAS"
+        },
+        {
+          "time": "2:26am",
+          "track": "Gare du Nord",
+          "artist": "Claire Laffut",
+          "album": "Mojo",
+          "label": "Gum"
+        },
+        {
+          "time": "2:31am",
+          "track": "Le temps est bon",
+          "artist": "Bon Entendeur, Isabelle Pierre",
+          "album": "Aller-retour",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:34am",
+          "track": "Mauvaise journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:37am",
+          "track": "Le coeur nous anime",
+          "artist": "Ben Mazué, Poupie",
+          "album": "Paradis",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:41am",
+          "track": "People, I've Been Sad",
+          "artist": "Christine and the Queens",
+          "album": "La vita nuova",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:45am",
+          "track": "Makeba",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "RCA"
+        },
+        {
+          "time": "2:49am",
+          "track": "If I Ever Feel Better",
+          "artist": "Phoenix",
+          "album": "United",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:54am",
+          "track": "C'est que du bonheur",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:56am",
+          "track": "Dis-moi",
+          "artist": "BB Brunes",
+          "album": "Blonde comme moi",
+          "label": "Warner Music"
+        }
+      ]
+    },
+    {
+      "id": "49558",
+      "url": "https://xray.fm/broadcasts/49558",
+      "title": "Get Outta Town - Ireland (Rerun)",
+      "air_date": "1-9-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/081822_GetOuttaTown.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Revelate",
+          "artist": "The Frames",
+          "album": "Fitzcarraldo",
+          "label": "ZTT Records Limited"
+        },
+        {
+          "time": "2:04am",
+          "track": "Nothing Arrived",
+          "artist": "Villagers",
+          "album": "Spotify Sessions",
+          "label": "Domino Recording Co Ltd"
+        },
+        {
+          "time": "2:08am",
+          "track": "Dogwood Blossom",
+          "artist": "Fionn Regan",
+          "album": "100 Acres of Sycamore",
+          "label": "Cooperative Music"
+        },
+        {
+          "time": "2:11am",
+          "track": "Where u at",
+          "artist": "Monjola, Aby Coulibaby",
+          "album": "Where u at",
+          "label": "Chamomile Records"
+        },
+        {
+          "time": "2:14am",
+          "track": "Thinking of You",
+          "artist": "Ezra Williams",
+          "album": "Thinking of You",
+          "label": "Smoothboi"
+        },
+        {
+          "time": "2:18am",
+          "track": "Up De Flats",
+          "artist": "Gemma Dunleavy",
+          "album": "Up De Flats",
+          "label": "UP DE FLATS"
+        },
+        {
+          "time": "2:23am",
+          "track": "tonnta",
+          "artist": "Fears",
+          "album": "Oíche",
+          "label": "TULLE"
+        },
+        {
+          "time": "2:25am",
+          "track": "I Didn't Love You When I Said I Did and I Don't Now",
+          "artist": "Pixie Cut Rhythm Orchestra",
+          "album": "I Didn't Love You When I Said I Did and I Don't Now",
+          "label": "Anon Records"
+        },
+        {
+          "time": "2:29am",
+          "track": "Little Fix",
+          "artist": "Sprints",
+          "album": "Little Fix",
+          "label": "Nice Swan Recordings"
+        },
+        {
+          "time": "2:32am",
+          "track": "i leave early",
+          "artist": "Maria Kelly",
+          "album": "i leave early",
+          "label": "Veta Records"
+        },
+        {
+          "time": "2:36am",
+          "track": "Happiness Isn't a Fixed State",
+          "artist": "Kynsy",
+          "album": "Happiness Isn't a Fixed State",
+          "label": "Kynsy"
+        },
+        {
+          "time": "2:39am",
+          "track": "N17",
+          "artist": "Tolü Makay, RTE Concert Orchestra",
+          "album": "N17",
+          "label": "Rubyworks Ltd"
+        },
+        {
+          "time": "2:43am",
+          "track": "Blue",
+          "artist": "NewDad",
+          "album": "Blue",
+          "label": "Fair Youth"
+        },
+        {
+          "time": "2:46am",
+          "track": "Salami",
+          "artist": "Pretty Happy",
+          "album": "Salami",
+          "label": "Foggy Notions"
+        },
+        {
+          "time": "2:50am",
+          "track": "We Don't Eat",
+          "artist": "James Vincent McMorrow",
+          "album": "Early in the Morning",
+          "label": "BMG Rights Management"
+        },
+        {
+          "time": "2:54am",
+          "track": "Elephant in the Room",
+          "artist": "Kynsy",
+          "album": "Things That Don't Exist EP",
+          "label": "Kynsy"
+        }
+      ]
+    },
+    {
+      "id": "49449",
+      "url": "https://xray.fm/broadcasts/49449",
+      "title": "Get Outta Town - Saharan Africa (Rerun)",
+      "air_date": "1-2-2023",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownafrica.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Eghass Malan",
+          "artist": "Les Filles de Illighadad",
+          "album": "Eghass Malan",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:06am",
+          "track": "Chismiten",
+          "artist": "Mdou Moctar",
+          "album": "Afrique Victime",
+          "label": "Matador"
+        },
+        {
+          "time": "2:11am",
+          "track": "Toumast Tincha",
+          "artist": "Tinariwen",
+          "album": "Emmaar",
+          "label": "Anti"
+        },
+        {
+          "time": "2:15am",
+          "track": "Ila Mata",
+          "artist": "Bab L'Bluz",
+          "album": "Nayda!",
+          "label": "Real World Records"
+        },
+        {
+          "time": "2:20am",
+          "track": "Soubour",
+          "artist": "Songhoy Blues",
+          "album": "Music in Exile",
+          "label": "Atlantic Recording"
+        },
+        {
+          "time": "2:24am",
+          "track": "Agrim Agadez",
+          "artist": "Etran de L'Air",
+          "album": "Agrim Agadez",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:30am",
+          "track": "Tarha Tadagh",
+          "artist": "Imarhan",
+          "album": "Imarhan",
+          "label": "City Slang"
+        },
+        {
+          "time": "2:33am",
+          "track": "Tamiditine",
+          "artist": "Bombino",
+          "album": "Nomad",
+          "label": "Nonesuch Records"
+        },
+        {
+          "time": "2:37am",
+          "track": "Imigradan",
+          "artist": "Les Filles de Illighadad",
+          "album": "Eghass Malan",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:43am",
+          "track": "Tala Tannam",
+          "artist": "Mdou Moctar",
+          "album": "Afrique Victime",
+          "label": "Merge"
+        },
+        {
+          "time": "2:48am",
+          "track": "Sastanàqqàm",
+          "artist": "Tinariwen",
+          "album": "Elwan",
+          "label": "Anti-"
+        },
+        {
+          "time": "2:53am",
+          "track": "Sahara (feat. Iggy Pop)",
+          "artist": "Songhoy Blues",
+          "album": "Resistance",
+          "label": "Fat Possum Records"
+        },
+        {
+          "time": "2:57am",
+          "track": "Adinat",
+          "artist": "Bombino",
+          "album": "Nomad",
+          "label": "Nonesuch"
+        }
+      ]
+    },
+    {
+      "id": "49344",
+      "url": "https://xray.fm/broadcasts/49344",
+      "title": "Get Outta Town - Iceland (Rerun)",
+      "air_date": "12-26-2022",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatowniceland.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Varú∂",
+          "artist": "Sigur Rós",
+          "album": "Valtari",
+          "label": "KRUNK"
+        },
+        {
+          "time": "2:07am",
+          "track": "Guru",
+          "artist": "Júníus Meyvant",
+          "album": "Guru",
+          "label": "Record Records"
+        },
+        {
+          "time": "2:14am",
+          "track": "Bernskan",
+          "artist": "Ásgeir",
+          "album": "Sátt",
+          "label": "One Little Independent"
+        },
+        {
+          "time": "2:17am",
+          "track": "New Beginning",
+          "artist": "Pascal Pinon",
+          "album": "Pascal Pinon",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:19am",
+          "track": "Pretty Face",
+          "artist": "Sóley",
+          "album": "We Sink",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:25am",
+          "track": "Higher (feat. Vök)",
+          "artist": "GusGus",
+          "album": "Mobile Home",
+          "label": "Oroom ehf"
+        },
+        {
+          "time": "2:29am",
+          "track": "Glow",
+          "artist": "Retro Stefson",
+          "album": "Retro Stefson",
+          "label": "N/A"
+        },
+        {
+          "time": "2:32am",
+          "track": "Green Grass Of Tunnel",
+          "artist": "múm",
+          "album": "Finally We Are No One",
+          "label": "FatCat"
+        },
+        {
+          "time": "2:38am",
+          "track": "Arms",
+          "artist": "Seabear",
+          "album": "The Ghost That Carried Us Away",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:41am",
+          "track": "Random Haiku Generator",
+          "artist": "Sin Fang, Sóley & Örvar Smárason",
+          "album": "Team Dreams",
+          "label": "Morr Music"
+        },
+        {
+          "time": "2:45am",
+          "track": "Brennisteinn",
+          "artist": "Sigur Rós",
+          "album": "Kveikur",
+          "label": "KRUNK"
+        },
+        {
+          "time": "2:54am",
+          "track": "Color Decay",
+          "artist": "Júníus Meyvant",
+          "album": "Floating Harmonies",
+          "label": "Record Records"
+        }
+      ]
+    },
+    {
+      "id": "49233",
+      "url": "https://xray.fm/broadcasts/49233",
+      "title": "Get Outta Town - Argentina (Rerun)",
+      "air_date": "12-19-2022",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownargentina.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Corashe",
+          "artist": "Nathy Peluso",
+          "album": "Corashe",
+          "label": "Nathy Peluso Music"
+        },
+        {
+          "time": "2:03am",
+          "track": "Buen Viaje",
+          "artist": "Fémina",
+          "album": "Traspasa",
+          "label": "Fémina"
+        },
+        {
+          "time": "2:08am",
+          "track": "Química",
+          "artist": "Banda de Turistas",
+          "album": "Lo Que Más Quéres",
+          "label": "Popartdiscos"
+        },
+        {
+          "time": "2:12am",
+          "track": "Río Paraná",
+          "artist": "Suarez",
+          "album": "Excursiones",
+          "label": "FAN"
+        },
+        {
+          "time": "2:15am",
+          "track": "El Guinness",
+          "artist": "Amor Elefante",
+          "album": "Billetes Falsos",
+          "label": "Amor Elefante"
+        },
+        {
+          "time": "2:19am",
+          "track": "Vos y Yo",
+          "artist": "Las Sombras",
+          "album": "Las Sombras",
+          "label": "Queruza"
+        },
+        {
+          "time": "2:21am",
+          "track": "Vertiginosamente",
+          "artist": "Riel",
+          "album": "Sueño Electrico",
+          "label": "Buen Dia Records"
+        },
+        {
+          "time": "2:23am",
+          "track": "A 1200 Km",
+          "artist": "Las Ligas Menores",
+          "album": "Las Ligas Menores",
+          "label": "Las Ligas Menores"
+        },
+        {
+          "time": "2:29am",
+          "track": "minet",
+          "artist": "archipiélagos",
+          "album": "split",
+          "label": "dislexia free"
+        },
+        {
+          "time": "2:32am",
+          "track": "Caoscalma",
+          "artist": "Pyramides",
+          "album": "Vacíos y Variables",
+          "label": "Fuego Amigo Discos"
+        },
+        {
+          "time": "2:36am",
+          "track": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+          "artist": "Bizarrap, Nathy Peluso",
+          "album": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+          "label": "DALE PLAY Records"
+        },
+        {
+          "time": "2:40am",
+          "track": "Helados Verdes",
+          "artist": "Los Besos",
+          "album": "Helados Verdes",
+          "label": "Paula Marina Trama"
+        },
+        {
+          "time": "2:43am",
+          "track": "Paraguaya",
+          "artist": "Juana Molina",
+          "album": "Halo",
+          "label": "Crammed Discs"
+        },
+        {
+          "time": "2:47am",
+          "track": "Eu Tein",
+          "artist": "Fémina",
+          "album": "Traspasa",
+          "label": "Fémina"
+        },
+        {
+          "time": "2:53am",
+          "track": "Trapeze",
+          "artist": "Damsel Talk",
+          "album": "Fe Fi Fo Fum",
+          "label": "Damsel Talk"
+        },
+        {
+          "time": "2:56am",
+          "track": "Disimulando",
+          "artist": "Amor Elefante",
+          "album": "Oriente",
+          "label": "Amor Elefante"
+        }
+      ]
+    },
+    {
+      "id": "49113",
+      "url": "https://xray.fm/broadcasts/49113",
+      "title": "Get Outta Town - France (Rerun)",
+      "air_date": "12-12-2022",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownfrance.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "48987",
+      "url": "https://xray.fm/broadcasts/48987",
+      "title": "Get Outta Town - Argentina (Rerun)",
+      "air_date": "12-5-2022",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownargentina.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Corashe",
+          "artist": "Nathy Peluso",
+          "album": "Corashe",
+          "label": "Nathy Peluso Music"
+        },
+        {
+          "time": "2:03am",
+          "track": "Buen Viaje",
+          "artist": "Fémina",
+          "album": "Traspasa",
+          "label": "Fémina"
+        },
+        {
+          "time": "2:08am",
+          "track": "Química",
+          "artist": "Banda de Turistas",
+          "album": "Lo Que Más Quéres",
+          "label": "Popartdiscos"
+        },
+        {
+          "time": "2:12am",
+          "track": "Río Paraná",
+          "artist": "Suarez",
+          "album": "Excursiones",
+          "label": "FAN"
+        },
+        {
+          "time": "2:15am",
+          "track": "El Guinness",
+          "artist": "Amor Elefante",
+          "album": "Billetes Falsos",
+          "label": "Amor Elefante"
+        },
+        {
+          "time": "2:19am",
+          "track": "Vos y Yo",
+          "artist": "Las Sombras",
+          "album": "Las Sombras",
+          "label": "Queruza"
+        },
+        {
+          "time": "2:21am",
+          "track": "Vertiginosamente",
+          "artist": "Riel",
+          "album": "Sueño Electrico",
+          "label": "Buen Dia Records"
+        },
+        {
+          "time": "2:23am",
+          "track": "A 1200 Km",
+          "artist": "Las Ligas Menores",
+          "album": "Las Ligas Menores",
+          "label": "Las Ligas Menores"
+        },
+        {
+          "time": "2:29am",
+          "track": "minet",
+          "artist": "archipiélagos",
+          "album": "split",
+          "label": "dislexia free"
+        },
+        {
+          "time": "2:32am",
+          "track": "Caoscalma",
+          "artist": "Pyramides",
+          "album": "Vacíos y Variables",
+          "label": "Fuego Amigo Discos"
+        },
+        {
+          "time": "2:36am",
+          "track": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+          "artist": "Bizarrap, Nathy Peluso",
+          "album": "Nathy Peluso: Bzrp Music Sessions, Vol. 36",
+          "label": "DALE PLAY Records"
+        },
+        {
+          "time": "2:40am",
+          "track": "Helados Verdes",
+          "artist": "Los Besos",
+          "album": "Helados Verdes",
+          "label": "Paula Marina Trama"
+        },
+        {
+          "time": "2:43am",
+          "track": "Paraguaya",
+          "artist": "Juana Molina",
+          "album": "Halo",
+          "label": "Crammed Discs"
+        },
+        {
+          "time": "2:47am",
+          "track": "Eu Tein",
+          "artist": "Fémina",
+          "album": "Traspasa",
+          "label": "Fémina"
+        },
+        {
+          "time": "2:53am",
+          "track": "Trapeze",
+          "artist": "Damsel Talk",
+          "album": "Fe Fi Fo Fum",
+          "label": "Damsel Talk"
+        },
+        {
+          "time": "2:56am",
+          "track": "Disimulando",
+          "artist": "Amor Elefante",
+          "album": "Oriente",
+          "label": "Amor Elefante"
+        }
+      ]
+    },
+    {
+      "id": "48855",
+      "url": "https://xray.fm/broadcasts/48855",
+      "title": "Get Outta Town - Mongolia (Rerun)",
+      "air_date": "11-28-2022",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/JO_07072022_GetOuttaTown.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Yuve Yuve Yu",
+          "artist": "The HU",
+          "album": "The Gereg",
+          "label": "Eleven Seven Music"
+        },
+        {
+          "time": "2:06am",
+          "track": "The Bride & The Bachelor",
+          "artist": "Magnolian",
+          "album": "Famous Men",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:11am",
+          "track": "Dundgol Sonat",
+          "artist": "Bodikhuu",
+          "album": "Welcome to Ulaanbaatar",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:14am",
+          "track": "Mother Mongolia",
+          "artist": "Altan Urag",
+          "album": "Made in Altan Urag",
+          "label": "Altan Urag Band"
+        },
+        {
+          "time": "2:17am",
+          "track": "Suuliin Uyanga",
+          "artist": "The Lemons",
+          "album": "III",
+          "label": "HI-Fi Media Group"
+        },
+        {
+          "time": "2:22am",
+          "track": "Ulaan heruulch",
+          "artist": "Nisvanis",
+          "album": "Hncaer Tabar",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:25am",
+          "track": "The Wolf Dance",
+          "artist": "Mohanik",
+          "album": "At Amarbayasgalant",
+          "label": "Hi-Fi Media Group"
+        },
+        {
+          "time": "2:29am",
+          "track": "Baifang (Back to You)",
+          "artist": "Hanggai",
+          "album": "Baifang",
+          "label": "Hanggai"
+        },
+        {
+          "time": "2:34am",
+          "track": "Wisdom Eyes",
+          "artist": "Nine Treasures",
+          "album": "Wisdom Eyes",
+          "label": "Pilot Music"
+        },
+        {
+          "time": "2:37am",
+          "track": "Berimbau",
+          "artist": "Bodikhuu",
+          "album": "Rio / Bodianova",
+          "label": "Farsi Records"
+        },
+        {
+          "time": "2:39am",
+          "track": "Karangailyg Kara Hovaa (Dyngyldai)",
+          "artist": "Yat-Kha",
+          "album": "Yenisei Punk",
+          "label": "Global Music Centre"
+        },
+        {
+          "time": "2:42am",
+          "track": "Wolf Totem",
+          "artist": "The HU",
+          "album": "The Gereg",
+          "label": "Eleven Seven Music"
+        },
+        {
+          "time": "2:48am",
+          "track": "Indigo",
+          "artist": "Magnolian",
+          "album": "Indigo",
+          "label": "Magnolian"
+        },
+        {
+          "time": "2:53am",
+          "track": "Galloping Steeds",
+          "artist": "Tengger Cavalry",
+          "album": "Sunesu Cavalry",
+          "label": "Tengger Cavalry"
+        },
+        {
+          "time": "2:56am",
+          "track": "Snow",
+          "artist": "Tengger Cavalry",
+          "album": "Die on My Ride",
+          "label": "Tengger Cavalry"
+        }
+      ]
+    },
+    {
+      "id": "48743",
+      "url": "https://xray.fm/broadcasts/48743",
+      "title": "Get Outta Town - Canada (Rerun)",
+      "air_date": "11-21-2022",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/JO_07142022_GetOuttaTown.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "LOST (IN A GOOD WAY)",
+          "artist": "Basement Sweet",
+          "album": "LOST (IN A GOOD WAY)",
+          "label": "Basement Sweet"
+        },
+        {
+          "time": "2:04am",
+          "track": "Prime",
+          "artist": "Allie X",
+          "album": "Collxtion I",
+          "label": "Twin Music Inc"
+        },
+        {
+          "time": "2:09am",
+          "track": "Robots",
+          "artist": "Dan Mangan",
+          "album": "Nice, Nice, Very Nice",
+          "label": "Arts and Crafts"
+        },
+        {
+          "time": "2:14am",
+          "track": "Seeds",
+          "artist": "Hey Rosetta!",
+          "album": "Seeds",
+          "label": "ATO Records"
+        },
+        {
+          "time": "2:18am",
+          "track": "Stamp",
+          "artist": "The Rural Alberta Advantage",
+          "album": "Departing",
+          "label": "Saddle Creek"
+        },
+        {
+          "time": "2:21am",
+          "track": "Archie, Marry Me",
+          "artist": "Alvvays",
+          "album": "Alvvays",
+          "label": "Polyvinyl"
+        },
+        {
+          "time": "2:25am",
+          "track": "My Babe",
+          "artist": "Whitehorse",
+          "album": "My Babe",
+          "label": "Six Shooter Records"
+        },
+        {
+          "time": "2:28am",
+          "track": "Sanctuary",
+          "artist": "Allie X",
+          "album": "Collxtion I",
+          "label": "Twin Music Inc"
+        },
+        {
+          "time": "2:32am",
+          "track": "Camilo - The Magician",
+          "artist": "Said The Whale",
+          "album": "Islands Disappear",
+          "label": "Everything Forever"
+        },
+        {
+          "time": "2:36am",
+          "track": "Stand in the Water",
+          "artist": "Wildlife",
+          "album": "Strike Hard Young Diamond",
+          "label": "Wax Records Inc"
+        },
+        {
+          "time": "2:40am",
+          "track": "Cover Your Tracks",
+          "artist": "Young Galaxy",
+          "album": "Shapeshifting",
+          "label": "Paper Bag Records"
+        },
+        {
+          "time": "2:44am",
+          "track": "Tornado '87",
+          "artist": "The Rural Alberta Advantage",
+          "album": "Departing",
+          "label": "Saddle Creek"
+        },
+        {
+          "time": "2:48am",
+          "track": "Electric Pow Wow Drum",
+          "artist": "The Halluci Nation",
+          "album": "A Tribe Called Red",
+          "label": "Radicalized Records"
+        },
+        {
+          "time": "2:52am",
+          "track": "I Wanna Be Your Man",
+          "artist": "Yukon Blonde",
+          "album": "On Blonde",
+          "label": "Dine Alone Music Inc"
+        },
+        {
+          "time": "2:56am",
+          "track": "Need You (feat. Valley Girl)",
+          "artist": "Allie X",
+          "album": "CollXtion II",
+          "label": "Twin Music Inc"
+        }
+      ]
+    },
+    {
+      "id": "48624",
+      "url": "https://xray.fm/broadcasts/48624",
+      "title": "Get Outta Town - South Korea (Rerun)",
+      "air_date": "11-14-2022",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownkorea.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01pm",
+          "track": "HIATUS",
+          "artist": "MOONSUN",
+          "album": "TOM:",
+          "label": "Decadence of Seoul"
+        },
+        {
+          "time": "2:05pm",
+          "track": "Old Town",
+          "artist": "Say Sue Me",
+          "album": "Where We Were Together",
+          "label": "Damnably"
+        },
+        {
+          "time": "2:07pm",
+          "track": "We live in the Jurassic Park",
+          "artist": "Bosudongcooler",
+          "album": "We live in the Jurassic Park",
+          "label": "Damnably"
+        },
+        {
+          "time": "2:13pm",
+          "track": "Dirty House",
+          "artist": "South Club",
+          "album": "90",
+          "label": "NHN Bugs Corp"
+        },
+        {
+          "time": "2:16pm",
+          "track": "Buckubucku (feat.EE, Rap Monster Of BTS, Dino-J)",
+          "artist": "MFBTY",
+          "album": "WondaLand",
+          "label": "FeelGhoodMusic"
+        },
+        {
+          "time": "2:20pm",
+          "track": "1:05",
+          "artist": "The Black Skirts",
+          "album": "TEAM BABY",
+          "label": "DOGGYRICH"
+        },
+        {
+          "time": "2:25pm",
+          "track": "for lovers who hesitate",
+          "artist": "JANNABI",
+          "album": "LEGEND",
+          "label": "PEPONI MUSIC"
+        },
+        {
+          "time": "2:29pm",
+          "track": "Lysgænger (Wind)",
+          "artist": "Meejah",
+          "album": "Queen of Spring",
+          "label": "Soon Records"
+        },
+        {
+          "time": "2:34pm",
+          "track": "PIZZA",
+          "artist": "OOHYO",
+          "album": "Far From the Madding City",
+          "label": "MUN HWA IN"
+        },
+        {
+          "time": "2:38pm",
+          "track": "Melt a Bed",
+          "artist": "Asian Glow, Weatherday",
+          "album": "Weatherglow",
+          "label": "Porcelain Music"
+        },
+        {
+          "time": "2:42pm",
+          "track": "A Fish Map",
+          "artist": "LeeNalchi",
+          "album": "Sugungga",
+          "label": "Zanpar"
+        },
+        {
+          "time": "2:45pm",
+          "track": "Time of Extinction",
+          "artist": "Jambinai",
+          "album": "Differance",
+          "label": "Bella Union"
+        },
+        {
+          "time": "2:49pm",
+          "track": "Aqua Man",
+          "artist": "Beenzino",
+          "album": "24:26",
+          "label": "Illionaire Records"
+        },
+        {
+          "time": "2:53pm",
+          "track": "Phonecert",
+          "artist": "10cm",
+          "album": "4.0",
+          "label": "Magic Strawberry Sound"
+        },
+        {
+          "time": "2:57pm",
+          "track": "Am I Alive",
+          "artist": "Mindy",
+          "album": "Am I Alive",
+          "label": "Make More Music Records"
+        }
+      ]
+    },
+    {
+      "id": "48520",
+      "url": "https://xray.fm/broadcasts/48520",
+      "title": "Get Outta Town - Mexico (Rerun)",
+      "air_date": "11-7-2022",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownmexico.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "La Corriente",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:04am",
+          "track": "Ninjas",
+          "artist": "Rey Pila",
+          "album": "Ninjas",
+          "label": "Chill Apocalypse SC"
+        },
+        {
+          "time": "2:07am",
+          "track": "San Lucas",
+          "artist": "Kevin Kaarl",
+          "album": "San Lucas",
+          "label": "Kevin Kaarl"
+        },
+        {
+          "time": "2:12am",
+          "track": "Cuando Lloro",
+          "artist": "Porter",
+          "album": "Las Batallas",
+          "label": "Universal Music"
+        },
+        {
+          "time": "2:16am",
+          "track": "La Noche Total",
+          "artist": "Belafonte Sensacional",
+          "album": "La Noche Total",
+          "label": "Independent"
+        },
+        {
+          "time": "2:19am",
+          "track": "Te Guardo",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:23am",
+          "track": "Punk (feat. Little Jesus)",
+          "artist": "Girl Ultra",
+          "album": "EL SUR",
+          "label": "Finesse Records"
+        },
+        {
+          "time": "2:26am",
+          "track": "Hacernos Ací",
+          "artist": "Luisa Almaguer",
+          "album": "Mataronomatar",
+          "label": "Luisa Almaguer"
+        },
+        {
+          "time": "2:30am",
+          "track": "No Jaló (Feat. Vanessa Zamora)",
+          "artist": "Sabino",
+          "album": "No Jaló",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:34am",
+          "track": "Carta",
+          "artist": "Silvana Estrada",
+          "album": "Marchita",
+          "label": "Glassnote Records"
+        },
+        {
+          "time": "2:37am",
+          "track": "Nada",
+          "artist": "Juan Son",
+          "album": "Mermaid Sashimi",
+          "label": "Juan Son"
+        },
+        {
+          "time": "2:41am",
+          "track": "Disciples IV",
+          "artist": "Rey Pila",
+          "album": "Disciples IV",
+          "label": "Chill Apocalypse SC"
+        },
+        {
+          "time": "2:45am",
+          "track": "Fuera de Lugar",
+          "artist": "Little Jesus, Girl Ultra",
+          "album": "Disco de Oro",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:49am",
+          "track": "Cuando",
+          "artist": "Ruzzi",
+          "album": "Nave Especial",
+          "label": "ANIMAL MINIMAL"
+        },
+        {
+          "time": "2:53am",
+          "track": "Huitzil",
+          "artist": "Porter",
+          "album": "Moctezuma",
+          "label": "Porter"
+        }
+      ]
+    },
+    {
+      "id": "48406",
+      "url": "https://xray.fm/broadcasts/48406",
+      "title": "Get Outta Town - Saharan Africa (Rerun)",
+      "air_date": "10-31-2022",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownafrica.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Eghass Malan",
+          "artist": "Les Filles de Illighadad",
+          "album": "Eghass Malan",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:06am",
+          "track": "Chismiten",
+          "artist": "Mdou Moctar",
+          "album": "Afrique Victime",
+          "label": "Matador"
+        },
+        {
+          "time": "2:11am",
+          "track": "Toumast Tincha",
+          "artist": "Tinariwen",
+          "album": "Emmaar",
+          "label": "Anti"
+        },
+        {
+          "time": "2:15am",
+          "track": "Ila Mata",
+          "artist": "Bab L'Bluz",
+          "album": "Nayda!",
+          "label": "Real World Records"
+        },
+        {
+          "time": "2:20am",
+          "track": "Soubour",
+          "artist": "Songhoy Blues",
+          "album": "Music in Exile",
+          "label": "Atlantic Recording"
+        },
+        {
+          "time": "2:24am",
+          "track": "Agrim Agadez",
+          "artist": "Etran de L'Air",
+          "album": "Agrim Agadez",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:30am",
+          "track": "Tarha Tadagh",
+          "artist": "Imarhan",
+          "album": "Imarhan",
+          "label": "City Slang"
+        },
+        {
+          "time": "2:33am",
+          "track": "Tamiditine",
+          "artist": "Bombino",
+          "album": "Nomad",
+          "label": "Nonesuch Records"
+        },
+        {
+          "time": "2:37am",
+          "track": "Imigradan",
+          "artist": "Les Filles de Illighadad",
+          "album": "Eghass Malan",
+          "label": "Sahel Sounds"
+        },
+        {
+          "time": "2:43am",
+          "track": "Tala Tannam",
+          "artist": "Mdou Moctar",
+          "album": "Afrique Victime",
+          "label": "Merge"
+        },
+        {
+          "time": "2:48am",
+          "track": "Sastanàqqàm",
+          "artist": "Tinariwen",
+          "album": "Elwan",
+          "label": "Anti-"
+        },
+        {
+          "time": "2:53am",
+          "track": "Sahara (feat. Iggy Pop)",
+          "artist": "Songhoy Blues",
+          "album": "Resistance",
+          "label": "Fat Possum Records"
+        },
+        {
+          "time": "2:57am",
+          "track": "Adinat",
+          "artist": "Bombino",
+          "album": "Nomad",
+          "label": "Nonesuch"
+        }
+      ]
+    },
+    {
+      "id": "48298",
+      "url": "https://xray.fm/broadcasts/48298",
+      "title": "Get Outta Town - France (Rerun)",
+      "air_date": "10-24-2022",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/getouttatownfrance.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Bonne journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:04am",
+          "track": "Long Distance Call",
+          "artist": "Phoenix",
+          "album": "It's Never Been Like That",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:07am",
+          "track": "Canopeé",
+          "artist": "Polo & Pan",
+          "album": "Caravelle",
+          "label": "Hamburger Records"
+        },
+        {
+          "time": "2:12am",
+          "track": "Christine",
+          "artist": "Christine and the Queens",
+          "album": "Chaleur Humaine",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:16am",
+          "track": "Come",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "Spookland"
+        },
+        {
+          "time": "2:20am",
+          "track": "Si tu veux y aller",
+          "artist": "Neniu, Jouvence",
+          "album": "ALLOPOP",
+          "label": "La Souterraine"
+        },
+        {
+          "time": "2:22am",
+          "track": "Jeunesse doreé",
+          "artist": "BARON.E",
+          "album": "Jeunesse Doreé",
+          "label": "PIAS"
+        },
+        {
+          "time": "2:26am",
+          "track": "Gare du Nord",
+          "artist": "Claire Laffut",
+          "album": "Mojo",
+          "label": "Gum"
+        },
+        {
+          "time": "2:31am",
+          "track": "Le temps est bon",
+          "artist": "Bon Entendeur, Isabelle Pierre",
+          "album": "Aller-retour",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:34am",
+          "track": "Mauvaise journeé",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:37am",
+          "track": "Le coeur nous anime",
+          "artist": "Ben Mazué, Poupie",
+          "album": "Paradis",
+          "label": "Sony Music"
+        },
+        {
+          "time": "2:41am",
+          "track": "People, I've Been Sad",
+          "artist": "Christine and the Queens",
+          "album": "La vita nuova",
+          "label": "Because Music"
+        },
+        {
+          "time": "2:45am",
+          "track": "Makeba",
+          "artist": "Jain",
+          "album": "Zanaka",
+          "label": "RCA"
+        },
+        {
+          "time": "2:49am",
+          "track": "If I Ever Feel Better",
+          "artist": "Phoenix",
+          "album": "United",
+          "label": "Parlophone"
+        },
+        {
+          "time": "2:54am",
+          "track": "C'est que du bonheur",
+          "artist": "Stromae",
+          "album": "Multitude",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:56am",
+          "track": "Dis-moi",
+          "artist": "BB Brunes",
+          "album": "Blonde comme moi",
+          "label": "Warner Music"
+        }
+      ]
+    },
+    {
+      "id": "48178",
+      "url": "https://xray.fm/broadcasts/48178",
+      "title": "Get Outta Town - Ireland (Copy)",
+      "air_date": "10-17-2022",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/get-outta-town/081822_GetOuttaTown.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Revelate",
+          "artist": "The Frames",
+          "album": "Fitzcarraldo",
+          "label": "ZTT Records Limited"
+        },
+        {
+          "time": "2:04am",
+          "track": "Nothing Arrived",
+          "artist": "Villagers",
+          "album": "Spotify Sessions",
+          "label": "Domino Recording Co Ltd"
+        },
+        {
+          "time": "2:08am",
+          "track": "Dogwood Blossom",
+          "artist": "Fionn Regan",
+          "album": "100 Acres of Sycamore",
+          "label": "Cooperative Music"
+        },
+        {
+          "time": "2:11am",
+          "track": "Where u at",
+          "artist": "Monjola, Aby Coulibaby",
+          "album": "Where u at",
+          "label": "Chamomile Records"
+        },
+        {
+          "time": "2:14am",
+          "track": "Thinking of You",
+          "artist": "Ezra Williams",
+          "album": "Thinking of You",
+          "label": "Smoothboi"
+        },
+        {
+          "time": "2:18am",
+          "track": "Up De Flats",
+          "artist": "Gemma Dunleavy",
+          "album": "Up De Flats",
+          "label": "UP DE FLATS"
+        },
+        {
+          "time": "2:23am",
+          "track": "tonnta",
+          "artist": "Fears",
+          "album": "Oíche",
+          "label": "TULLE"
+        },
+        {
+          "time": "2:25am",
+          "track": "I Didn't Love You When I Said I Did and I Don't Now",
+          "artist": "Pixie Cut Rhythm Orchestra",
+          "album": "I Didn't Love You When I Said I Did and I Don't Now",
+          "label": "Anon Records"
+        },
+        {
+          "time": "2:29am",
+          "track": "Little Fix",
+          "artist": "Sprints",
+          "album": "Little Fix",
+          "label": "Nice Swan Recordings"
+        },
+        {
+          "time": "2:32am",
+          "track": "i leave early",
+          "artist": "Maria Kelly",
+          "album": "i leave early",
+          "label": "Veta Records"
+        },
+        {
+          "time": "2:36am",
+          "track": "Happiness Isn't a Fixed State",
+          "artist": "Kynsy",
+          "album": "Happiness Isn't a Fixed State",
+          "label": "Kynsy"
+        },
+        {
+          "time": "2:39am",
+          "track": "N17",
+          "artist": "Tolü Makay, RTE Concert Orchestra",
+          "album": "N17",
+          "label": "Rubyworks Ltd"
+        },
+        {
+          "time": "2:43am",
+          "track": "Blue",
+          "artist": "NewDad",
+          "album": "Blue",
+          "label": "Fair Youth"
+        },
+        {
+          "time": "2:46am",
+          "track": "Salami",
+          "artist": "Pretty Happy",
+          "album": "Salami",
+          "label": "Foggy Notions"
+        },
+        {
+          "time": "2:50am",
+          "track": "We Don't Eat",
+          "artist": "James Vincent McMorrow",
+          "album": "Early in the Morning",
+          "label": "BMG Rights Management"
+        },
+        {
+          "time": "2:54am",
+          "track": "Elephant in the Room",
+          "artist": "Kynsy",
+          "album": "Things That Don't Exist EP",
+          "label": "Kynsy"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Crayon Ponyfish — Life Aquatic rainbow seahorse. Film-accurate redraw: magenta head + snout,
+     bright stripes across a curled body (orange/red/yellow/green/teal/purple/pink), green algae-like
+     hair tendrils erupting from the back of the head, fine-mesh dorsal fin, big black eye. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 100" aria-label="Crayon Ponyfish">
+  <defs>
+    <linearGradient id="cp-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5a4a7a" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#3a2a5a" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+  <rect width="60" height="100" fill="url(#cp-bg)"/>
+
+  <!-- Green hair tendrils (algae-like flow from back of head) -->
+  <g stroke="#3aab5a" stroke-width="1.4" fill="none" stroke-linecap="round">
+    <path d="M28 18 Q22 10 18 6"/>
+    <path d="M30 16 Q26 8 22 4"/>
+    <path d="M32 14 Q32 6 30 2"/>
+    <path d="M34 14 Q36 7 36 2"/>
+    <path d="M30 22 Q22 18 14 14"/>
+    <path d="M28 24 Q18 22 10 22"/>
+  </g>
+
+  <!-- Body — curled seahorse outline, segmented stripes -->
+  <path d="M38 18 Q48 22 46 32 Q44 42 36 44 Q28 46 30 56 Q32 66 24 70 Q14 74 18 62 Q22 58 22 54" fill="none" stroke="#1a1a1a" stroke-width="1.4" stroke-linecap="round"/>
+
+  <!-- Color bands across the body — orange, red, yellow, green, teal, purple, pink, repeating -->
+  <g stroke-linecap="round" fill="none" stroke-width="3.5">
+    <path d="M34 18 Q44 20 44 26" stroke="#ff8a3c"/>
+    <path d="M34 22 Q44 24 44 30" stroke="#f24f26"/>
+    <path d="M32 26 Q42 28 41 33" stroke="#ffd24a"/>
+    <path d="M32 30 Q40 32 38 36" stroke="#3aab5a"/>
+    <path d="M30 34 Q38 36 35 40" stroke="#1a6f9f"/>
+    <path d="M28 38 Q35 40 32 44" stroke="#7a4ab9"/>
+    <path d="M28 42 Q34 45 30 49" stroke="#ff5a8a"/>
+    <path d="M26 46 Q33 49 30 53" stroke="#ff8a3c"/>
+    <path d="M26 50 Q32 54 30 58" stroke="#f24f26"/>
+    <path d="M24 54 Q31 58 29 62" stroke="#ffd24a"/>
+    <path d="M22 58 Q28 62 26 66" stroke="#3aab5a"/>
+    <path d="M20 62 Q26 66 24 70" stroke="#1a6f9f"/>
+  </g>
+
+  <!-- Curled tail tip -->
+  <path d="M20 70 Q14 74 18 78 Q22 80 22 76" fill="none" stroke="#7a4ab9" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M22 74 Q24 78 22 80" fill="none" stroke="#ff8a3c" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Fine-mesh dorsal/pectoral fin (translucent) -->
+  <path d="M30 30 Q22 30 18 36 Q16 42 24 42 Q28 42 30 38" fill="#9be3f9" opacity="0.55" stroke="#1a1a1a" stroke-width="0.6"/>
+  <g stroke="#1a1a1a" stroke-width="0.3" fill="none">
+    <path d="M22 32 L26 40"/>
+    <path d="M20 34 L24 41"/>
+    <path d="M18 36 L23 42"/>
+  </g>
+
+  <!-- Magenta head -->
+  <ellipse cx="36" cy="14" rx="6" ry="5" fill="#ff3a8a" stroke="#1a1a1a" stroke-width="0.9"/>
+  <!-- Head crown stripes -->
+  <path d="M32 12 Q36 9 40 12" stroke="#c92670" stroke-width="1.2" fill="none"/>
+  <path d="M34 16 Q36 17 38 16" stroke="#c92670" stroke-width="1" fill="none"/>
+
+  <!-- Green snout/trunk (tubular) -->
+  <path d="M40 13 Q48 13 50 18 L48 19 Q46 16 40 16 Z" fill="#3aab5a" stroke="#1a1a1a" stroke-width="0.8"/>
+
+  <!-- Eye — large dark eye, white catchlight -->
+  <circle cx="38" cy="12" r="1.6" fill="#1a1a1a"/>
+  <circle cx="38.4" cy="11.4" r="0.6" fill="#faf6ee"/>
+
+  <!-- Coronet (small horn-like spikes on top of head) -->
+  <path d="M34 10 L34 7" stroke="#1a1a1a" stroke-width="0.7"/>
+  <path d="M36 9 L36 6" stroke="#1a1a1a" stroke-width="0.7"/>
+  <path d="M38 9 L39 6" stroke="#1a1a1a" stroke-width="0.7"/>
+</svg>

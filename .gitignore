@@ -1,0 +1,28 @@
+# dependencies
+node_modules/
+
+# test artifacts
+zs-test.cjs
+zs-shots.cjs
+
+# OS
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+*.swp
+
+# environment
+.env
+.env.local
+
+# spotify oauth token cache (holds a refresh token — never commit)
+scripts/.spotify_token.json
+
+# aquarium drunkard session cookie (never commit)
+scripts/.ad_cookies.txt
+
+# last.fm api key cache (never commit)
+scripts/.lastfm_key.txt

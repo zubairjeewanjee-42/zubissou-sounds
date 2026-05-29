@@ -1,0 +1,281 @@
+[
+ {
+  "id": "song:radiohead|how to disappear completely",
+  "type": "song",
+  "source": "canon",
+  "artist": "Radiohead",
+  "title": "How to Disappear Completely",
+  "album": "Kid A",
+  "year": 2000,
+  "release_date": null,
+  "genre": "Alternative",
+  "subgenres": [],
+  "country": null,
+  "region": null,
+  "instrumentation": [],
+  "tags": [
+   "melancholic"
+  ],
+  "knobs": {
+   "mood": null,
+   "energy": null,
+   "density": null,
+   "headbody": null,
+   "era": 2000,
+   "place": null,
+   "familiarity": 1,
+   "global_listeners": 1785391
+  },
+  "bpm": null,
+  "spotify_id": null,
+  "spotify_url": null,
+  "cover_url": null,
+  "standout_tracks": null,
+  "why_i_love_it": null,
+  "notes": "example row — delete or keep",
+  "enrichment": {
+   "status": "stub",
+   "sources": [
+    "lastfm"
+   ],
+   "last_enriched": "2026-05-29T10:40:50.105539Z"
+  },
+  "_era_label": "2000",
+  "lastfm": {
+   "fetched_at": "2026-05-29T10:40:50.105539Z",
+   "found": true,
+   "playcount": 22687242,
+   "listeners": 1785391,
+   "duration_ms": 350000,
+   "album_title": "Kid A",
+   "tags": [
+    "alternative",
+    "beautiful",
+    "alternative rock",
+    "rock",
+    "radiohead"
+   ],
+   "summary": "\"How to Disappear Completely\" is a song by the English rock band Radiohead from their fourth studio album \"Kid A\". It was produced by the band with their producer, Nigel Godrich. The song is titled after Doug Richmond's 1985 book \"How to Disappear Completely and Never Be Found\".\n\nThe band first performed the song in 1998 during the tour. An early soundcheck performance features in the 1998 documentary \"Meeting People Is Easy\".\n\nDuring the \"Kid A\" sessions in 1999"
+  },
+  "duration_ms": 350000
+ },
+ {
+  "id": "song:frank ocean|self control",
+  "type": "song",
+  "source": "canon",
+  "artist": "Frank Ocean",
+  "title": "Self Control",
+  "album": "Blonde",
+  "year": 2016,
+  "release_date": null,
+  "genre": "R&B",
+  "subgenres": [],
+  "country": null,
+  "region": null,
+  "instrumentation": [],
+  "tags": [
+   "longing"
+  ],
+  "knobs": {
+   "mood": null,
+   "energy": null,
+   "density": null,
+   "headbody": null,
+   "era": 2013,
+   "place": null,
+   "familiarity": 2,
+   "global_listeners": 1346806
+  },
+  "bpm": null,
+  "spotify_id": null,
+  "spotify_url": null,
+  "cover_url": null,
+  "standout_tracks": null,
+  "why_i_love_it": null,
+  "notes": "example row",
+  "enrichment": {
+   "status": "stub",
+   "sources": [
+    "lastfm"
+   ],
+   "last_enriched": "2026-05-29T10:40:50.580975Z"
+  },
+  "_era_label": "2013",
+  "lastfm": {
+   "fetched_at": "2026-05-29T10:40:50.580975Z",
+   "found": true,
+   "playcount": 32969634,
+   "listeners": 1346806,
+   "duration_ms": 315000,
+   "album_title": "Blonde",
+   "tags": [
+    "rnb",
+    "soul",
+    "art pop",
+    "alternative rnb",
+    "Frank Ocean"
+   ],
+   "summary": "“Self Control” is a slow ballad which features Frank describing a relationship that is slowly falling apart. Throughout the song, Frank hints the reason their relationship fell apart was because the other person was too immature.\n\nThe intro features a high-pitch vocal effect Frank uses throughout the album. The squeaky voice suggests Frank is reminiscing about events that happened in his youth.\n\nAustin Feinstein of indie band Slow Hollows and Yung Lean sing the choruses."
+  },
+  "duration_ms": 315000
+ },
+ {
+  "id": "song:the beatles|in my life",
+  "type": "song",
+  "source": "canon",
+  "artist": "The Beatles",
+  "title": "In My Life",
+  "album": "Rubber Soul",
+  "year": 1965,
+  "release_date": null,
+  "genre": "Rock",
+  "subgenres": [],
+  "country": null,
+  "region": null,
+  "instrumentation": [],
+  "tags": [
+   "warm"
+  ],
+  "knobs": {
+   "mood": null,
+   "energy": null,
+   "density": null,
+   "headbody": null,
+   "era": 1965,
+   "place": null,
+   "familiarity": 3,
+   "global_listeners": 669312
+  },
+  "bpm": null,
+  "spotify_id": null,
+  "spotify_url": null,
+  "cover_url": null,
+  "standout_tracks": null,
+  "why_i_love_it": null,
+  "notes": "example row",
+  "enrichment": {
+   "status": "stub",
+   "sources": [
+    "lastfm"
+   ],
+   "last_enriched": "2026-05-29T10:40:51.082578Z"
+  },
+  "_era_label": "1965",
+  "lastfm": {
+   "fetched_at": "2026-05-29T10:40:51.082578Z",
+   "found": true,
+   "playcount": 4982308,
+   "listeners": 669312,
+   "duration_ms": 146000,
+   "album_title": "Rubber Soul",
+   "summary": "\"In My Life\" is a song by The Beatles written by John Lennon and Paul McCartney. The song originated with Lennon, and while McCartney contributed to the final version, the extent of his contribution is in dispute. Released on the 1965 album Rubber Soul, it is ranked 98tg on the Rolling Stone article \"The 500 Greatest Songs of All Time\", and placed second on CBC's 50 Tracks. Mojo magazine named it the best song of all time in 2000.\n\nThe song was recorded on 18 October 1965, and was complete except for the instrumental bridge."
+  },
+  "duration_ms": 146000
+ },
+ {
+  "id": "song:sufjan stevens|casimir pulaski day",
+  "type": "song",
+  "source": "canon",
+  "artist": "Sufjan Stevens",
+  "title": "Casimir Pulaski Day",
+  "album": "Illinois",
+  "year": 2005,
+  "release_date": null,
+  "genre": "Indie Folk",
+  "subgenres": [],
+  "country": null,
+  "region": null,
+  "instrumentation": [],
+  "tags": [
+   "grief"
+  ],
+  "knobs": {
+   "mood": null,
+   "energy": null,
+   "density": null,
+   "headbody": null,
+   "era": 2007,
+   "place": null,
+   "familiarity": 4,
+   "global_listeners": 715080
+  },
+  "bpm": null,
+  "spotify_id": null,
+  "spotify_url": null,
+  "cover_url": null,
+  "standout_tracks": null,
+  "why_i_love_it": null,
+  "notes": "example row",
+  "enrichment": {
+   "status": "stub",
+   "sources": [
+    "lastfm"
+   ],
+   "last_enriched": "2026-05-29T10:40:51.574706Z"
+  },
+  "_era_label": "2007",
+  "lastfm": {
+   "fetched_at": "2026-05-29T10:40:51.574706Z",
+   "found": true,
+   "playcount": 6976260,
+   "listeners": 715080,
+   "duration_ms": 315000,
+   "album_title": "Illinois",
+   "summary": "This song details the events that surround the death of the narrator’s friend, and the crisis of faith that it triggers for the narrator.\n\nSome read this as chronological narration of events, others as a “stream of consciousness” narration of past events that also includes more recent occurrences.\n\nSufjan Steven’s songs often elicit religious undertones that only strengthen the messages, without becoming consumed with biblical references."
+  },
+  "duration_ms": 315000
+ },
+ {
+  "id": "song:talking heads|this must be the place naive melody",
+  "type": "song",
+  "source": "canon",
+  "artist": "Talking Heads",
+  "title": "This Must Be the Place (Naive Melody)",
+  "album": "Speaking in Tongues",
+  "year": 1983,
+  "release_date": null,
+  "genre": "New Wave",
+  "subgenres": [],
+  "country": null,
+  "region": null,
+  "instrumentation": [],
+  "tags": [
+   "warm"
+  ],
+  "knobs": {
+   "mood": null,
+   "energy": null,
+   "density": null,
+   "headbody": null,
+   "era": 1985,
+   "place": null,
+   "familiarity": 5,
+   "global_listeners": 327809
+  },
+  "bpm": null,
+  "spotify_id": null,
+  "spotify_url": null,
+  "cover_url": null,
+  "standout_tracks": null,
+  "why_i_love_it": null,
+  "notes": "example row",
+  "enrichment": {
+   "status": "stub",
+   "sources": [
+    "lastfm"
+   ],
+   "last_enriched": "2026-05-29T10:40:52.121023Z"
+  },
+  "_era_label": "1985",
+  "lastfm": {
+   "fetched_at": "2026-05-29T10:40:52.121023Z",
+   "found": true,
+   "playcount": 2470062,
+   "listeners": 327809,
+   "duration_ms": 296000,
+   "album_title": "Speaking in Tongues",
+   "summary": "\"This Must Be the Place (Naive Melody)\" is a song by New Wave band Talking Heads, released as the second single from their fifth album \"Speaking in Tongues\". The lyrics were written by David Byrne, and the music was written by Byrne and the other members of the band, Chris Frantz, Tina Weymouth and Jerry Harrison.\n\nComposition\n\nIn the \"Self Interview\" on the DVD of the concert film Stop Making Sense, Byrne admits that it is a love song, a topic he tends to avoid because it is \"kinda big\". He also said of the song:"
+  },
+  "duration_ms": 296000
+ }
+]

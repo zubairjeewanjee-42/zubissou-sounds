@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-05-26T18:28:08.249902Z",
+  "show": {
+    "slug": "in-the-wilderness",
+    "title": "In The Wilderness",
+    "description": "Music less traveled by. This eclectic hour encompasses jazz improv, ambient vibes, traces of transcendence. Neil Molloy hosts.",
+    "image": "https://cdn.xray.fm/image/medium/In_the_Wilderness_logo_take_2.png",
+    "tags": [
+      "mix"
+    ],
+    "url": "https://xray.fm/shows/in-the-wilderness"
+  },
+  "episode_count": 9,
+  "track_count_total": 0,
+  "episodes": [
+    {
+      "id": "69687",
+      "url": "https://xray.fm/broadcasts/69687",
+      "title": "In the Wilderness ~ Haunted by the Dreams I Own",
+      "air_date": "4-7-2026",
+      "air_time": "8:00pm",
+      "image": "https://cdn.xray.fm/image/medium/Ellington_by_Gordon_Parks.jpeg",
+      "audio_url": "https://cdn.xray.fm/audio/kxrw-vancouver/In_the_Wilderness_Haunted_by_the_Dreams_I_Own.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "68894",
+      "url": "https://xray.fm/broadcasts/68894",
+      "title": "In the Wilderness ~ Bley & Coltrane ~ 3-3-26",
+      "air_date": "3-3-2026",
+      "air_time": "8:00pm",
+      "image": "https://cdn.xray.fm/image/medium/Bley_and_Coltrane_collage.png",
+      "audio_url": "https://cdn.xray.fm/audio/kxrw-vancouver/In_the_Wilderness_Bley_Coltrane_3-3-26.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "68408",
+      "url": "https://xray.fm/broadcasts/68408",
+      "title": "In the Wilderness ~ Winter Travels ~ 2/3/26",
+      "air_date": "2-3-2026",
+      "air_time": "3:00am",
+      "image": "https://cdn.xray.fm/image/medium/winter_travels.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/kxrw-vancouver/In_the_Wilderness_Winter_Travels_2-3-26.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "67969",
+      "url": "https://xray.fm/broadcasts/67969",
+      "title": "In the Wilderness ~ Soft Guitars ~ 1-6-26",
+      "air_date": "1-6-2026",
+      "air_time": "8:00pm",
+      "image": "https://cdn.xray.fm/image/medium/Soft_Guitars.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/kxrw-vancouver/In_the_Wilderness_Soft_Guitars_1-6-26.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "67325",
+      "url": "https://xray.fm/broadcasts/67325",
+      "title": "In the Wilderness / Yuletide Edition 12/02/25",
+      "air_date": "12-2-2025",
+      "air_time": "8:00pm",
+      "image": "https://cdn.xray.fm/image/medium/Christmas_fairy_lights_snow_night_sky_stars.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/kxrw-vancouver/In_the_Wilderness_-_Yuletide_Edition_12-02-25.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "66830",
+      "url": "https://xray.fm/broadcasts/66830",
+      "title": "In the Wilderness - Sheila Jordan’s Sound of Blue - 11/04/25",
+      "air_date": "11-4-2025",
+      "air_time": "8:00pm",
+      "image": "https://cdn.xray.fm/image/medium/Sheila_Jordan_s_Sound_of_Blue.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/kxrw-vancouver/In_the_Wilderness_-_Sheila_Jordan_s_Sound_of_Blue_11-04-2025.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "66335",
+      "url": "https://xray.fm/broadcasts/66335",
+      "title": "In the Wilderness - Strings Around Autumn - 10/07/25",
+      "air_date": "10-7-2025",
+      "air_time": "8:00pm",
+      "image": "https://cdn.xray.fm/image/medium/autumn_fantasia_2.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/kxrw-vancouver/In_the_Wilderness_-_Strings_Around_Autumn_-_10-07-25.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "65646",
+      "url": "https://xray.fm/broadcasts/65646",
+      "title": "In the Wilderness - Songs for Late Summer - 9/02/25",
+      "air_date": "9-2-2025",
+      "air_time": "8:00pm",
+      "image": "https://cdn.xray.fm/image/medium/songs_for_late_summer_2.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/kxrw-vancouver/In_the_Wilderness_--_Songs_for_Late_Summer_9-02-25.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "65380",
+      "url": "https://xray.fm/broadcasts/65380",
+      "title": "In the Wilderness - 95 Years of Abbey Lincoln - 8/05/25",
+      "air_date": "8-5-2025",
+      "air_time": "8:00pm",
+      "image": "https://cdn.xray.fm/image/medium/Abbey_Lincoln_profile.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/in-the-wilderness/In_the_Wilderness_-_95_Years_of_Abbey_Lincoln_8-05-25.mp3",
+      "track_count": 0,
+      "tracks": []
+    }
+  ]
+}

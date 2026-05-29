@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "source": "Zubair top 100 songs \u2014 canon (template)",
+  "count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "artist": "Radiohead",
+      "track": "How to Disappear Completely",
+      "album": "Kid A",
+      "year": 2000,
+      "genre": "Alternative",
+      "mood": "melancholic",
+      "bpm_est": "",
+      "why_i_love_it": "",
+      "spotify_url": "",
+      "spotify_search_url": "https://open.spotify.com/search/Radiohead%20How%20to%20Disappear%20Completely",
+      "notes": "example row \u2014 delete or keep"
+    },
+    {
+      "rank": 2,
+      "artist": "Frank Ocean",
+      "track": "Self Control",
+      "album": "Blonde",
+      "year": 2016,
+      "genre": "R&B",
+      "mood": "longing",
+      "bpm_est": "",
+      "why_i_love_it": "",
+      "spotify_url": "",
+      "spotify_search_url": "https://open.spotify.com/search/Frank%20Ocean%20Self%20Control",
+      "notes": "example row"
+    },
+    {
+      "rank": 3,
+      "artist": "The Beatles",
+      "track": "In My Life",
+      "album": "Rubber Soul",
+      "year": 1965,
+      "genre": "Rock",
+      "mood": "warm",
+      "bpm_est": "",
+      "why_i_love_it": "",
+      "spotify_url": "",
+      "spotify_search_url": "https://open.spotify.com/search/The%20Beatles%20In%20My%20Life",
+      "notes": "example row"
+    },
+    {
+      "rank": 4,
+      "artist": "Sufjan Stevens",
+      "track": "Casimir Pulaski Day",
+      "album": "Illinois",
+      "year": 2005,
+      "genre": "Indie Folk",
+      "mood": "grief",
+      "bpm_est": "",
+      "why_i_love_it": "",
+      "spotify_url": "",
+      "spotify_search_url": "https://open.spotify.com/search/Sufjan%20Stevens%20Casimir%20Pulaski%20Day",
+      "notes": "example row"
+    },
+    {
+      "rank": 5,
+      "artist": "Talking Heads",
+      "track": "This Must Be the Place (Naive Melody)",
+      "album": "Speaking in Tongues",
+      "year": 1983,
+      "genre": "New Wave",
+      "mood": "warm",
+      "bpm_est": "",
+      "why_i_love_it": "",
+      "spotify_url": "",
+      "spotify_search_url": "https://open.spotify.com/search/Talking%20Heads%20This%20Must%20Be%20the%20Place",
+      "notes": "example row"
+    }
+  ]
+}

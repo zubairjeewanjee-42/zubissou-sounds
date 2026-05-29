@@ -1,0 +1,83 @@
+{
+ "slug": "by-mixtape-first-last-japanese-private-press-vol-5",
+ "kind": "by_mixtape",
+ "name": "AD Mixtape · First & Last: Japanese Private Press, Vol. 5",
+ "description": "Fourteen humble, cosmic and fragile tracks scanning folk and rock. Welcome to the fifth installment of First & Last, a series of mixes providing a glimpse into the world of Japanese private press, or 自主盤, pronounced “jishuban”, which loosely translates to “independent board.” A proper companion for these lingering, dusky summer days.",
+ "needs_matching": true,
+ "track_count": 14,
+ "tracks": [
+  {
+   "artist": "ヒゲゴジラとヒヨコプロ (Hige Gojira to Hiyoko Pro)",
+   "track": "旅に出てみたい (1973)",
+   "raw": "ヒゲゴジラとヒヨコプロ (Hige Gojira to Hiyoko Pro) – 旅に出てみたい (1973)"
+  },
+  {
+   "artist": "ザ・シックハックス (The Shick Hacks)",
+   "track": "この子達に歌を (19??)",
+   "raw": "ザ・シックハックス (The Shick Hacks) – この子達に歌を (19??)"
+  },
+  {
+   "artist": "日暮アニカ (Anica Higurashi)",
+   "track": "まよい鳥 (19??)",
+   "raw": "日暮アニカ (Anica Higurashi) – まよい鳥 (19??)"
+  },
+  {
+   "artist": "丸 晴彦 (Haruhiko Maru)",
+   "track": "Snow Sights (1978)",
+   "raw": "丸 晴彦 (Haruhiko Maru) – Snow Sights (1978)"
+  },
+  {
+   "artist": "久利無始洋館 (Kurimushi Yokan)",
+   "track": "雪のエルサレムに花火が (1975)",
+   "raw": "久利無始洋館 (Kurimushi Yokan) – 雪のエルサレムに花火が (1975)"
+  },
+  {
+   "artist": "Jupiter 1",
+   "track": "夢 (1974)",
+   "raw": "Jupiter 1 – 夢 (1974)"
+  },
+  {
+   "artist": "オクノ修 (Osamu Okuno)",
+   "track": "君がいってしまう唄 (1972)",
+   "raw": "オクノ修 (Osamu Okuno) – 君がいってしまう唄 (1972)"
+  },
+  {
+   "artist": "Scape Goat",
+   "track": "だけど今 (1975)",
+   "raw": "Scape Goat – だけど今 (1975)"
+  },
+  {
+   "artist": "Folk Ry",
+   "track": "丘の上の2人 (1976)",
+   "raw": "Folk Ry – 丘の上の2人 (1976)"
+  },
+  {
+   "artist": "れお (Leo)",
+   "track": "ドライフラワー (1977)",
+   "raw": "れお (Leo) – ドライフラワー (1977)"
+  },
+  {
+   "artist": "Granby Street",
+   "track": "雨の日は (1973)",
+   "raw": "Granby Street – 雨の日は (1973)"
+  },
+  {
+   "artist": "忍冬創 (Tsukuru Suikazura)",
+   "track": "逢多夢 = Autumn (1977)",
+   "raw": "忍冬創 (Tsukuru Suikazura) – 逢多夢 = Autumn (1977)"
+  },
+  {
+   "artist": "自由の鐘 (Liberty Bell)",
+   "track": "今はいずこに (1972)",
+   "raw": "自由の鐘 (Liberty Bell) – 今はいずこに (1972)"
+  },
+  {
+   "artist": "宿屋飯盛 (Yadoya No Meshimori)",
+   "track": "So Long (197?)",
+   "raw": "宿屋飯盛 (Yadoya No Meshimori) – So Long (197?)"
+  }
+ ],
+ "sources": [
+  "https://aquariumdrunkard.com/2022/07/07/first-last-japanese-private-press-vol-5/"
+ ]
+}

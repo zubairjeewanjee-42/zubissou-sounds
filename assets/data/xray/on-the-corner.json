@@ -1,0 +1,4397 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-05-26T18:41:51.420621Z",
+  "show": {
+    "slug": "on-the-corner",
+    "title": "On the Corner",
+    "description": "Jazz of all shapes and sizes from yesterday and today and from all corners of the globe. ",
+    "image": "https://cdn.xray.fm/image/medium/miles-davis-on-the-corner-lp-album-vinyl.jpg",
+    "tags": [
+      "jazz"
+    ],
+    "url": "https://xray.fm/shows/on-the-corner"
+  },
+  "episode_count": 40,
+  "track_count_total": 557,
+  "episodes": [
+    {
+      "id": "70550",
+      "url": "https://xray.fm/broadcasts/70550",
+      "title": "On The Corner 106",
+      "air_date": "5-19-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_051926_ep106.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "So What",
+          "artist": "John Coltrane / Miles Davis",
+          "album": "Live Konserthuset Stockholm (March 22, 1960)",
+          "label": "Giants of Jazz"
+        },
+        {
+          "time": "10:15pm",
+          "track": "Shard I",
+          "artist": "Jason Moran / BlankFor.ms / Marcus Gilmore",
+          "album": "Shards",
+          "label": "Red Hook"
+        },
+        {
+          "time": "10:25pm",
+          "track": "Thank You (For Teddy)",
+          "artist": "Harry Skoler",
+          "album": "Echoes",
+          "label": "Red Brick Hill"
+        },
+        {
+          "time": "10:35pm",
+          "track": "Do You Love?",
+          "artist": "Ben Wolfe",
+          "album": "Any Time After Now",
+          "label": "Resident Arts"
+        },
+        {
+          "time": "10:41pm",
+          "track": "Come Sunday",
+          "artist": "John Clayton",
+          "album": "Two-o Duo",
+          "label": "ArtistShare"
+        },
+        {
+          "time": "10:50pm",
+          "track": "how do you do (ii)",
+          "artist": "New Jazz Underground",
+          "album": "Hoodies",
+          "label": "Artwork"
+        },
+        {
+          "time": "10:55pm",
+          "track": "Tide Activity",
+          "artist": "Adam Rudolph",
+          "album": "Sunrise",
+          "label": "Meta"
+        },
+        {
+          "time": "11:01pm",
+          "track": "DDAT Suite",
+          "artist": "Julia Keefe Indigenous Big Band",
+          "album": "Incarnadine",
+          "label": "Outside In Music"
+        },
+        {
+          "time": "11:20pm",
+          "track": "Myfanwy",
+          "artist": "Joe Webb",
+          "album": "Neath Beat",
+          "label": "Edition"
+        },
+        {
+          "time": "11:26pm",
+          "track": "The Corner (Next Stations)",
+          "artist": "William Hooker featuring Jon King",
+          "album": "Convergence: Live in China",
+          "label": "Org Music"
+        },
+        {
+          "time": "11:35pm",
+          "track": "Ayler in Loghaven",
+          "artist": "Alexander Noice",
+          "album": "Perpetually and Forever",
+          "label": "Orenda"
+        },
+        {
+          "time": "11:40pm",
+          "track": "Waiting",
+          "artist": "Kalia Vandever",
+          "album": "Mana",
+          "label": "International Anthem"
+        },
+        {
+          "time": "11:49pm",
+          "track": "Bo-Weavil Blues (unissued test)",
+          "artist": "Ma Rainey",
+          "album": "Mother of the Blues, The Complete Paramount Recordings, 1923-1928",
+          "label": "Black Swan"
+        },
+        {
+          "time": "11:51pm",
+          "track": "Ma Rainey's Mystery Record",
+          "artist": "Ma Rainey",
+          "album": "Mother of the Blues, The Complete Paramount Recordings, 1923-1928",
+          "label": "Black Swan"
+        },
+        {
+          "time": "11:55pm",
+          "track": "Four Day Honory Scat",
+          "artist": "Ma Rainey",
+          "album": "Mother of the Blues, The Complete Paramount Recordings, 1923-1928",
+          "label": "Black Swan"
+        }
+      ]
+    },
+    {
+      "id": "70404",
+      "url": "https://xray.fm/broadcasts/70404",
+      "title": "On The Corner 105",
+      "air_date": "5-12-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_051226_ep105.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "So What",
+          "artist": "Miles Davis",
+          "album": "'Four' and More: Recorded Live in Concert",
+          "label": "Columbia"
+        },
+        {
+          "time": "10:09pm",
+          "track": "Surrey with the Fringe On Top",
+          "artist": "Kenny Barron Trio",
+          "album": "So Many Lovely Things: Live in Brecon",
+          "label": "Elemental"
+        },
+        {
+          "time": "10:23pm",
+          "track": "Frontier",
+          "artist": "Micah Thomas",
+          "album": "Lucid",
+          "label": "self-released"
+        },
+        {
+          "time": "10:29pm",
+          "track": "Hubbard Road",
+          "artist": "Kalia Vandever",
+          "album": "Mana",
+          "label": "International Anthem"
+        },
+        {
+          "time": "10:31pm",
+          "track": "Rules for Visting the Pool",
+          "artist": "Confusion",
+          "album": "Confusion",
+          "label": "Incompetence"
+        },
+        {
+          "time": "10:42pm",
+          "track": "blue-orange reflections",
+          "artist": "Philip Golub",
+          "album": "Partisan Ship",
+          "label": "Berthold"
+        },
+        {
+          "time": "10:50pm",
+          "track": "Wayne Phases (dedicated to Wayne Shorter)",
+          "artist": "GEORGE",
+          "album": "Looking for Consequence",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "11:02pm",
+          "track": "Wayne Shorter - Ponta de Areia (Kassa Overall Remix)",
+          "artist": "Kassa Overall",
+          "album": "SHADES OF FLU 2: In These Odd Times",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:05pm",
+          "track": "Ponta de Areia",
+          "artist": "Wayne Shorter",
+          "album": "Native Dancer",
+          "label": "Columbia"
+        },
+        {
+          "time": "11:10pm",
+          "track": "Holocene Serene",
+          "artist": "Onilu",
+          "album": "Jakutá's Dance",
+          "label": "577"
+        },
+        {
+          "time": "11:17pm",
+          "track": "Kuzodlula",
+          "artist": "Nduduzo Makhathini",
+          "album": "The Myth We Choose",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:21pm",
+          "track": "No Pidas Imposibles",
+          "artist": "Melissa Aldana",
+          "album": "Filin",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:28pm",
+          "track": "Pecao",
+          "artist": "Ryan Blotnick",
+          "album": "The Woods",
+          "label": "Fishkill"
+        },
+        {
+          "time": "11:37pm",
+          "track": "From Sometime",
+          "artist": "Satoko Fujii / Myra Melford",
+          "album": "Katahari",
+          "label": "RogueArt"
+        },
+        {
+          "time": "11:47pm",
+          "track": "Devils Tower",
+          "artist": "Miles Okazaki",
+          "album": "Boomtown",
+          "label": "Pi Recordings"
+        },
+        {
+          "time": "11:54pm",
+          "track": "Take Heart ft. Joel Ross",
+          "artist": "Matthew Stevens",
+          "album": "Matthew Stevens",
+          "label": "Candid"
+        }
+      ]
+    },
+    {
+      "id": "70247",
+      "url": "https://xray.fm/broadcasts/70247",
+      "title": "On The Corner 104",
+      "air_date": "5-5-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_050526_ep104.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "In a Sentimental Mood",
+          "artist": "Duke Ellington & John Coltrane",
+          "album": "Duke Ellington & John Coltrane",
+          "label": "Impulse"
+        },
+        {
+          "time": "10:04pm",
+          "track": "In a Sentimental Mood",
+          "artist": "Dexter Gordon Quartet",
+          "album": "Stable Mable",
+          "label": "Steeplechase"
+        },
+        {
+          "time": "10:11pm",
+          "track": "A Time to Go",
+          "artist": "Donny McCaslin / Ingrid Jensen / Victor Lewis / Bruce Barth",
+          "album": "Civil Disobedience",
+          "label": "Blue Frog"
+        },
+        {
+          "time": "10:15pm",
+          "track": "Fuzzy Logic",
+          "artist": "Olaf Rupp",
+          "album": "Fuzzy Logic",
+          "label": "Palilalia"
+        },
+        {
+          "time": "10:25pm",
+          "track": "That's All I Know in the City",
+          "artist": "Potliquor",
+          "album": "All I Know in the City",
+          "label": "Amalgam Music"
+        },
+        {
+          "time": "10:29pm",
+          "track": "Linear System",
+          "artist": "DoYeon Kim",
+          "album": "Wellspring",
+          "label": "TAO Forms"
+        },
+        {
+          "time": "10:45pm",
+          "track": "I Should Care",
+          "artist": "Phil Sargent",
+          "album": "Solo Motions",
+          "label": "self-released"
+        },
+        {
+          "time": "10:50pm",
+          "track": "Illusionary Dreams",
+          "artist": "Seamus Blake",
+          "album": "The Electrifying Seamus Blake – EH! (Plays The Music of Eddie Harris)",
+          "label": "Cellar Music Group"
+        },
+        {
+          "time": "10:58pm",
+          "track": "With Myself",
+          "artist": "Sharada Shashidhar",
+          "album": "One Foot on the Ground",
+          "label": "Colorfield"
+        },
+        {
+          "time": "11:01pm",
+          "track": "I'm Glad There Is You",
+          "artist": "Bria Skonberg",
+          "album": "Indigo",
+          "label": "Cellar Music Group"
+        },
+        {
+          "time": "11:07pm",
+          "track": "London-Hackney (w/ Imogene Heap)",
+          "artist": "Nils Petter Molvær",
+          "album": "Be Quiet",
+          "label": "Edition"
+        },
+        {
+          "time": "11:13pm",
+          "track": "Rubidium",
+          "artist": "Steven Bernstein",
+          "album": "Ultra Resonance",
+          "label": "Royal Potato Family"
+        },
+        {
+          "time": "11:18pm",
+          "track": "Train of Thought",
+          "artist": "Clear Path Ensemble",
+          "album": "Ascending",
+          "label": "self-released"
+        },
+        {
+          "time": "11:27pm",
+          "track": "Spectrum",
+          "artist": "Victor Vieira-Branco's Bark Culture",
+          "album": "The Giant is Awkward",
+          "label": "temperphantom"
+        },
+        {
+          "time": "11:37pm",
+          "track": "Love Me, Goodbye",
+          "artist": "Cheyenne",
+          "album": "The Bird in Borrowed Feathers",
+          "label": "self-released"
+        },
+        {
+          "time": "11:42pm",
+          "track": "Gotham News (comp. Geoffrey Gordon)",
+          "artist": "Radom Chamber Orchestra",
+          "album": "Fumée",
+          "label": "Neuma"
+        }
+      ]
+    },
+    {
+      "id": "70116",
+      "url": "https://xray.fm/broadcasts/70116",
+      "title": "On The Corner 103",
+      "air_date": "4-28-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_042826_ep103_3.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Splatch",
+          "artist": "Miles Davis Octet",
+          "album": "Tutu (Deluxe Edition)",
+          "label": "Warner Jazz"
+        },
+        {
+          "time": "10:19pm",
+          "track": "Revirements",
+          "artist": "Mathieu Mazué Trio",
+          "album": "Turn of Events",
+          "label": "577"
+        },
+        {
+          "time": "10:50pm",
+          "track": "Six",
+          "artist": "Ivo Perelman / Damon Smith",
+          "album": "Duologue: Core of Existence",
+          "label": "Squid Note"
+        },
+        {
+          "time": "11:01pm",
+          "track": "PARADE 1",
+          "artist": "Jamie Green / John Krausbauer",
+          "album": "PARADE",
+          "label": "Carbon"
+        },
+        {
+          "time": "11:05pm",
+          "track": "PARADE 4",
+          "artist": "Jamie Green / John Krausbauer",
+          "album": "PARADE",
+          "label": "Carbon"
+        },
+        {
+          "time": "11:08pm",
+          "track": "(HP-HP)",
+          "artist": "Jim O'Rourke / Jos Smolders",
+          "album": "Albumin",
+          "label": "Moving Furniture"
+        },
+        {
+          "time": "11:26pm",
+          "track": "Lotus pt. 2",
+          "artist": "Simon Moullier",
+          "album": "Ceiba",
+          "label": "self-released"
+        },
+        {
+          "time": "11:31pm",
+          "track": "Fowlkes",
+          "artist": "Loren Stillman",
+          "album": "Seer",
+          "label": "Newvelle"
+        },
+        {
+          "time": "11:37pm",
+          "track": "Schmoon",
+          "artist": "Elan Mehler",
+          "album": "Renee Said",
+          "label": "Newvelle"
+        },
+        {
+          "time": "11:43pm",
+          "track": "The List is Millions Long",
+          "artist": "M. Geddes Gengras",
+          "album": "Guest List",
+          "label": "Hausu Mountain"
+        },
+        {
+          "time": "11:54pm",
+          "track": "Skylark",
+          "artist": "Phil Haynes / Ben Monder / Peyton Pleninger",
+          "album": "Terra",
+          "label": "Corner Store Jazz"
+        }
+      ]
+    },
+    {
+      "id": "69969",
+      "url": "https://xray.fm/broadcasts/69969",
+      "title": "On The Corner 102",
+      "air_date": "4-21-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_042126_ep102.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Mr. P.C.",
+          "artist": "John Coltrane Quartet",
+          "album": "The European Tour",
+          "label": "Pablo"
+        },
+        {
+          "time": "10:23pm",
+          "track": "Could It Be Magic",
+          "artist": "Gabriella Cavassa",
+          "album": "Diavola",
+          "label": "Blue Note"
+        },
+        {
+          "time": "10:30pm",
+          "track": "I Just Refuse to Sing the Blues",
+          "artist": "Catherine Russell",
+          "album": "Live at Jazz at Lincoln Center",
+          "label": "Dot Time"
+        },
+        {
+          "time": "10:35pm",
+          "track": "Aura II",
+          "artist": "Miho Hazama",
+          "album": "Frames",
+          "label": "Edition"
+        },
+        {
+          "time": "10:45pm",
+          "track": "Untitled II",
+          "artist": "Ana Roxanne",
+          "album": "Poem 1",
+          "label": "Kranky"
+        },
+        {
+          "time": "10:51pm",
+          "track": "Kaiwa",
+          "artist": "Satoko Fujii / Myra Melford",
+          "album": "Katahari",
+          "label": "RogueArt"
+        },
+        {
+          "time": "11:02pm",
+          "track": "Sunset Skies",
+          "artist": "Beto Paciello",
+          "album": "The Stoic Suite",
+          "label": "11 Moons Arts"
+        },
+        {
+          "time": "11:11pm",
+          "track": "Voo da Tarde",
+          "artist": "Airto Moreira / Ricardo Bacelar",
+          "album": "Maracanós",
+          "label": "Jasmin Music"
+        },
+        {
+          "time": "11:19pm",
+          "track": "Criança Rica",
+          "artist": "Mandinga Beat / Victória dos Santos",
+          "album": "Afro-Brazil",
+          "label": "Putamayo"
+        },
+        {
+          "time": "11:23pm",
+          "track": "Estalagita",
+          "artist": "Marta Sánchez",
+          "album": "For the Space You Left",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "11:30pm",
+          "track": "Smokey Corners",
+          "artist": "Ryan Blotnick",
+          "album": "The Woods",
+          "label": "Fishkill"
+        },
+        {
+          "time": "11:37pm",
+          "track": "La Cédille qui Sourit",
+          "artist": "luciano chessa & squncr",
+          "album": "Ç",
+          "label": "Maple Death"
+        }
+      ]
+    },
+    {
+      "id": "69848",
+      "url": "https://xray.fm/broadcasts/69848",
+      "title": "On The Corner 101",
+      "air_date": "4-14-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_041426_ep101.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Blue Haze",
+          "artist": "Miles Davis",
+          "album": "Blue Haze",
+          "label": "Prestige"
+        },
+        {
+          "time": "10:06pm",
+          "track": "Sayonara Blues",
+          "artist": "Horace Silver",
+          "album": "Silver in Seattle: Live at the Penthouse",
+          "label": "Blue Note"
+        },
+        {
+          "time": "10:28pm",
+          "track": "Half Closed Eyes",
+          "artist": "Sandscape",
+          "album": "Phenomenology",
+          "label": "Octopoda/Bored of Works"
+        },
+        {
+          "time": "10:31pm",
+          "track": "Summer in Central Park",
+          "artist": "Fuller Sound",
+          "album": "Dynasty",
+          "label": "Cellar Music Group"
+        },
+        {
+          "time": "10:39pm",
+          "track": "Mismatch",
+          "artist": "Yvonne Rogers",
+          "album": "The Button Jar",
+          "label": "Pyroclastic"
+        },
+        {
+          "time": "10:43pm",
+          "track": "Dreaming on 135th",
+          "artist": "Potliquor",
+          "album": "All I Know In the City",
+          "label": "Amalgam Music"
+        },
+        {
+          "time": "10:53pm",
+          "track": "Hero Complex",
+          "artist": "Paul Hecht",
+          "album": "Pyrography II",
+          "label": "ears&eyes"
+        },
+        {
+          "time": "11:01pm",
+          "track": "Sojourns",
+          "artist": "Vilhelm Bromander / Fredrik Rasten",
+          "album": "Astral Twins",
+          "label": "Fönstret"
+        },
+        {
+          "time": "11:25pm",
+          "track": "loyalty oath",
+          "artist": "Philip Golub",
+          "album": "Partisan Ship",
+          "label": "Berthold"
+        },
+        {
+          "time": "11:33pm",
+          "track": "Boa Viagem",
+          "artist": "Moyses dos Santos",
+          "album": "Maria",
+          "label": "Far Out Recordings"
+        },
+        {
+          "time": "11:37pm",
+          "track": "Canto 2",
+          "artist": "Michael Eckroth and his Minas Messengers",
+          "album": "New Paths",
+          "label": "Truth Revolution Recording Collective"
+        },
+        {
+          "time": "11:46pm",
+          "track": "Todd 5",
+          "artist": "Sam Barsh / Keyon Harrold / Mark Giuliana",
+          "album": "Straight08",
+          "label": "La Reserve"
+        },
+        {
+          "time": "11:54pm",
+          "track": "Spacetime Pauses (Mia Doi Todd & Jesse Peterson Remix)",
+          "artist": "Church Chords",
+          "album": "Apophatic Melismatic (The Schlager Remix EP+3)",
+          "label": "Otherly Love"
+        }
+      ]
+    },
+    {
+      "id": "69731",
+      "url": "https://xray.fm/broadcasts/69731",
+      "title": "On The Corner 100",
+      "air_date": "4-7-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_040726_ep100.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "My Favorite Things",
+          "artist": "John Coltrane",
+          "album": "Live at the Village Vanguard Again!",
+          "label": "Impulse!"
+        },
+        {
+          "time": "10:20pm",
+          "track": "Prema",
+          "artist": "Alice Coltrane",
+          "album": "Transfiguration",
+          "label": "Warner"
+        },
+        {
+          "time": "10:32pm",
+          "track": "Stranded",
+          "artist": "Roy Hargrove",
+          "album": "BERN",
+          "label": "Time Traveler Recordings"
+        },
+        {
+          "time": "10:48pm",
+          "track": "Batuki",
+          "artist": "Buster Williams",
+          "album": "Pinnacle",
+          "label": "Time Traveler Recordings/Muse"
+        },
+        {
+          "time": "11:02pm",
+          "track": "Ornithology",
+          "artist": "Pat Leary / Thomas Kelleher",
+          "album": "THEN",
+          "label": "https://ertalert.bandcamp.com/album/ornithology-interplay"
+        },
+        {
+          "time": "11:07pm",
+          "track": "Bop Be",
+          "artist": "Peter Erskine",
+          "album": "Peregrine",
+          "label": "Hard Wag"
+        },
+        {
+          "time": "11:14pm",
+          "track": "Endangered Species",
+          "artist": "Jamile & Vinicius Gomes",
+          "album": "Boundless Species",
+          "label": "La Reserve"
+        },
+        {
+          "time": "11:19pm",
+          "track": "Maestro",
+          "artist": "Hurtmold",
+          "album": "Maestro",
+          "label": "Solo Sesc"
+        },
+        {
+          "time": "11:27pm",
+          "track": "Deixar o Medo (feat. Anelis Assumpção)",
+          "artist": "Tietê",
+          "album": "Deixar o Medo",
+          "label": "Linha da Beira"
+        },
+        {
+          "time": "11:32pm",
+          "track": "Rockcurry",
+          "artist": "Mouse on Mars / Lee \"Scratch\" Perry",
+          "album": "Spatial, No Problem",
+          "label": "Domino"
+        },
+        {
+          "time": "11:35pm",
+          "track": "Begin From the Middle",
+          "artist": "Alister Spence",
+          "album": "Always Ever",
+          "label": "Alister Spence Music"
+        },
+        {
+          "time": "11:43pm",
+          "track": "Do You Know What It Means to Miss New Orleans?",
+          "artist": "Jesse Davis",
+          "album": "Reflections",
+          "label": "Cellar Music Group"
+        },
+        {
+          "time": "11:53pm",
+          "track": "Skyrim",
+          "artist": "Black Nile",
+          "album": "Indigo Garden",
+          "label": "Mass MOCA"
+        }
+      ]
+    },
+    {
+      "id": "69574",
+      "url": "https://xray.fm/broadcasts/69574",
+      "title": "On The Corner 099",
+      "air_date": "3-31-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_033126_ep099.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Mr. Pastorius",
+          "artist": "Miles Davis",
+          "album": "Amandla",
+          "label": "Columbia"
+        },
+        {
+          "time": "10:05pm",
+          "track": "Donna Lee",
+          "artist": "Jaco Pastorius",
+          "album": "Jaco Pastorius",
+          "label": "Epic"
+        },
+        {
+          "time": "10:08pm",
+          "track": "Donna Lee",
+          "artist": "Charlie Parker",
+          "album": "The Complete Dial & Savoy Master Takes",
+          "label": "Savoy"
+        },
+        {
+          "time": "10:10pm",
+          "track": "If I Need To Do This Again I'm Going To Throw A Fit",
+          "artist": "Dave Adewumi",
+          "album": "The Flame Beneath the Silence",
+          "label": "Giant Step Arts"
+        },
+        {
+          "time": "10:23pm",
+          "track": "L.A. Land",
+          "artist": "Janel Leppin",
+          "album": "Slowly Melting",
+          "label": "Cuneiform"
+        },
+        {
+          "time": "10:29pm",
+          "track": "The Collective",
+          "artist": "Ensemble Volcanic Ash",
+          "album": "Pluto in Aquarius",
+          "label": "Cuneiform"
+        },
+        {
+          "time": "10:34pm",
+          "track": "Waiting For the Raptor",
+          "artist": "Wendy Eisenberg / Anthony Pirog",
+          "album": "Don't Forget Your Guitar",
+          "label": "AGS Recordings"
+        },
+        {
+          "time": "10:39pm",
+          "track": "Vanity Paradox",
+          "artist": "Wendy Eisenberg",
+          "album": "Wendy Eisenberg",
+          "label": "Joyful Noise"
+        },
+        {
+          "time": "10:46pm",
+          "track": "On The Horizon",
+          "artist": "Bill Orcutt Guitar Quartet",
+          "album": "Four Guitars Live",
+          "label": "Palilalia"
+        },
+        {
+          "time": "10:57pm",
+          "track": "Is left alone",
+          "artist": "Bill Orcutt",
+          "album": "Music in Continuous Motion",
+          "label": "Palilalia"
+        },
+        {
+          "time": "11:02pm",
+          "track": "Chez Hanny",
+          "artist": "Loren Stillman",
+          "album": "Seer",
+          "label": "Newvelle"
+        },
+        {
+          "time": "11:06pm",
+          "track": "Dream Archive",
+          "artist": "Craig Taborn",
+          "album": "Dream Archive",
+          "label": "ECM"
+        },
+        {
+          "time": "11:17pm",
+          "track": "Under the Aurora Sky",
+          "artist": "Tomeka Reid Quartet",
+          "album": "dance! skip! hop!",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "11:29pm",
+          "track": "Unreliable Narrator",
+          "artist": "James Ilgenfritz / Thomas Buckner",
+          "album": "Automatic Thinking",
+          "label": "Infrequent Seams"
+        },
+        {
+          "time": "11:32pm",
+          "track": "Kaleidoscope Point",
+          "artist": "Lukas Ligeti",
+          "album": "Notebook",
+          "label": "New World"
+        }
+      ]
+    },
+    {
+      "id": "69456",
+      "url": "https://xray.fm/broadcasts/69456",
+      "title": "On The Corner 098",
+      "air_date": "3-24-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_032426_ep098.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Ascension, Edition II, Pt. 2",
+          "artist": "John Coltrane",
+          "album": "Ascension",
+          "label": "Impulse"
+        },
+        {
+          "time": "10:21pm",
+          "track": "Abstrutions",
+          "artist": "Max Roach",
+          "album": "Members, Don't Git Weary",
+          "label": "Atlantic"
+        },
+        {
+          "time": "10:25pm",
+          "track": "Abstrutions",
+          "artist": "Tyshawn Sorey",
+          "album": "Members...Don't!",
+          "label": "Pi Recordings"
+        },
+        {
+          "time": "10:38pm",
+          "track": "The Return",
+          "artist": "Adam O'Farrill",
+          "album": "Elephant",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "10:52pm",
+          "track": "Valley Song",
+          "artist": "Shalosh",
+          "album": "What Are We Made Of",
+          "label": "ACT"
+        },
+        {
+          "time": "10:57pm",
+          "track": "The Miracle Is In Us",
+          "artist": "Aubrey Johnson",
+          "album": "The Lively Air",
+          "label": "Greenleaf Music"
+        },
+        {
+          "time": "11:05pm",
+          "track": "Averse",
+          "artist": "Brian Landus",
+          "album": "Just When You Think You Know",
+          "label": "BlueLand/Palmetto"
+        },
+        {
+          "time": "11:12pm",
+          "track": "Viagem de Trem Part. JOCA",
+          "artist": "Neves E Silva",
+          "album": "Ladeiras De Santa Teresa",
+          "label": "Far Out Recordings"
+        },
+        {
+          "time": "11:17pm",
+          "track": "Ghazulu",
+          "artist": "Amir ElSaffar",
+          "album": "New Quartet Live at Pierre Boulez Saal",
+          "label": "Maqām"
+        },
+        {
+          "time": "11:27pm",
+          "track": "Who Does She Hope To Be?",
+          "artist": "Matthew Stevens",
+          "album": "Matthew Steven",
+          "label": "Candid"
+        },
+        {
+          "time": "11:32pm",
+          "track": "Who Does She Hope To Be?",
+          "artist": "Sonny Sharrock",
+          "album": "Ask the Ages",
+          "label": "Island"
+        },
+        {
+          "time": "11:37pm",
+          "track": "A Brighter Nowhere",
+          "artist": "Max Kutner",
+          "album": "Rogue Lash",
+          "label": "Orenda"
+        },
+        {
+          "time": "11:47pm",
+          "track": "Keep Going (feat. MOTHERBOARD)",
+          "artist": "Irreversible Entanglements",
+          "album": "Future Present Past",
+          "label": "Impulse!"
+        },
+        {
+          "time": "11:54pm",
+          "track": "The Pass",
+          "artist": "Fergus McCreadle",
+          "album": "The Shieling Companion Pieces",
+          "label": "Edition"
+        }
+      ]
+    },
+    {
+      "id": "69325",
+      "url": "https://xray.fm/broadcasts/69325",
+      "title": "On The Corner 097",
+      "air_date": "3-17-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_031726_ep097.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Circle in the Round",
+          "artist": "Miles Davis",
+          "album": "Circle in the Round",
+          "label": "Columbia"
+        },
+        {
+          "time": "10:26pm",
+          "track": "Circle in the Round",
+          "artist": "Gregory Hutchinson",
+          "album": "Kind of Now - The Pulse of Miles Davis",
+          "label": "Warner Music"
+        },
+        {
+          "time": "10:32pm",
+          "track": "Eyelid",
+          "artist": "Claire Dickson",
+          "album": "Balance",
+          "label": "New Amsterdam"
+        },
+        {
+          "time": "10:37pm",
+          "track": "Traktens Tristess",
+          "artist": "Yttling Jazz",
+          "album": "Illegal Hit (Out of Bounds)",
+          "label": "YEAR0001"
+        },
+        {
+          "time": "10:44pm",
+          "track": "Make it So",
+          "artist": "Javier Nero Jazz Orchestra",
+          "album": "Alkebulan",
+          "label": "Outside In Music"
+        },
+        {
+          "time": "10:55pm",
+          "track": "CHARANAM",
+          "artist": "Immanuel Wilkins",
+          "album": "Live at the Village Vanguard Vol. 1",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:15pm",
+          "track": "Supersister",
+          "artist": "Mark Turner",
+          "album": "Patternmaster",
+          "label": "ECM"
+        },
+        {
+          "time": "11:27pm",
+          "track": "George and Dee (dedicated to George and Dee Gamble)",
+          "artist": "GEORGE",
+          "album": "Looking for Consonance",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "11:31pm",
+          "track": "El inicio es cuestión de suerte",
+          "artist": "Mabe Fratti / Bill Orcutt",
+          "album": "Almost Waking",
+          "label": "Unheard of Hope"
+        },
+        {
+          "time": "11:34pm",
+          "track": "Bortom Bergen",
+          "artist": "Joel Lyssarides",
+          "album": "Late on Earth",
+          "label": "ACT Music"
+        },
+        {
+          "time": "11:41pm",
+          "track": "Hold my Halo (Paint me Perfectly)",
+          "artist": "New Jazz Underground",
+          "album": "Hoodies",
+          "label": "Artwork"
+        },
+        {
+          "time": "11:46pm",
+          "track": "Vibrate Higher (ft. MOTHERBOARD)",
+          "artist": "Irreversible Entanglements",
+          "album": "Future Present Past",
+          "label": "Impulse!"
+        },
+        {
+          "time": "11:52pm",
+          "track": "Duo with Joe McPhee - 2",
+          "artist": "Aynan Fanous",
+          "album": "Brooklyn Stories",
+          "label": "Infrequent Seams"
+        }
+      ]
+    },
+    {
+      "id": "69201",
+      "url": "https://xray.fm/broadcasts/69201",
+      "title": "On The Corner 096",
+      "air_date": "3-10-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_031026_ep096.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "After The Rain",
+          "artist": "John Coltrane",
+          "album": "Impressions",
+          "label": "Impulse"
+        },
+        {
+          "time": "10:04pm",
+          "track": "After The Rain",
+          "artist": "Curtis Stewart",
+          "album": "Of Power",
+          "label": "Bright Shiny Things"
+        },
+        {
+          "time": "10:07pm",
+          "track": "After The Rain",
+          "artist": "Teodross Avery",
+          "album": "After The Rain: A Night For Coltrane",
+          "label": "Tompkins Square"
+        },
+        {
+          "time": "10:11pm",
+          "track": "Fantasmas",
+          "artist": "Caleb Wheeler Curtis",
+          "album": "Ritual",
+          "label": "Chill Tone"
+        },
+        {
+          "time": "10:20pm",
+          "track": "Colonel Spuds Surrender",
+          "artist": "Mike Murray Trio",
+          "album": "Revenge of the Gene Keys",
+          "label": "PJCE"
+        },
+        {
+          "time": "10:25pm",
+          "track": "Realities Blossom",
+          "artist": "Andrew MacKelvie's Many Worlds",
+          "album": "Andrew MacKelvie's Many Worlds",
+          "label": "Watch That Ends the Night"
+        },
+        {
+          "time": "10:33pm",
+          "track": "Take Heart",
+          "artist": "Matthew Stevens",
+          "album": "Matthew Stevens",
+          "label": "Candid"
+        },
+        {
+          "time": "10:39pm",
+          "track": "Convocation",
+          "artist": "Daniel Carter / Steven Hirsh",
+          "album": "Convocation",
+          "label": "Mahakala Music"
+        },
+        {
+          "time": "10:58pm",
+          "track": "Casual - Lee",
+          "artist": "Walter Smith III",
+          "album": "Twio, Vol. 2",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:06pm",
+          "track": "White Butterfly",
+          "artist": "Matt Dwonszyk",
+          "album": "Live at the Side Door",
+          "label": "self-released"
+        },
+        {
+          "time": "11:16pm",
+          "track": "Witching Hour",
+          "artist": "Rosa Brunello",
+          "album": "We Are Surging Waters",
+          "label": "Domanda Music"
+        },
+        {
+          "time": "11:19pm",
+          "track": "Sections 74-87",
+          "artist": "Metropolis Ensemble, Erik Hall, Sandbox Percussion",
+          "album": "Canto Ostinato",
+          "label": "Western Vinyl"
+        },
+        {
+          "time": "11:28pm",
+          "track": "Olha Maria",
+          "artist": "Ben Wendel",
+          "album": "BaRcoDe",
+          "label": "Edition"
+        },
+        {
+          "time": "11:38pm",
+          "track": "But Beautiful",
+          "artist": "Brian Lynch Quintet",
+          "album": "Torch Bearers",
+          "label": "Hollistic MusicWorks"
+        },
+        {
+          "time": "11:49pm",
+          "track": "A Room Full of Confusion",
+          "artist": "Willy Rodriguez",
+          "album": "In The Unknown (I Will Find You)",
+          "label": "Sunnyside"
+        }
+      ]
+    },
+    {
+      "id": "69061",
+      "url": "https://xray.fm/broadcasts/69061",
+      "title": "On The Corner 095",
+      "air_date": "3-3-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_030326_ep0095.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Milestones",
+          "artist": "Charlie Parker / Miles Davis",
+          "album": "On Savoy",
+          "label": "Craft Recordings"
+        },
+        {
+          "time": "10:02pm",
+          "track": "Milestones",
+          "artist": "Miles Davis",
+          "album": "The Complete Live at the Plugged Nickel 1965",
+          "label": "Columbia"
+        },
+        {
+          "time": "10:19pm",
+          "track": "Waltz For Debby",
+          "artist": "John Pizzarelli",
+          "album": "Dear Mr. Bennett",
+          "label": "Green Hill Music"
+        },
+        {
+          "time": "10:22pm",
+          "track": "You Must Believe In Spring",
+          "artist": "Bill Evans / Tony Bennett",
+          "album": "Together Again",
+          "label": "Columbia"
+        },
+        {
+          "time": "10:27pm",
+          "track": "Who Can I Turn To?",
+          "artist": "Bill Evans",
+          "album": "Bill Evans at the BBC",
+          "label": "Elemental"
+        },
+        {
+          "time": "10:34pm",
+          "track": "Nardis",
+          "artist": "Michel Pettruciani",
+          "album": "Kuumbwa",
+          "label": "Elemental"
+        },
+        {
+          "time": "10:47pm",
+          "track": "Vital Spark",
+          "artist": "Dave Holland/Norma Winstone/London Vocal Project",
+          "album": "Vital Spark",
+          "label": "Edition"
+        },
+        {
+          "time": "10:54pm",
+          "track": "Seven Dials Triptychon",
+          "artist": "Guido Spannocchi",
+          "album": "Kammermusik",
+          "label": "AudioGuido"
+        },
+        {
+          "time": "10:59pm",
+          "track": "Frost Bloom",
+          "artist": "Marta Sánchez",
+          "album": "For the Space You Left",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "11:03pm",
+          "track": "parallels",
+          "artist": "Amalie Dahl's Dafnie EXTENDED",
+          "album": "Live at Moldejazz",
+          "label": "Sonic Transmissions"
+        },
+        {
+          "time": "11:18pm",
+          "track": "When We Go",
+          "artist": "Bill Frisell",
+          "album": "In My Dreams",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:25pm",
+          "track": "Taqsim For Guitar",
+          "artist": "Marisa Anderson",
+          "album": "The Anthology of UnAmerican Folk Music",
+          "label": "Thrill Jockey"
+        },
+        {
+          "time": "11:30pm",
+          "track": "Safe Travels",
+          "artist": "Max Kutner",
+          "album": "Rogue Lash",
+          "label": "Orenda"
+        },
+        {
+          "time": "11:38pm",
+          "track": "Cri de coeur (for Mark Hollis)",
+          "artist": "Stephen Emmer",
+          "album": "Asymmetrical Dot",
+          "label": "Electric Fairytale Recordings"
+        },
+        {
+          "time": "11:44pm",
+          "track": "Is",
+          "artist": "Dave Adewumi",
+          "album": "The Flame Beneath the Silence",
+          "label": "Giant Step Arts"
+        },
+        {
+          "time": "11:49pm",
+          "track": "Repentance",
+          "artist": "Joel Ross",
+          "album": "Gospel Music",
+          "label": "Blue Note"
+        }
+      ]
+    },
+    {
+      "id": "68954",
+      "url": "https://xray.fm/broadcasts/68954",
+      "title": "On The Corner 094",
+      "air_date": "2-24-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_022426_ep094.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Afro Blue",
+          "artist": "John Coltrane",
+          "album": "Live at Birdland",
+          "label": "Impulse"
+        },
+        {
+          "time": "10:11pm",
+          "track": "Afro Blue",
+          "artist": "Cal Tjader",
+          "album": "Latino con Cal Tjader",
+          "label": "Fantasy"
+        },
+        {
+          "time": "10:17pm",
+          "track": "La Murga Pana Mena",
+          "artist": "Cal Tjader",
+          "album": "Primo",
+          "label": "Fantasy"
+        },
+        {
+          "time": "10:20pm",
+          "track": "La Murga",
+          "artist": "Willie Colón canta Héctor Lavoe",
+          "album": "Asalto Navideño",
+          "label": "Fania"
+        },
+        {
+          "time": "10:28pm",
+          "track": "El Cantante",
+          "artist": "Héctor Lavoe",
+          "album": "Comedia",
+          "label": "Fania"
+        },
+        {
+          "time": "10:38pm",
+          "track": "Se Acaba Este Mundo",
+          "artist": "Willie Colón",
+          "album": "The Hustler",
+          "label": "Fania"
+        },
+        {
+          "time": "10:43pm",
+          "track": "Timbalero",
+          "artist": "Willie Colón",
+          "album": "El Juicio",
+          "label": "Fania"
+        },
+        {
+          "time": "10:51pm",
+          "track": "Maria Lionza",
+          "artist": "Rubén Blades / Willie Colón",
+          "album": "Siembra",
+          "label": "Fania"
+        },
+        {
+          "time": "10:58pm",
+          "track": "Usted Abusó",
+          "artist": "Celia Cruz / Willie Colón",
+          "album": "Only They Could Have Made This Album",
+          "label": "Vaya"
+        },
+        {
+          "time": "11:02pm",
+          "track": "Guaracha",
+          "artist": "Willie Colón",
+          "album": "The Good, The Bad, The Ugly",
+          "label": "Fania"
+        },
+        {
+          "time": "11:07pm",
+          "track": "Che Che Colé",
+          "artist": "Willie Colón",
+          "album": "Crime Pays",
+          "label": "Fania"
+        },
+        {
+          "time": "11:11pm",
+          "track": "Che Che Colé Makossa",
+          "artist": "Antibalas Afrobeat Orchestra",
+          "album": "Daptone Gold",
+          "label": "Daptone"
+        },
+        {
+          "time": "11:15pm",
+          "track": "Vigilante",
+          "artist": "Willie Colón / Hector Lavoe",
+          "album": "Vigilante",
+          "label": "Fania"
+        },
+        {
+          "time": "11:27pm",
+          "track": "Sigue Feliz",
+          "artist": "Willie Colón",
+          "album": "La Gran Fuga",
+          "label": "Fania"
+        },
+        {
+          "time": "11:31pm",
+          "track": "Periodico de Ayer",
+          "artist": "Hector Lavoe",
+          "album": "De Ti Depende",
+          "label": "Fania"
+        },
+        {
+          "time": "11:38pm",
+          "track": "Carmelo, Despues... (El Viejo DaSilva)",
+          "artist": "Ruben Blades",
+          "album": "Maestra Vida (Segunda Parte)",
+          "label": "Fania"
+        },
+        {
+          "time": "11:47pm",
+          "track": "Aguanilé",
+          "artist": "Willie Colón",
+          "album": "Deja Vu",
+          "label": "Fania"
+        },
+        {
+          "time": "11:53pm",
+          "track": "El Dia de Mi Suerte",
+          "artist": "Willie Colón / Hector Lavoe",
+          "album": "Lo Mato",
+          "label": "Fania"
+        }
+      ]
+    },
+    {
+      "id": "68809",
+      "url": "https://xray.fm/broadcasts/68809",
+      "title": "On The Corner 093",
+      "air_date": "2-17-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_021726_ep093.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Teo",
+          "artist": "Miles Davis",
+          "album": "Someday My Prince Will Come",
+          "label": "Columbia"
+        },
+        {
+          "time": "10:09pm",
+          "track": "Teo",
+          "artist": "SFJAZZ Collective",
+          "album": "Music of Miles Davis & Original Compositions: SFJazz Center 2016",
+          "label": "SFJAZZ"
+        },
+        {
+          "time": "10:17pm",
+          "track": "Apt. 3C",
+          "artist": "Alex Wintz",
+          "album": "Collage",
+          "label": "Outside In Music"
+        },
+        {
+          "time": "10:26pm",
+          "track": "Character Box",
+          "artist": "Dave Stapleton",
+          "album": "Quiet Fire",
+          "label": "Edition"
+        },
+        {
+          "time": "10:31pm",
+          "track": "The New Way",
+          "artist": "Slowly Rolling Camera / Caoilfhionn Rose",
+          "album": "The New Way",
+          "label": "Edition"
+        },
+        {
+          "time": "10:36pm",
+          "track": "Fall Into Place",
+          "artist": "Caoilfhionn Rose",
+          "album": "Constellation",
+          "label": "Gondwana"
+        },
+        {
+          "time": "10:42pm",
+          "track": "The Road Less Traveled",
+          "artist": "Chip Wickham",
+          "album": "The Eternal Now",
+          "label": "Gondwana"
+        },
+        {
+          "time": "10:47pm",
+          "track": "Expansions",
+          "artist": "Mark Adams",
+          "album": "This is Neo-Soul",
+          "label": "DownJazz"
+        },
+        {
+          "time": "10:53pm",
+          "track": "Don't Stop The Feeling",
+          "artist": "Roy Ayers",
+          "album": "No Stranger To Love",
+          "label": "Polydor"
+        },
+        {
+          "time": "11:01pm",
+          "track": "For Carl",
+          "artist": "Leroy Vinnegar Quintet",
+          "album": "Leroy Walks Again!!",
+          "label": "Contemporary"
+        },
+        {
+          "time": "11:10pm",
+          "track": "Doom Loops",
+          "artist": "Devin Gray / Andrea Parkins / Frank Gratkowski",
+          "album": "Hz of Gold",
+          "label": "Rataplan"
+        },
+        {
+          "time": "11:12pm",
+          "track": "Cosmic Fire",
+          "artist": "Khôra / Mas Aya",
+          "album": "Primordial Mind",
+          "label": "Marionette"
+        },
+        {
+          "time": "11:18pm",
+          "track": "Capullo",
+          "artist": "Mas Aya",
+          "album": "Still, Flowing",
+          "label": "Shika Shika"
+        },
+        {
+          "time": "11:25pm",
+          "track": "Sifting, Shifting",
+          "artist": "Nicole McCabe",
+          "album": "Color Theory",
+          "label": "self-released"
+        },
+        {
+          "time": "11:34pm",
+          "track": "Driva'man",
+          "artist": "Teri Lyne Carrington / Christie Dashiell",
+          "album": "We Insist 2025!",
+          "label": "Candid"
+        },
+        {
+          "time": "11:42pm",
+          "track": "Tears for Johannesburg",
+          "artist": "Max Roach",
+          "album": "We Insist! Max Roach's Freedom Now Suite",
+          "label": "Candid"
+        },
+        {
+          "time": "11:52pm",
+          "track": "Don't Forget Your Guitar",
+          "artist": "Ben Monder / Dave Tronzo",
+          "album": "Don't Forget Your Guitar",
+          "label": "AGS Recordings"
+        }
+      ]
+    },
+    {
+      "id": "68688",
+      "url": "https://xray.fm/broadcasts/68688",
+      "title": "On The Corner 092",
+      "air_date": "2-10-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_021026_episode_092.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "To Be",
+          "artist": "John Coltrane",
+          "album": "Expression",
+          "label": "Impulse"
+        },
+        {
+          "time": "10:16pm",
+          "track": "Flowers",
+          "artist": "Georgia Anne Muldrow / Harriet Tubman",
+          "album": "Electrical Field of Love",
+          "label": "Pi Recordings"
+        },
+        {
+          "time": "10:20pm",
+          "track": "Patterns from Nature: II. Flow",
+          "artist": "Quinsin Naschoff",
+          "album": "Patterns from Nature",
+          "label": "Whirlwind Recordings"
+        },
+        {
+          "time": "10:32pm",
+          "track": "Air",
+          "artist": "Asher Gamedze",
+          "album": "A Semblance: Of Return",
+          "label": "Northern Spy"
+        },
+        {
+          "time": "10:39pm",
+          "track": "in flux",
+          "artist": "Amalie Dahl and Dafnie EXTENDED",
+          "album": "Live at Moldejazz",
+          "label": "Sonic Transmissions"
+        },
+        {
+          "time": "10:53pm",
+          "track": "Bitches Blues",
+          "artist": "Hedvig Mollestad Weejuns",
+          "album": "Bitches Blues",
+          "label": "Rune Grammophon"
+        },
+        {
+          "time": "11:01pm",
+          "track": "Nsa a W’oanye Edwuma, Ondzidzi",
+          "artist": "Ebo Taylor / Ali Shaheed Muhammad / Adrian Younge",
+          "album": "JID 022",
+          "label": "Jazz Is Dead"
+        },
+        {
+          "time": "11:06pm",
+          "track": "Amponsa",
+          "artist": "Ebo Taylor",
+          "album": "Ebo Taylor",
+          "label": "Strut"
+        },
+        {
+          "time": "11:13pm",
+          "track": "Yarn Spin",
+          "artist": "Triple Blind",
+          "album": "Cold Walk",
+          "label": "self-released"
+        },
+        {
+          "time": "11:19pm",
+          "track": "Dulcetly Now",
+          "artist": "Bentley Anderson",
+          "album": "Valence",
+          "label": "Digital Regress / Cost of Living"
+        },
+        {
+          "time": "11:26pm",
+          "track": "Hold on To Your Music",
+          "artist": "The Setting",
+          "album": "The Setting",
+          "label": "Loyal Label"
+        },
+        {
+          "time": "11:30pm",
+          "track": "Wor Jackie",
+          "artist": "Knats",
+          "album": "A Great Day in Newcastle",
+          "label": "Gearbox"
+        },
+        {
+          "time": "11:35pm",
+          "track": "Centrifuge",
+          "artist": "Noah Jackson",
+          "album": "Full Circle",
+          "label": "self-released"
+        },
+        {
+          "time": "11:43pm",
+          "track": "Just a Closer Walk With Thee",
+          "artist": "Ron Carter / Ricky Dillard",
+          "album": "Sweet, Sweet Spirit",
+          "label": "Blue Note / Motown Gospel"
+        },
+        {
+          "time": "11:50pm",
+          "track": "Trinity (Father, Son, and Holy Spirit)",
+          "artist": "Joel Ross",
+          "album": "Gospel Music",
+          "label": "Blue Note"
+        }
+      ]
+    },
+    {
+      "id": "68589",
+      "url": "https://xray.fm/broadcasts/68589",
+      "title": "On The Corner 091",
+      "air_date": "2-3-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner_020326_episode091.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Teo / Walkin'",
+          "artist": "Miles Davis",
+          "album": "Miles Davis at Carnegie Hall",
+          "label": "Columbia"
+        },
+        {
+          "time": "10:21pm",
+          "track": "dawn | pulse",
+          "artist": "Whitney Johnson / Lia Kohl / Macie Stewart",
+          "album": "BODY SOUND",
+          "label": "International Anthem"
+        },
+        {
+          "time": "10:27pm",
+          "track": "High Sky",
+          "artist": "Jasper Høiby's 3Elements",
+          "album": "Conversations of Hope",
+          "label": "Edition"
+        },
+        {
+          "time": "10:32pm",
+          "track": "Red Bend",
+          "artist": "WaSaBi Trio",
+          "album": "WaSaBi Trio",
+          "label": "577"
+        },
+        {
+          "time": "10:37pm",
+          "track": "Malach Ha-Sopher",
+          "artist": "Medeski Martin & Wood",
+          "album": "Zaebos: Book of Angels Volume 11",
+          "label": "Tzadik"
+        },
+        {
+          "time": "10:46pm",
+          "track": "Ride",
+          "artist": "Entre Amigos",
+          "album": "Joyful Foundation: The Music of Justin Copeland",
+          "label": "Entre Amigos"
+        },
+        {
+          "time": "10:53pm",
+          "track": "Deep Dive",
+          "artist": "Justin Copeland",
+          "album": "Live at the Iron Post",
+          "label": "1093795"
+        },
+        {
+          "time": "11:02pm",
+          "track": "Hues",
+          "artist": "Nicole McCabe",
+          "album": "Color Theory",
+          "label": "self-released"
+        },
+        {
+          "time": "11:08pm",
+          "track": "Thorns",
+          "artist": "Yvonne Rogers",
+          "album": "Seeds",
+          "label": "Relative Pitch"
+        },
+        {
+          "time": "11:11pm",
+          "track": "Pensées / Meditations",
+          "artist": "Guido Spannocchi",
+          "album": "Kammermusik",
+          "label": "AudioGuido"
+        },
+        {
+          "time": "11:16pm",
+          "track": "And Then There Were Vibes",
+          "artist": "James Larter",
+          "album": "Polarity",
+          "label": "self-released"
+        },
+        {
+          "time": "11:24pm",
+          "track": "Dream On",
+          "artist": "Nick Schofield",
+          "album": "Blue Hour",
+          "label": "Backward Music"
+        },
+        {
+          "time": "11:27pm",
+          "track": "Protoevangelium (The First Gospel)",
+          "artist": "Joel Ross",
+          "album": "Gospel Music",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:36pm",
+          "track": "The Flame Beneath the Silence",
+          "artist": "Dave Adewumi",
+          "album": "The Flame Beneath the Silence",
+          "label": "Giant Step Arts"
+        },
+        {
+          "time": "11:39pm",
+          "track": "Little Church",
+          "artist": "Melissa Aldana",
+          "album": "Filin",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:44pm",
+          "track": "Little Church",
+          "artist": "Miles Davis",
+          "album": "Live-Evil",
+          "label": "Columbia"
+        },
+        {
+          "time": "11:47pm",
+          "track": "Hermeto",
+          "artist": "Chicago Underground Duo",
+          "album": "Boca Negra",
+          "label": "Thrill Jockey"
+        },
+        {
+          "time": "11:52pm",
+          "track": "Dança do Pajé",
+          "artist": "Hermeto Pascoal",
+          "album": "Viajando Com O Som (The Lost '76 Vice-Versa Studio Session)",
+          "label": "Far Out Recordings"
+        }
+      ]
+    },
+    {
+      "id": "68491",
+      "url": "https://xray.fm/broadcasts/68491",
+      "title": "On The Corner 090",
+      "air_date": "1-27-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_012726.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Blue In Green",
+          "artist": "Miles Davis",
+          "album": "Kind of Blue",
+          "label": "Columbia"
+        },
+        {
+          "time": "10:05pm",
+          "track": "Blue In Green",
+          "artist": "Ralph Towner / Gary Burton",
+          "album": "Slide Show",
+          "label": "ECM"
+        },
+        {
+          "time": "10:10pm",
+          "track": "Nardis",
+          "artist": "Ralph Towner",
+          "album": "Solo Concert",
+          "label": "ECM"
+        },
+        {
+          "time": "10:20pm",
+          "track": "The Moors",
+          "artist": "Weather Report",
+          "album": "I Sing The Body Electric",
+          "label": "Columbia"
+        },
+        {
+          "time": "10:24pm",
+          "track": "Nimbus",
+          "artist": "Ralph Towner",
+          "album": "Solstice",
+          "label": "ECM"
+        },
+        {
+          "time": "10:31pm",
+          "track": "Thistledown",
+          "artist": "Bill Bruford",
+          "album": "If Summer Has Its Ghosts",
+          "label": "DGM"
+        },
+        {
+          "time": "10:35pm",
+          "track": "Chehalis and Other Voices",
+          "artist": "Paul Winter Consort",
+          "album": "Icarus",
+          "label": "Epic"
+        },
+        {
+          "time": "10:42pm",
+          "track": "Slumber Song",
+          "artist": "Oregon",
+          "album": "Friends",
+          "label": "Vanguard"
+        },
+        {
+          "time": "10:48pm",
+          "track": "Yellow Bell",
+          "artist": "Oregon",
+          "album": "Out of the Woods",
+          "label": "Elektra"
+        },
+        {
+          "time": "10:55pm",
+          "track": "Amaryllis",
+          "artist": "Oregon",
+          "album": "Crossing",
+          "label": "ECM"
+        },
+        {
+          "time": "11:05pm",
+          "track": "I Don't Know",
+          "artist": "Duke Pearson",
+          "album": "I Don't Care Who Knows It",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:12pm",
+          "track": "Café / Sapain / Dança Solitária No. 2 / Baião Malandro",
+          "artist": "Egberto Gismonti",
+          "album": "Sol do meio dia",
+          "label": "ECM"
+        },
+        {
+          "time": "11:37pm",
+          "track": "3/4 in the Afternoon",
+          "artist": "Kenny Wheeler",
+          "album": "Deer Wan",
+          "label": "ECM"
+        },
+        {
+          "time": "11:43pm",
+          "track": "Staircase",
+          "artist": "Ralph Towner / John Abercrombie",
+          "album": "Sargasso Sea",
+          "label": "ECM"
+        },
+        {
+          "time": "11:50pm",
+          "track": "Flow",
+          "artist": "Ralph Towner",
+          "album": "At First Light",
+          "label": "ECM"
+        },
+        {
+          "time": "11:55pm",
+          "track": "Suite 3x12: I",
+          "artist": "Ralph Towner",
+          "album": "Trios / Solos",
+          "label": "ECM"
+        }
+      ]
+    },
+    {
+      "id": "68371",
+      "url": "https://xray.fm/broadcasts/68371",
+      "title": "On The Corner 089",
+      "air_date": "1-20-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_012026.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Straight, No Chaser",
+          "artist": "Miles Davis",
+          "album": "The Complete Miles Davis featuring John Coltrane",
+          "label": "Sony"
+        },
+        {
+          "time": "10:08pm",
+          "track": "Be Patient",
+          "artist": "Joel Ross",
+          "album": "Gospel Music",
+          "label": "Blue Note"
+        },
+        {
+          "time": "10:12pm",
+          "track": "Mimo",
+          "artist": "Ben Wendel",
+          "album": "BaRcoDe",
+          "label": "Edition"
+        },
+        {
+          "time": "10:21pm",
+          "track": "The Number of the Beast is 666",
+          "artist": "Simon Hanes",
+          "album": "GARGANTUA",
+          "label": "Pyroclastic"
+        },
+        {
+          "time": "10:25pm",
+          "track": "Sea Tryptich",
+          "artist": "Adam O'Farrill",
+          "album": "ELEPHANT",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "10:35pm",
+          "track": "Every Circle a Moon",
+          "artist": "Ishmael Ali",
+          "album": "Burn the Plastic, Sell the Copper",
+          "label": "Amalgam Music"
+        },
+        {
+          "time": "10:45pm",
+          "track": "Suuru",
+          "artist": "Michael League / Pedrito Martinez / Antonio Sánchez",
+          "album": "Elipsis",
+          "label": "GroundUP"
+        },
+        {
+          "time": "10:51pm",
+          "track": "Spring Theme",
+          "artist": "Fabiano do Nascimento & Vittor Santos Orchestra",
+          "album": "Vila",
+          "label": "Far Out Recordings"
+        },
+        {
+          "time": "10:56pm",
+          "track": "House of Alice",
+          "artist": "Danny Scott Lane",
+          "album": "House of Alice",
+          "label": "Records We Release"
+        },
+        {
+          "time": "10:59pm",
+          "track": "Magic Touch",
+          "artist": "Nick Schofield",
+          "album": "Blue Hour",
+          "label": "Backward Music"
+        },
+        {
+          "time": "11:04pm",
+          "track": "Shhh / Peaceful",
+          "artist": "Miles Davis",
+          "album": "In A Silent Way",
+          "label": "Columbia"
+        },
+        {
+          "time": "11:23pm",
+          "track": "Last Call",
+          "artist": "Ben Rosenblum",
+          "album": "The Longest Way Round",
+          "label": "One Trick Dog"
+        },
+        {
+          "time": "11:28pm",
+          "track": "Hymn VI",
+          "artist": "David August",
+          "album": "Hymns",
+          "label": "99Chants"
+        },
+        {
+          "time": "11:31pm",
+          "track": "little bug on the water",
+          "artist": "Concrete Sun",
+          "album": "the mundane uncanny",
+          "label": "Infrequent Seams"
+        },
+        {
+          "time": "11:36pm",
+          "track": "Gate",
+          "artist": "Rachel Beetz",
+          "album": "Tone Keepers",
+          "label": "Outside Time"
+        },
+        {
+          "time": "11:43pm",
+          "track": "War (of Maneuver)",
+          "artist": "Asher Gamedze",
+          "album": "A Semblance: Of Return",
+          "label": "Northern Spy"
+        },
+        {
+          "time": "11:48pm",
+          "track": "Prado",
+          "artist": "Yamila",
+          "album": "Noor",
+          "label": "Umor Rex"
+        },
+        {
+          "time": "11:52pm",
+          "track": "University of Culture",
+          "artist": "Wilson Tanner Smith",
+          "album": "Perptual Guest",
+          "label": "Sawyer Editions"
+        }
+      ]
+    },
+    {
+      "id": "68113",
+      "url": "https://xray.fm/broadcasts/68113",
+      "title": "On The Corner 088",
+      "air_date": "1-6-2026",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_010626.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "On Green Dolphin Street",
+          "artist": "Miles Davis",
+          "album": "Jazz Track",
+          "label": "Columbia"
+        },
+        {
+          "time": "10:10pm",
+          "track": "Hello to the Wind",
+          "artist": "Joe Chambers",
+          "album": "Double Exposure",
+          "label": "Time Traveler"
+        },
+        {
+          "time": "10:18pm",
+          "track": "Soulfully I Love You (Black Spiritual of Love)",
+          "artist": "Woody Shaw",
+          "album": "Love Dance",
+          "label": "Time Traveler"
+        },
+        {
+          "time": "10:29pm",
+          "track": "La Señora Marcela",
+          "artist": "Tremendous Aron / Moritz Land",
+          "album": "single",
+          "label": "Hip Dozer"
+        },
+        {
+          "time": "10:32pm",
+          "track": "Hovering",
+          "artist": "Luke Marantz / Simon Jermyn",
+          "album": "Echoes",
+          "label": "Chill Tone"
+        },
+        {
+          "time": "10:37pm",
+          "track": "Three (Former) Self-Portraits",
+          "artist": "Luke Marantz",
+          "album": "Embers",
+          "label": "Afterworld"
+        },
+        {
+          "time": "10:44pm",
+          "track": "Mobile (for Ben Goldberg)",
+          "artist": "Simon Jermyn",
+          "album": "Processes",
+          "label": "self-released"
+        },
+        {
+          "time": "10:47pm",
+          "track": "WEREWOLF TAKE CARE, TRACK 1",
+          "artist": "Ben Goldberg",
+          "album": "WEREWOLF TAKE CARE",
+          "label": "BAG Productions"
+        },
+        {
+          "time": "10:55pm",
+          "track": "Dandelion",
+          "artist": "Ella Grace",
+          "album": "Figments",
+          "label": "Shifting Paradigm"
+        },
+        {
+          "time": "11:01pm",
+          "track": "Body & Soul",
+          "artist": "Christopher Brown Quartet",
+          "album": "Sole City",
+          "label": "PJCE"
+        },
+        {
+          "time": "11:09pm",
+          "track": "Lazarus",
+          "artist": "David Bowie",
+          "album": "Blackstar",
+          "label": "Columbia"
+        },
+        {
+          "time": "11:15pm",
+          "track": "Stately",
+          "artist": "Donny McCaslin",
+          "album": "Lullaby For the Lost",
+          "label": "Edition"
+        },
+        {
+          "time": "11:24pm",
+          "track": "I Am That I Am",
+          "artist": "Mario Lino Stancati",
+          "album": "The Third Mind: A Sonic Tribute to the Dreamachine",
+          "label": "Unexplained Sounds Group"
+        },
+        {
+          "time": "11:28pm",
+          "track": "Ramaje",
+          "artist": "Gabriel Vicéns",
+          "album": "Niebla",
+          "label": "Clepsydra"
+        },
+        {
+          "time": "11:43pm",
+          "track": "Improvisation 4",
+          "artist": "Mike Roelofs",
+          "album": "Live at Café de Klep",
+          "label": "self-released"
+        },
+        {
+          "time": "11:52pm",
+          "track": "(one)",
+          "artist": "Ivo Perelman / Nate Wooley",
+          "album": "Polarity 4",
+          "label": "Burning Ambulance"
+        }
+      ]
+    },
+    {
+      "id": "67985",
+      "url": "https://xray.fm/broadcasts/67985",
+      "title": "On The Corner 087",
+      "air_date": "12-30-2025",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_123025.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "D.C. Got Pocket",
+          "artist": "James Brandon Lewis Trio",
+          "album": "Apple Cores",
+          "label": "Anti-"
+        },
+        {
+          "time": "10:05pm",
+          "track": "Brân Swît",
+          "artist": "Don Leisure",
+          "album": "Tyrchu Sain",
+          "label": "Sain"
+        },
+        {
+          "time": "10:09pm",
+          "track": "Click",
+          "artist": "Damon Locks",
+          "album": "List of Demands",
+          "label": "International Anthem"
+        },
+        {
+          "time": "10:16pm",
+          "track": "Attention",
+          "artist": "Luke Stewart/Silt Remembrance Ensemble",
+          "album": "The Order",
+          "label": "Cuneiform"
+        },
+        {
+          "time": "10:28pm",
+          "track": "We call it a river",
+          "artist": "Bill Orcutt/Chris Corsano",
+          "album": "Empty Bottle",
+          "label": "Palilalia"
+        },
+        {
+          "time": "10:35pm",
+          "track": "Amen Family",
+          "artist": "Cyrus Pireh",
+          "album": "Thank You, Guitar",
+          "label": "Palilalia"
+        },
+        {
+          "time": "10:44pm",
+          "track": "Tanssi Unessa",
+          "artist": "Sly Pig",
+          "album": "War",
+          "label": "self-released"
+        },
+        {
+          "time": "11:04pm",
+          "track": "Build a Dream",
+          "artist": "Banana Hammond",
+          "album": "Hard Music",
+          "label": "PJCE"
+        },
+        {
+          "time": "11:11pm",
+          "track": "Body and Soul",
+          "artist": "Christopher Brown Quartet",
+          "album": "Sole City",
+          "label": "PJCE"
+        },
+        {
+          "time": "11:19pm",
+          "track": "Sankofa",
+          "artist": "The Cosmic Tones Research Trio",
+          "album": "The Cosmic Tones Research Trio",
+          "label": "Mississippi"
+        },
+        {
+          "time": "11:26pm",
+          "track": "Play Bell (For Nick)",
+          "artist": "Ches Smith",
+          "album": "Clone Row",
+          "label": "Otherly Love"
+        },
+        {
+          "time": "11:32pm",
+          "track": "BACK THAT AZZ UP",
+          "artist": "Kassa Overall",
+          "album": "CREAM",
+          "label": "Warp"
+        },
+        {
+          "time": "11:38pm",
+          "track": "Square The Circle",
+          "artist": "Marshall Allen's Ghost Horizons",
+          "album": "Live In Philadelphia",
+          "label": "Otherly Love Records/Ars Nova Workshop"
+        },
+        {
+          "time": "11:49pm",
+          "track": "Correspondances",
+          "artist": "Laurie Torres",
+          "album": "Aprés coup",
+          "label": "Tonal Union"
+        },
+        {
+          "time": "11:54pm",
+          "track": "Deep Blue",
+          "artist": "Brendan Moeller",
+          "album": "Blue Moon",
+          "label": "ESP Institute"
+        }
+      ]
+    },
+    {
+      "id": "67879",
+      "url": "https://xray.fm/broadcasts/67879",
+      "title": "On The Corner 086",
+      "air_date": "12-23-2025",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_122325.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Christmas In Heaven",
+          "artist": "Rev. H.H. Harrington",
+          "album": "No Other Love: Midwest Gospel (1965-1978)",
+          "label": "Tompkins Square"
+        },
+        {
+          "time": "10:03pm",
+          "track": "Silent Night",
+          "artist": "Korla Pandit",
+          "album": "Christmas With Korla Pandit",
+          "label": "Fantasy"
+        },
+        {
+          "time": "10:07pm",
+          "track": "White Christmas",
+          "artist": "Bill Orcutt",
+          "album": "Bill Orcutt",
+          "label": "Palilalia"
+        },
+        {
+          "time": "10:09pm",
+          "track": "The Other Christmas Song",
+          "artist": "Marisa Anderson / Jim White",
+          "album": "The Quickening",
+          "label": "Thrill Jockey"
+        },
+        {
+          "time": "10:13pm",
+          "track": "O Holy Night",
+          "artist": "Shane Parish",
+          "album": "December 2nd",
+          "label": "self-released"
+        },
+        {
+          "time": "10:20pm",
+          "track": "Merengue x Fantasy",
+          "artist": "Ben Rosenblum",
+          "album": "The Longest Way Round",
+          "label": "One Trick Dog"
+        },
+        {
+          "time": "10:26pm",
+          "track": "Funky Fête (Iko IkoTootie Ma Is a Big Fine Thing)",
+          "artist": "Julie Benko",
+          "album": "Euphonic Gumbo",
+          "label": "Club44"
+        },
+        {
+          "time": "10:29pm",
+          "track": "Issa Vibe",
+          "artist": "Sugar Bomb",
+          "album": "Sweet + Explosive",
+          "label": "self-released"
+        },
+        {
+          "time": "10:35pm",
+          "track": "Share Your Peace",
+          "artist": "Destani Wolf",
+          "album": "45",
+          "label": "Color Red"
+        },
+        {
+          "time": "10:40pm",
+          "track": "No Off",
+          "artist": "Robert Stillman",
+          "album": "10,000 Rivers",
+          "label": "Orindal"
+        },
+        {
+          "time": "10:48pm",
+          "track": "Another Green Morning/Asymptote/Chopaghetti",
+          "artist": "The Early",
+          "album": "Cusp",
+          "label": "Island House"
+        },
+        {
+          "time": "11:07pm",
+          "track": "like so many pieces of the puzzle",
+          "artist": "duo B.",
+          "album": "Incomplete, Open",
+          "label": "Queen Bee"
+        },
+        {
+          "time": "11:20pm",
+          "track": "Capable of Small Things",
+          "artist": "Beth Schenk Quintet",
+          "album": "Dahlia",
+          "label": "Queen Bee"
+        },
+        {
+          "time": "11:28pm",
+          "track": "Chant",
+          "artist": "Sifter",
+          "album": "Flake/Fracture",
+          "label": "Queen Bee"
+        },
+        {
+          "time": "11:38pm",
+          "track": "You Let Me Down",
+          "artist": "Katherine Whalen's Jazz Squad",
+          "album": "Way Down Yonder",
+          "label": "Sundazed"
+        },
+        {
+          "time": "11:44pm",
+          "track": "Silent Night",
+          "artist": "Dr. John",
+          "album": "Silent Night",
+          "label": "Sundazed"
+        },
+        {
+          "time": "11:49pm",
+          "track": "I Get Along Without You Very Well",
+          "artist": "Shane Parish",
+          "album": "Shane Parish Plays Chet Baker Sings",
+          "label": "self-released"
+        },
+        {
+          "time": "11:53pm",
+          "track": "Winter Wonderland (Live)",
+          "artist": "Chet Baker",
+          "album": "Christmas Songs",
+          "label": "Concord"
+        }
+      ]
+    },
+    {
+      "id": "67768",
+      "url": "https://xray.fm/broadcasts/67768",
+      "title": "On The Corner 085",
+      "air_date": "12-16-2025",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_121625.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "osem",
+          "artist": "David / David",
+          "album": "Blame Haro",
+          "label": "577"
+        },
+        {
+          "time": "10:02pm",
+          "track": "tener t (TROOKO Remix)",
+          "artist": "aLex vs aLex",
+          "album": "nyc minute (reworks)",
+          "label": "self-released"
+        },
+        {
+          "time": "10:05pm",
+          "track": "dance! hop! skip!",
+          "artist": "Tomeka Reid Quartet",
+          "album": "dance! skip! hop!",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "10:18pm",
+          "track": "Dama Antanona",
+          "artist": "Edward Simon",
+          "album": "Venezuela: Latin American Songbook Volume 2",
+          "label": "ArtistShare"
+        },
+        {
+          "time": "10:35pm",
+          "track": "Name Dropping is the Lowest Form of Conversation (Waltz)",
+          "artist": "Brandon Seabrook",
+          "album": "Hellbent Daydream",
+          "label": "Pyroclastic"
+        },
+        {
+          "time": "10:41pm",
+          "track": "No Others",
+          "artist": "Momoko Gill",
+          "album": "Momoko",
+          "label": "Strut"
+        },
+        {
+          "time": "10:46pm",
+          "track": "An Invitation to Disappear",
+          "artist": "Kris Davis and the Lutosławski Quartet",
+          "album": "The Solastalgia Suite",
+          "label": "Pyroclastic"
+        },
+        {
+          "time": "10:52pm",
+          "track": "Lifta",
+          "artist": "Naseem Alatrash",
+          "album": "Bright Colors on a Dark Canvas",
+          "label": "Levantine Music"
+        },
+        {
+          "time": "10:56pm",
+          "track": "Opal",
+          "artist": "Julian Lage Quartet",
+          "album": "Scenes From Above",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:00pm",
+          "track": "Peacherine Rag",
+          "artist": "Ragger",
+          "album": "Euphonic Sounds",
+          "label": "Hausu Mountain"
+        },
+        {
+          "time": "11:05pm",
+          "track": "How Can I Explain?",
+          "artist": "Max Ridley, Eleanor Elektra, and Nat Mugavero",
+          "album": "Playing, Praying: A Moment of Musical Fellowship Captured Live",
+          "label": "577"
+        },
+        {
+          "time": "11:09pm",
+          "track": "Ruwaydan Ruwaydan",
+          "artist": "Toni Geitani",
+          "album": "Wahj",
+          "label": "self-released"
+        },
+        {
+          "time": "11:14pm",
+          "track": "Cumbia Con Piernas",
+          "artist": "Tremendous Aron & Moritz Land",
+          "album": "Cumbia Con Piernas",
+          "label": "Hip Dozer"
+        },
+        {
+          "time": "11:16pm",
+          "track": "Amélie",
+          "artist": "Jontan",
+          "album": "The Yellow House",
+          "label": "self-released"
+        },
+        {
+          "time": "11:22pm",
+          "track": "Mvt. IV - Raru Raraku",
+          "artist": "John Vanore",
+          "album": "Easter Island Suite",
+          "label": "Acoustical Concepts"
+        },
+        {
+          "time": "11:38pm",
+          "track": "Part I",
+          "artist": "Keith Jarrett",
+          "album": "The Köln Concert",
+          "label": "ECM"
+        }
+      ]
+    },
+    {
+      "id": "67633",
+      "url": "https://xray.fm/broadcasts/67633",
+      "title": "On The Corner 084",
+      "air_date": "12-9-2025",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_120925.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Seven",
+          "artist": "Ivo Perelman/John Butcher",
+          "album": "London Silhouettes",
+          "label": "Leo"
+        },
+        {
+          "time": "10:09pm",
+          "track": "Dirt Doesn't Burn",
+          "artist": "Shawn Lovato",
+          "album": "Biotic",
+          "label": "Endectomorph Music"
+        },
+        {
+          "time": "10:19pm",
+          "track": "Mobile/Stabile",
+          "artist": "Grupo Um",
+          "album": "Nineteen-Seventy-Seven",
+          "label": "Far Out Recordings"
+        },
+        {
+          "time": "10:29pm",
+          "track": "Country",
+          "artist": "Luke Marantz/Simon Jermyn",
+          "album": "Echoes",
+          "label": "Chill Tone"
+        },
+        {
+          "time": "10:33pm",
+          "track": "When Kabuya Dances",
+          "artist": "Craig Taborn",
+          "album": "Dream Archives",
+          "label": "ECM"
+        },
+        {
+          "time": "10:42pm",
+          "track": "Tony in the Chat Room",
+          "artist": "Things of This Nature",
+          "album": "Things of This Nature",
+          "label": "Mahakala Music"
+        },
+        {
+          "time": "10:50pm",
+          "track": "A Folk Study (Laurie Spiegel)",
+          "artist": "Erik Hall",
+          "album": "Solo Three",
+          "label": "Western Vinyl"
+        },
+        {
+          "time": "10:53pm",
+          "track": "Once in a Lifetime",
+          "artist": "W.I.T.C.H.",
+          "album": "Naive Melodies",
+          "label": "BBE Music"
+        },
+        {
+          "time": "10:58pm",
+          "track": "Machanjawa (Mozambique)",
+          "artist": "P.E.A. Shangaan Guitar Player",
+          "album": "Excavated Shellac: Voices",
+          "label": "Dust-To-Digital"
+        },
+        {
+          "time": "11:04pm",
+          "track": "Hymn To Freedom",
+          "artist": "Oscar Peterson Trio",
+          "album": "Night Train",
+          "label": "Verve"
+        },
+        {
+          "time": "11:09pm",
+          "track": "A Wonderful Guy",
+          "artist": "Oscar Peterson Trio with Milt Jackson",
+          "album": "Very Tall",
+          "label": "Verve"
+        },
+        {
+          "time": "11:14pm",
+          "track": "Call Me",
+          "artist": "Oscar Peterson",
+          "album": "Soul Español",
+          "label": "Limelight"
+        },
+        {
+          "time": "11:19pm",
+          "track": "I Hear Music",
+          "artist": "Ella Fitzgerald and Oscar Peterson",
+          "album": "Ella & Oscar",
+          "label": "Pablo"
+        },
+        {
+          "time": "11:24pm",
+          "track": "You Go To My Head",
+          "artist": "Oscar Peterson",
+          "album": "Pastel Moods",
+          "label": "Verve"
+        },
+        {
+          "time": "11:30pm",
+          "track": "Duke Ellington Medley: Take The “A” Train / Don’t Get Around Much Anymore / Come Sunday / C-Jam Blues / Lush Life / Caravan",
+          "artist": "Oscar Peterson",
+          "album": "A Time for Love: The Oscar Peterson Quartet Live in Helsinki, 1987",
+          "label": "Mack Avenue"
+        },
+        {
+          "time": "11:49pm",
+          "track": "A Christmas Waltz",
+          "artist": "Oscar Peterson",
+          "album": "An Oscar Peterson Christmas",
+          "label": "Telarc Jazz"
+        },
+        {
+          "time": "11:56pm",
+          "track": "I Get A Kick Out of You",
+          "artist": "Louis Armstrong/Oscar Peterson",
+          "album": "Pops Is Tops: The Verve Studio Albums",
+          "label": "Verve"
+        }
+      ]
+    },
+    {
+      "id": "67523",
+      "url": "https://xray.fm/broadcasts/67523",
+      "title": "On The Corner 083",
+      "air_date": "12-2-2025",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_120225.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "3 Up 2 Down",
+          "artist": "Christopher Brown Quartet",
+          "album": "Sole City",
+          "label": "PJCE"
+        },
+        {
+          "time": "10:09pm",
+          "track": "La Mar",
+          "artist": "Wojtek Mazolewski",
+          "album": "Solo",
+          "label": "NoPaper"
+        },
+        {
+          "time": "10:18pm",
+          "track": "The Bottle (featuring Omar)",
+          "artist": "Brian Jackson and Masters at Work",
+          "album": "Now More Than Ever",
+          "label": "BBE Music"
+        },
+        {
+          "time": "10:24pm",
+          "track": "Universal Harmony",
+          "artist": "Jimi Tenor Band",
+          "album": "Selenites, Selenites!",
+          "label": "Tapete"
+        },
+        {
+          "time": "10:29pm",
+          "track": "Juno",
+          "artist": "Out Of/Into",
+          "album": "Motion II",
+          "label": "Blue Note"
+        },
+        {
+          "time": "10:37pm",
+          "track": "Lost & Found",
+          "artist": "Vance Thompson",
+          "album": "Lost & Found",
+          "label": "Moondo"
+        },
+        {
+          "time": "10:47pm",
+          "track": "Will You Walk A Little Faster",
+          "artist": "Dave Holland/Norma Winstone/London Vocal Project",
+          "album": "Vital Spark",
+          "label": "Edition"
+        },
+        {
+          "time": "10:52pm",
+          "track": "Raindance",
+          "artist": "vision string quartet",
+          "album": "in the fields",
+          "label": "ACT"
+        },
+        {
+          "time": "10:56pm",
+          "track": "Die Mær vom steinernen Mann",
+          "artist": "VRÎMUOT",
+          "album": "Lupus Viridis",
+          "label": "Prophecy Productions"
+        },
+        {
+          "time": "11:04pm",
+          "track": "Dejaste ver tu corazón",
+          "artist": "Roxana Amed",
+          "album": "Todos Los Fuegos",
+          "label": "Sony Music Latin"
+        },
+        {
+          "time": "11:11pm",
+          "track": "Teardrop",
+          "artist": "Theo Bleckmann",
+          "album": "Love and Anger",
+          "label": "Sunnyside"
+        },
+        {
+          "time": "11:18pm",
+          "track": "Through The Trees",
+          "artist": "Thomas Morgan",
+          "album": "Around You Is A Forest",
+          "label": "Loveland"
+        },
+        {
+          "time": "11:34pm",
+          "track": "Locusts Are Descending",
+          "artist": "Tarun Balani",
+          "album": "Kadahin Milandaasin",
+          "label": "BERTHOLD"
+        },
+        {
+          "time": "11:42pm",
+          "track": "Nostalgia",
+          "artist": "Frank Carlberg",
+          "album": "Dream Machine",
+          "label": "Red Piano"
+        },
+        {
+          "time": "11:49pm",
+          "track": "I Waited For You",
+          "artist": "Chet Baker",
+          "album": "Five From '65: The Quintet Summer Sessions",
+          "label": "New Land"
+        },
+        {
+          "time": "11:56pm",
+          "track": "Sweet Chaotic & Vibrant",
+          "artist": "Amaury Faye",
+          "album": "Rust",
+          "label": "Hypnote"
+        }
+      ]
+    },
+    {
+      "id": "67381",
+      "url": "https://xray.fm/broadcasts/67381",
+      "title": "On The Corner 082",
+      "air_date": "11-25-2025",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_112525.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "November in Bergen",
+          "artist": "Cyrus Nabipoor",
+          "album": "November in Bergen",
+          "label": "self-released"
+        },
+        {
+          "time": "10:04pm",
+          "track": "Going Home",
+          "artist": "Dominique Fils-Aimé",
+          "album": "My World Is The Sun",
+          "label": "Ensoul"
+        },
+        {
+          "time": "10:08pm",
+          "track": "Over The Rainbow",
+          "artist": "David Lord",
+          "album": "Way Over The Rainbow",
+          "label": "Cloud Ear"
+        },
+        {
+          "time": "10:11pm",
+          "track": "Nascer",
+          "artist": "Fabiano do Nascimento / E Ruscha V",
+          "album": "Aquáticos",
+          "label": "Music From Memory"
+        },
+        {
+          "time": "10:16pm",
+          "track": "Following Up",
+          "artist": "Asher Gamedze",
+          "album": "A Semblance: Of Return",
+          "label": "Northern Spy"
+        },
+        {
+          "time": "10:21pm",
+          "track": "Magic Touch",
+          "artist": "Nick Schofield",
+          "album": "Blue Hour",
+          "label": "Backward Music"
+        },
+        {
+          "time": "10:26pm",
+          "track": "Lenha Na Fogueira",
+          "artist": "Luisa",
+          "album": "Luisa",
+          "label": "Far Out Recordings"
+        },
+        {
+          "time": "10:29pm",
+          "track": "Ode to Billie Joe",
+          "artist": "Rahsaan Roland Kirk",
+          "album": "Seek and Listen: Live at the Penthouse",
+          "label": "Resonance"
+        },
+        {
+          "time": "10:41pm",
+          "track": "Ecclusiastics",
+          "artist": "Rahsaan Roland Kirk",
+          "album": "Vibrations in the Village: Live at the Village Gate",
+          "label": "Resonance"
+        },
+        {
+          "time": "10:49pm",
+          "track": "Banff",
+          "artist": "Patrick Smith Words Trio",
+          "album": "Words Underlined",
+          "label": "Lit Soc"
+        },
+        {
+          "time": "10:54pm",
+          "track": "Solar Orbit",
+          "artist": "Satoko Fujii Quartet",
+          "album": "Burning Wick",
+          "label": "Libra"
+        },
+        {
+          "time": "11:07pm",
+          "track": "Un camion pizza",
+          "artist": "Hugo Blouin",
+          "album": "Le buffet",
+          "label": "Ambiances Magnétiques"
+        },
+        {
+          "time": "11:14pm",
+          "track": "Visiteurs #3",
+          "artist": "Géraldine Eguiluz & Michel F Côté",
+          "album": "hORs TempS",
+          "label": "Ambiances Magnétiques"
+        },
+        {
+          "time": "11:19pm",
+          "track": "Snow Owls",
+          "artist": "Christopher Hoffman",
+          "album": "REX",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "11:22pm",
+          "track": "Stars in My Pocket",
+          "artist": "Ishmael Ali",
+          "album": "Burn the Plastic, Sell the Copper",
+          "label": "Amalgam Music"
+        },
+        {
+          "time": "11:29pm",
+          "track": "Palace of Culture",
+          "artist": "Wilson Tanner Smith",
+          "album": "Perpetual Guest",
+          "label": "Sawyer Editions"
+        },
+        {
+          "time": "11:51pm",
+          "track": "What are the Hidden Things of Life",
+          "artist": "Shoko Nagai",
+          "album": "Forbidden Flowers",
+          "label": "Infrequent Seams"
+        }
+      ]
+    },
+    {
+      "id": "67286",
+      "url": "https://xray.fm/broadcasts/67286",
+      "title": "On The Corner 081",
+      "air_date": "11-18-2025",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/OnTheCorner111825.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Opal",
+          "artist": "Julian Lage Quartet",
+          "album": "Scenes From Above",
+          "label": "Blue Note"
+        },
+        {
+          "time": "10:04pm",
+          "track": "Paradise Lawns/October 29th",
+          "artist": "Chad Taylor Quintet",
+          "album": "Smoke Shifter",
+          "label": "Otherly Love"
+        },
+        {
+          "time": "10:16pm",
+          "track": "New Monuments",
+          "artist": "Amirtha Kidambi's Elder Ones",
+          "album": "New Monuments Live in Vilnius",
+          "label": "Fern Flower"
+        },
+        {
+          "time": "10:39pm",
+          "track": "When Palestine Is Free",
+          "artist": "Momoko Gill",
+          "album": "Momoko",
+          "label": "Strut"
+        },
+        {
+          "time": "10:45pm",
+          "track": "Refractions",
+          "artist": "Ellen Rowe Quartet",
+          "album": "Vinton's Cove",
+          "label": "Smokin' Sleddog"
+        },
+        {
+          "time": "10:54pm",
+          "track": "Cauldron",
+          "artist": "Convergence",
+          "album": "Reckless Meter",
+          "label": "Capri"
+        },
+        {
+          "time": "11:07pm",
+          "track": "Like That of Sky",
+          "artist": "Codona",
+          "album": "Codona",
+          "label": "ECM"
+        },
+        {
+          "time": "11:18pm",
+          "track": "Holy Spirit",
+          "artist": "Albert Ayler Quintet",
+          "album": "Ghosts",
+          "label": "Fontana"
+        },
+        {
+          "time": "11:26pm",
+          "track": "Neti-neti: The Hear and Now Remix",
+          "artist": "Cheb i Sabbah/Don Cherry/Sharon Gannon",
+          "album": "Neti-Neti Audio Letter Remix",
+          "label": "Jivamukti"
+        },
+        {
+          "time": "11:33pm",
+          "track": "Mahakali",
+          "artist": "Don Cherry",
+          "album": "Hear & Now",
+          "label": "Atlantic"
+        },
+        {
+          "time": "11:42pm",
+          "track": "Rappin' Recipe (Instrumental)",
+          "artist": "Don Cherry",
+          "album": "Home Boy, Sister Out",
+          "label": "Wewantsounds"
+        },
+        {
+          "time": "11:50pm",
+          "track": "Jimbasen",
+          "artist": "Mandingo Giot Society",
+          "album": "Mandingo Griot Society",
+          "label": "Rounder"
+        }
+      ]
+    },
+    {
+      "id": "67189",
+      "url": "https://xray.fm/broadcasts/67189",
+      "title": "On The Corner 080",
+      "air_date": "11-11-2025",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_111125.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Stepping In/The Loop",
+          "artist": "SML",
+          "album": "How You Been",
+          "label": "International Anthem"
+        },
+        {
+          "time": "10:05pm",
+          "track": "Bomb",
+          "artist": "Gregory Corso",
+          "album": "Die On Me",
+          "label": "Shimmy-Disc"
+        },
+        {
+          "time": "10:14pm",
+          "track": "The Birthplace",
+          "artist": "Tomoko Omura",
+          "album": "Run Run Run",
+          "label": "Outside In Music"
+        },
+        {
+          "time": "10:23pm",
+          "track": "Thousand-Yard Stare (feat. Jahari Stampley)",
+          "artist": "Rafael Enciso",
+          "album": "Crossfade",
+          "label": "Contagious Music"
+        },
+        {
+          "time": "10:29pm",
+          "track": "Marie Laveau (feat. Tyreek McDole)",
+          "artist": "Kenny Barron",
+          "album": "Songbook",
+          "label": "Artwork"
+        },
+        {
+          "time": "10:35pm",
+          "track": "Dawn",
+          "artist": "Kenny Barron",
+          "album": "Sunset To Dawn",
+          "label": "Muse"
+        },
+        {
+          "time": "10:41pm",
+          "track": "Passion Dance (Kassa Overall Remix)",
+          "artist": "Kenny Barron",
+          "album": "Shades of Flu 2 — In These Odd Times",
+          "label": "Blue Note"
+        },
+        {
+          "time": "10:45pm",
+          "track": "SPOTTIEOTTIEDOPALISCIOUS",
+          "artist": "Kassa Overall",
+          "album": "CREAM",
+          "label": "Warp"
+        },
+        {
+          "time": "10:52pm",
+          "track": "Block Rockin' Beats",
+          "artist": "Ryan Anzures Duo",
+          "album": "B.R.B.",
+          "label": "Bandcamp"
+        },
+        {
+          "time": "11:02pm",
+          "track": "Jeju Improvisations 1. Dolphin Transmission",
+          "artist": "Hanol Kim / Colin James",
+          "album": "Watermarks",
+          "label": "Bandcamp"
+        },
+        {
+          "time": "11:10pm",
+          "track": "Solo 4",
+          "artist": "Dawid Kosiarkiewicz",
+          "album": "Tenor Solo For Evan Parker",
+          "label": "Bandcamp"
+        },
+        {
+          "time": "11:15pm",
+          "track": "What Has it Become Entangled with Now;",
+          "artist": "Evan Parker/Paul Lytton",
+          "album": "Collective Calls (Revisited) (Jubilee)",
+          "label": "Intakt"
+        },
+        {
+          "time": "11:24pm",
+          "track": "Black MIDI Ballet",
+          "artist": "Stefan Schultze",
+          "album": "Black MIDI Ballet",
+          "label": "Bandcamp"
+        },
+        {
+          "time": "11:40pm",
+          "track": "Speedway",
+          "artist": "black midi",
+          "album": "Schlagenheim",
+          "label": "Rough Trade"
+        },
+        {
+          "time": "11:44pm",
+          "track": "Part I",
+          "artist": "Patrick McCafferty",
+          "album": "La Soufriére",
+          "label": "Bandcamp"
+        },
+        {
+          "time": "11:56pm",
+          "track": "Mantra of the Touching of the Earth",
+          "artist": "Popol Vuh",
+          "album": "Tantric Songs",
+          "label": "Celestial Harmonies"
+        }
+      ]
+    },
+    {
+      "id": "67061",
+      "url": "https://xray.fm/broadcasts/67061",
+      "title": "On The Corner 079",
+      "air_date": "11-4-2025",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_110425.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "Sangam",
+          "artist": "Don Cherry & Latif Khan",
+          "album": "Music / Sangam",
+          "label": "Heavenly Sweetness"
+        },
+        {
+          "time": "10:13pm",
+          "track": "Lugar",
+          "artist": "Camila Nebbia / James Banner / Max Andrzejewski",
+          "album": "Presencia",
+          "label": "ears&eyes"
+        },
+        {
+          "time": "10:21pm",
+          "track": "Carry You Like A River",
+          "artist": "Sara Serpa / Matt Mitchell",
+          "album": "End of Something",
+          "label": "Obliquity"
+        },
+        {
+          "time": "10:28pm",
+          "track": "For McCoy Tyner",
+          "artist": "Pat Thomas",
+          "album": "Hikmah",
+          "label": "TAO Forms"
+        },
+        {
+          "time": "10:38pm",
+          "track": "Immeasurable",
+          "artist": "Lena Bloch",
+          "album": "Marina",
+          "label": "Fresh Sound"
+        },
+        {
+          "time": "10:49pm",
+          "track": "Live In The Park 2019",
+          "artist": "Mikkelborg Riessler Siegel Trio",
+          "album": "Louisiana Ritual",
+          "label": "Da Capo"
+        },
+        {
+          "time": "11:09pm",
+          "track": "Old Knew",
+          "artist": "Gregory Groover Jr.",
+          "album": "Old Knew",
+          "label": "Criss Cross"
+        },
+        {
+          "time": "11:16pm",
+          "track": "The Old Empress In The Gloaming",
+          "artist": "Amaury Faye",
+          "album": "Rust",
+          "label": "Hypnote"
+        },
+        {
+          "time": "11:20pm",
+          "track": "Up Top Up",
+          "artist": "Max Jaffe",
+          "album": "You Want That Too!",
+          "label": "Colorfield"
+        },
+        {
+          "time": "11:25pm",
+          "track": "Orchard Downs",
+          "artist": "Afro-Caribbean Jazz Collective",
+          "album": "Cortadito",
+          "label": "JGB Music"
+        },
+        {
+          "time": "11:29pm",
+          "track": "A Memory",
+          "artist": "Domo Branch",
+          "album": "Hand of Gifts",
+          "label": "Albina Music Trust"
+        },
+        {
+          "time": "11:38pm",
+          "track": "Isotrope",
+          "artist": "Denman Maroney Quintet",
+          "album": "Umwelt",
+          "label": "Neuma"
+        },
+        {
+          "time": "11:46pm",
+          "track": "Reality Distortion Field",
+          "artist": "Robert Stillman",
+          "album": "10,000 Rivers",
+          "label": "Orindal"
+        },
+        {
+          "time": "11:50pm",
+          "track": "Crayola",
+          "artist": "Wrens",
+          "album": "Half of What You See",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "11:56pm",
+          "track": "Being Outside",
+          "artist": "Finding Ways",
+          "album": "Finding Ways",
+          "label": "Edition"
+        }
+      ]
+    },
+    {
+      "id": "66929",
+      "url": "https://xray.fm/broadcasts/66929",
+      "title": "On The Corner 078",
+      "air_date": "10-28-2025",
+      "air_time": "10:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_078.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "10:00pm",
+          "track": "On The Corner/New York Girl/Thinkin’ One Thing and Doin’ Another/Vote For Miles",
+          "artist": "Miles Davis",
+          "album": "On The Corner",
+          "label": "Columbia"
+        },
+        {
+          "time": "10:23pm",
+          "track": "Directions",
+          "artist": "Miles Davis Quintet",
+          "album": "The Lost Quintet Tree",
+          "label": "bootleg"
+        },
+        {
+          "time": "10:30pm",
+          "track": "Rashied",
+          "artist": "Jack DeJohnette",
+          "album": "In Movement",
+          "label": "ECM"
+        },
+        {
+          "time": "10:36pm",
+          "track": "Museum of Time",
+          "artist": "Jack DeJohnette",
+          "album": "Made In Chicago",
+          "label": "ECM"
+        },
+        {
+          "time": "10:49pm",
+          "track": "Moment's Notice",
+          "artist": "Keith Jarrett",
+          "album": "After The Fall",
+          "label": "ECM"
+        },
+        {
+          "time": "10:55pm",
+          "track": "Picture 1",
+          "artist": "Jack DeJohnette",
+          "album": "Pictures",
+          "label": "ECM"
+        },
+        {
+          "time": "11:03pm",
+          "track": "Climax",
+          "artist": "Jackie McLean",
+          "album": "Jacknife",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:12pm",
+          "track": "The Naked Camera",
+          "artist": "Herbie Hancock",
+          "album": "The Blow-Up",
+          "label": "MGM"
+        },
+        {
+          "time": "11:16pm",
+          "track": "A Sleeping Bee",
+          "artist": "Bill Evans Trio",
+          "album": "Live at the Montreux Jazz Festival",
+          "label": "Verve"
+        },
+        {
+          "time": "11:21pm",
+          "track": "When Face Gets Pale",
+          "artist": "Miroslav Vitouš",
+          "album": "Infinite Search",
+          "label": "Embryo"
+        },
+        {
+          "time": "11:30pm",
+          "track": "Sorcery #1",
+          "artist": "Jack DeJohnette",
+          "album": "Sorcery",
+          "label": "Prestige"
+        },
+        {
+          "time": "11:44pm",
+          "track": "Ralph's Piano Waltz",
+          "artist": "John Abercrombie",
+          "album": "Timeless",
+          "label": "ECM"
+        },
+        {
+          "time": "11:49pm",
+          "track": "Jack In",
+          "artist": "Jack DeJohnette",
+          "album": "Parallel Realities",
+          "label": "GRP"
+        },
+        {
+          "time": "11:55pm",
+          "track": "Central Park West",
+          "artist": "Jack DeJohnette",
+          "album": "Special Edition",
+          "label": "ECM"
+        }
+      ]
+    },
+    {
+      "id": "66800",
+      "url": "https://xray.fm/broadcasts/66800",
+      "title": "On The Corner 077",
+      "air_date": "10-21-2025",
+      "air_time": "11:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_077.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "11:00pm",
+          "track": "Vexations",
+          "artist": "Tortoise",
+          "album": "Touch",
+          "label": "International Anthem/Nonsuch"
+        },
+        {
+          "time": "11:05pm",
+          "track": "Fever Two",
+          "artist": "Yeah Big, John Byler Dann, Tatsuya Nakatani",
+          "album": "To Lower the Fever Of Feeling",
+          "label": "Black Flag Bonsai Club"
+        },
+        {
+          "time": "11:09pm",
+          "track": "halla",
+          "artist": "Jussi Reijonen",
+          "album": "sayr: kaiho – live in helsinki",
+          "label": "unmusic"
+        },
+        {
+          "time": "11:38pm",
+          "track": "Two Moons",
+          "artist": "Yuhan Su",
+          "album": "OVER the MOONs",
+          "label": "Endectomorph Music"
+        },
+        {
+          "time": "11:48pm",
+          "track": "The Doorway Imparts the Body",
+          "artist": "Bill Harris",
+          "album": "Atropa",
+          "label": "Amalgam"
+        },
+        {
+          "time": "11:52pm",
+          "track": "Glowin' (Instrumental)",
+          "artist": "Mike James Kirkland & Monophonics",
+          "album": "Glowin'",
+          "label": "Ubiquity/Luv N Haight"
+        },
+        {
+          "time": "11:56pm",
+          "track": "Feeling",
+          "artist": "Latrudi",
+          "album": "Nicola Conte Presents Viaggio",
+          "label": "Far Out Recordings"
+        },
+        {
+          "time": "12:00am",
+          "track": "Orientations I-IV",
+          "artist": "Amir ElSaffar",
+          "album": "New Quartet Live at Pierre Boulez Saal",
+          "label": "Maqām"
+        },
+        {
+          "time": "12:16am",
+          "track": "Cycle In Mourning",
+          "artist": "Kalia Vandever",
+          "album": "Another View",
+          "label": "Northern Spy"
+        },
+        {
+          "time": "12:23am",
+          "track": "On Love",
+          "artist": "Fat Produce",
+          "album": "Soulful Days",
+          "label": "F-Spot"
+        },
+        {
+          "time": "12:28am",
+          "track": "Verdadeiro Sentimento",
+          "artist": "Carlos Dafé & Adrian Younge",
+          "album": "JID025",
+          "label": "Jazz Is Dead"
+        },
+        {
+          "time": "12:32am",
+          "track": "fight club is a bad movie",
+          "artist": "Sam Pilnick's Nonet Project",
+          "album": "The Project",
+          "label": "self-released"
+        },
+        {
+          "time": "12:41am",
+          "track": "The Child Opens Its Eyes To The Earth",
+          "artist": "SF Jazz Collective",
+          "album": "Collective Imagery",
+          "label": "SFJazz"
+        },
+        {
+          "time": "12:49am",
+          "track": "Tutti Italiani",
+          "artist": "Juan Chiavassa",
+          "album": "Fourth Generation",
+          "label": "Whirlwind Recordings"
+        },
+        {
+          "time": "12:57am",
+          "track": "Dancing With Cierra",
+          "artist": "Sarah Wilson",
+          "album": "Incandesence",
+          "label": "self-released"
+        }
+      ]
+    },
+    {
+      "id": "66654",
+      "url": "https://xray.fm/broadcasts/66654",
+      "title": "On The Corner 076",
+      "air_date": "10-14-2025",
+      "air_time": "11:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_101425.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "11:00pm",
+          "track": "2nd Genesis",
+          "artist": "Isaiah Collier",
+          "album": "Live In The Listening Room",
+          "label": "Vinyl Factory"
+        },
+        {
+          "time": "11:12pm",
+          "track": "Aquarius",
+          "artist": "Patricia Brennan",
+          "album": "Of The Near and Far",
+          "label": "Pyroclastic"
+        },
+        {
+          "time": "11:19pm",
+          "track": "Kafira",
+          "artist": "Carlos Garnett",
+          "album": "Cosmos Nucleus",
+          "label": "Muse"
+        },
+        {
+          "time": "11:32pm",
+          "track": "Hinoki",
+          "artist": "Satoko Fujii / Natsuki Tamura",
+          "album": "Ki",
+          "label": "Libra"
+        },
+        {
+          "time": "11:42pm",
+          "track": "Mr. Sophistication",
+          "artist": "Ilyas Ahmed / Jefre Cantu-Ledesma",
+          "album": "You Can See Your Own Way Out",
+          "label": "Devotion"
+        },
+        {
+          "time": "11:53pm",
+          "track": "Metaz form8",
+          "artist": "Autechre",
+          "album": "SIGN",
+          "label": "Warp"
+        },
+        {
+          "time": "12:00am",
+          "track": "Refuge",
+          "artist": "Andrew Hill",
+          "album": "Point of Departure",
+          "label": "Blue Note"
+        },
+        {
+          "time": "12:12am",
+          "track": "Will Pan's Walk",
+          "artist": "Roy Brooks",
+          "album": "The Free Slave",
+          "label": "Muse"
+        },
+        {
+          "time": "12:30am",
+          "track": "It's Tongue Trapped...",
+          "artist": "The Music Improvisation Company",
+          "album": "1969, 1970",
+          "label": "Incus"
+        },
+        {
+          "time": "12:39am",
+          "track": "The Crow Flew After Yi Sang",
+          "artist": "Okkyung Lee",
+          "album": "Ghil",
+          "label": "Ideologic Organ"
+        },
+        {
+          "time": "12:46am",
+          "track": "Balance",
+          "artist": "Pharoah Sanders",
+          "album": "Izipho Zam (My Gifts)",
+          "label": "Mack Avenue / Strata-East"
+        }
+      ]
+    },
+    {
+      "id": "66528",
+      "url": "https://xray.fm/broadcasts/66528",
+      "title": "On The Corner 075",
+      "air_date": "10-7-2025",
+      "air_time": "11:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_075.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "11:00pm",
+          "track": "Dense Phantasy",
+          "artist": "Aaron Parks",
+          "album": "By All Means",
+          "label": "Blue Note"
+        },
+        {
+          "time": "11:06pm",
+          "track": "Syto Plankton",
+          "artist": "René Van Helsingden",
+          "album": "Coal Mining",
+          "label": "Sdban"
+        },
+        {
+          "time": "11:13pm",
+          "track": "Conjunctions IV for saxophones",
+          "artist": "Shane Krause",
+          "album": "I Measured The Skies",
+          "label": "Afterday Audio"
+        },
+        {
+          "time": "11:28pm",
+          "track": "The Rain Before It Falls",
+          "artist": "Banana Hammond",
+          "album": "Hard Music",
+          "label": "PJCE"
+        },
+        {
+          "time": "11:35pm",
+          "track": "Blues From Outer Space - 1970s",
+          "artist": "Matt Tabor Trio",
+          "album": "Decades",
+          "label": "self-released"
+        },
+        {
+          "time": "11:48pm",
+          "track": "Variazione III - Primo Terra",
+          "artist": "Luigi Grasso",
+          "album": "La Dimora Dell'atrove",
+          "label": "LP345"
+        },
+        {
+          "time": "11:58pm",
+          "track": "Turiyasangitananda – The Transcendental Lord's Highest Song of Bliss (Meditation for Alice Coltrane)",
+          "artist": "Rich Brown",
+          "album": "NYAEBA",
+          "label": "Whirlwind Recordings"
+        },
+        {
+          "time": "12:02am",
+          "track": "Keshava Murahara",
+          "artist": "Alice Coltrane Turiyasangitananda",
+          "album": "Divine Songs",
+          "label": "Avatar Book Institute"
+        },
+        {
+          "time": "12:11am",
+          "track": "Coltrane Time",
+          "artist": "Andrew Cyrille Quartet",
+          "album": "The Declaration of Musical Independence",
+          "label": "ECM"
+        },
+        {
+          "time": "12:19am",
+          "track": "(Medley) Two Songs For A Boy Named Mark ~ Little Bitty Baby ~ Soliloquy To A Man-Child",
+          "artist": "The Descendants of Mike and Phoebe",
+          "album": "The Spirit Speaks",
+          "label": "Strata-East/Mack Avenue"
+        },
+        {
+          "time": "12:24am",
+          "track": "El Vesubio Azul",
+          "artist": "Musica Urbana",
+          "album": "Musica Urbana",
+          "label": "Sommor"
+        },
+        {
+          "time": "12:32am",
+          "track": "Sister of Sleep",
+          "artist": "Lea Bertucci",
+          "album": "The Oracle",
+          "label": "Cibachrome Editions"
+        },
+        {
+          "time": "12:45am",
+          "track": "Coming On The Hudson",
+          "artist": "Dayna Stephens",
+          "album": "Monk'd",
+          "label": "Contagious Music"
+        },
+        {
+          "time": "12:45am",
+          "track": "Coming On The Hudson",
+          "artist": "Dayna Stephens",
+          "album": "Monk'd",
+          "label": "Contagious Music"
+        },
+        {
+          "time": "12:52am",
+          "track": "NOD YORC feat. James Maddren",
+          "artist": "Petter Eldh",
+          "album": "Projekt Drums, Vol. 2",
+          "label": "Edition"
+        }
+      ]
+    },
+    {
+      "id": "66474",
+      "url": "https://xray.fm/broadcasts/66474",
+      "title": "On The Corner 074",
+      "air_date": "10-3-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_074.mp3",
+      "track_count": 8,
+      "tracks": [
+        {
+          "time": "6:00pm",
+          "track": "Pas Encore",
+          "artist": "Béesau",
+          "album": "Une Fleur et des Papillons",
+          "label": "Out Of (The) Blue"
+        },
+        {
+          "time": "6:07pm",
+          "track": "Big Fish",
+          "artist": "Nate Smith",
+          "album": "Live-Action",
+          "label": "Believe"
+        },
+        {
+          "time": "6:12pm",
+          "track": "Lullaby",
+          "artist": "Rin Seo Collective",
+          "album": "City Suite",
+          "label": "Cellar Music Group"
+        },
+        {
+          "time": "6:21pm",
+          "track": "All Bliss, Every Tree",
+          "artist": "Matthewdavid, Aaron Shaw, Carlos Niño",
+          "album": "All Bliss, Every Tree",
+          "label": "LEAVING"
+        },
+        {
+          "time": "6:36pm",
+          "track": "To Michael Brecker",
+          "artist": "Juan Chiavassa",
+          "album": "Fourth Generation",
+          "label": "Whirlwind Recordings"
+        },
+        {
+          "time": "6:44pm",
+          "track": "Delta City Blues",
+          "artist": "Michael Brecker Quartet",
+          "album": "Two Blocks From The Edge",
+          "label": "Impulse!"
+        },
+        {
+          "time": "6:51pm",
+          "track": "Take Control",
+          "artist": "Ben Marc",
+          "album": "Who Cares Wins",
+          "label": "Innovative Leisure"
+        },
+        {
+          "time": "6:54pm",
+          "track": "No More Cry",
+          "artist": "AnAkA",
+          "album": "Crisis of the Concrete",
+          "label": "AKTIV8"
+        }
+      ]
+    },
+    {
+      "id": "66351",
+      "url": "https://xray.fm/broadcasts/66351",
+      "title": "On The Corner 073",
+      "air_date": "9-26-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_073.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "6:00pm",
+          "track": "Minor Escapade",
+          "artist": "Danny Thompson",
+          "album": "Whatever",
+          "label": "Rykomusic"
+        },
+        {
+          "time": "6:05pm",
+          "track": "Mutiny on the Light",
+          "artist": "Danny Thompson Trio",
+          "album": "Live 1967",
+          "label": "HiHat"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Haitian Fight Song",
+          "artist": "The Pentangle",
+          "album": "Sweet Child",
+          "label": "Transatlantic"
+        },
+        {
+          "time": "6:18pm",
+          "track": "Neahakanie",
+          "artist": "Kennebec",
+          "album": "The Water Wheel",
+          "label": "self-released"
+        },
+        {
+          "time": "6:22pm",
+          "track": "The Maxim",
+          "artist": "Tom Skinner",
+          "album": "Kaleidoscopic Visions",
+          "label": "International Anthem / Brownswood Recordings"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Primo Tema",
+          "artist": "Luigi Grasso & NDR Big Band",
+          "album": "La Dimora Dell'atrove",
+          "label": "LP345"
+        },
+        {
+          "time": "6:40pm",
+          "track": "Maybe",
+          "artist": "Sebastian Rochford & Finding Ways",
+          "album": "Finding Ways",
+          "label": "Edition"
+        },
+        {
+          "time": "6:44pm",
+          "track": "Taking Out The Trash",
+          "artist": "SML",
+          "album": "How You Been",
+          "label": "International Anthem"
+        },
+        {
+          "time": "6:48pm",
+          "track": "Autumn Comes",
+          "artist": "Amir ElSaffar",
+          "album": "New Quartet Live at Pierre Boulez Saal",
+          "label": "Maqām"
+        },
+        {
+          "time": "6:56pm",
+          "track": "Body",
+          "artist": "Yosi Horikawa",
+          "album": "Impulse",
+          "label": "Borrowed Scenery"
+        }
+      ]
+    },
+    {
+      "id": "66243",
+      "url": "https://xray.fm/broadcasts/66243",
+      "title": "On The Corner 072",
+      "air_date": "9-19-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_072.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "6:00pm",
+          "track": "Hermeto",
+          "artist": "Hermeto Pascoal",
+          "album": "Hermeto",
+          "label": "Cobblestone"
+        },
+        {
+          "time": "6:04pm",
+          "track": "Música da Lagoa (feat. Itiberê Zwarg, Jovino Santos Neto, Carlos Malta & Marcio Bahia)",
+          "artist": "Hermeto Pascoal E Grupo",
+          "album": "Lagoa Da Canoa Município De Arapiraca",
+          "label": "Som De Gente"
+        },
+        {
+          "time": "6:08pm",
+          "track": "Hermeto",
+          "artist": "Chicago Underground Duo",
+          "album": "Boca Negra",
+          "label": "Thrill Jockey"
+        },
+        {
+          "time": "6:13pm",
+          "track": "Hemiunu",
+          "artist": "Chicago Underground Duo",
+          "album": "Hyperglyph",
+          "label": "International Anthem"
+        },
+        {
+          "time": "6:21pm",
+          "track": "To Speak or Sing Softly",
+          "artist": "Noah Garabedian",
+          "album": "Quartets and Solos",
+          "label": "Contagious Music"
+        },
+        {
+          "time": "6:27pm",
+          "track": "Bloomers",
+          "artist": "Trio of Bloom",
+          "album": "Trio of Bloom",
+          "label": "Pyroclastic"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Clove and Cinnamon (Cravo E Canela) - Sound Ideas Studio Version",
+          "artist": "The Charlie Rouse Band",
+          "album": "Cinnamon Flower",
+          "label": "Resonance"
+        },
+        {
+          "time": "6:47pm",
+          "track": "Just Intonations For Big Band — Pulse",
+          "artist": "Webber/Morris Big Band",
+          "album": "Unseparate",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "6:52pm",
+          "track": "Celestial",
+          "artist": "Donny McCaslin",
+          "album": "Lullaby for the Lost",
+          "label": "Edition"
+        }
+      ]
+    },
+    {
+      "id": "66138",
+      "url": "https://xray.fm/broadcasts/66138",
+      "title": "On The Corner 071",
+      "air_date": "9-12-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_071.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "6:00pm",
+          "track": "Take Five",
+          "artist": "Raphaël Pannier Quartet & Khadim Niang",
+          "album": "Live in Saint Louis, Senegal",
+          "label": "Miel Music"
+        },
+        {
+          "time": "6:14pm",
+          "track": "Hikmah",
+          "artist": "Pat Thomas",
+          "album": "HIKMAH",
+          "label": "TAO Forms"
+        },
+        {
+          "time": "6:20pm",
+          "track": "Continuation",
+          "artist": "Asta Hiroki",
+          "album": "Continuation",
+          "label": "Folded Music"
+        },
+        {
+          "time": "6:25pm",
+          "track": "Prophet",
+          "artist": "Venna",
+          "album": "MALIK",
+          "label": "Cashmere Thoughts"
+        },
+        {
+          "time": "6:29pm",
+          "track": "BACK THAT AZZ UP",
+          "artist": "Kassa Overall",
+          "album": "CREAM",
+          "label": "Warp"
+        },
+        {
+          "time": "6:35pm",
+          "track": "Long Distances",
+          "artist": "Simón Willson Quartet",
+          "album": "Feel Love",
+          "label": "Endectomorph Music"
+        },
+        {
+          "time": "6:43pm",
+          "track": "Mantra (Return)",
+          "artist": "Jamie Leeming",
+          "album": "Sequent",
+          "label": "Sekito"
+        },
+        {
+          "time": "6:50pm",
+          "track": "Scene Thirteen",
+          "artist": "INSECT LIFE",
+          "album": "INSECT LIFE",
+          "label": "577"
+        },
+        {
+          "time": "6:53pm",
+          "track": "Cycle In Mourning",
+          "artist": "Kalia Vandever",
+          "album": "Another View",
+          "label": "Northern Spy"
+        }
+      ]
+    },
+    {
+      "id": "66024",
+      "url": "https://xray.fm/broadcasts/66024",
+      "title": "On The Corner 070",
+      "air_date": "9-5-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_070.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "6:00pm",
+          "track": "Recollection of a Dance",
+          "artist": "Tomas Fujiwara",
+          "album": "Dream Up",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "6:05pm",
+          "track": "Vesper Sparrow",
+          "artist": "JJJJerome Ellis",
+          "album": "Vesper Sparrow",
+          "label": "Shelter Press"
+        },
+        {
+          "time": "6:14pm",
+          "track": "My Sun",
+          "artist": "Braxton Cook",
+          "album": "Not Everyone Can Go",
+          "label": "Nettwerk"
+        },
+        {
+          "time": "6:21pm",
+          "track": "Tetsuo's Rising",
+          "artist": "BrandonLee Cierley",
+          "album": "Be Water, My Friend",
+          "label": "self-released"
+        },
+        {
+          "time": "6:25pm",
+          "track": "Husk",
+          "artist": "Pete Fucinaro",
+          "album": "Little Window",
+          "label": "Concrete Recording Company"
+        },
+        {
+          "time": "6:31pm",
+          "track": "Breathe",
+          "artist": "Sly Pig",
+          "album": "War",
+          "label": "self-released"
+        },
+        {
+          "time": "6:37pm",
+          "track": "Otros Mundos",
+          "artist": "Cochemea",
+          "album": "Vol. 3: Ancestros Futuros",
+          "label": "Daptone"
+        },
+        {
+          "time": "6:44pm",
+          "track": "16 Dimensions of Underwater Light",
+          "artist": "Melvin Gibbs",
+          "album": "Amasia: Anamibia Sessions 2",
+          "label": "Hausu Mountain"
+        },
+        {
+          "time": "6:50pm",
+          "track": "Tickle The Roots",
+          "artist": "Isaac Sherman",
+          "album": "A Pasture, Its Limits",
+          "label": "self-released"
+        },
+        {
+          "time": "6:55pm",
+          "track": "And Maybe You Never Used To Be",
+          "artist": "Tamar Sagiv",
+          "album": "Shades of Mourning",
+          "label": "Sono Luminus"
+        }
+      ]
+    },
+    {
+      "id": "65807",
+      "url": "https://xray.fm/broadcasts/65807",
+      "title": "On The Corner 069",
+      "air_date": "8-29-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_069.mp3",
+      "track_count": 7,
+      "tracks": [
+        {
+          "time": "6:00pm",
+          "track": "Technology",
+          "artist": "Makaya McCraven",
+          "album": "Techno Logic",
+          "label": "International Anthem"
+        },
+        {
+          "time": "6:04pm",
+          "track": "Imafan",
+          "artist": "Makaya McCraven",
+          "album": "PopUp Shop",
+          "label": "International Anthem"
+        },
+        {
+          "time": "6:10pm",
+          "track": "Passages",
+          "artist": "Tom Gershwin",
+          "album": "Wellspring",
+          "label": "self-released"
+        },
+        {
+          "time": "6:28pm",
+          "track": "I Cover The Waterfront",
+          "artist": "Don McDonald",
+          "album": "Short Stories",
+          "label": "self-released"
+        },
+        {
+          "time": "6:32pm",
+          "track": "Love You To Death",
+          "artist": "Jonathan Moritz Trio Secret Tempo",
+          "album": "Love You To Death",
+          "label": "self-released"
+        },
+        {
+          "time": "6:46pm",
+          "track": "DB Song",
+          "artist": "Paul Cornish",
+          "album": "You're Exaggerating!",
+          "label": "Blue Note"
+        },
+        {
+          "time": "6:51pm",
+          "track": "Cosmic Junk Jazz DNA",
+          "artist": "Matthew Shipp",
+          "album": "The Cosmic Piano",
+          "label": "Cantaloupe Music"
+        }
+      ]
+    },
+    {
+      "id": "65798",
+      "url": "https://xray.fm/broadcasts/65798",
+      "title": "On The Corner 068",
+      "air_date": "8-22-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_068.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "6:00pm",
+          "track": "Just Intonations For Big Band — Pulse",
+          "artist": "Webber/Morris Big Band",
+          "album": "Unseparate",
+          "label": "Out of Your Head"
+        },
+        {
+          "time": "6:05pm",
+          "track": "21 Suns",
+          "artist": "Richard Carr",
+          "album": "The Escarpment",
+          "label": "Infrequent Seams"
+        },
+        {
+          "time": "6:11pm",
+          "track": "Little Sister",
+          "artist": "Mason Lindahl",
+          "album": "Same Day Walking",
+          "label": "Mt. Brings Death"
+        },
+        {
+          "time": "6:15pm",
+          "track": "Metamorphosis (Capes Up!)",
+          "artist": "Holly Palmer",
+          "album": "Metamorphosis",
+          "label": "Colorfield"
+        },
+        {
+          "time": "6:19pm",
+          "track": "No Smokin'",
+          "artist": "Horace Silver",
+          "album": "Silver in Seattle: Live at the Penthouse",
+          "label": "Blue Note"
+        },
+        {
+          "time": "6:25pm",
+          "track": "After The Solstice",
+          "artist": "Clémentine March",
+          "album": "Powder Keg",
+          "label": "PRAH"
+        },
+        {
+          "time": "6:31pm",
+          "track": "Last Breath",
+          "artist": "Johnathan Blake",
+          "album": "My Life Matters",
+          "label": "Blue Note"
+        },
+        {
+          "time": "6:38pm",
+          "track": "Kusunoki",
+          "artist": "Satoko Fujii / Natsuki Tamura",
+          "album": "Ki",
+          "label": "Libra"
+        },
+        {
+          "time": "6:47pm",
+          "track": "Winged Words",
+          "artist": "Jason Charos",
+          "album": "Opening Statement",
+          "label": "Hollistic Musicworks"
+        },
+        {
+          "time": "6:57pm",
+          "track": "F",
+          "artist": "Henry Threadgill",
+          "album": "Listen Ship",
+          "label": "Pi Recordings"
+        }
+      ]
+    },
+    {
+      "id": "65696",
+      "url": "https://xray.fm/broadcasts/65696",
+      "title": "On The Corner 067",
+      "air_date": "8-15-2025",
+      "air_time": "6:00pm",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/on-the-corner/On_The_Corner_067.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "6:00pm",
+          "track": "Figure In Blue, memories of Duke",
+          "artist": "Charles Lloyd",
+          "album": "Figure In Blue",
+          "label": "Blue Note"
+        },
+        {
+          "time": "6:07pm",
+          "track": "Air Below Sky",
+          "artist": "Lex Korten",
+          "album": "Canopy",
+          "label": "Sounderscore"
+        },
+        {
+          "time": "6:12pm",
+          "track": "C.A.D.",
+          "artist": "Caroline Davis / Dustin Carlson",
+          "album": "Sprites",
+          "label": "Out Of Your Head"
+        },
+        {
+          "time": "6:19pm",
+          "track": "Ritual Fire",
+          "artist": "Lingyuan Yang",
+          "album": "Cursed Month",
+          "label": "Chaospace"
+        },
+        {
+          "time": "6:29pm",
+          "track": "Sankofa",
+          "artist": "The Cosmic Tones Research Trio",
+          "album": "The Cosmic Tones Research Trio",
+          "label": "Mississippi"
+        },
+        {
+          "time": "6:34pm",
+          "track": "C.R.E.A.M. (CASH RULES EVERYTHING AROUND ME)",
+          "artist": "Kassa Overall",
+          "album": "CREAM",
+          "label": "Warp"
+        },
+        {
+          "time": "6:41pm",
+          "track": "Either Way",
+          "artist": "Scree",
+          "album": "August",
+          "label": "Ruination Record Co."
+        },
+        {
+          "time": "6:44pm",
+          "track": "Red Cedar Road",
+          "artist": "Colorado Jazz Repertory Orchestra",
+          "album": "Golden Lady",
+          "label": "Outside in Music"
+        },
+        {
+          "time": "6:51pm",
+          "track": "Elevator Papa, Switchboard Mama",
+          "artist": "Colin Hancock’s Jazz Hounds & Catherine Russell",
+          "album": "Cat & the Hounds",
+          "label": "Turtle Bay"
+        },
+        {
+          "time": "6:56pm",
+          "track": "My Son",
+          "artist": "Kurt Elling / Christian Sands",
+          "album": "Wildflowers Vol. 3",
+          "label": "Big Shoulders"
+        }
+      ]
+    }
+  ]
+}

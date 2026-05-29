@@ -1,0 +1,4828 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-05-26T18:42:28.694574Z",
+  "show": {
+    "slug": "pacific-pulsations",
+    "title": "Pacific🌏Pulsations",
+    "description": "𝙏𝙝𝙚 𝙨𝙚𝙭𝙞𝙚𝙨𝙩, 𝙟𝙖𝙢𝙢𝙞𝙣𝙜𝙚𝙨𝙩 𝙜𝙧𝙤𝙤𝙫𝙚𝙨 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝙛𝙖𝙧 𝙨𝙞𝙙𝙚 𝙤𝙛 𝙩𝙝𝙚 𝙋𝙖𝙘𝙞𝙛𝙞𝙘",
+    "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+    "tags": [
+      "mix"
+    ],
+    "url": "https://xray.fm/shows/pacific-pulsations"
+  },
+  "episode_count": 40,
+  "track_count_total": 619,
+  "episodes": [
+    {
+      "id": "70617",
+      "url": "https://xray.fm/broadcasts/70617",
+      "title": "Pacific Pulsations | Episode 86",
+      "air_date": "5-22-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.05.22.pacific.mp3",
+      "track_count": 19,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "LAISSEZ-MOI FAIRE",
+          "artist": "Sunny Lukas",
+          "album": "LAISSEZ-MOI FAIRE",
+          "label": "Sunny Lukas"
+        },
+        {
+          "time": "7:04pm",
+          "track": "V for Vision",
+          "artist": "ZEROBASEONE",
+          "album": "Ascend-",
+          "label": "WAKEONE"
+        },
+        {
+          "time": "7:07pm",
+          "track": "GNOME",
+          "artist": "YUSII",
+          "album": "Quiet Fire",
+          "label": "Sony Music Labels Inc."
+        },
+        {
+          "time": "7:10pm",
+          "track": "NOWME",
+          "artist": "WEAN",
+          "album": "NOWME",
+          "label": "WEAN, MMusic Records"
+        },
+        {
+          "time": "7:13pm",
+          "track": "LUCID DREAM",
+          "artist": "IVE",
+          "album": "LUCID DREAM",
+          "label": "Starship Entertainment"
+        },
+        {
+          "time": "7:17pm",
+          "track": "Not AI",
+          "artist": "SIRUP, ALYSA, A.G.O",
+          "album": "Not AI",
+          "label": "A.S.A.B"
+        },
+        {
+          "time": "7:21pm",
+          "track": "Boy in the Matrix",
+          "artist": "Deb Fan",
+          "album": "Boy in the Matrix",
+          "label": "The Metamorphosis Project"
+        },
+        {
+          "time": "7:23pm",
+          "track": "LOVE LIKE THIS",
+          "artist": "TAEYANG",
+          "album": "QUINTESSENCE",
+          "label": "THEBLACKLABEL, YG PLUS"
+        },
+        {
+          "time": "7:26pm",
+          "track": "Not Playing",
+          "artist": "Jimmy Brown",
+          "album": "Not Playing",
+          "label": "JWIN Entertainment, THE VAULT"
+        },
+        {
+          "time": "7:30pm",
+          "track": "Living Without You",
+          "artist": "SHARIN",
+          "album": "Living Without You",
+          "label": "Sharin"
+        },
+        {
+          "time": "7:34pm",
+          "track": "Tokyo Life",
+          "artist": "Lumel, Taichi Mukai",
+          "album": "Tokyo Life",
+          "label": "Virgin Music, UNIVERSAL MUSIC LLC"
+        },
+        {
+          "time": "7:37pm",
+          "track": "I Got Ways",
+          "artist": "PSYCHIC FEVER from EXILE TRIBE",
+          "album": "I Got Ways",
+          "label": "Warner Music Group, 10K Projects / LDH JAPAN Inc."
+        },
+        {
+          "time": "7:40pm",
+          "track": "4 Beats",
+          "artist": "IS:SUE",
+          "album": "QUARTET",
+          "label": "UNIVERSAL SIGMA / LAPONE GIRLS"
+        },
+        {
+          "time": "7:44pm",
+          "track": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+          "artist": "aespa, G-DRAGON",
+          "album": "WDA (Whole Different Animal) (feat. G-DRAGON)",
+          "label": "SM Entertainment"
+        },
+        {
+          "time": "7:47pm",
+          "track": "ddok ddok ddok",
+          "artist": "BOYNEXTDOOR",
+          "album": "ddok ddok ddok",
+          "label": "KOZ Entertainment"
+        },
+        {
+          "time": "7:49pm",
+          "track": "Truth Freestyle",
+          "artist": "VAVA",
+          "album": "Truth Freestyle",
+          "label": "Dream Music Group"
+        },
+        {
+          "time": "7:51pm",
+          "track": "Motto",
+          "artist": "ITZY",
+          "album": "Motto",
+          "label": "JYP Entertainment"
+        },
+        {
+          "time": "7:55pm",
+          "track": "Intro",
+          "artist": "IS:SUE",
+          "album": "QUARTET",
+          "label": "UNIVERSAL SIGMA / LAPONE GIRLS"
+        },
+        {
+          "time": "7:56pm",
+          "track": "STARSTRUCK",
+          "artist": "FIFTY FIFTY",
+          "album": "STARSTRUCK",
+          "label": "ATTRAKT, Sony Music Entertainment Korea Inc."
+        }
+      ]
+    },
+    {
+      "id": "70486",
+      "url": "https://xray.fm/broadcasts/70486",
+      "title": "Pacific Pulsations | Episode 85 (Rerun)",
+      "air_date": "5-15-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.05.08.pacific.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "70326",
+      "url": "https://xray.fm/broadcasts/70326",
+      "title": "Pacific Pulsations | Episode 85",
+      "air_date": "5-8-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.05.08.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Hatchu!!",
+          "artist": "Salma Salsabil",
+          "album": "Hatchu!!",
+          "label": "Universal Music Indonesia"
+        },
+        {
+          "time": "7:05pm",
+          "track": "Make Me Believe",
+          "artist": "A.R.T, Sammy Johnson",
+          "album": "Make Me Believe",
+          "label": "IKON Music / A.R.T"
+        },
+        {
+          "time": "7:08pm",
+          "track": "TURN ME ON (feat. Tobi)",
+          "artist": "PERSES, Tobi",
+          "album": "TURN ME ON (feat. Tobi)",
+          "label": "GMM Music Public Company Limited"
+        },
+        {
+          "time": "7:12pm",
+          "track": "原諒我離開",
+          "artist": "GBOYSWAG",
+          "album": "原諒我離開",
+          "label": "Bin Music International Limited"
+        },
+        {
+          "time": "7:15pm",
+          "track": "Quartet",
+          "artist": "IS:SUE",
+          "album": "Quartet",
+          "label": "UNIVERSAL SIGMA / LAPONE GIRLS"
+        },
+        {
+          "time": "7:19pm",
+          "track": "เมื่อไหร่จะมี (มีใจให้กัน)",
+          "artist": "BLVCKHEART",
+          "album": "เมื่อไหร่จะมี (มีใจให้กัน)",
+          "label": "BLVCKHEART"
+        },
+        {
+          "time": "7:22pm",
+          "track": "Stuck (feat. Yerin Baek)",
+          "artist": "Coogie, Yerin Baek",
+          "album": "Stuck",
+          "label": "duover, Kakao Entertainment"
+        },
+        {
+          "time": "7:25pm",
+          "track": "Tap Tap (ชวนไปเดท)",
+          "artist": "Tobii",
+          "album": "Mr. Saxo Love",
+          "label": "Def Jam Recordings Thailand, Universal Music (Thailand) Ltd"
+        },
+        {
+          "time": "7:28pm",
+          "track": "MOON",
+          "artist": "BABYMONSTER",
+          "album": "춤 (CHOOM)",
+          "label": "YG Entertainment"
+        },
+        {
+          "time": "7:32pm",
+          "track": "快餐",
+          "artist": "CHOCKEY有三, Vinz-T",
+          "album": "慢半拍",
+          "label": "SFNT_Record, Columbia Records China"
+        },
+        {
+          "time": "7:35pm",
+          "track": "Hush",
+          "artist": "Yohee又熙",
+          "album": "Hush",
+          "label": "Sony Music Entertainment Taiwan Ltd."
+        },
+        {
+          "time": "7:38pm",
+          "track": "2AM Highway",
+          "artist": "SUKISHA, Hikari",
+          "album": "2AM Highway",
+          "label": "HINABA records"
+        },
+        {
+          "time": "7:43pm",
+          "track": "パッパラダイス",
+          "artist": "Hikaru Utada",
+          "album": "パッパラダイス",
+          "label": "Sony Music Labels Inc."
+        },
+        {
+          "time": "7:47pm",
+          "track": "UFO",
+          "artist": "Gemini, Seori",
+          "album": "Inside Out",
+          "label": "AT AREA"
+        },
+        {
+          "time": "7:50pm",
+          "track": "UFO",
+          "artist": "f5ve",
+          "album": "SEQUENCE 01",
+          "label": "LDH Records"
+        },
+        {
+          "time": "7:53pm",
+          "track": "Aliens",
+          "artist": "BTS",
+          "album": "ARIRANG",
+          "label": "BIGHIT MUSIC"
+        },
+        {
+          "time": "7:56pm",
+          "track": "CHOOM",
+          "artist": "BABYMONSTER",
+          "album": "춤 (CHOOM)",
+          "label": "YG Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "70195",
+      "url": "https://xray.fm/broadcasts/70195",
+      "title": "Pacific Pulsations | Episode 84",
+      "air_date": "5-1-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.05.01.pacific.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "BLUE DREAM (feat. reina)",
+          "artist": "MoMo, Osamu Fukuzawa, reina",
+          "album": "BLUE DREAM",
+          "label": "SHINPAINAI RECORDS, WARNER MUSIC JAPAN INC."
+        },
+        {
+          "time": "7:05pm",
+          "track": "Voo Doo",
+          "artist": "Marv, PAAK",
+          "album": "Voo Doo",
+          "label": "sameOTHER, Marv, Kakao Entertainment"
+        },
+        {
+          "time": "7:07pm",
+          "track": "VISION",
+          "artist": "Pearl Fang",
+          "album": "VISION",
+          "label": "KAO!INC."
+        },
+        {
+          "time": "7:10pm",
+          "track": "Right On",
+          "artist": "WIM, Jesse Barrera",
+          "album": "Right On",
+          "label": "WIM"
+        },
+        {
+          "time": "7:13pm",
+          "track": "Sempurnanya Aku",
+          "artist": "NPD",
+          "album": "Sempurnanya Aku",
+          "label": "NPD Emergency"
+        },
+        {
+          "time": "7:17pm",
+          "track": "LOVE SICK",
+          "artist": "Nguyen Ken, Mabel",
+          "album": "LOVE SICK",
+          "label": "Sound On Studio & Maison Records"
+        },
+        {
+          "time": "7:20pm",
+          "track": "Need It Real",
+          "artist": "Adelyn Paik",
+          "album": "Need It Real",
+          "label": "Epidemic Sound"
+        },
+        {
+          "time": "7:23pm",
+          "track": "SORRY",
+          "artist": "TeN",
+          "album": "REVERSIBLE",
+          "label": "TeN"
+        },
+        {
+          "time": "7:26pm",
+          "track": "Sweet & Sour",
+          "artist": "SAY MY NAME",
+          "album": "Absolute Value of Romance OST Part 2",
+          "label": "Studio maumC, YG PLUS"
+        },
+        {
+          "time": "7:31pm",
+          "track": "Mamihlapinatapai",
+          "artist": "ILLIT",
+          "album": "MAMIHLAPINATAPAI",
+          "label": "BELIFT LAB"
+        },
+        {
+          "time": "7:34pm",
+          "track": "PERFECT",
+          "artist": "claquepot, RUNG HYANG, Taichi Mukai",
+          "album": "PERFECT",
+          "label": "UCHIWA LABEL"
+        },
+        {
+          "time": "7:37pm",
+          "track": "Bestie Baby",
+          "artist": "Valentina Ploy, SILVY",
+          "album": "Bestie Baby",
+          "label": "Valentina Ploy"
+        },
+        {
+          "time": "7:40pm",
+          "track": "4g hơn",
+          "artist": "Bisou, Winno, Ringo",
+          "album": "4g hơn",
+          "label": "Midside Hu$tlers/Cổ Động"
+        },
+        {
+          "time": "7:44pm",
+          "track": "Sticky",
+          "artist": "NCT WISH",
+          "album": "Ode to Love - The 1st Album",
+          "label": "SM Entertainment"
+        },
+        {
+          "time": "7:47pm",
+          "track": "SUPER EKSIS",
+          "artist": "Naufal Sachreza",
+          "album": "SUPER EKSIS",
+          "label": "AntiNRML"
+        },
+        {
+          "time": "7:50pm",
+          "track": "Kill or Kiss",
+          "artist": "Yurina Hirate",
+          "album": "Kill or Kiss",
+          "label": "Capitol Records, UNIVERSAL MUSIC LLC, CloudNine"
+        },
+        {
+          "time": "7:53pm",
+          "track": "AWAKE",
+          "artist": "CRAVITY",
+          "album": "ReDeFINE",
+          "label": "Starship Entertainment Co, Ltd"
+        },
+        {
+          "time": "7:56pm",
+          "track": "Mmchk",
+          "artist": "NEXZ",
+          "album": "Mmchk",
+          "label": "JYP Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "70045",
+      "url": "https://xray.fm/broadcasts/70045",
+      "title": "Pacific Pulsations | Episode 83",
+      "air_date": "4-24-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.04.24.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "control",
+          "artist": "My Anh, Soul delivery",
+          "album": "come what may",
+          "label": "inner outer"
+        },
+        {
+          "time": "7:06pm",
+          "track": "Kẻ Lấy Đi Nỗi Buồn (The Stealer)",
+          "artist": "Hoàng Duyên, JSOL",
+          "album": "Kẻ Lấy Đi Nỗi Buồn (The Stealer)",
+          "label": "DREAMS ENTERTAINMENT, MMusic Records"
+        },
+        {
+          "time": "7:10pm",
+          "track": "favorite",
+          "artist": "ØZI",
+          "album": "favorite",
+          "label": "OZMD MUSIC COMPANY LIMITED"
+        },
+        {
+          "time": "7:13pm",
+          "track": "next2u",
+          "artist": "demxntia, niko rain",
+          "album": "next2u",
+          "label": "VOID HOURS LLC"
+        },
+        {
+          "time": "7:16pm",
+          "track": "don't care",
+          "artist": "yedira, Zhe Kamil",
+          "album": "don't care",
+          "label": "yedira"
+        },
+        {
+          "time": "7:21pm",
+          "track": "Makatonang",
+          "artist": "MMD",
+          "album": "Makatonang",
+          "label": "ABS-CBN Film Productions, Inc."
+        },
+        {
+          "time": "7:24pm",
+          "track": "DMMA",
+          "artist": "JustmineNika",
+          "album": "DMMA",
+          "label": "XOXO ENTERTAINMENT, Universal Music (Thailand) Ltd."
+        },
+        {
+          "time": "7:26pm",
+          "track": "NEON",
+          "artist": "Kim Mi Jeong, Norwegian Wood",
+          "album": "NEON",
+          "label": "Label SOOP, Genie Music Corporation"
+        },
+        {
+          "time": "7:29pm",
+          "track": "Tình Là",
+          "artist": "Dab, Helin, 4turs",
+          "album": "Tình Là",
+          "label": "Dab, ONErpm"
+        },
+        {
+          "time": "7:34pm",
+          "track": "if you don't love me",
+          "artist": "Yuna",
+          "album": "THE VALOUR HOUR",
+          "label": "YRR / Independent Co."
+        },
+        {
+          "time": "7:37pm",
+          "track": "Green Light",
+          "artist": "Quỳnh Anh Shyn",
+          "album": "Green Light",
+          "label": "VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "7:41pm",
+          "track": "Nước Mắt Cá Sấu",
+          "artist": "HIEUTHUHAI",
+          "album": "Mắt Nhắm Mắt Mở",
+          "label": "HIEUTHUHAI, MMusic Records"
+        },
+        {
+          "time": "7:44pm",
+          "track": "Can't stop (Feat. Gist, MilliMax)",
+          "artist": "GRIO, Gist, MilliMax",
+          "album": "TINY",
+          "label": "GRIO, Genie Music Corporation"
+        },
+        {
+          "time": "7:48pm",
+          "track": "Love is Forever",
+          "artist": "Gemini",
+          "album": "Love is Forever",
+          "label": "AT AREA"
+        },
+        {
+          "time": "7:51pm",
+          "track": "Green Light",
+          "artist": "IFCHAN, SCENE",
+          "album": "Green Light",
+          "label": "Epidemic Sound"
+        },
+        {
+          "time": "7:53pm",
+          "track": "SUPERSTAR",
+          "artist": "pH-1, BIG Naughty, IllBOI, Woodie Gochild",
+          "album": "PURPLE TAPE",
+          "label": "H1GHER MUSIC RECORDS"
+        },
+        {
+          "time": "7:56pm",
+          "track": "Tundra",
+          "artist": "Otyken",
+          "album": "Tundra",
+          "label": "Aboriginal Records"
+        }
+      ]
+    },
+    {
+      "id": "69909",
+      "url": "https://xray.fm/broadcasts/69909",
+      "title": "Pacific Pulsations | Episode 82",
+      "air_date": "4-17-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.04.17.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Studio54",
+          "artist": "T.O.P",
+          "album": "TOP SPOT - ANOTHER DIMENSION",
+          "label": "TOPSPOT PICTURES Co., Ltd., Kakao Entertainment"
+        },
+        {
+          "time": "7:06pm",
+          "track": "飘:No Roots",
+          "artist": "VAVA, Leah Dou",
+          "album": "飘:No Roots",
+          "label": "Dream Music Group"
+        },
+        {
+          "time": "7:11pm",
+          "track": "NAIL (feat. Lolo Zouaï)",
+          "artist": "Yves, Lolo Zouaï",
+          "album": "NAIL",
+          "label": "PAIX PER MIL"
+        },
+        {
+          "time": "7:13pm",
+          "track": "Your Charm",
+          "artist": "Regina Song",
+          "album": "Your Charm",
+          "label": "Play by NANA"
+        },
+        {
+          "time": "7:16pm",
+          "track": "MEMAI",
+          "artist": "DURDN",
+          "album": "MEMAI",
+          "label": "FRIENDSHIP."
+        },
+        {
+          "time": "7:21pm",
+          "track": "海",
+          "artist": "GOAT-CHEN",
+          "album": "海",
+          "label": "Goat-Chen"
+        },
+        {
+          "time": "7:25pm",
+          "track": "LATE CALL",
+          "artist": "IZARA",
+          "album": "IZARA",
+          "label": "Yin Yang Media Co., Ltd."
+        },
+        {
+          "time": "7:29pm",
+          "track": "Vanilla Days",
+          "artist": "LNGSHOT",
+          "album": "Training Day",
+          "label": "MORE VISION, Kakao Entertainment"
+        },
+        {
+          "time": "7:32pm",
+          "track": "ROBOT",
+          "artist": "Lee Young Ji",
+          "album": "ROBOT",
+          "label": "MAINSTREAM, Warner Music Korea, Kakao Entertainment"
+        },
+        {
+          "time": "7:37pm",
+          "track": "So Cute",
+          "artist": "HWASA",
+          "album": "So Cute",
+          "label": "P NATION, Kakao Entertainment"
+        },
+        {
+          "time": "7:41pm",
+          "track": "Breezy Love",
+          "artist": "JO1",
+          "album": "Breezy Love",
+          "label": "LAPONE ENTERTAINMENT"
+        },
+        {
+          "time": "7:45pm",
+          "track": "Update ME",
+          "artist": "ME:I",
+          "album": "Update ME",
+          "label": "LAPONE GIRLS"
+        },
+        {
+          "time": "7:48pm",
+          "track": "Shake!",
+          "artist": "PiXXiE",
+          "album": "Shake!",
+          "label": "LIT Entertainment, Universal Music (Thailand) Ltd."
+        },
+        {
+          "time": "7:51pm",
+          "track": "3AM",
+          "artist": "ALICE",
+          "album": "3AM",
+          "label": "Epidemic Sound"
+        },
+        {
+          "time": "7:54pm",
+          "track": "See through",
+          "artist": "SOYOU",
+          "album": "See through",
+          "label": "MAGIC STRAWBERRY SOUND, POCLANOS"
+        },
+        {
+          "time": "7:56pm",
+          "track": "Runaway",
+          "artist": "RESCENE",
+          "album": "Runaway",
+          "label": "The Muze Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "69784",
+      "url": "https://xray.fm/broadcasts/69784",
+      "title": "Pacific Pulsations | Episode 81",
+      "air_date": "4-10-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.04.10.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Lambing",
+          "artist": "Lola Amour",
+          "album": "Lambing",
+          "label": "Lola Amour - Distributed by New Levels Distribution"
+        },
+        {
+          "time": "7:06pm",
+          "track": "Sora",
+          "artist": "Yuuhai",
+          "album": "Sora",
+          "label": "Baramey Production / EMPIRE"
+        },
+        {
+          "time": "7:09pm",
+          "track": "Kelling",
+          "artist": "Farrel Hilal",
+          "album": "Kelling",
+          "label": "Farrel Hilal"
+        },
+        {
+          "time": "7:12pm",
+          "track": "Nhớ Vĩ",
+          "artist": "EREN, INC 3F, nVu",
+          "album": "MỘNG",
+          "label": "VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "7:15pm",
+          "track": "What’s a girl to do",
+          "artist": "DAYOUNG",
+          "album": "What’s a girl to do",
+          "label": "Starship Entertainment, Kakao Entertainment"
+        },
+        {
+          "time": "7:19pm",
+          "track": "Feel It Too",
+          "artist": "Min Jiwoon",
+          "album": "Feel It Too",
+          "label": "SM Entertainment, KRUCIALIZE"
+        },
+        {
+          "time": "7:22pm",
+          "track": "FINE",
+          "artist": "Dessy",
+          "album": "FINE",
+          "label": "mommaboy"
+        },
+        {
+          "time": "7:25pm",
+          "track": "The Show",
+          "artist": "DPR IAN",
+          "album": "The Show",
+          "label": "DREAM PERFECT REGIME (DPR)"
+        },
+        {
+          "time": "7:28pm",
+          "track": "Perfection",
+          "artist": "Zamio P",
+          "album": "Perfection",
+          "label": "Zamio P"
+        },
+        {
+          "time": "7:35pm",
+          "track": "KARMA",
+          "artist": "DREAMGALS, MILLI, Flower.far, GALCHANIE",
+          "album": "KARMA",
+          "label": "Yupp Entertainment Co. Ltd., 88rising Records LLC"
+        },
+        {
+          "time": "7:38pm",
+          "track": "CONNECT",
+          "artist": "IS:SUE",
+          "album": "QUARTET",
+          "label": "UNIVERSAL SIGMA / LAPONE GIRLS"
+        },
+        {
+          "time": "7:41pm",
+          "track": "Who is she",
+          "artist": "KISS OF LIFE",
+          "album": "Who is she",
+          "label": "S2 ENTERTAINMENT INC., Kakao Entertainment"
+        },
+        {
+          "time": "7:44pm",
+          "track": "Fashion",
+          "artist": "IVE",
+          "album": "Fashion",
+          "label": "Starship Entertainment"
+        },
+        {
+          "time": "7:47pm",
+          "track": "Seoul",
+          "artist": "Silky Silky",
+          "album": "silkysmooth 05",
+          "label": "Silky Silky, THE VAULT"
+        },
+        {
+          "time": "7:51pm",
+          "track": "火種",
+          "artist": "Tatsuya Kitani",
+          "album": "火種",
+          "label": "Sony Music Labels Inc."
+        },
+        {
+          "time": "7:54pm",
+          "track": "One More Night",
+          "artist": "BTS",
+          "album": "ARIRANG",
+          "label": "BIGHIT MUSIC"
+        },
+        {
+          "time": "7:57pm",
+          "track": "Пубертат",
+          "artist": "Betsy",
+          "album": "Пубертат",
+          "label": "Streaming Club, Rhymes Music Inc."
+        }
+      ]
+    },
+    {
+      "id": "69666",
+      "url": "https://xray.fm/broadcasts/69666",
+      "title": "Pacific Pulsations | Episode 80",
+      "air_date": "4-3-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.04.03.pacific.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Fly Me To The Moon (In Other Words)",
+          "artist": "Hikaru Utada",
+          "album": "Wait & See ～リスク～",
+          "label": "UNIVERSAL MUSIC LLC"
+        },
+        {
+          "time": "7:05pm",
+          "track": "Risky Risky",
+          "artist": "MELONii",
+          "album": "Risky Risky",
+          "label": "MELONii your melody"
+        },
+        {
+          "time": "7:09pm",
+          "track": "baby",
+          "artist": "LUSS",
+          "album": "baby",
+          "label": "XOXO ENTERTAINMENT, Universal Music (Thailand) Ltd."
+        },
+        {
+          "time": "7:11pm",
+          "track": "CHỐI (tại)",
+          "artist": "Ánh Sáng AZA",
+          "album": "CHỐI",
+          "label": "DAO Entertainment"
+        },
+        {
+          "time": "7:14pm",
+          "track": "Unhappy Ending",
+          "artist": "OiiOii",
+          "album": "Unhappy Ending",
+          "label": "Inplanet"
+        },
+        {
+          "time": "7:18pm",
+          "track": "Hồng Nhan Ơi",
+          "artist": "Thoại Nghi, ICM",
+          "album": "Hồng Nhan Ơi",
+          "label": "ICM Entertainment"
+        },
+        {
+          "time": "7:21pm",
+          "track": "Liar",
+          "artist": "ZIK",
+          "album": "Liar",
+          "label": "Fei Nai Er Lan De FUNIHILAND"
+        },
+        {
+          "time": "7:23pm",
+          "track": "mộng tỉnh",
+          "artist": "GREY D",
+          "album": "ÁNH SÁNG · MÀN ĐÊM (side A)",
+          "label": "ST.319 Entertainment, VIVI ENM"
+        },
+        {
+          "time": "7:26pm",
+          "track": "Slow Down",
+          "artist": "A.R.T",
+          "album": "Slow Down",
+          "label": "IKON Music / A.R.T"
+        },
+        {
+          "time": "7:31pm",
+          "track": "THIS SONG IS NOT ABOUT U",
+          "artist": "MIO",
+          "album": "THIS SONG IS NOT ABOUT U",
+          "label": "miosaysmiao"
+        },
+        {
+          "time": "7:34pm",
+          "track": "TIME'S UP",
+          "artist": "MYNAME, A.G.O",
+          "album": "TIME'S UP",
+          "label": "IRVING CO., LTD."
+        },
+        {
+          "time": "7:37pm",
+          "track": "Let's Dance",
+          "artist": "Risso",
+          "album": "Let's Dance",
+          "label": "WALTZSOFA RECORDS"
+        },
+        {
+          "time": "7:39pm",
+          "track": "Lead You On",
+          "artist": "niko rain",
+          "album": "Lead You On",
+          "label": "niko rain, this a hit!"
+        },
+        {
+          "time": "7:42pm",
+          "track": "不怪不愛",
+          "artist": "Yokez, Soph T., JM3",
+          "album": "不怪不愛",
+          "label": "Yokez & Ammobox Productions, Soph T. 重音, J.M3"
+        },
+        {
+          "time": "7:45pm",
+          "track": "こんな日は",
+          "artist": "LANA, Elle Teresa",
+          "album": "こんな日は",
+          "label": "Mary Joy Recordings"
+        },
+        {
+          "time": "7:48pm",
+          "track": "Baby, Honey",
+          "artist": "HOSHI",
+          "album": "Baby, Honey",
+          "label": "PLEDIS Entertainment"
+        },
+        {
+          "time": "7:51pm",
+          "track": "RAWBURN",
+          "artist": "로우번 (RAWBURN)",
+          "album": "RAWBURN",
+          "label": "RAW PLACE, LUNE"
+        },
+        {
+          "time": "7:55pm",
+          "track": "Over the Rainbow",
+          "artist": "Israel Kamakawiwo'ole",
+          "album": "Alone In Iz World",
+          "label": "Mountain Apple Company HAWAII / Big Boy Records"
+        }
+      ]
+    },
+    {
+      "id": "69517",
+      "url": "https://xray.fm/broadcasts/69517",
+      "title": "Pacific Pulsations | Episode 79",
+      "air_date": "3-27-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.03.27.pacific.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Trà Và Cà Phê",
+          "artist": "Chi Xê, Lazi",
+          "album": "Thinker Tell",
+          "label": "Universal Music Pte. Ltd."
+        },
+        {
+          "time": "7:05pm",
+          "track": "SWIM",
+          "artist": "BTS",
+          "album": "ARIRANG",
+          "label": "BIGHIT MUSIC"
+        },
+        {
+          "time": "7:08pm",
+          "track": "Glam Up",
+          "artist": "me.mei, MALIYA",
+          "album": "Ms.Independent",
+          "label": "bumper records"
+        },
+        {
+          "time": "7:10pm",
+          "track": "Body",
+          "artist": "MALIYA",
+          "album": "pluto",
+          "label": "Suppage Distribution"
+        },
+        {
+          "time": "7:13pm",
+          "track": "DREAMER",
+          "artist": "Moon Byul",
+          "album": "REV",
+          "label": "RBW Inc., Kakao Entertainment"
+        },
+        {
+          "time": "7:16pm",
+          "track": "wasteland",
+          "artist": "Yuna",
+          "album": "wasteland",
+          "label": "YRR / Independent Co."
+        },
+        {
+          "time": "7:19pm",
+          "track": "everybody dies",
+          "artist": "Wonstein",
+          "album": "everybody dies",
+          "label": "STANDARD FRIENDS, Dreamus"
+        },
+        {
+          "time": "7:22pm",
+          "track": "DREAM (Feat. untell)",
+          "artist": "SEIN, Gist, untell",
+          "album": "BOYFRIEND",
+          "label": "Daytona Entertainment"
+        },
+        {
+          "time": "7:25pm",
+          "track": "OH!!",
+          "artist": "haruno, HoYoiR",
+          "album": "OH!!",
+          "label": "HRN"
+        },
+        {
+          "time": "7:28pm",
+          "track": "像話 (feat. Novel Fergus)",
+          "artist": "MC張天賦, Novel Fergus",
+          "album": "像話 (feat. Novel Fergus)",
+          "label": "Warner Music Hong Kong Limited"
+        },
+        {
+          "time": "7:32pm",
+          "track": "Deadend (活該)",
+          "artist": "Tyson Yoshi, Jackson Wang",
+          "album": "Deadend (活該)",
+          "label": "Just Kidding Limited"
+        },
+        {
+          "time": "7:36pm",
+          "track": "Love Comes Slowly",
+          "artist": "SS9",
+          "album": "About Love",
+          "label": "FNC ENTERTAINMENT, Kakao Entertainment"
+        },
+        {
+          "time": "7:39pm",
+          "track": "千人樣",
+          "artist": "Gareth.T",
+          "album": "THE PROTÉGÉ",
+          "label": "Warner Music Hong Kong Limited"
+        },
+        {
+          "time": "7:43pm",
+          "track": "Long Way Home",
+          "artist": "TAEMIN",
+          "album": "Long Way Home",
+          "label": "The Yoo Group / Music By Quantum Mirror Publishing"
+        },
+        {
+          "time": "7:46pm",
+          "track": "CHÓM NỞ",
+          "artist": "Guem, MYLINA",
+          "album": "CHÓM NỞ",
+          "label": "MaiDao Music"
+        },
+        {
+          "time": "7:50pm",
+          "track": "If You",
+          "artist": "Sala, VivaOla",
+          "album": "If You",
+          "label": "Suppage Distribution"
+        },
+        {
+          "time": "7:52pm",
+          "track": "Bad Girl",
+          "artist": "HANA",
+          "album": "Bad Girl",
+          "label": "NO LABEL MUSIC / Sony Music Labels Inc."
+        },
+        {
+          "time": "7:56pm",
+          "track": "MOVEURBODY",
+          "artist": "HYO",
+          "album": "MOVEURBODY",
+          "label": "SM Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "69392",
+      "url": "https://xray.fm/broadcasts/69392",
+      "title": "Pacific Pulsations | Episode 78",
+      "air_date": "3-20-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.03.20.pacific.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Truthbuster",
+          "artist": "Noridogam",
+          "album": "TRUTHBUSTER",
+          "label": "ormdstudio, MOAH"
+        },
+        {
+          "time": "7:08pm",
+          "track": "CRUISING",
+          "artist": "HIROTO (INI)",
+          "album": "CRUISING",
+          "label": "LAPONE ENTERTAINMENT"
+        },
+        {
+          "time": "7:12pm",
+          "track": "MY FATE",
+          "artist": "MoMo, 空房強斗",
+          "album": "MY FATE",
+          "label": "SHINPAINAI RECORDS, WARNER MUSIC JAPAN INC."
+        },
+        {
+          "time": "7:15pm",
+          "track": "Bandung City (UOO)",
+          "artist": "Yung Caters",
+          "album": "Bandung City (UOO)",
+          "label": "AntiNRML"
+        },
+        {
+          "time": "7:18pm",
+          "track": "take three",
+          "artist": "moon tang",
+          "album": "take three",
+          "label": "Warner Music Hong Kong Limited"
+        },
+        {
+          "time": "7:21pm",
+          "track": "分擔",
+          "artist": "Billy Choi",
+          "album": "分擔",
+          "label": "BillyChoiMusic"
+        },
+        {
+          "time": "7:24pm",
+          "track": "AA (Alone Again)",
+          "artist": "Gemini",
+          "album": "AA (Alone Again)",
+          "label": "AT AREA"
+        },
+        {
+          "time": "7:27pm",
+          "track": "Bassline",
+          "artist": "Ayumu Imazu",
+          "album": "Bassline",
+          "label": "UNIVERSAL MUSIC LLC"
+        },
+        {
+          "time": "7:30pm",
+          "track": "cry jar",
+          "artist": "nami",
+          "album": "cry jar",
+          "label": "JUICEY"
+        },
+        {
+          "time": "7:33pm",
+          "track": "How can I be in love?",
+          "artist": "SUZANA, Norith",
+          "album": "How can I be in love?",
+          "label": "Baramey Production / EMPIRE"
+        },
+        {
+          "time": "7:37pm",
+          "track": "Round and Round",
+          "artist": "Potatoi",
+          "album": "Orange Courage",
+          "label": "WAVY"
+        },
+        {
+          "time": "7:41pm",
+          "track": "YÊU HOK?",
+          "artist": "Mabel, ICY KRAVE, summerdayy",
+          "album": "YÊU HOK?",
+          "label": "VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "7:44pm",
+          "track": "Ai đưa em về (Cukak Remix)",
+          "artist": "TIA, Lê Thiện Hiếu, Cukak",
+          "album": "Ai đưa em về (Cukak Remix)",
+          "label": "LOOPS Music"
+        },
+        {
+          "time": "7:48pm",
+          "track": "橙色 Yell",
+          "artist": "&TEAM",
+          "album": "橙色 Yell",
+          "label": "YX LABELS"
+        },
+        {
+          "time": "7:52pm",
+          "track": "Everything u need",
+          "artist": "ETHAN",
+          "album": "Everything u need",
+          "label": "ETHAN"
+        },
+        {
+          "time": "7:56pm",
+          "track": "One More Night",
+          "artist": "BTS",
+          "album": "ARIRANG",
+          "label": "BIGHIT MUSIC"
+        }
+      ]
+    },
+    {
+      "id": "69264",
+      "url": "https://xray.fm/broadcasts/69264",
+      "title": "Pacific Pulsations | Episode 77",
+      "air_date": "3-13-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.03.13.pacific.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "為什麼你總愛上不該愛的人",
+          "artist": "WeiBird",
+          "album": "LOVE WEI BACK Vol.2",
+          "label": "AWESOME MUSIC, Sony Music Taiwan Ltd."
+        },
+        {
+          "time": "7:06pm",
+          "track": "学芸大前",
+          "artist": "ぷにぷに電機, Kan Sano, Shin Sakiura",
+          "album": "学芸大前",
+          "label": "Tsubame Production"
+        },
+        {
+          "time": "7:09pm",
+          "track": "PEACH",
+          "artist": "Jane B",
+          "album": "PEACH",
+          "label": "WILDNFREE, MUSIC&NEW"
+        },
+        {
+          "time": "7:13pm",
+          "track": "Tweak",
+          "artist": "GIRLSET",
+          "album": "Tweak",
+          "label": "JYP Entertainment Company, Republic Records, UMG Recordings, Inc."
+        },
+        {
+          "time": "7:15pm",
+          "track": "ENNA",
+          "artist": "Ryan.B",
+          "album": "ENNA",
+          "label": "Ryan.B Studio"
+        },
+        {
+          "time": "7:20pm",
+          "track": "How the Fire Started",
+          "artist": "Eric Nam",
+          "album": "How the Fire Started",
+          "label": "The Eric Nam Company"
+        },
+        {
+          "time": "7:23pm",
+          "track": "Insomnia",
+          "artist": "ena mori",
+          "album": "Ore",
+          "label": "Offshore Music, Sony Music Entertainment Philippines"
+        },
+        {
+          "time": "7:28pm",
+          "track": "Tell Me",
+          "artist": "CAMO",
+          "album": "Tell Me",
+          "label": "502"
+        },
+        {
+          "time": "7:30pm",
+          "track": "鳥とイルカ",
+          "artist": "EMI MARIA",
+          "album": "Mother Tree",
+          "label": "BOP ART RECORDS"
+        },
+        {
+          "time": "7:34pm",
+          "track": "PLACES & EXes",
+          "artist": "Sik-K",
+          "album": "6SEOUL",
+          "label": "KC, Dreamus"
+        },
+        {
+          "time": "7:38pm",
+          "track": "HOTPOT",
+          "artist": "MIO",
+          "album": "HOTPOT",
+          "label": "MIO"
+        },
+        {
+          "time": "7:40pm",
+          "track": "BOTH SIDES",
+          "artist": "NCT JNJM",
+          "album": "BOTH SIDES - The 1st Mini Album",
+          "label": "SM Entertainment"
+        },
+        {
+          "time": "7:43pm",
+          "track": "Mama (媽媽)",
+          "artist": "Chinese American Bear",
+          "album": "Mama (媽媽)",
+          "label": "Moshi Moshi Records"
+        },
+        {
+          "time": "7:48pm",
+          "track": "Di Na",
+          "artist": "Earl Agustin",
+          "album": "Di Na",
+          "label": "Vicor Music"
+        },
+        {
+          "time": "7:52pm",
+          "track": "autopilot",
+          "artist": "Emily Sie",
+          "album": "autopilot",
+          "label": "Ostereo Limited"
+        },
+        {
+          "time": "7:56pm",
+          "track": "My Place",
+          "artist": "Fujii Kaze",
+          "album": "2026 World Baseball Classic",
+          "label": "Republic Records, UMG Recordings, Inc."
+        }
+      ]
+    },
+    {
+      "id": "69122",
+      "url": "https://xray.fm/broadcasts/69122",
+      "title": "Pacific Pulsations | Episode 76 (Rerun)",
+      "air_date": "3-6-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.02.27.pacific_2.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "68999",
+      "url": "https://xray.fm/broadcasts/68999",
+      "title": "Pacific Pulsations | Episode 76",
+      "air_date": "2-27-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.02.27.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Closer",
+          "artist": "Kenichiro Nishihara, Michael Kaneko",
+          "album": "OJAZ",
+          "label": "UNPRIVATE Co., Ltd."
+        },
+        {
+          "time": "7:05pm",
+          "track": "With U",
+          "artist": "STUTS, Julia Wu, Daichi Yamamoto",
+          "album": "With U",
+          "label": "Atik Sounds / SPACE SHOWER NETWORKS INC."
+        },
+        {
+          "time": "7:10pm",
+          "track": "24-5",
+          "artist": "lili maua",
+          "album": "24-5",
+          "label": "lili maua"
+        },
+        {
+          "time": "7:13pm",
+          "track": "DIOS MIO",
+          "artist": "Sunny Lukas",
+          "album": "DIOS MIO",
+          "label": "Sunny Lukas"
+        },
+        {
+          "time": "7:15pm",
+          "track": "MINE",
+          "artist": "SWEET REVENGE",
+          "album": "MINE",
+          "label": "LDH"
+        },
+        {
+          "time": "7:18pm",
+          "track": "Hmm",
+          "artist": "MISAMO",
+          "album": "PLAY",
+          "label": "WARNER MUSIC JAPAN INC."
+        },
+        {
+          "time": "7:22pm",
+          "track": "Bloom",
+          "artist": "HANA",
+          "album": "HANA",
+          "label": "NO LABEL MUSIC / Sony Music Labels Inc."
+        },
+        {
+          "time": "7:25pm",
+          "track": "So Nice",
+          "artist": "Vanthan",
+          "album": "So Nice",
+          "label": "Baramey Production / EMPIRE"
+        },
+        {
+          "time": "7:28pm",
+          "track": "nosho",
+          "artist": "SIKKOO",
+          "album": "home",
+          "label": "AOMG"
+        },
+        {
+          "time": "7:32pm",
+          "track": "MIDNIGHT GLOW",
+          "artist": "MoMo",
+          "album": "MIDNIGHT GLOW",
+          "label": "SHINPAINAI RECORDS, WARNER MUSIC JAPAN INC."
+        },
+        {
+          "time": "7:35pm",
+          "track": "Party Girl",
+          "artist": "Morvasu",
+          "album": "Party Girl",
+          "label": "What The Duck, Universal Music (Thailand) Ltd."
+        },
+        {
+          "time": "7:38pm",
+          "track": "Sparkling Wine",
+          "artist": "MALIYA",
+          "album": "Sparkling Wine",
+          "label": "Suppage Distribution"
+        },
+        {
+          "time": "7:40pm",
+          "track": "RUDE!",
+          "artist": "Hearts2Hearts",
+          "album": "RUDE!",
+          "label": "SM Entertainment"
+        },
+        {
+          "time": "7:44pm",
+          "track": "BETTER ON ME",
+          "artist": "Johnny Huynh",
+          "album": "BETTER ON ME",
+          "label": "Columbia Records, Sony Music Entertainment, Johnny Huynh"
+        },
+        {
+          "time": "7:48pm",
+          "track": "說愛誰",
+          "artist": "Dizzy Dizzo, E.SO",
+          "album": "骨子裡 (Innermost)",
+          "label": "Phatt Choy Productions Limtied"
+        },
+        {
+          "time": "7:52pm",
+          "track": "Best Match",
+          "artist": "ME:I",
+          "album": "Best Match",
+          "label": "LAPONE GIRLS"
+        },
+        {
+          "time": "7:56pm",
+          "track": "GO",
+          "artist": "BLACKPINK",
+          "album": "DEADLINE",
+          "label": "YG Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "68867",
+      "url": "https://xray.fm/broadcasts/68867",
+      "title": "Pacific Pulsations | Episode 75",
+      "air_date": "2-20-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.02.20.pacific.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "溝之口沒有藤井風",
+          "artist": "Gordon Flanders",
+          "album": "溝之口沒有藤井風",
+          "label": "Warner Music Hong Kong Limited"
+        },
+        {
+          "time": "7:05pm",
+          "track": "Saxo Love (ชุดนอนไม่ได้นอน)",
+          "artist": "Tobii",
+          "album": "Mr. Saxo Love",
+          "label": "Def Jam Recordings, Universal Music (Thailand) Ltd"
+        },
+        {
+          "time": "7:08pm",
+          "track": "HEADACHE",
+          "artist": "HIROTO (INI)",
+          "album": "ICON",
+          "label": "LAPONE ENTERTAINMENT"
+        },
+        {
+          "time": "7:11pm",
+          "track": "3T",
+          "artist": "Pháo, B Ray",
+          "album": "3T",
+          "label": "Pháo, MMusic Records"
+        },
+        {
+          "time": "7:14pm",
+          "track": "我的錯",
+          "artist": "Karencici",
+          "album": "我的錯",
+          "label": "Boots n' Cats Records"
+        },
+        {
+          "time": "7:17pm",
+          "track": "guilty pleasure",
+          "artist": "PP KRIT, GALCHANIE",
+          "album": "guilty pleasure",
+          "label": "PP Krit ENTERTAINMENT CO LTD, Universal Music (Thailand) Ltd"
+        },
+        {
+          "time": "7:20pm",
+          "track": "UTOPIA",
+          "artist": "asobi",
+          "album": "UTOPIA",
+          "label": "Phoenixx Inc."
+        },
+        {
+          "time": "7:24pm",
+          "track": "黏踢踢",
+          "artist": "黃文廷",
+          "album": "黏踢踢",
+          "label": "Sony Music Entertainment Taiwan Ltd."
+        },
+        {
+          "time": "7:26pm",
+          "track": "จารย์",
+          "artist": "YENTED, Win Sqweez Animal",
+          "album": "จารย์",
+          "label": "Yented"
+        },
+        {
+          "time": "7:31pm",
+          "track": "單程票",
+          "artist": "Patrick Brasca",
+          "album": "單程票",
+          "label": "JVR Music International Ltd"
+        },
+        {
+          "time": "7:35pm",
+          "track": "東京劇場",
+          "artist": "Ettone",
+          "album": "東京劇場",
+          "label": "O21"
+        },
+        {
+          "time": "7:38pm",
+          "track": "All of You",
+          "artist": "RIIZE",
+          "album": "All of You",
+          "label": "UNIVERSAL MUSIC LLC"
+        },
+        {
+          "time": "7:41pm",
+          "track": "KATTARINA",
+          "artist": "LANA",
+          "album": "KATTARINA",
+          "label": "LANA MUSIC"
+        },
+        {
+          "time": "7:43pm",
+          "track": "Shower",
+          "artist": "Suen",
+          "album": "In my room.",
+          "label": "Groovlin"
+        },
+        {
+          "time": "7:47pm",
+          "track": "阿福羅火山",
+          "artist": "比莉 Billie",
+          "album": "阿福羅火山",
+          "label": "Universal Music Taiwan LLC"
+        },
+        {
+          "time": "7:49pm",
+          "track": "V4MP",
+          "artist": "Lil Liem, Xoxad",
+          "album": "V4MP",
+          "label": "VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "7:52pm",
+          "track": "Home Sweet Home",
+          "artist": "JIWOO",
+          "album": "JIWOO 1st EP '(EX)IST'",
+          "label": "DSPmedia, kakao Entertainment"
+        },
+        {
+          "time": "7:56pm",
+          "track": "Mention Me - From the Movie",
+          "artist": "CORTIS",
+          "album": "Mention Me (From The Movie",
+          "label": "Mercury Records, UMG Recordings, Inc"
+        }
+      ]
+    },
+    {
+      "id": "68755",
+      "url": "https://xray.fm/broadcasts/68755",
+      "title": "Pacific Pulsations | Year of 🐎",
+      "air_date": "2-13-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.02.13.pacific.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "朱門",
+          "artist": "Dizkar",
+          "album": "肥瘦音樂：豪華體驗",
+          "label": "Mintone Records"
+        },
+        {
+          "time": "7:05pm",
+          "track": "Tết Có Đôi Mình",
+          "artist": "Thoại Nghi, ICM",
+          "album": "Tết Có Đôi Mình",
+          "label": "ICM Entertainment"
+        },
+        {
+          "time": "7:09pm",
+          "track": "Sweet Luck (薯你好运)",
+          "artist": "TIA RAY, 揽佬SKAI ISYOURGOD",
+          "album": "Sweet Luck (薯你好运)",
+          "label": "labeled by TME"
+        },
+        {
+          "time": "7:12pm",
+          "track": "Tết Nhai Rộp Rộp",
+          "artist": "Chi Xê",
+          "album": "Tết Nhai Rộp Rộp",
+          "label": "G Label"
+        },
+        {
+          "time": "7:15pm",
+          "track": "NGỰA LÊN",
+          "artist": "Saabirose",
+          "album": "NGỰA LÊN",
+          "label": "Saabirose / 12 trái lê"
+        },
+        {
+          "time": "7:19pm",
+          "track": "Tết Này Ai Bận",
+          "artist": "Trang Anh, Willistic",
+          "album": "Tết Này Ai Bận",
+          "label": "LOOPS Music"
+        },
+        {
+          "time": "7:22pm",
+          "track": "Thế Là Tết",
+          "artist": "Đức Phúc, Hoà Minzy",
+          "album": "Thế Là Tết",
+          "label": "Đức Phúc, Sony Music Entertainment Hong Kong Limited"
+        },
+        {
+          "time": "7:26pm",
+          "track": "恭喜發財利是來",
+          "artist": "吳君如",
+          "album": "我有我的溫柔",
+          "label": "BMG Hong Kong Limited"
+        },
+        {
+          "time": "7:30pm",
+          "track": "HORSEH",
+          "artist": "薛家燕, Jaspers Lai, 3p",
+          "album": "HORSEH",
+          "label": "3P"
+        },
+        {
+          "time": "7:33pm",
+          "track": "Tết Có Đôi Mình",
+          "artist": "DyAn, ICM",
+          "album": "Tết Có Đôi Mình",
+          "label": "ICM Entertainment"
+        },
+        {
+          "time": "7:37pm",
+          "track": "Về Nhà Ăn Tết",
+          "artist": "BigDaddy, JustaTee",
+          "album": "Về Nhà Ăn Tết",
+          "label": "JustaTee, WM Vietnam"
+        },
+        {
+          "time": "7:41pm",
+          "track": "皆大歡喜",
+          "artist": "薛家燕",
+          "album": "薛家燕開心女人",
+          "label": "環星音樂 / 環星娛樂 WSM Music HK"
+        },
+        {
+          "time": "7:45pm",
+          "track": "Matsuri",
+          "artist": "Fujii Kaze",
+          "album": "LOVE ALL SERVE ALL",
+          "label": "UNIVERSAL SIGMA / HEHN RECORDS"
+        },
+        {
+          "time": "7:49pm",
+          "track": "恭喜恭喜",
+          "artist": "Teresa Teng",
+          "album": "Teresa Teng Sings Hits Of Yao Lee",
+          "label": "WorldStar Music International Limited"
+        },
+        {
+          "time": "7:52pm",
+          "track": "Money Horse 勢料",
+          "artist": "MAD, Sai, Tan Bernice, Vikram, Dennis Lim, 陈昭伶ESTEE, Dabangji, Seanwukaka, Zomic, Wabikong",
+          "album": "Money Horse 勢料",
+          "label": "MADLODY SOUNDS, Wabikong"
+        },
+        {
+          "time": "7:55pm",
+          "track": "Save a Horse (Ride a Cowboy)",
+          "artist": "Big & Rich",
+          "album": "Horse of a Different Color",
+          "label": "Warner Records Inc."
+        }
+      ]
+    },
+    {
+      "id": "68636",
+      "url": "https://xray.fm/broadcasts/68636",
+      "title": "Pacific Pulsations | Episode 74",
+      "air_date": "2-6-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.02.06.pacific.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "OLDSKULL LOVE",
+          "artist": "Xuân Nghi, Blak Ray, Ox The Moron",
+          "album": "OLDSKULL LOVE",
+          "label": "9Note Records"
+        },
+        {
+          "time": "7:05pm",
+          "track": "TOO CLOSE (feat. Suen)",
+          "artist": "DIMO REX, Suen",
+          "album": "INTOXICATED",
+          "label": "GF Entertainment"
+        },
+        {
+          "time": "7:07pm",
+          "track": "CHỜ ANH VỀ",
+          "artist": "B Ray, AMEE",
+          "album": "CHỜ ANH VỀ",
+          "label": "B Ray, MIXUS"
+        },
+        {
+          "time": "7:11pm",
+          "track": "BEAUTIFUL DAY",
+          "artist": "TIA RAY",
+          "album": "NEW DAY",
+          "label": "TME"
+        },
+        {
+          "time": "7:14pm",
+          "track": "Over Now",
+          "artist": "A.R.T.",
+          "album": "Over Now",
+          "label": "IKON Music / A.R.T"
+        },
+        {
+          "time": "7:17pm",
+          "track": "Những Người Trẻ Yêu",
+          "artist": "Lazii",
+          "album": "Những Người Trẻ Yêu",
+          "label": "Lazii, MIXUS"
+        },
+        {
+          "time": "7:20pm",
+          "track": "無神論",
+          "artist": "ØZI",
+          "album": "無神論",
+          "label": "OZMD MUSIC COMPANY LIMITED"
+        },
+        {
+          "time": "7:23pm",
+          "track": "หนุ่มบ้านนอก",
+          "artist": "SURIYA MQT",
+          "album": "หนุ่มบ้านนอก",
+          "label": "SURIYAMQT"
+        },
+        {
+          "time": "7:27pm",
+          "track": "desire",
+          "artist": "gels, Wondrah",
+          "album": "desire",
+          "label": "gels"
+        },
+        {
+          "time": "7:31pm",
+          "track": "Cho Anh",
+          "artist": "Lil Liem",
+          "album": "Cho Anh",
+          "label": "VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "7:33pm",
+          "track": "TEST ME",
+          "artist": "CHANMINA",
+          "album": "TEST ME",
+          "label": "NO LABEL MUSIC / Sony Music Labels Inc."
+        },
+        {
+          "time": "7:36pm",
+          "track": "BANGKOK CITY",
+          "artist": "KT KRATAE",
+          "album": "BANGKOK CITY",
+          "label": "KT KRATAE"
+        },
+        {
+          "time": "7:39pm",
+          "track": "Ohaguro",
+          "artist": "luv",
+          "album": "Ohaguro",
+          "label": "WARNER MUSIC JAPAN INC."
+        },
+        {
+          "time": "7:43pm",
+          "track": "Thắng Đời 1-0",
+          "artist": "BigDaddy, Đức Phúc, Phuc Du",
+          "album": "Thắng Đời 1-0",
+          "label": "VIEENT Music"
+        },
+        {
+          "time": "7:46pm",
+          "track": "Girls Like Me",
+          "artist": "88rising, 4EVE",
+          "album": "Girls Like Me",
+          "label": "88rising Records LLC"
+        },
+        {
+          "time": "7:49pm",
+          "track": "TOKYO DRIFT",
+          "artist": "ONE OR EIGHT",
+          "album": "GATHER",
+          "label": "AVEX MUSIC CREATIVE INC."
+        },
+        {
+          "time": "7:52pm",
+          "track": "NASA",
+          "artist": "ATEEZ",
+          "album": "GOLDEN HOUR: Part.4",
+          "label": "KQ Entertainment, Sony Music Korea Inc."
+        },
+        {
+          "time": "7:56pm",
+          "track": "NO LIMIT",
+          "artist": "NAVILLERA",
+          "album": "NO LIMIT",
+          "label": "트로이엔터테인먼트, AURORA with Danal Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "68538",
+      "url": "https://xray.fm/broadcasts/68538",
+      "title": "Pacific Pulsations | Episode 73",
+      "air_date": "1-30-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.01.30.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Teen Spirit",
+          "artist": "YOHLU",
+          "album": "Teen Spirit",
+          "label": "BOAT"
+        },
+        {
+          "time": "7:05pm",
+          "track": "Cuội",
+          "artist": "JUUN D",
+          "album": "Cuội",
+          "label": "4B Nexus"
+        },
+        {
+          "time": "7:09pm",
+          "track": "LOVE YOU LESS",
+          "artist": "Joji",
+          "album": "LOVE YOU LESS",
+          "label": "Palace Creek, Virgin Music"
+        },
+        {
+          "time": "7:12pm",
+          "track": "Dopamine",
+          "artist": "iirenic",
+          "album": "Dopamine",
+          "label": "iirenic, MIXUS"
+        },
+        {
+          "time": "7:16pm",
+          "track": "Chờ Đợi",
+          "artist": "Juky San",
+          "album": "ĐẪM TÌNH",
+          "label": "DAO Entertainment"
+        },
+        {
+          "time": "7:20pm",
+          "track": "Endless story (feat. TRADE L)",
+          "artist": "YOUNGJOO, TRADE L",
+          "album": "Endless story",
+          "label": "NAMYOUNGJOO"
+        },
+        {
+          "time": "7:23pm",
+          "track": "한걸음 (One Step)",
+          "artist": "Jinnie, Paul Grant",
+          "album": "한걸음 (One Step)",
+          "label": "JL & PG"
+        },
+        {
+          "time": "7:26pm",
+          "track": "BRB",
+          "artist": "Kim Mi Jeong",
+          "album": "BRB",
+          "label": "Wayside, Genie Music Corporation"
+        },
+        {
+          "time": "7:29pm",
+          "track": "Unknown Artist",
+          "artist": "Luli Lee",
+          "album": "Brave New World",
+          "label": "Knight Airport, POCLANOS"
+        },
+        {
+          "time": "7:33pm",
+          "track": "開花宣言",
+          "artist": "Aile The Shota",
+          "album": "開花宣言",
+          "label": "Bullmoose Records"
+        },
+        {
+          "time": "7:36pm",
+          "track": "Rule",
+          "artist": "Mika Nakashima",
+          "album": "STAGE -THE MUSICAL IN MY HEAD-",
+          "label": "Sony Music Labels Inc."
+        },
+        {
+          "time": "7:40pm",
+          "track": "ピンボール (Pinball)",
+          "artist": "RESCENE",
+          "album": "ピンボール (Pinball)",
+          "label": "The Muze Entertainment"
+        },
+        {
+          "time": "7:43pm",
+          "track": "MUNGNYANG",
+          "artist": "KiiiKiii",
+          "album": "Delulu Pack",
+          "label": "Starship Entertainment Co. Ltd."
+        },
+        {
+          "time": "7:46pm",
+          "track": "Blush",
+          "artist": "TY:DEL",
+          "album": "Blush",
+          "label": "TY:DEL Music"
+        },
+        {
+          "time": "7:49pm",
+          "track": "believer",
+          "artist": "Yuna",
+          "album": "believer",
+          "label": "YRR / Independent Co."
+        },
+        {
+          "time": "7:52pm",
+          "track": "Midnight Borrowed",
+          "artist": "Adam Fan",
+          "album": "Midnight Borrowed",
+          "label": "Golden Echo Inc."
+        },
+        {
+          "time": "7:57pm",
+          "track": "Little Miss (Misdemeanor)",
+          "artist": "GIRLSET, Missy Elliott",
+          "album": "Little Miss (Misdemeanor)",
+          "label": "JYP Entertainment Company, Republic Records, UMG Recordings, Inc."
+        }
+      ]
+    },
+    {
+      "id": "68440",
+      "url": "https://xray.fm/broadcasts/68440",
+      "title": "Pacific Pulsations | Episode 72",
+      "air_date": "1-23-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.01.23.pacific_2.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "CHUN",
+          "artist": "Lexie Liu",
+          "album": "CHUN",
+          "label": "Nixie Music Co., Limited"
+        },
+        {
+          "time": "7:05pm",
+          "track": "JUICE",
+          "artist": "MoMo",
+          "album": "JUICE",
+          "label": "SHINPAINAI RECORDS, WARNER MUSIC JAPAN INC."
+        },
+        {
+          "time": "7:07pm",
+          "track": "아크라포빅 (Akrapovic)",
+          "artist": "hamo",
+          "album": "아크라포빅 (Akrapovic)",
+          "label": "NEVER THE LESS seoul"
+        },
+        {
+          "time": "7:10pm",
+          "track": "Offline",
+          "artist": "LEEBADA",
+          "album": "Offline",
+          "label": "BAY, Dreamus"
+        },
+        {
+          "time": "7:13pm",
+          "track": "Any Minute",
+          "artist": "IS:SUE",
+          "album": "PHASE",
+          "label": "UNIVERSAL SIGMA / LAPONE GIRLS"
+        },
+        {
+          "time": "7:16pm",
+          "track": "Lần Đó",
+          "artist": "Vxllish",
+          "album": "Lần Đó",
+          "label": "Extensive Music Group"
+        },
+        {
+          "time": "7:20pm",
+          "track": "Moan",
+          "artist": "Jimmy Brown",
+          "album": "Moan",
+          "label": "JWIN Entertainment, THE VAULT"
+        },
+        {
+          "time": "7:22pm",
+          "track": "Đêm Nay",
+          "artist": "RIO, Jaysonlei",
+          "album": "Đêm Nay",
+          "label": "DAO Entertainment"
+        },
+        {
+          "time": "7:24pm",
+          "track": "Sinungaling",
+          "artist": "Samsara 304",
+          "album": "Sinungaling",
+          "label": "Samsara 304"
+        },
+        {
+          "time": "7:28pm",
+          "track": "NEON LIGHT",
+          "artist": "VannDa",
+          "album": "NEON LIGHT",
+          "label": "Baramey Production / EMPIRE"
+        },
+        {
+          "time": "7:33pm",
+          "track": "Moonwalkin'",
+          "artist": "LNGSHOT",
+          "album": "SHOT CALLERS",
+          "label": "MORE VISION, Kakao Entertainment"
+        },
+        {
+          "time": "7:36pm",
+          "track": "Digital Girl",
+          "artist": "GAON",
+          "album": "Digital Girl",
+          "label": "KYM Music"
+        },
+        {
+          "time": "7:39pm",
+          "track": "The Show",
+          "artist": "Gen Neo",
+          "album": "Through Thick & Thin",
+          "label": "Gen Neo"
+        },
+        {
+          "time": "7:43pm",
+          "track": "Love Me More",
+          "artist": "Apink",
+          "album": "RE : LOVE",
+          "label": "With Us Entertainment"
+        },
+        {
+          "time": "7:46pm",
+          "track": "Used To",
+          "artist": "SUMMER CAKE",
+          "album": "REMNANTS",
+          "label": "SUMMER CAKE"
+        },
+        {
+          "time": "7:49pm",
+          "track": "ELECTRIC LIGHTS",
+          "artist": "Hoody",
+          "album": "PROJECT Y (Original Motion Picture Soundtrack)",
+          "label": "SLL, MUSIC&NEW"
+        },
+        {
+          "time": "7:52pm",
+          "track": "ROCK THE BOAT",
+          "artist": "XG",
+          "album": "THE CORE - 核",
+          "label": "XGALX"
+        },
+        {
+          "time": "7:56pm",
+          "track": "FREAK ALARM",
+          "artist": "ALPHA DRIVE ONE",
+          "album": "EUPHORIA",
+          "label": "WAKEONE"
+        }
+      ]
+    },
+    {
+      "id": "68308",
+      "url": "https://xray.fm/broadcasts/68308",
+      "title": "Pacific Pulsations | Episode 71",
+      "air_date": "1-16-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.01.16.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "超级电脑",
+          "artist": "艾熱AIR",
+          "album": "艾·思集",
+          "label": "Dream Music Group"
+        },
+        {
+          "time": "7:08pm",
+          "track": "Pull Up",
+          "artist": "Kimmese, Suboi, Tuimi",
+          "album": "For My People",
+          "label": "Kimmese / 12 trái lê"
+        },
+        {
+          "time": "7:12pm",
+          "track": "Shelter",
+          "artist": "JUE",
+          "album": "Shelter",
+          "label": "YOONRECORD, POCLANOS"
+        },
+        {
+          "time": "7:14pm",
+          "track": "Thấm Tình",
+          "artist": "Juky San, Negav",
+          "album": "ĐẪM TÌNH",
+          "label": "DAO Entertainment"
+        },
+        {
+          "time": "7:18pm",
+          "track": "Mystery",
+          "artist": "Jane B",
+          "album": "Mystery",
+          "label": "WILDNFREE, MUSIC&NEW"
+        },
+        {
+          "time": "7:21pm",
+          "track": "OLD DAYS",
+          "artist": "TIA RAY",
+          "album": "OLD DAYS",
+          "label": "TME"
+        },
+        {
+          "time": "7:24pm",
+          "track": "Overcome",
+          "artist": "Shayda",
+          "album": "MUTED FOX",
+          "label": "QP hype"
+        },
+        {
+          "time": "7:27pm",
+          "track": "một cảm xúc rối bời không thấy lối thoát",
+          "artist": "52Hz",
+          "album": "một cảm xúc rối bời không thấy lối thoát",
+          "label": "52Hz, Universal Music Pte. Ltd."
+        },
+        {
+          "time": "7:30pm",
+          "track": "BAD",
+          "artist": "Risso",
+          "album": "BAD",
+          "label": "WALTZSOFA RECORDS"
+        },
+        {
+          "time": "7:34pm",
+          "track": "SAKURA",
+          "artist": "ziproom, Blanco",
+          "album": "ZOOM IN PEOPLE",
+          "label": "ziproom / SPACE SHOWER MUSIC"
+        },
+        {
+          "time": "7:37pm",
+          "track": "Run It Back",
+          "artist": "PSYCHIC FEVER from EXILE TRIBE",
+          "album": "Run It Back",
+          "label": "Warner Music Group, 10K Projects / LDH JAPAN Inc."
+        },
+        {
+          "time": "7:40pm",
+          "track": "MBTI",
+          "artist": "Sunny Lukas",
+          "album": "MBTI",
+          "label": "Sunny Lukas"
+        },
+        {
+          "time": "7:42pm",
+          "track": "Sleep Tight",
+          "artist": "ENHYPEN",
+          "album": "THE SIN : VANISH",
+          "label": "BELIFT LAB Inc."
+        },
+        {
+          "time": "7:45pm",
+          "track": "Dạo Này",
+          "artist": "Obito",
+          "album": "Dạo Này",
+          "label": "Obito / CIRCLE R"
+        },
+        {
+          "time": "7:49pm",
+          "track": "MAGICAL",
+          "artist": "Ayumu Imazu",
+          "album": "MAGICAL",
+          "label": "UNIVERSAL MUSIC LLC"
+        },
+        {
+          "time": "7:53pm",
+          "track": "WHY",
+          "artist": "GUrbane, Lowridaz",
+          "album": "WHY",
+          "label": "GUrbane"
+        },
+        {
+          "time": "7:57pm",
+          "track": "For What It's Worth",
+          "artist": "Buffalo Springfield",
+          "album": "Buffalo Springfield",
+          "label": "Atco Records, Atlantic Recording Corp., Warner Music Company"
+        }
+      ]
+    },
+    {
+      "id": "68179",
+      "url": "https://xray.fm/broadcasts/68179",
+      "title": "Pacific Pulsations | Episode 70",
+      "air_date": "1-9-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.01.09.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Cháy Máy",
+          "artist": "WOKEUP, Orange",
+          "album": "WOKEUPAT4AM",
+          "label": "SCLVB Lbel, VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "7:04pm",
+          "track": "Dream Again",
+          "artist": "HYNGSN",
+          "album": "EXchange4, Pt. 9 (Original Soundtrack)",
+          "label": "Stone Music Entertainment"
+        },
+        {
+          "time": "7:07pm",
+          "track": "MINDLESS",
+          "artist": "ODORI, Aile The Shota, Sam is Ohm",
+          "album": "MINDLESS",
+          "label": "RaySTA"
+        },
+        {
+          "time": "7:10pm",
+          "track": "Kiss me gently",
+          "artist": "Zamio P",
+          "album": "Kiss me gently",
+          "label": "Zamio P"
+        },
+        {
+          "time": "7:13pm",
+          "track": "TẠI VÌ ICE?",
+          "artist": "Annie, CANDY$WEET",
+          "album": "TẠI VÌ ICE?",
+          "label": "MaiDao Music"
+        },
+        {
+          "time": "7:18pm",
+          "track": "4to9",
+          "artist": "桃子A1J, Diiton",
+          "album": "4to9",
+          "label": "Sony Music Entertainment Taiwan Ltd."
+        },
+        {
+          "time": "7:21pm",
+          "track": "ALL",
+          "artist": "Jimmy Brown",
+          "album": "love III",
+          "label": "JWIN Entertainment, THE VAULT"
+        },
+        {
+          "time": "7:23pm",
+          "track": "Tro Tàn",
+          "artist": "EREN, SIXTYUPTOWN, nVu",
+          "album": "Tro Tàn",
+          "label": "LOOPS Music"
+        },
+        {
+          "time": "7:26pm",
+          "track": "過度依賴 (feat. Karencici)",
+          "artist": "step.jad, Karencici",
+          "album": "過度依賴 (feat. Karencici)",
+          "label": "Warner Music Beijing Co. Ltd."
+        },
+        {
+          "time": "7:30pm",
+          "track": "End roll",
+          "artist": "yama",
+          "album": "End roll",
+          "label": "Sony Music Labels Inc."
+        },
+        {
+          "time": "7:34pm",
+          "track": "才知道!",
+          "artist": "HOW1E",
+          "album": "BACKFLIP!",
+          "label": "Sony Music Entertainment Malaysia Sdn Bhd & Lanxy Records Sdn Bhd"
+        },
+        {
+          "time": "7:37pm",
+          "track": "Lỗi tại em",
+          "artist": "Charmy Pham",
+          "album": "Phao Cứu Sinh",
+          "label": "Charm Global Entertainment"
+        },
+        {
+          "time": "7:41pm",
+          "track": "Hôn Vào Đây Đi",
+          "artist": "VSTRA, Tyronee, hairan, antransax",
+          "album": "Triệu (Phase 1 of 3)",
+          "label": "VSTRA, CDSL"
+        },
+        {
+          "time": "7:45pm",
+          "track": "GOOGOOGAGA",
+          "artist": "Pixel Neko, MANH",
+          "album": "Ai Đi Hỏi Đường",
+          "label": "Pixel Neko, LOOPS MUSIC"
+        },
+        {
+          "time": "7:48pm",
+          "track": "Refund",
+          "artist": "林詩雅 Grace, HUR+",
+          "album": "Refund",
+          "label": "星鏈艾歐亞股份有限公司"
+        },
+        {
+          "time": "7:51pm",
+          "track": "Standing On The Edge",
+          "artist": "HYOLYN",
+          "album": "Standing On The Edge",
+          "label": "알이에이치엔터테인먼트, NHN Bugs Corp"
+        },
+        {
+          "time": "7:55pm",
+          "track": "還你茉莉",
+          "artist": "单依纯",
+          "album": "純妹妹",
+          "label": "百沐娛樂"
+        }
+      ]
+    },
+    {
+      "id": "68053",
+      "url": "https://xray.fm/broadcasts/68053",
+      "title": "Pacific Pulsations | Jammingest of '25",
+      "air_date": "1-2-2026",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2026.01.02.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Hachikō",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        },
+        {
+          "time": "7:05pm",
+          "track": "X",
+          "artist": "Lexie Liu",
+          "album": "TEENAGE RAMBLE",
+          "label": "NIXIE MUSIC"
+        },
+        {
+          "time": "7:09pm",
+          "track": "Ride or Die",
+          "artist": "Jeff Satur",
+          "album": "Ride or Die",
+          "label": "Wayfer Records"
+        },
+        {
+          "time": "7:12pm",
+          "track": "shoot",
+          "artist": "no na",
+          "album": "shoot",
+          "label": "88rising Records LLC"
+        },
+        {
+          "time": "7:15pm",
+          "track": "body",
+          "artist": "88rising, YOUHA, Warren Hue",
+          "album": "body",
+          "label": "88rising Records LLC"
+        },
+        {
+          "time": "7:19pm",
+          "track": "MIRROR",
+          "artist": "Yerin Baek",
+          "album": "Flash and Core",
+          "label": "PEOPLE LIKE PEOPLE Co., Ltd"
+        },
+        {
+          "time": "7:23pm",
+          "track": "GALA",
+          "artist": "XG",
+          "album": "GALA",
+          "label": "XGALX"
+        },
+        {
+          "time": "7:26pm",
+          "track": "DSTM",
+          "artist": "ONE OR EIGHT",
+          "album": "DSTM",
+          "label": "AVEX MUSIC CREATIVE INC"
+        },
+        {
+          "time": "7:29pm",
+          "track": "G.A.Y o (^∇^) o",
+          "artist": "ALIE BLACKCOBRA",
+          "album": "G.A.Y o (^∇^) o",
+          "label": "ALIE BLACKCOBRA"
+        },
+        {
+          "time": "7:33pm",
+          "track": "Gabriela",
+          "artist": "KATSEYE",
+          "album": "Gabriela",
+          "label": "HYBE UMG LLC"
+        },
+        {
+          "time": "7:37pm",
+          "track": "Love Hangover (feat. Dominic Fike)",
+          "artist": "JENNIE, Dominic Fike",
+          "album": "Love Hangover (feat. Dominic Fike)",
+          "label": "Columbia Records, Sony Music Entertainment, OA ENTERTAINMENT, INC."
+        },
+        {
+          "time": "7:39pm",
+          "track": "SPAGHETTI",
+          "artist": "LE SSERAFIM, j-hope",
+          "album": "SPAGHETTI",
+          "label": "SOURCE MUSIC"
+        },
+        {
+          "time": "7:42pm",
+          "track": "Blue Jeans",
+          "artist": "HANA",
+          "album": "Blue Jeans",
+          "label": "NO LABEL MUSIC / Sony Music Labels Inc."
+        },
+        {
+          "time": "7:46pm",
+          "track": "Heart Drop",
+          "artist": "RESCENE",
+          "album": "Heart Drop",
+          "label": "The Muze Entertainment, Kakao Entertainment"
+        },
+        {
+          "time": "7:49pm",
+          "track": "HOT SAUCE",
+          "artist": "BABYMONSTER",
+          "album": "HOT SAUCE",
+          "label": "YG Entertainment"
+        },
+        {
+          "time": "7:52pm",
+          "track": "Golden",
+          "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+          "album": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+          "label": "Visva Records / Republic Records"
+        },
+        {
+          "time": "7:55pm",
+          "track": "愛♡スクリ～ム！",
+          "artist": "AiScReam",
+          "album": "愛♡スクリ～ム！",
+          "label": "Lantis"
+        }
+      ]
+    },
+    {
+      "id": "67920",
+      "url": "https://xray.fm/broadcasts/67920",
+      "title": "Pacific Pulsations | Sexiest of '25",
+      "air_date": "12-26-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.12.26.pacific.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "pity dirty",
+          "artist": "pami",
+          "album": "pity dirty",
+          "label": "JUICEY"
+        },
+        {
+          "time": "7:04pm",
+          "track": "Television star",
+          "artist": "Yerin Baek",
+          "album": "Flash and Core",
+          "label": "PEOPLE LIKE PEOPLE Co., Ltd"
+        },
+        {
+          "time": "7:08pm",
+          "track": "Seoul City",
+          "artist": "JENNIE",
+          "album": "Ruby",
+          "label": "Columbia Records, Sony Music Entertainment, OA ENTERTAINMENT, INC."
+        },
+        {
+          "time": "7:11pm",
+          "track": "有其父必有其子",
+          "artist": "Ye!!ow",
+          "album": "有其父必有其子",
+          "label": "影子計劃文創有限公司"
+        },
+        {
+          "time": "7:14pm",
+          "track": "WANTCHU",
+          "artist": "keshi",
+          "album": "WANTCHU",
+          "label": "Island Records, UMG Recordings, Inc."
+        },
+        {
+          "time": "7:18pm",
+          "track": "VILLAIN",
+          "artist": "The Crane",
+          "album": "VILLAIN",
+          "label": "落夢地 ROMAD"
+        },
+        {
+          "time": "7:21pm",
+          "track": "BAD SIGN 侵略性的浪漫",
+          "artist": "ØZI",
+          "album": "BAD SIGN 侵略性的浪漫",
+          "label": "OZMD MUSIC COMPANY LIMITED"
+        },
+        {
+          "time": "7:24pm",
+          "track": "Coffee Pornstar",
+          "artist": "ERIKA, Shoutín",
+          "album": "雙魚宮",
+          "label": "WANMEI ENTERTAINMENT CO., LTD."
+        },
+        {
+          "time": "7:27pm",
+          "track": "IN THE RAIN",
+          "artist": "XG",
+          "album": "IN THE RAIN",
+          "label": "XGALX"
+        },
+        {
+          "time": "7:31pm",
+          "track": "The City We Grew Up In",
+          "artist": "Ouida",
+          "album": "So Bitter, So Sweet",
+          "label": "Ouida Music, Bolo Music Group"
+        },
+        {
+          "time": "7:34pm",
+          "track": "SOLID",
+          "artist": "Sharin Attamimi",
+          "album": "SOLID",
+          "label": "Sharin Attamimi"
+        },
+        {
+          "time": "7:37pm",
+          "track": "SIREN",
+          "artist": "MoMo",
+          "album": "KTST",
+          "label": "SHINPAINAI RECORDS, WARNER MUSIC JAPAN INC."
+        },
+        {
+          "time": "7:40pm",
+          "track": "PHONE",
+          "artist": "TIA RAY",
+          "album": "PHONE",
+          "label": "TME"
+        },
+        {
+          "time": "7:44pm",
+          "track": "Never Cared",
+          "artist": "Shi Shi",
+          "album": "Never Cared",
+          "label": "Rock Records Co., Ltd."
+        },
+        {
+          "time": "7:47pm",
+          "track": "Thủy Triều",
+          "artist": "Quang Hùng MasterD, Hino",
+          "album": "BLOOMEVER",
+          "label": "MasterD Entertainment, MMusic Records"
+        },
+        {
+          "time": "7:50pm",
+          "track": "So Sticky",
+          "artist": "LUSS",
+          "album": "dinosaur slayerr",
+          "label": "XOXO ENTERTAINMENT, Universal Music (Thailand) Ltd."
+        },
+        {
+          "time": "7:53pm",
+          "track": "Waste My Time",
+          "artist": "Amera Hpone",
+          "album": "AMERA",
+          "label": "AMERA HPONE"
+        },
+        {
+          "time": "7:56pm",
+          "track": "Blind Eyes Red",
+          "artist": "MINNIE",
+          "album": "Blind Eyes Red",
+          "label": "Cube Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "67829",
+      "url": "https://xray.fm/broadcasts/67829",
+      "title": "Pacific Pulsations | XMAS '25",
+      "air_date": "12-19-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.12.19.pacific.xmas25.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Winter Ahead (with PARK HYO SHIN)",
+          "artist": "V, Park Hyo Shin",
+          "album": "Winter Ahead (with PARK HYO SHIN)",
+          "label": "BIGHIT MUSIC"
+        },
+        {
+          "time": "7:06pm",
+          "track": "That Spirit of Christmas",
+          "artist": "Ray Charles",
+          "album": "That Spirit of Christmas",
+          "label": "Tangerine Records, Exceleration Music Partners, LLC"
+        },
+        {
+          "time": "7:11pm",
+          "track": "This Christmas",
+          "artist": "Patti LaBelle",
+          "album": "This Christmas",
+          "label": "MCA Records Inc."
+        },
+        {
+          "time": "7:14pm",
+          "track": "O Holy Night",
+          "artist": "Eric Cartman",
+          "album": "Mr. Hankey's Christmas Classics",
+          "label": "SONY BMG MUSIC ENTERTAINMENT"
+        },
+        {
+          "time": "7:18pm",
+          "track": "Merry Christmas Baby",
+          "artist": "James Brown & The Famous Flames",
+          "album": "James Brown's Funky Christmas",
+          "label": "Universal Records, UMG Recordings, Inc."
+        },
+        {
+          "time": "7:22pm",
+          "track": "Soulful Christmas",
+          "artist": "James Brown",
+          "album": "James Brown's Funky Christmas",
+          "label": "Universal Records, UMG Recordings, Inc."
+        },
+        {
+          "time": "7:25pm",
+          "track": "メリクリ",
+          "artist": "BoA",
+          "album": "メリクリ",
+          "label": "AVEX CREATIVE INC."
+        },
+        {
+          "time": "7:30pm",
+          "track": "xmas suy",
+          "artist": "Kai Đinh, SIVAN, Hngle",
+          "album": "mùa ôm ôm",
+          "label": "Yin Yang Media Co., Ltd."
+        },
+        {
+          "time": "7:34pm",
+          "track": "Christmas Paradise",
+          "artist": "BoA",
+          "album": "Christmas Paradise - WINTER GARDEN",
+          "label": "SM Entertainment"
+        },
+        {
+          "time": "7:38pm",
+          "track": "サンタさんへ。",
+          "artist": "JO1",
+          "album": "サンタさんへ。",
+          "label": "LAPONE ENTERTAINMENT"
+        },
+        {
+          "time": "7:42pm",
+          "track": "Lonely Christmas",
+          "artist": "Eason Chan",
+          "album": "陳奕迅廣東精選 (HQCDII)",
+          "label": "英皇娛樂(Emperor Entertainment Group)"
+        },
+        {
+          "time": "7:48pm",
+          "track": "Same Old Lang Syne",
+          "artist": "Dan Fogelberg",
+          "album": "Love Songs",
+          "label": "Sony Music Entertainment"
+        },
+        {
+          "time": "7:53pm",
+          "track": "It's Christmas in Kansas City",
+          "artist": "Brad Millison",
+          "album": "Christmas in Kansas City / The Christmas Song",
+          "label": "Oh-Oh! Records"
+        },
+        {
+          "time": "7:56pm",
+          "track": "Kansas City Christmas",
+          "artist": "Ida McBeth",
+          "album": "Kansas City Christmas",
+          "label": "Paul E. Evans"
+        }
+      ]
+    },
+    {
+      "id": "67687",
+      "url": "https://xray.fm/broadcasts/67687",
+      "title": "Pacific Pulsations | Episode 69",
+      "air_date": "12-12-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.12.12.pacific.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "在指尖跳伞",
+          "artist": "艾熱AIR",
+          "album": "在指尖跳伞",
+          "label": "Dream Music Group"
+        },
+        {
+          "time": "7:06pm",
+          "track": "Bảo Bối",
+          "artist": "Văn Mai Hương",
+          "album": "Giai Nhân",
+          "label": "Yin Yang Media Co., Ltd."
+        },
+        {
+          "time": "7:09pm",
+          "track": "Don't Worry",
+          "artist": "James Alyn, PREP",
+          "album": "Don't Worry",
+          "label": "JUICEY"
+        },
+        {
+          "time": "7:13pm",
+          "track": "AFTER TASTE",
+          "artist": "DURDN",
+          "album": "AFTER TASTE",
+          "label": "FRIENDSHIP."
+        },
+        {
+          "time": "7:17pm",
+          "track": "慢慢活 SLOWLY IN LOVE",
+          "artist": "JACE",
+          "album": "REVOLVING: DOWN",
+          "label": "JACE WORLD"
+        },
+        {
+          "time": "7:21pm",
+          "track": "Bút Chì Bạc",
+          "artist": "Thắng",
+          "album": "Bút Chì Bạc",
+          "label": "Maika Elan, Thắng"
+        },
+        {
+          "time": "7:25pm",
+          "track": "Drive",
+          "artist": "Donnell Lewis, J.Tajor",
+          "album": "Drive",
+          "label": "ACTS Music Group"
+        },
+        {
+          "time": "7:27pm",
+          "track": "1,150km",
+          "artist": "TRADE L, SEIN",
+          "album": "@whereissein",
+          "label": "TRADE L, SEIN, YG PLUS"
+        },
+        {
+          "time": "7:31pm",
+          "track": "Anti Gravity",
+          "artist": "XTIE",
+          "album": "Anti Gravity",
+          "label": "Solar Rye Records"
+        },
+        {
+          "time": "7:35pm",
+          "track": "MALU MALU",
+          "artist": "dia, INDAHKUS",
+          "album": "INI DIA",
+          "label": "AntiNRML"
+        },
+        {
+          "time": "7:39pm",
+          "track": "世紀末寂寞",
+          "artist": "icyball",
+          "album": "我很抱歉",
+          "label": "何樂音樂Pqpmusic"
+        },
+        {
+          "time": "7:42pm",
+          "track": "พร้อมพัง 2026",
+          "artist": "YENTED, Sexski, P6ICK",
+          "album": "พร้อมพัง 2026",
+          "label": "Yented"
+        },
+        {
+          "time": "7:46pm",
+          "track": "現在換我主動觸發任務",
+          "artist": "李芷婷 Nasi",
+          "album": "海的模樣",
+          "label": "Warner Music Taiwan Ltd."
+        },
+        {
+          "time": "7:49pm",
+          "track": "GOOD BOY",
+          "artist": "BADMIXY, ปอยฝ้าย มาลัยพร",
+          "album": "GOOD BOY",
+          "label": "BADMIXY"
+        },
+        {
+          "time": "7:52pm",
+          "track": "NON STOP",
+          "artist": "HANA",
+          "album": "NON STOP",
+          "label": "NO LABEL MUSIC / Sony Music Labels Inc."
+        },
+        {
+          "time": "7:56pm",
+          "track": "Rocket 69",
+          "artist": "Todd Rhodes",
+          "album": "Ride, Daddy, Ride! And Other Songs of Love",
+          "label": "Gusto Records Inc."
+        }
+      ]
+    },
+    {
+      "id": "67574",
+      "url": "https://xray.fm/broadcasts/67574",
+      "title": "Pacific Pulsations | Episode 68",
+      "air_date": "12-5-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.12.05.pacific.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Piliin",
+          "artist": "Adie",
+          "album": "Piliin",
+          "label": "O/C Records"
+        },
+        {
+          "time": "7:07pm",
+          "track": "Solitary",
+          "artist": "KRYSTAL",
+          "album": "Solitary",
+          "label": "BANA"
+        },
+        {
+          "time": "7:09pm",
+          "track": "Leave me",
+          "artist": "Xoxad, KIDDI",
+          "album": "Leave me",
+          "label": "YIN YANG ENM Co. Ltd."
+        },
+        {
+          "time": "7:13pm",
+          "track": "Physics",
+          "artist": "cosmosy",
+          "album": "Physics",
+          "label": "NTT docomo Studio&Live / Sony Music Entertainment Korea"
+        },
+        {
+          "time": "7:16pm",
+          "track": "Hãy Trao Cho Anh",
+          "artist": "Sơn Tùng M-TP, Snoop Dogg",
+          "album": "Hãy Trao Cho Anh",
+          "label": "VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "7:21pm",
+          "track": "Cityboy",
+          "artist": "THAMA, SHINDRUM",
+          "album": "Cityboys Attitude",
+          "label": "THAMA, YG PLUS"
+        },
+        {
+          "time": "7:26pm",
+          "track": "444",
+          "artist": "Highvyn",
+          "album": "444",
+          "label": "Highvyn"
+        },
+        {
+          "time": "7:29pm",
+          "track": "Call My Name",
+          "artist": "JEY",
+          "album": "Call My Name",
+          "label": "ALFHA"
+        },
+        {
+          "time": "7:31pm",
+          "track": "Addicted",
+          "artist": "Lydia Ganada, P4BLO",
+          "album": "4U",
+          "label": "Lydia Ganada Music"
+        },
+        {
+          "time": "7:35pm",
+          "track": "Serendipity",
+          "artist": "Kenichiro Nishihara, Tamala, Takurah",
+          "album": "Illuminus",
+          "label": "アンプライベート株式会社"
+        },
+        {
+          "time": "7:39pm",
+          "track": "Fresh Air",
+          "artist": "Rothy, Chan, LOGOS",
+          "album": "Fresh Air",
+          "label": "LOGOS Entertainment"
+        },
+        {
+          "time": "7:42pm",
+          "track": "Em Khong The",
+          "artist": "Tiên Tiên, Touliver",
+          "album": "Em Khong The",
+          "label": "TienTienMusic"
+        },
+        {
+          "time": "7:46pm",
+          "track": "시소 (seesaw)",
+          "artist": "Joowon",
+          "album": "시소 (seesaw)",
+          "label": "Joowon, mixtape.so"
+        },
+        {
+          "time": "7:50pm",
+          "track": "Calling",
+          "artist": "Foi",
+          "album": "Calling",
+          "label": "IKmusic Records"
+        },
+        {
+          "time": "7:53pm",
+          "track": "Gió",
+          "artist": "marzuz, WEAN",
+          "album": "Gió",
+          "label": "marzuz"
+        },
+        {
+          "time": "7:57pm",
+          "track": "I Hate Silence",
+          "artist": "The Deep",
+          "album": "KPOP B!TCH",
+          "label": "The Deep"
+        }
+      ]
+    },
+    {
+      "id": "67457",
+      "url": "https://xray.fm/broadcasts/67457",
+      "title": "Pacific Pulsations | Episode 67",
+      "air_date": "11-28-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.11.28.pacific.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "I Wasn't Ready To Be The Sun",
+          "artist": "Ash Zixuan",
+          "album": "Solstice",
+          "label": "Ash Zixuan"
+        },
+        {
+          "time": "7:08pm",
+          "track": "Không Còn Là Người",
+          "artist": "CeCe Trương",
+          "album": "Những Đường Cong Thẳng Hàng",
+          "label": "CeCe Trương, MMusic Records"
+        },
+        {
+          "time": "7:12pm",
+          "track": "All In",
+          "artist": "Pay",
+          "album": "All In",
+          "label": "Pay, MIXUS"
+        },
+        {
+          "time": "7:16pm",
+          "track": "Thủy Triều",
+          "artist": "Quang Hùng MasterD, Hino",
+          "album": "BLOOMEVER",
+          "label": "MasterD Entertainment, MMusic Records"
+        },
+        {
+          "time": "7:19pm",
+          "track": "Over",
+          "artist": "reina",
+          "album": "Over",
+          "label": "w.a.u"
+        },
+        {
+          "time": "7:23pm",
+          "track": "OCEAN",
+          "artist": "LEX",
+          "album": "Original",
+          "label": "iDeal recordings"
+        },
+        {
+          "time": "7:27pm",
+          "track": "蒲公英",
+          "artist": "Billy Choi",
+          "album": "蒲公英",
+          "label": "BillyChoiMusic"
+        },
+        {
+          "time": "7:30pm",
+          "track": "WTVR U LIKE",
+          "artist": "Fahimi, Alfie Zumi",
+          "album": "WTVR U LIKE",
+          "label": "Faithful Music Sdn Bhd, Universal Music Sdn Bhd"
+        },
+        {
+          "time": "7:32pm",
+          "track": "ก้าวก่าย (Still On Your Line)",
+          "artist": "BILLKIN",
+          "album": "Grow With The Flow",
+          "label": "BILLKIN ENTERTAINMENT CO., LTD., Universal Music (Thailand) Ltd."
+        },
+        {
+          "time": "7:37pm",
+          "track": "Notebook",
+          "artist": "Jayrun, K6Y, Saran",
+          "album": "Notebook",
+          "label": "Jayrun"
+        },
+        {
+          "time": "7:41pm",
+          "track": "Good Goodbye",
+          "artist": "HWASA",
+          "album": "Good Goodbye",
+          "label": "P NATION, Kakao Entertainment"
+        },
+        {
+          "time": "7:44pm",
+          "track": "rupok",
+          "artist": "Dom Guyot, Janine Berdin",
+          "album": "rupok",
+          "label": "Sony Music Entertainment Philippines, Inc."
+        },
+        {
+          "time": "7:48pm",
+          "track": "Two Times",
+          "artist": "asobi",
+          "album": "Two Times",
+          "label": "Phoenixx Inc."
+        },
+        {
+          "time": "7:51pm",
+          "track": "Dumplings",
+          "artist": "icyball",
+          "album": "Dumplings",
+          "label": "何樂音樂Pqpmusic"
+        },
+        {
+          "time": "7:54pm",
+          "track": "LOCK IT IN (feat. ØZI)",
+          "artist": "Haezee, ØZI",
+          "album": "UNLOCKED",
+          "label": "Sony Music Entertainment Taiwan Ltd."
+        },
+        {
+          "time": "7:57pm",
+          "track": "67",
+          "artist": "dotewav",
+          "album": "67",
+          "label": "wavs chamber"
+        }
+      ]
+    },
+    {
+      "id": "67346",
+      "url": "https://xray.fm/broadcasts/67346",
+      "title": "Pacific Pulsations | Episode 66",
+      "air_date": "11-21-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.11.21.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "新月",
+          "artist": "ASOUND",
+          "album": "新月",
+          "label": "Sony Music Labels Inc."
+        },
+        {
+          "time": "7:07pm",
+          "track": "像个罪人",
+          "artist": "高旭, itssiu",
+          "album": "像个罪人",
+          "label": "Columbia Records China & UESE MUSIC"
+        },
+        {
+          "time": "7:11pm",
+          "track": "Hạt Mưa Buồn",
+          "artist": "KIDDI, LizPanda",
+          "album": "MEDICATION",
+          "label": "YIN YANG ENM Co. Ltd."
+        },
+        {
+          "time": "7:15pm",
+          "track": "signs",
+          "artist": "Giwon",
+          "album": "signs",
+          "label": "howtouse, YG PLUS"
+        },
+        {
+          "time": "7:17pm",
+          "track": "Sugar Free",
+          "artist": "LUSS",
+          "album": "Sugar Free",
+          "label": "XOXO ENTERTAINMENT, Universal Music (Thailand) Ltd."
+        },
+        {
+          "time": "7:21pm",
+          "track": "cuối tuần",
+          "artist": "Dfoxie37, Tọi, Nuilillaw, Tuann",
+          "album": "Lợi Khuẩn",
+          "label": "Dfoxie37, Def Jam Recordings Vietnam, Universal Music Pte. Ltd."
+        },
+        {
+          "time": "7:24pm",
+          "track": "แพ้เสียงในหัว (Hello There)",
+          "artist": "loserpop",
+          "album": "แพ้เสียงในหัว (Hello There)",
+          "label": "What The Duck, Universal Music (Thailand) Ltd."
+        },
+        {
+          "time": "7:28pm",
+          "track": "그림자놀이",
+          "artist": "CHAEYOUNG",
+          "album": "LIL FANTASY vol.1",
+          "label": "JYP Entertainment Corporation"
+        },
+        {
+          "time": "7:30pm",
+          "track": "Wall.Eyes.Knee",
+          "artist": "LINION",
+          "album": "自己自己 mi casa su casa",
+          "label": "嘿黑豹工作室B.P.Lin Studio"
+        },
+        {
+          "time": "7:35pm",
+          "track": "磁石",
+          "artist": "SHIROSE(WHITE JAM)",
+          "album": "彼女にしか見せないタトゥー",
+          "label": "WHITE JAM Records"
+        },
+        {
+          "time": "7:39pm",
+          "track": "Airpods",
+          "artist": "XIHO, JAEHA",
+          "album": "Airpods (Feat. JAEHA (재하))",
+          "label": "2088, Sound Republica, Inc."
+        },
+        {
+          "time": "7:41pm",
+          "track": "撞到我自己",
+          "artist": "Showmain",
+          "album": "撞到我自己",
+          "label": "巨音樂 Huge studio (矩放實業有限公司)"
+        },
+        {
+          "time": "7:44pm",
+          "track": "CROWN",
+          "artist": "Takanori Iwata",
+          "album": "CROWN",
+          "label": "LDH JAPAN Inc."
+        },
+        {
+          "time": "7:47pm",
+          "track": "blur",
+          "artist": "Matcha Fever",
+          "album": "blur",
+          "label": "MF Production"
+        },
+        {
+          "time": "7:50pm",
+          "track": "the one",
+          "artist": "no na",
+          "album": "the one",
+          "label": "88rising Records LLC"
+        },
+        {
+          "time": "7:52pm",
+          "track": "HEART SHAPED HOLE",
+          "artist": "TIA RAY",
+          "album": "HEART SHAPED HOLE",
+          "label": "TME"
+        },
+        {
+          "time": "7:56pm",
+          "track": "Rush",
+          "artist": "NCT DREAM",
+          "album": "Beat It Up",
+          "label": "SM Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "67233",
+      "url": "https://xray.fm/broadcasts/67233",
+      "title": "Pacific Pulsations | Episode 65",
+      "air_date": "11-14-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.11.14.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "LOVER BOY",
+          "artist": "kidsai, WHENITSASUNNIDAY, Ashdread",
+          "album": "YẾT",
+          "label": "kidsai"
+        },
+        {
+          "time": "7:05pm",
+          "track": "what can i do?",
+          "artist": "Luke Chiang, Jesse Barrera, Albert Posis",
+          "album": "what can i do?",
+          "label": "Luke Chiang"
+        },
+        {
+          "time": "7:09pm",
+          "track": "Kacamata",
+          "artist": "Afgan",
+          "album": "Kacamata",
+          "label": "Trinity Optima Production / Better Days Production"
+        },
+        {
+          "time": "7:12pm",
+          "track": "Sunset In Pattaya",
+          "artist": "YOUNGOHM",
+          "album": "ไฟกลางคืน",
+          "label": "YOUNGOHM"
+        },
+        {
+          "time": "7:15pm",
+          "track": "THINKIN' BOUT YOU",
+          "artist": "Sweet The Kid",
+          "album": "SENSATION",
+          "label": "Sweet The Kid, THE VAULT"
+        },
+        {
+          "time": "7:19pm",
+          "track": "余韻",
+          "artist": "XinU",
+          "album": "XinU EP #04",
+          "label": "King Record Co. Ltd / HEROIC LINE"
+        },
+        {
+          "time": "7:22pm",
+          "track": "A-cup",
+          "artist": "Haisam",
+          "album": "Đẹp&Buồn",
+          "label": "TECHBEAT Music"
+        },
+        {
+          "time": "7:27pm",
+          "track": "turn right, turn left",
+          "artist": "tonun",
+          "album": "turn right, turn left",
+          "label": "UNIVERSAL SIGMA, UNIVERSAL MUSIC LLC"
+        },
+        {
+          "time": "7:30pm",
+          "track": "Jangan Calling",
+          "artist": "Ova Libenovo, OHSHALLE, Meeiiya",
+          "album": "Jangan Calling",
+          "label": "PATS RECORDS"
+        },
+        {
+          "time": "7:34pm",
+          "track": "Cigarettes After War (feat. VannDa)",
+          "artist": "North, VannDa",
+          "album": "Cigarettes After War",
+          "label": "Baramey Production / EMPIRE"
+        },
+        {
+          "time": "7:38pm",
+          "track": "VENDREDI SOIR",
+          "artist": "Ryan.B",
+          "album": "VENDREDI SOIR",
+          "label": "RAPLEADER"
+        },
+        {
+          "time": "7:41pm",
+          "track": "Vì Tình Iu",
+          "artist": "Phankeo, summerdayy",
+          "album": "Vì Tình Iu",
+          "label": "YIN YANG ENM Co. Ltd."
+        },
+        {
+          "time": "7:44pm",
+          "track": "Shape of Love",
+          "artist": "NMIXX",
+          "album": "Blue Valentine",
+          "label": "JYP Entertainment"
+        },
+        {
+          "time": "7:48pm",
+          "track": "BAO LÂU RỒI EM",
+          "artist": "WEAN",
+          "album": "BAO LÂU RỒI EM",
+          "label": "WEAN, MMusic Records"
+        },
+        {
+          "time": "7:50pm",
+          "track": "It’s Alright",
+          "artist": "RYUL",
+          "album": "It’s Alright",
+          "label": "Cosm, YG PLUS"
+        },
+        {
+          "time": "7:53pm",
+          "track": "Heart Drop",
+          "artist": "RESCENE",
+          "album": "Heart Drop",
+          "label": "The Muze Entertainment, Kakao Entertainment"
+        },
+        {
+          "time": "7:56pm",
+          "track": "KITTY SWAG",
+          "artist": "PERSES",
+          "album": "KITTY SWAG",
+          "label": "GMM Music Public Company Limited"
+        }
+      ]
+    },
+    {
+      "id": "67118",
+      "url": "https://xray.fm/broadcasts/67118",
+      "title": "Pacific Pulsations | Episode 64",
+      "air_date": "11-7-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.11.07.pacific.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "กำลังจะ (Fallin')",
+          "artist": "NONT TANONT",
+          "album": "MONO / SPECTRUM",
+          "label": "LOVEiS ENTERTAINMENT"
+        },
+        {
+          "time": "7:06pm",
+          "track": "小小人 Lost Cause",
+          "artist": "刘人语",
+          "album": "Golden Tree",
+          "label": "Oxygen Entertainment China Ltd"
+        },
+        {
+          "time": "7:10pm",
+          "track": "TWO BROKEN SOULS",
+          "artist": "Haezee",
+          "album": "UNLOCKED",
+          "label": "Sony Music Entertainment Taiwan"
+        },
+        {
+          "time": "7:13pm",
+          "track": "向你漂泊 (NOWHERE)",
+          "artist": "MOSUN, Sharon Kwan",
+          "album": "向你漂泊 (NOWHERE)",
+          "label": "PreCrast"
+        },
+        {
+          "time": "7:15pm",
+          "track": "SUNKISS",
+          "artist": "SUNNY",
+          "album": "SUNKISS",
+          "label": "hEhA Music / ant+ entertainment"
+        },
+        {
+          "time": "7:20pm",
+          "track": "Lững Lờ",
+          "artist": "LIZ NGUỴ THUỲ LINH, MIN",
+          "album": "Lững Lờ",
+          "label": "LIZ NGUỴ THUỲ LINH, MMusic Records"
+        },
+        {
+          "time": "7:23pm",
+          "track": "Star Potential",
+          "artist": "XTIE",
+          "album": "Star Potential",
+          "label": "Solar Rye Records"
+        },
+        {
+          "time": "7:26pm",
+          "track": "Drip Drip",
+          "artist": "XLOVE",
+          "album": "UXLXVE",
+          "label": "257Entertainment Co., Ltd, Quarter Music"
+        },
+        {
+          "time": "7:28pm",
+          "track": "マジカルシンドローム",
+          "artist": "yama",
+          "album": "マジカルシンドローム",
+          "label": "Sony Music Labels Inc."
+        },
+        {
+          "time": "7:32pm",
+          "track": "báo động Ỏ",
+          "artist": "NICKY, JSOL",
+          "album": "báo động Ỏ",
+          "label": "ST.319 Entertainment, Yin Yang Media"
+        },
+        {
+          "time": "7:36pm",
+          "track": "銘心刻苦(feat. 鄭雙雙)",
+          "artist": "Lizi 栗子, SherryZ",
+          "album": "Off the Chain",
+          "label": "Go With The Flow CO., LTD."
+        },
+        {
+          "time": "7:39pm",
+          "track": "THAT JOY",
+          "artist": "CHANSUNG",
+          "album": "DAWN",
+          "label": "AVEX MUSIC CREATIVE INC., HIAN INC."
+        },
+        {
+          "time": "7:42pm",
+          "track": "One Night Cruising",
+          "artist": "Dios, Tanaka, Ichika Nito, sasanomaly",
+          "album": "Seein' Your Ghost",
+          "label": "Dawn Dawn Dawn Records"
+        },
+        {
+          "time": "7:45pm",
+          "track": "libog",
+          "artist": "Dom Guyot, jikamarie",
+          "album": "libog",
+          "label": "Sony Music Entertainment Philippines, Inc."
+        },
+        {
+          "time": "7:48pm",
+          "track": "Nụ Cười",
+          "artist": "Hngle, YoungTazle",
+          "album": "Nụ Cười",
+          "label": "VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "7:51pm",
+          "track": "Sweet Nothings (On The Radar Version)",
+          "artist": "Denise Julia",
+          "album": "Sweet Nothings (On The Radar Version)",
+          "label": "Denise Julia, Sony Music Entertainment Philippines, Inc"
+        },
+        {
+          "time": "7:53pm",
+          "track": "WONDERING",
+          "artist": "BamBam",
+          "album": "HOMETOWN",
+          "label": "HALO CORPORATION"
+        },
+        {
+          "time": "7:56pm",
+          "track": "X",
+          "artist": "Lexie Liu",
+          "album": "TEENAGE RAMBLE",
+          "label": "NIXIE MUSIC"
+        }
+      ]
+    },
+    {
+      "id": "66998",
+      "url": "https://xray.fm/broadcasts/66998",
+      "title": "Pacific Halloween '25",
+      "air_date": "10-31-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.10.31.pacific.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "66870",
+      "url": "https://xray.fm/broadcasts/66870",
+      "title": "Pacific Pulsations | Episode 63",
+      "air_date": "10-24-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.10.24.pacific.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "一面之緣",
+          "artist": "Pei-Yu Hung",
+          "album": "開",
+          "label": "Sorekara Music Co., Pourquoi Pas Music Limited"
+        },
+        {
+          "time": "7:08pm",
+          "track": "Xoay",
+          "artist": "Chi Xê",
+          "album": "Xoay",
+          "label": "Universal Music Pte. Ltd."
+        },
+        {
+          "time": "7:12pm",
+          "track": "天窗",
+          "artist": "LukieY",
+          "album": "天窗",
+          "label": "2175453 Records DK"
+        },
+        {
+          "time": "7:16pm",
+          "track": "西湖 XIHU",
+          "artist": "JACE, Novel Fergus",
+          "album": "REVOLVING: UP",
+          "label": "JACE WORLD"
+        },
+        {
+          "time": "7:19pm",
+          "track": "Kumbaga",
+          "artist": "SAJKA, Manta",
+          "album": "Kumbaga",
+          "label": "SAJKA"
+        },
+        {
+          "time": "7:24pm",
+          "track": "Thương",
+          "artist": "Bích Phương",
+          "album": "Thương",
+          "label": "Ying Yang Media Co., Ltd."
+        },
+        {
+          "time": "7:27pm",
+          "track": "KIỆT TÁC",
+          "artist": "RHYDER, 2pillz",
+          "album": "TRAP",
+          "label": "RHYDER ENTERTAINMENT"
+        },
+        {
+          "time": "7:30pm",
+          "track": "Tidy It Up",
+          "artist": "Shi Shi",
+          "album": "Tidy It Up",
+          "label": "Rock Records Co., Ltd."
+        },
+        {
+          "time": "7:33pm",
+          "track": "Thinking of You",
+          "artist": "salasa",
+          "album": "Thinking of You",
+          "label": "salasa_live_bluesy"
+        },
+        {
+          "time": "7:37pm",
+          "track": "You",
+          "artist": "Karencici",
+          "album": "Made For You",
+          "label": "Warner Music Taiwan Ltd"
+        },
+        {
+          "time": "7:40pm",
+          "track": "女孩回来吧",
+          "artist": "艾志恒 Asen",
+          "album": "在雨后醒来",
+          "label": "四川斯摩堂文化传播有限公司"
+        },
+        {
+          "time": "7:43pm",
+          "track": "Tràng Thi",
+          "artist": "Low G",
+          "album": "L2K",
+          "label": "LOWKEYGENIUS, MMusic Records"
+        },
+        {
+          "time": "7:49pm",
+          "track": "HAZY (Prod. A.G.O)",
+          "artist": "REJAY, A.G.O",
+          "album": "HAZY (Prod. A.G.O)",
+          "label": "RAINBOW ENTERTAINMENT"
+        },
+        {
+          "time": "7:53pm",
+          "track": "Sweet Sweet Boy",
+          "artist": "Jocelyn 9.4.0",
+          "album": "Sweet Sweet Boy",
+          "label": "ChynaTown Co. Ltd"
+        },
+        {
+          "time": "7:56pm",
+          "track": "SPAGHETTI",
+          "artist": "LE SSERAFIM, j-hope",
+          "album": "SPAGHETTI",
+          "label": "SOURCE MUSIC"
+        }
+      ]
+    },
+    {
+      "id": "66715",
+      "url": "https://xray.fm/broadcasts/66715",
+      "title": "Pacific Pulsations | Episode 62",
+      "air_date": "10-17-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.10.17.pacific.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Đôi Cánh",
+          "artist": "Chillies",
+          "album": "KIM",
+          "label": "Warner Music Vietnam"
+        },
+        {
+          "time": "7:07pm",
+          "track": "TALKIN TO ME? (Feat. Moon Sujin)",
+          "artist": "ANODE, Moon Sujin",
+          "album": "TALKIN TO ME? (Feat. Moon Sujin)",
+          "label": "MYSTIC STORY, Dreamus"
+        },
+        {
+          "time": "7:10pm",
+          "track": "Stupid Brain",
+          "artist": "P1Harmony",
+          "album": "EX",
+          "label": "hello82"
+        },
+        {
+          "time": "7:14pm",
+          "track": "Cute n Cool",
+          "artist": "Jaysonlei",
+          "album": "Cute n Cool",
+          "label": "C Mazor"
+        },
+        {
+          "time": "7:17pm",
+          "track": "Lips Hips Kiss",
+          "artist": "KISS OF LIFE",
+          "album": "224",
+          "label": "S2 ENTERTAINMENT INC, Kakao Entertainment"
+        },
+        {
+          "time": "7:23pm",
+          "track": "Lead me",
+          "artist": "SISTAR",
+          "album": "ALONE",
+          "label": "STARSHIP Entertainment, Kakao Entertainment"
+        },
+        {
+          "time": "7:27pm",
+          "track": "Before U Go",
+          "artist": "TVXQ!",
+          "album": "Keep Your Head Down Repackage",
+          "label": "SM Entertainment"
+        },
+        {
+          "time": "7:31pm",
+          "track": "Mr. Broken Heart",
+          "artist": "YOUYA",
+          "album": "I AM ME",
+          "label": "Sony Music Entertainment (Japan) Inc."
+        },
+        {
+          "time": "7:35pm",
+          "track": "The City We Grew Up In",
+          "artist": "Ouida",
+          "album": "So Bitter, So Sweet",
+          "label": "Ouida Music, Bolo Music Group"
+        },
+        {
+          "time": "7:40pm",
+          "track": "My Body",
+          "artist": "HANA",
+          "album": "My Body",
+          "label": "NO LABEL MUSIC / Sony Music Labels Inc."
+        },
+        {
+          "time": "7:43pm",
+          "track": "PDA",
+          "artist": "SOYOU",
+          "album": "PDA",
+          "label": "MAGIC STRAWBERRY SOUND, POCLANOS"
+        },
+        {
+          "time": "7:46pm",
+          "track": "EXTRA",
+          "artist": "JEON SOMI",
+          "album": "EXTRA",
+          "label": "THEBLACKLABEL, YG PLUS"
+        },
+        {
+          "time": "7:48pm",
+          "track": "Pose",
+          "artist": "ALICE",
+          "album": "Pose",
+          "label": "Epidemic Sound"
+        },
+        {
+          "time": "7:51pm",
+          "track": "BURNING UP",
+          "artist": "MEOVV",
+          "album": "BURNING UP",
+          "label": "THEBLACKLABEL"
+        },
+        {
+          "time": "7:55pm",
+          "track": "The Boys",
+          "artist": "Girls' Generation",
+          "album": "The Boys - The 3rd Album",
+          "label": "SM Entertainment"
+        }
+      ]
+    },
+    {
+      "id": "66594",
+      "url": "https://xray.fm/broadcasts/66594",
+      "title": "Pacific Pulsations | Episode 61",
+      "air_date": "10-10-2025",
+      "air_time": "7:00pm",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.10.10.pacific.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "7:00pm",
+          "track": "Workin’ Hard",
+          "artist": "Fujii Kaze",
+          "album": "Workin’ Hard",
+          "label": "UNIVERSAL SIGMA / HEHN RECORDS"
+        },
+        {
+          "time": "7:07pm",
+          "track": "Television star",
+          "artist": "Yerin Baek",
+          "album": "Flash and Core",
+          "label": "PEOPLE LIKE PEOPLE Co., Ltd"
+        },
+        {
+          "time": "7:10pm",
+          "track": "บัลลังก์ (THRONE)",
+          "artist": "ALIE BLACKCOBRA, Tobii",
+          "album": "Angel Energy",
+          "label": "ALIE BLACKCOBRA"
+        },
+        {
+          "time": "7:14pm",
+          "track": "Coffee Pornstar",
+          "artist": "ERIKA, Shoutín",
+          "album": "雙魚宮",
+          "label": "WANMEI ENTERTAINMENT CO., LTD."
+        },
+        {
+          "time": "7:17pm",
+          "track": "Điều Gì",
+          "artist": "Will, VSTRA",
+          "album": "Điều Gì",
+          "label": "Will, MaiDao/DAO Music Entertainment"
+        },
+        {
+          "time": "7:23pm",
+          "track": "現在幾點 What Time Is It",
+          "artist": "阿蘭 AC",
+          "album": "現在幾點 What Time Is It",
+          "label": "R&A MUSIC Studio, Sony Music Entertainment Taiwan"
+        },
+        {
+          "time": "7:25pm",
+          "track": "ไม่ใช่ Justin",
+          "artist": "KJ, D Gerrard",
+          "album": "ไม่ใช่ Justin",
+          "label": "Noble music"
+        },
+        {
+          "time": "7:28pm",
+          "track": "First Million Miles",
+          "artist": "Pictured Resort",
+          "album": "First Million Miles",
+          "label": "Pictured Resort / Sailyard"
+        },
+        {
+          "time": "7:32pm",
+          "track": "觸 True",
+          "artist": "袁語笙, HowZ",
+          "album": "觸 True",
+          "label": "CYH"
+        },
+        {
+          "time": "7:37pm",
+          "track": "Không Cảm Xúc (No Feeling)",
+          "artist": "Winno",
+          "album": "Không Cảm Xúc (No Feeling)",
+          "label": "Winno / 12 trái lê"
+        },
+        {
+          "time": "7:40pm",
+          "track": "Scenario (Feat. HAON, Chan)",
+          "artist": "SEIN, HAON, Chan",
+          "album": "I’m just SEIN",
+          "label": "SEIN"
+        },
+        {
+          "time": "7:43pm",
+          "track": "Never Cared",
+          "artist": "Shi Shi",
+          "album": "Never Cared",
+          "label": "Rock Records Co., Ltd."
+        },
+        {
+          "time": "7:46pm",
+          "track": "No response",
+          "artist": "Valo, Slom",
+          "album": "SF Introduces: Valo",
+          "label": "STANDARD FRIENDS, Dreamus"
+        },
+        {
+          "time": "7:50pm",
+          "track": "TAXI",
+          "artist": "TRADE L, Sik-K",
+          "album": "WHEN U TIPSY",
+          "label": "TRADE L, YG PLUS"
+        },
+        {
+          "time": "7:54pm",
+          "track": "SO ASU",
+          "artist": "Naykilla",
+          "album": "SO ASU",
+          "label": "AntiNRML"
+        },
+        {
+          "time": "7:56pm",
+          "track": "ME + YOU",
+          "artist": "TWICE",
+          "album": "TEN: The Story Goes On",
+          "label": "JYP Entertainment Corporation"
+        }
+      ]
+    },
+    {
+      "id": "66500",
+      "url": "https://xray.fm/broadcasts/66500",
+      "title": "Pacific Pulsations | Episode 60",
+      "air_date": "10-5-2025",
+      "air_time": "6:00am",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.10.05.pacific.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "6:00am",
+          "track": "我不用問",
+          "artist": "deca joins",
+          "album": "我不用問",
+          "label": "Cheng Ching Ju, NEW NEW SPARK CO, LTD"
+        },
+        {
+          "time": "6:06am",
+          "track": "MIRROR",
+          "artist": "Yerin Baek",
+          "album": "Flash and Core",
+          "label": "PEOPLE LIKE PEOPLE Co., Ltd"
+        },
+        {
+          "time": "6:10am",
+          "track": "In the Rain",
+          "artist": "izna",
+          "album": "Not Just Pretty",
+          "label": "WAKEONE"
+        },
+        {
+          "time": "6:12am",
+          "track": "雪屋/ IGLOOOO (feat. moon tang)",
+          "artist": "The Crane, moon tang",
+          "album": "Same Stories, Different Narratives",
+          "label": "落夢地 ROMAD"
+        },
+        {
+          "time": "6:18am",
+          "track": "Cosmic",
+          "artist": "Celine Wanyi",
+          "album": "Cosmic",
+          "label": "Celine Wanyi"
+        },
+        {
+          "time": "6:21am",
+          "track": "Fraction of You",
+          "artist": "GRACE.",
+          "album": "Hourglass Plea",
+          "label": "GRACE."
+        },
+        {
+          "time": "6:24am",
+          "track": "熄灭",
+          "artist": "TC",
+          "album": "熄灭",
+          "label": "网易云音乐"
+        },
+        {
+          "time": "6:27am",
+          "track": "Motorspeed",
+          "artist": "J.M3",
+          "album": "Motorspeed",
+          "label": "J.M3 & Ammobox Productions"
+        },
+        {
+          "time": "6:31am",
+          "track": "anh nho em...",
+          "artist": "Vxllish, Thanh Maii",
+          "album": "anh nho em...",
+          "label": "VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "6:34am",
+          "track": "อยากจะบอกเธอว่า... (Prom Queen)",
+          "artist": "BLVCKHEART",
+          "album": "อยากจะบอกเธอว่า... (Prom Queen)",
+          "label": "BLVCKHEART"
+        },
+        {
+          "time": "6:38am",
+          "track": "FACES",
+          "artist": "Andr",
+          "album": "FACES",
+          "label": "福祿壽音樂娛樂有限公司 Fortune Coookie Records Ltd."
+        },
+        {
+          "time": "6:42am",
+          "track": "Blood In My Hood",
+          "artist": "guca owl, STUTS",
+          "album": "Blood In My Hood",
+          "label": "Mary Joy Recordings"
+        },
+        {
+          "time": "6:45am",
+          "track": "LIGHTS IN YOUR EYES",
+          "artist": "Gummy B",
+          "album": "更好",
+          "label": "夜間限定有限公司"
+        },
+        {
+          "time": "6:49am",
+          "track": "body",
+          "artist": "DAYOUNG",
+          "album": "gonna love me, right?",
+          "label": "STARSHIP Entertainment, Kakao Entertainment"
+        },
+        {
+          "time": "6:52am",
+          "track": "IDOLIC",
+          "artist": "Kento Nakajima",
+          "album": "IDOLIC",
+          "label": "Sony Music Labels Inc."
+        },
+        {
+          "time": "6:55am",
+          "track": "Underwater",
+          "artist": "BENEE",
+          "album": "Underwater",
+          "label": "Republic Records, UMG Recordings, Inc."
+        }
+      ]
+    },
+    {
+      "id": "66390",
+      "url": "https://xray.fm/broadcasts/66390",
+      "title": "Pacific Pulsations | Episode 59",
+      "air_date": "9-28-2025",
+      "air_time": "6:00am",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.09.28.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "6:00am",
+          "track": "Baby Girl",
+          "artist": "BROWN EYED SOUL",
+          "album": "Soul Tricycle",
+          "label": "Long Play Music, Dreamus"
+        },
+        {
+          "time": "6:07am",
+          "track": "空白 (Void)",
+          "artist": "Pank, 罗凯元",
+          "album": "空白 (Void)",
+          "label": "北京乐过山丘音乐有限公司"
+        },
+        {
+          "time": "6:10am",
+          "track": "Roll With Me",
+          "artist": "HAECHAN",
+          "album": "TASTE - The 1st Album",
+          "label": "SM Entertainment"
+        },
+        {
+          "time": "6:13am",
+          "track": "Trời Nồm",
+          "artist": "LAMOON",
+          "album": "LÀ MOON",
+          "label": "VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "6:17am",
+          "track": "PRESSURE",
+          "artist": "TIA RAY",
+          "album": "PRESSURE",
+          "label": "TME"
+        },
+        {
+          "time": "6:20am",
+          "track": "Không Ai Hiểu Ðược Em",
+          "artist": "MYLINA, 4GOD",
+          "album": "Nhớ Đội Mũ Bảo Hiểm",
+          "label": "DAO Entertainment"
+        },
+        {
+          "time": "6:24am",
+          "track": "BU",
+          "artist": "SURIYA MQT, P6ICK",
+          "album": "BU",
+          "label": "SURIYAMQT"
+        },
+        {
+          "time": "6:27am",
+          "track": "UP TO YOU",
+          "artist": "CHANYEOL",
+          "album": "Hibi",
+          "label": "SM ENTERTAINMENT JAPAN"
+        },
+        {
+          "time": "6:29am",
+          "track": "雨境",
+          "artist": "青井",
+          "album": "出于蓝",
+          "label": "Hangzhou Snowboom Music Co., Ltd., Universal Music China, Go East Music Entertainment Consulting (Beijing) Limited"
+        },
+        {
+          "time": "6:33am",
+          "track": "Ciggy",
+          "artist": "YOSEP YUN, Lokid",
+          "album": "Ciggy",
+          "label": "MAJOR9, Genie Music Corporation"
+        },
+        {
+          "time": "6:37am",
+          "track": "珍妮佛",
+          "artist": "WeiBird",
+          "album": "LOVE WEI BACK Vol.1",
+          "label": "AWESOME MUSIC, Sony Music Entertainment Taiwan Ltd."
+        },
+        {
+          "time": "6:40am",
+          "track": "道歉啟示 Sorry",
+          "artist": "Young Hysan",
+          "album": "道歉啟示 Sorry",
+          "label": "Fulham Productions / back office artist services"
+        },
+        {
+          "time": "6:44am",
+          "track": "fall season",
+          "artist": "Dionela, Alex Bruce",
+          "album": "fall season",
+          "label": "Coke Studio Philippines, UMG Philippines Inc., Universal Music Group"
+        },
+        {
+          "time": "6:47am",
+          "track": "Miso",
+          "artist": "PYC",
+          "album": "Miso",
+          "label": "Melodic Corner"
+        },
+        {
+          "time": "6:51am",
+          "track": "I Found Out",
+          "artist": "niko rain, EJEAN",
+          "album": "I Found Out",
+          "label": "niko rain, this a hit!"
+        },
+        {
+          "time": "6:53am",
+          "track": "XOXZ",
+          "artist": "IVE",
+          "album": "IVE SECRET",
+          "label": "Starship Entertainment co., ltd"
+        },
+        {
+          "time": "6:56am",
+          "track": "Đầu Hàng Đi",
+          "artist": "ICM, Thoại Nghi",
+          "album": "Đầu Hàng Đi",
+          "label": "ICM Entertainment, MMusic Records"
+        }
+      ]
+    },
+    {
+      "id": "66262",
+      "url": "https://xray.fm/broadcasts/66262",
+      "title": "Pacific Pulsations | Episode 58",
+      "air_date": "9-21-2025",
+      "air_time": "6:00am",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.09.21.pacific.mp3",
+      "track_count": 17,
+      "tracks": [
+        {
+          "time": "6:00am",
+          "track": "em biết ò!",
+          "artist": "Ánh Sáng AZA",
+          "album": "em biết ò!",
+          "label": "DAO Entertainment"
+        },
+        {
+          "time": "6:06am",
+          "track": "Nocturnal",
+          "artist": "Ash Zixuan",
+          "album": "Nocturnal",
+          "label": "Ash Zixuan"
+        },
+        {
+          "time": "6:11am",
+          "track": "Everybody's Girl",
+          "artist": "Ouida",
+          "album": "Everybody's Girl",
+          "label": "Bolo Music Group, Ouida Music"
+        },
+        {
+          "time": "6:14am",
+          "track": "Hold Me Tight",
+          "artist": "Billyrrom",
+          "album": "Hold Me Tight",
+          "label": "SPYGLASS AGENT"
+        },
+        {
+          "time": "6:17am",
+          "track": "THANK GOD",
+          "artist": "王ADEN, 阿夫Suhf",
+          "album": "THANK GOD",
+          "label": "愛騰音樂有限公司"
+        },
+        {
+          "time": "6:20am",
+          "track": "Magic Car",
+          "artist": "PiXXiE",
+          "album": "Magic Car",
+          "label": "LIT ENTERTAINMENT"
+        },
+        {
+          "time": "6:24am",
+          "track": "taste test",
+          "artist": "brb.",
+          "album": "taste test",
+          "label": "brb."
+        },
+        {
+          "time": "6:27am",
+          "track": "Rainbow Road",
+          "artist": "KOTA",
+          "album": "Rainbow Road",
+          "label": "KOTA"
+        },
+        {
+          "time": "6:29am",
+          "track": "some days",
+          "artist": "moon tang",
+          "album": "some days",
+          "label": "Warner Music Hong Kong Limited"
+        },
+        {
+          "time": "6:33am",
+          "track": "fix",
+          "artist": "SYOYA",
+          "album": "fix",
+          "label": "LAPONE ENTERTAINMENT"
+        },
+        {
+          "time": "6:36am",
+          "track": "Naiilang",
+          "artist": "Le John",
+          "album": "Naiilang",
+          "label": "Le John, Moody Music Company"
+        },
+        {
+          "time": "6:40am",
+          "track": "Insurance Policy",
+          "artist": "PYC",
+          "album": "Insurance Policy",
+          "label": "Melodic Corner"
+        },
+        {
+          "time": "6:43am",
+          "track": "Do Disturb",
+          "artist": "TangBadVoice",
+          "album": "Do Disturb",
+          "label": "TangBadVoice"
+        },
+        {
+          "time": "6:46am",
+          "track": "So Sticky",
+          "artist": "LUSS",
+          "album": "dinosaur slayerr",
+          "label": "XOXO ENTERTAINMENT, Universal Music (Thailand) Ltd."
+        },
+        {
+          "time": "6:50am",
+          "track": "Baby Blue",
+          "artist": "Jiselle",
+          "album": "Baby Blue",
+          "label": "talented"
+        },
+        {
+          "time": "6:52am",
+          "track": "girlpho anthem",
+          "artist": "SIXTYUPTOWN, summerdayy",
+          "album": "girlpho anthem",
+          "label": "SIXTYUPTOWN, Universal Music Pte. Ltd."
+        },
+        {
+          "time": "6:55am",
+          "track": "GALA",
+          "artist": "XG",
+          "album": "GALA",
+          "label": "XGALX"
+        }
+      ]
+    },
+    {
+      "id": "66172",
+      "url": "https://xray.fm/broadcasts/66172",
+      "title": "Pacific Pulsations | Episode 57 (Rerun)",
+      "air_date": "9-14-2025",
+      "air_time": "6:00am",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.09.07.pacific.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "6:00am",
+          "track": "V for Vinny",
+          "artist": "M NAIVE",
+          "album": "V for Vinny",
+          "label": "VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "6:05am",
+          "track": "You",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        },
+        {
+          "time": "6:10am",
+          "track": "Read Your Lips",
+          "artist": "Kenya Fujita, Matt Cab",
+          "album": "Read Your Lips",
+          "label": "STARBASE RECORDS"
+        },
+        {
+          "time": "6:13am",
+          "track": "OVERLAP",
+          "artist": "Crush",
+          "album": "FANG",
+          "label": "P NATION, Dreamus"
+        },
+        {
+          "time": "6:16am",
+          "track": "anh làm gì sai?",
+          "artist": "MICKEY, SASSY, DONAL",
+          "album": "anh làm gì sai?",
+          "label": "HIGHER DIMENSION"
+        },
+        {
+          "time": "6:19am",
+          "track": "靜音",
+          "artist": "Ice Paper",
+          "album": "鬼火獵人",
+          "label": "南京正氣文化傳媒有限公司"
+        },
+        {
+          "time": "6:23am",
+          "track": "PALETTE",
+          "artist": "PRYVT",
+          "album": "PALETTE",
+          "label": "PRYVT"
+        },
+        {
+          "time": "6:26am",
+          "track": "Esok",
+          "artist": "Fahimi, Firdaus Rahmat",
+          "album": "Esok",
+          "label": "Faithful Music Sdn Bhd, Alternate Records Sdn Bhd, Universal Music Sdn Bhd"
+        },
+        {
+          "time": "6:30am",
+          "track": "Casket Girl",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        },
+        {
+          "time": "6:34am",
+          "track": "I Need U Back",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        },
+        {
+          "time": "6:37am",
+          "track": "Hachikō",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        },
+        {
+          "time": "6:43am",
+          "track": "Waiting On You",
+          "artist": "Karencici",
+          "album": "Waiting On You",
+          "label": "Boots n' Cats Records"
+        },
+        {
+          "time": "6:46am",
+          "track": "What's going on",
+          "artist": "PP Krit",
+          "album": "What's going on",
+          "label": "PP Krit ENTERTAINMENT CO., LTD., Universal Music Thailand Ltd."
+        },
+        {
+          "time": "6:50am",
+          "track": "Okay, Goodbye",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        },
+        {
+          "time": "6:54am",
+          "track": "Prema",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        }
+      ]
+    },
+    {
+      "id": "66054",
+      "url": "https://xray.fm/broadcasts/66054",
+      "title": "Pacific Pulsations | Episode 57",
+      "air_date": "9-7-2025",
+      "air_time": "6:00am",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.09.07.pacific.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "6:00am",
+          "track": "V for Vinny",
+          "artist": "M NAIVE",
+          "album": "V for Vinny",
+          "label": "VIVI ENM Co. Ltd."
+        },
+        {
+          "time": "6:05am",
+          "track": "You",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        },
+        {
+          "time": "6:10am",
+          "track": "Read Your Lips",
+          "artist": "Kenya Fujita, Matt Cab",
+          "album": "Read Your Lips",
+          "label": "STARBASE RECORDS"
+        },
+        {
+          "time": "6:13am",
+          "track": "OVERLAP",
+          "artist": "Crush",
+          "album": "FANG",
+          "label": "P NATION, Dreamus"
+        },
+        {
+          "time": "6:16am",
+          "track": "anh làm gì sai?",
+          "artist": "MICKEY, SASSY, DONAL",
+          "album": "anh làm gì sai?",
+          "label": "HIGHER DIMENSION"
+        },
+        {
+          "time": "6:19am",
+          "track": "靜音",
+          "artist": "Ice Paper",
+          "album": "鬼火獵人",
+          "label": "南京正氣文化傳媒有限公司"
+        },
+        {
+          "time": "6:23am",
+          "track": "PALETTE",
+          "artist": "PRYVT",
+          "album": "PALETTE",
+          "label": "PRYVT"
+        },
+        {
+          "time": "6:26am",
+          "track": "Esok",
+          "artist": "Fahimi, Firdaus Rahmat",
+          "album": "Esok",
+          "label": "Faithful Music Sdn Bhd, Alternate Records Sdn Bhd, Universal Music Sdn Bhd"
+        },
+        {
+          "time": "6:30am",
+          "track": "Casket Girl",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        },
+        {
+          "time": "6:34am",
+          "track": "I Need U Back",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        },
+        {
+          "time": "6:37am",
+          "track": "Hachikō",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        },
+        {
+          "time": "6:43am",
+          "track": "Waiting On You",
+          "artist": "Karencici",
+          "album": "Waiting On You",
+          "label": "Boots n' Cats Records"
+        },
+        {
+          "time": "6:46am",
+          "track": "What's going on",
+          "artist": "PP Krit",
+          "album": "What's going on",
+          "label": "PP Krit ENTERTAINMENT CO., LTD., Universal Music Thailand Ltd."
+        },
+        {
+          "time": "6:50am",
+          "track": "Okay, Goodbye",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        },
+        {
+          "time": "6:54am",
+          "track": "Prema",
+          "artist": "Fujii Kaze",
+          "album": "Prema",
+          "label": "Republic Records, UNIVERSAL SIGMA, HEHN RECORDS"
+        }
+      ]
+    },
+    {
+      "id": "65951",
+      "url": "https://xray.fm/broadcasts/65951",
+      "title": "Pacific Pulsations | Episode 56",
+      "air_date": "8-31-2025",
+      "air_time": "6:00am",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.08.31.pacific.mp3",
+      "track_count": 18,
+      "tracks": [
+        {
+          "time": "6:00am",
+          "track": "SIREN",
+          "artist": "MoMo",
+          "album": "KTST",
+          "label": "SHINPAINAI RECORDS, WARNER MUSIC JAPAN INC."
+        },
+        {
+          "time": "6:05am",
+          "track": "Waste My Time",
+          "artist": "Amera Hpone",
+          "album": "AMERA",
+          "label": "AMERA HPONE"
+        },
+        {
+          "time": "6:08am",
+          "track": "The way U hate it",
+          "artist": "ANGIE安吉",
+          "album": "The way U hate it",
+          "label": "Sony Music Entertainment Taiwan Ltd."
+        },
+        {
+          "time": "6:10am",
+          "track": "Eternal (Original Demo) (with umzi)",
+          "artist": "JINex, umzi",
+          "album": "ETERNAL",
+          "label": "JINex, POCLANOS"
+        },
+        {
+          "time": "6:13am",
+          "track": "PHONE",
+          "artist": "TIA RAY",
+          "album": "PHONE",
+          "label": "TME"
+        },
+        {
+          "time": "6:18am",
+          "track": "我的爱没前奏",
+          "artist": "Nana Ou-Yang",
+          "album": "我的爱没前奏",
+          "label": "Mo Fei Yue Er"
+        },
+        {
+          "time": "6:21am",
+          "track": "ฝากไว้ก่อนเหอะ (brb.)",
+          "artist": "QLER, K6Y",
+          "album": "ฝากไว้ก่อนเหอะ (brb.)",
+          "label": "What The Duck, Universal Music Thailand Ltd"
+        },
+        {
+          "time": "6:25am",
+          "track": "It's On You",
+          "artist": "A.R.T",
+          "album": "It's On You",
+          "label": "IKON Music / A.R.T"
+        },
+        {
+          "time": "6:28am",
+          "track": "now u know",
+          "artist": "yuji, Kenny",
+          "album": "now u know",
+          "label": "yuji"
+        },
+        {
+          "time": "6:31am",
+          "track": "Star Crossing Night",
+          "artist": "THE 8, GALI",
+          "album": "Star Crossing Night",
+          "label": "SN Music"
+        },
+        {
+          "time": "6:35am",
+          "track": "hold still",
+          "artist": "Mark Tuan",
+          "album": "hold still",
+          "label": "TRANSPARENT ARTS, DREAMERS IN ACHIEVERS"
+        },
+        {
+          "time": "6:37am",
+          "track": "Glow",
+          "artist": "TWICE",
+          "album": "ENEMY",
+          "label": "WARNER MUSIC JAPAN INC."
+        },
+        {
+          "time": "6:40am",
+          "track": "BOYtude",
+          "artist": "idntt",
+          "album": "unevermet",
+          "label": "MODHAUS"
+        },
+        {
+          "time": "6:44am",
+          "track": "JUST BECAUSE",
+          "artist": "Gabby Onme",
+          "album": "both ways",
+          "label": "Anointed, YG PLUS"
+        },
+        {
+          "time": "6:47am",
+          "track": "黑的白的黑",
+          "artist": "卢润泽",
+          "album": "黑的白的黑",
+          "label": "顶顶工作室"
+        },
+        {
+          "time": "6:50am",
+          "track": "Adios!",
+          "artist": "Skaai, KM",
+          "album": "Podium",
+          "label": "Mary Joy Recordings"
+        },
+        {
+          "time": "6:53am",
+          "track": "Cinnamon",
+          "artist": "BENEE",
+          "album": "Cinnamon",
+          "label": "Republic Records, UMG Recordings, Inc."
+        },
+        {
+          "time": "6:56am",
+          "track": "Rocket Science",
+          "artist": "XTIE",
+          "album": "Rocket Science",
+          "label": "Solar Rye Records"
+        }
+      ]
+    },
+    {
+      "id": "65825",
+      "url": "https://xray.fm/broadcasts/65825",
+      "title": "Pacific Pulsations | Episode 55",
+      "air_date": "8-24-2025",
+      "air_time": "6:00am",
+      "image": "https://cdn.xray.fm/image/medium/pacific_pulsations_logo-09.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/pacific-pulsations/2025.08.24.pacific.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "6:00am",
+          "track": "em đi đi",
+          "artist": "Lil Liem, BIG WIND",
+          "album": "em đi đi",
+          "label": "Yin Yang Media Co., Ltd"
+        },
+        {
+          "time": "6:05am",
+          "track": "Jasmine",
+          "artist": "KUN",
+          "album": "Jasmine",
+          "label": "Shenhe Media Limited, 88rising Records LLC"
+        },
+        {
+          "time": "6:10am",
+          "track": "Stay The Night",
+          "artist": "MIZUKI",
+          "album": "Stay The Night",
+          "label": "Hy-Lo Creative Studios"
+        },
+        {
+          "time": "6:13am",
+          "track": "เมื่อไหร่จะบอก",
+          "artist": "ETC., The Parkinson",
+          "album": "เมื่อไหร่จะบอก",
+          "label": "Move Records"
+        },
+        {
+          "time": "6:18am",
+          "track": "流行歌手",
+          "artist": "高旭, 邹沛沛",
+          "album": "心绪手记",
+          "label": "Sony Music Entertainment China Holdings Limited"
+        },
+        {
+          "time": "6:21am",
+          "track": "Addicted",
+          "artist": "HEYOON",
+          "album": "Addicted",
+          "label": "Universal Music Ltd"
+        },
+        {
+          "time": "6:24am",
+          "track": "月亮追啊追",
+          "artist": "JIHU",
+          "album": "月亮追啊追",
+          "label": "Sony Music Entertainment China Holdings Limited, RCA Records China"
+        },
+        {
+          "time": "6:27am",
+          "track": "3%",
+          "artist": "Sato",
+          "album": "産声みたいで、",
+          "label": "さとう。"
+        },
+        {
+          "time": "6:30am",
+          "track": "ตัวเล็ก (TUA LEK)",
+          "artist": "WAV",
+          "album": "ตัวเล็ก (TUA LEK)",
+          "label": "Smallroom Bangkok Pop Music Label"
+        },
+        {
+          "time": "6:34am",
+          "track": "Energy",
+          "artist": "JUNNY",
+          "album": "null",
+          "label": "mauve company, Kakao Entertainment"
+        },
+        {
+          "time": "6:36am",
+          "track": "CUBE",
+          "artist": "iri",
+          "album": "CUBE",
+          "label": "Sony Music Labels Inc"
+        },
+        {
+          "time": "6:41am",
+          "track": "Can't Stand It",
+          "artist": "Rui En",
+          "album": "Rui En, Vol. 1",
+          "label": "Alfa Music International Co Ltd."
+        },
+        {
+          "time": "6:46am",
+          "track": "cảm nhận dòng nước mắt",
+          "artist": "SIXTYUPTOWN",
+          "album": "Girl Hà Nội",
+          "label": "SIXTYUPTOWN, Universal Music Pte. Ltd."
+        },
+        {
+          "time": "6:49am",
+          "track": "MAKE IT",
+          "artist": "SANDEI, A.G.O",
+          "album": "MAKE IT",
+          "label": "Suppage Records"
+        },
+        {
+          "time": "6:52am",
+          "track": "อยากจะกอดเธอนาน ๆ (HAVE A GOOD TIME)",
+          "artist": "BLVCKHEART",
+          "album": "อยากจะกอดเธอนาน ๆ (HAVE A GOOD TIME)",
+          "label": "BLVCKHEART"
+        },
+        {
+          "time": "6:56am",
+          "track": "CLOSER",
+          "artist": "JEON SOMI",
+          "album": "Chaotic & Confused",
+          "label": "THEBLACKLABEL"
+        }
+      ]
+    }
+  ]
+}

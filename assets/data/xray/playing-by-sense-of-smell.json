@@ -1,0 +1,3751 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-05-26T18:42:59.614324Z",
+  "show": {
+    "slug": "playing-by-sense-of-smell",
+    "title": "Playing by Sense of Smell",
+    "description": "Playin' a mix of Rock, Prog, Punk, Blues, New Wave, Jazz Fusion and more primarily from the 70's, 80's and 90's. You only have to listen if you want to hear.",
+    "image": "https://cdn.xray.fm/image/medium/PbSoS_LOGO_3_2.JPG",
+    "tags": [
+      "mix"
+    ],
+    "url": "https://xray.fm/shows/playing-by-sense-of-smell"
+  },
+  "episode_count": 40,
+  "track_count_total": 465,
+  "episodes": [
+    {
+      "id": "65461",
+      "url": "https://xray.fm/broadcasts/65461",
+      "title": "Playing by Sense of Smell_Vol 61",
+      "air_date": "8-1-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/PbSoS_LOGO_2_4.JPG",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_61_08012025.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Don't Keep Me Wonderin'",
+          "artist": "Allman Brothers",
+          "album": "Idlewild South",
+          "label": "Capricorn"
+        },
+        {
+          "time": "2:05am",
+          "track": "Looking For Someone",
+          "artist": "Genesis",
+          "album": "Tresspass",
+          "label": "Charisma"
+        },
+        {
+          "time": "2:13am",
+          "track": "Incident at Neshabur",
+          "artist": "Santana",
+          "album": "Abraxis",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:18am",
+          "track": "Life In The Fast Lane",
+          "artist": "Eagles",
+          "album": "Hotel California",
+          "label": "Asylum"
+        },
+        {
+          "time": "2:23am",
+          "track": "Rats In The Cellar",
+          "artist": "Areosmith",
+          "album": "Rocks",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:27am",
+          "track": "EMI",
+          "artist": "Sex PIstols",
+          "album": "Never Mind The Bullocks",
+          "label": "Virgin"
+        },
+        {
+          "time": "2:30am",
+          "track": "Frame by Frame",
+          "artist": "King Crimson",
+          "album": "Discipline",
+          "label": "EG"
+        },
+        {
+          "time": "2:35am",
+          "track": "Fantasia Suite",
+          "artist": "Al Di Meola, Paco De Lucia, John McLaughlin",
+          "album": "Friday Night in San Francisco",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:44am",
+          "track": "Six Pack",
+          "artist": "Black Flag",
+          "album": "Damaged",
+          "label": "SST"
+        },
+        {
+          "time": "2:46am",
+          "track": "Limo Wreck",
+          "artist": "Soundgarden",
+          "album": "Superunknown",
+          "label": "A&M"
+        },
+        {
+          "time": "2:55am",
+          "track": "Your Momma Don't Dance",
+          "artist": "Loggins and Messina",
+          "album": "Loggins and Messina",
+          "label": "Columbia"
+        }
+      ]
+    },
+    {
+      "id": "65348",
+      "url": "https://xray.fm/broadcasts/65348",
+      "title": "Playing by Sense of Smell_Vol 60",
+      "air_date": "7-25-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/1000000921b.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_60_07252025.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Convention '72",
+          "artist": "The Delegates",
+          "album": "45",
+          "label": "Mainstream"
+        },
+        {
+          "time": "2:06am",
+          "track": "(I'm Not Your) Stepping Stone",
+          "artist": "the monkees",
+          "album": "45 rpm single",
+          "label": "colgems"
+        },
+        {
+          "time": "2:09am",
+          "track": "Too Drunk To F**k",
+          "artist": "Dead Kennedys",
+          "album": "single",
+          "label": "I.R.S."
+        },
+        {
+          "time": "2:12am",
+          "track": "The Night The Lights Went Out In Georgia",
+          "artist": "Vicki Lawrence",
+          "album": "(single)",
+          "label": "Bell"
+        },
+        {
+          "time": "2:16am",
+          "track": "Black Water",
+          "artist": "The Doobie Brothers",
+          "album": "(single)",
+          "label": "Warner Bros."
+        },
+        {
+          "time": "2:20am",
+          "track": "No No Song",
+          "artist": "Ringo Starr",
+          "album": "(single)",
+          "label": "Apple"
+        },
+        {
+          "time": "2:23am",
+          "track": "The Streak",
+          "artist": "Ray Stevens",
+          "album": "(single)",
+          "label": "Barnaby"
+        },
+        {
+          "time": "2:29am",
+          "track": "Gates Of The West",
+          "artist": "The Clash",
+          "album": "(single)",
+          "label": "Epic"
+        },
+        {
+          "time": "2:33am",
+          "track": "Red Planet",
+          "artist": "Com-Sat Angels",
+          "album": "(single)",
+          "label": "Company Records"
+        },
+        {
+          "time": "2:36am",
+          "track": "King Tut",
+          "artist": "Steve Martin and the Toot Uncommons",
+          "album": "(singlel)",
+          "label": "Warner"
+        },
+        {
+          "time": "2:39am",
+          "track": "Play That Funky Music White Boy",
+          "artist": "Wild Cherry",
+          "album": "(single)",
+          "label": "Eoic"
+        },
+        {
+          "time": "2:42am",
+          "track": "Why Can't We Be Friends",
+          "artist": "WAR",
+          "album": "(single)",
+          "label": "United Artists"
+        },
+        {
+          "time": "2:46am",
+          "track": "Think To The Beat",
+          "artist": "Factual",
+          "album": "(single)",
+          "label": "Factual recordings"
+        },
+        {
+          "time": "2:49am",
+          "track": "Slipping Away",
+          "artist": "Dave Edmunds",
+          "album": "(single)",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:53am",
+          "track": "Mr Jaws",
+          "artist": "Dickie Goodman",
+          "album": "(single)",
+          "label": "Cash Records"
+        },
+        {
+          "time": "2:56am",
+          "track": "The Lion Sleeps Tonite",
+          "artist": "Robert John",
+          "album": "(single)",
+          "label": "Atlantic"
+        }
+      ]
+    },
+    {
+      "id": "65235",
+      "url": "https://xray.fm/broadcasts/65235",
+      "title": "Playing by Sense of Smell_Vol 59",
+      "air_date": "7-18-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/PbSoS_LOGO_2_3.JPG",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_59_07182025_2.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "65100",
+      "url": "https://xray.fm/broadcasts/65100",
+      "title": "Playing by Sense of Smell_Vol 58",
+      "air_date": "7-11-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/thelondonsouls_cd_2.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_58_07112025.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Blues Hand Me Down",
+          "artist": "Vintage Trouble",
+          "album": "Bomb Shelter Sessions",
+          "label": "Vintage Trouble"
+        },
+        {
+          "time": "2:05am",
+          "track": "The Way It Was and the Way It Is Now",
+          "artist": "Temperance Movement",
+          "album": "A Deeper Cut",
+          "label": "Earache"
+        },
+        {
+          "time": "2:08am",
+          "track": "Ain't Messin Around",
+          "artist": "Gary Clark Jr",
+          "album": "Blak and Blu",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:12am",
+          "track": "It Must Be Over",
+          "artist": "The Black Crowes",
+          "album": "Kicking My Heart Around",
+          "label": "American Recordings"
+        },
+        {
+          "time": "2:17am",
+          "track": "Love Train",
+          "artist": "Wolfmother",
+          "album": "Wolfmother",
+          "label": "Island"
+        },
+        {
+          "time": "2:20am",
+          "track": "Going In The Right Direction",
+          "artist": "Robert Randolph & The Family Band",
+          "album": "Unclassified",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:23am",
+          "track": "Nobody Wants To Die",
+          "artist": "Rival Sons",
+          "album": "Darkfighter",
+          "label": "Atlantic"
+        },
+        {
+          "time": "2:31am",
+          "track": "Six Feet",
+          "artist": "The London Souls",
+          "album": "The London Souls",
+          "label": "Soul on 10 Records"
+        },
+        {
+          "time": "2:35am",
+          "track": "Stand Up",
+          "artist": "The London Souls",
+          "album": "The London Souls",
+          "label": "Soul On 10 Records"
+        },
+        {
+          "time": "2:38am",
+          "track": "Easier Said Than Done",
+          "artist": "The London Souls",
+          "album": "The London Souls",
+          "label": "Soul On 10 Records"
+        },
+        {
+          "time": "2:42am",
+          "track": "I Think I Like It",
+          "artist": "The London Souls",
+          "album": "The London Souls",
+          "label": "Soul On 10 Records"
+        },
+        {
+          "time": "2:47am",
+          "track": "Dizzy",
+          "artist": "The London Souls",
+          "album": "The London Souls",
+          "label": "Soul On 10 Records"
+        },
+        {
+          "time": "2:51am",
+          "track": "Under Control",
+          "artist": "The London Souls",
+          "album": "The London Souls",
+          "label": "Soul On 10 Records"
+        },
+        {
+          "time": "2:55am",
+          "track": "The Sound",
+          "artist": "The London Souls",
+          "album": "The London Souls",
+          "label": "Soul On 10 Records"
+        }
+      ]
+    },
+    {
+      "id": "64989",
+      "url": "https://xray.fm/broadcasts/64989",
+      "title": "Playing by Sense of Smell_Vol 57",
+      "air_date": "7-4-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/71P9ksf3QaL._UF1000_1000_QL80_.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_57_07042025.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Feel Good Hit of the Summer",
+          "artist": "Queens of the Stone Age",
+          "album": "Rated R",
+          "label": "Interscope"
+        },
+        {
+          "time": "2:04am",
+          "track": "The New Math (What He Said)",
+          "artist": "OSI",
+          "album": "Office of Strategic Influence",
+          "label": "InsideOut"
+        },
+        {
+          "time": "2:08am",
+          "track": "In Keeping Secrets of Silent Earth: 3",
+          "artist": "Coheed & Cambria",
+          "album": "In Keeping Secrets of Silent Earth: 3",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:16am",
+          "track": "One More Red Nightmare",
+          "artist": "King Crimson",
+          "album": "Red",
+          "label": "EG"
+        },
+        {
+          "time": "2:26am",
+          "track": "Cassandra Gemini - Tarantism",
+          "artist": "The Mars Volta",
+          "album": "Frances The Mute",
+          "label": "Gold Standard Labratories"
+        },
+        {
+          "time": "2:27am",
+          "track": "Cassandra Gemini - Plant a Nail in the Navel Stream",
+          "artist": "The Mars Volta",
+          "album": "Frances The Mute",
+          "label": "Gold Standard Labratories"
+        },
+        {
+          "time": "2:31am",
+          "track": "Cassandra Gemini - Faminepulse",
+          "artist": "The Mars Vilta",
+          "album": "Frances The Mute",
+          "label": "Gold Standard Labratories"
+        },
+        {
+          "time": "2:48am",
+          "track": "Cassandra Gemini - Multiple Spouse Wounds",
+          "artist": "The Mars Volta",
+          "album": "Frances The Mute",
+          "label": "Gold Standard Labratories"
+        },
+        {
+          "time": "2:58am",
+          "track": "Cassandra Gemini - Sarcophagi",
+          "artist": "The Mars Volta",
+          "album": "Frances The Mute",
+          "label": "Gold Standard Labratories"
+        }
+      ]
+    },
+    {
+      "id": "64876",
+      "url": "https://xray.fm/broadcasts/64876",
+      "title": "Playing by Sense of Smell_Vol 56",
+      "air_date": "6-27-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/R-814200-1452868378-9317.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_56_06272025.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "The Hunger",
+          "artist": "The Distillers",
+          "album": "Coral Fang",
+          "label": "Sire"
+        },
+        {
+          "time": "2:07am",
+          "track": "Billion Dollar babies",
+          "artist": "Alice Cooper",
+          "album": "Billion Dollar Babies (deluxe)",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:11am",
+          "track": "Wanda the Worm Woman",
+          "artist": "The Resdidents",
+          "album": "Freakshow",
+          "label": "Voyager Co"
+        },
+        {
+          "time": "2:15am",
+          "track": "Blue Blood Blues",
+          "artist": "The Dead Weather",
+          "album": "Sea of Cowards",
+          "label": "Third Man Records"
+        },
+        {
+          "time": "2:18am",
+          "track": "Richie Dagger's Crime",
+          "artist": "The Germs",
+          "album": "GI",
+          "label": "Slash"
+        },
+        {
+          "time": "2:20am",
+          "track": "Gift",
+          "artist": "Sugar",
+          "album": "File Under Easy Listening",
+          "label": "Rykodisc"
+        },
+        {
+          "time": "2:25am",
+          "track": "78 RPM",
+          "artist": "Stiff Little Fingers",
+          "album": "Inflammable Material",
+          "label": "Rough Trade"
+        },
+        {
+          "time": "2:28am",
+          "track": "Walk All Over You",
+          "artist": "AC/DC",
+          "album": "Highway To Hell",
+          "label": "Atlantic"
+        },
+        {
+          "time": "2:35am",
+          "track": "Going Down",
+          "artist": "Anti Nowhere League",
+          "album": "Live in Yugoslavia",
+          "label": "ID Records"
+        },
+        {
+          "time": "2:38am",
+          "track": "Woman",
+          "artist": "Anti Nowhere League",
+          "album": "Live in Yugoslavia",
+          "label": "ID Records"
+        },
+        {
+          "time": "2:42am",
+          "track": "Cant Stand Rock n Roll",
+          "artist": "Anti Nowhere League",
+          "album": "Live in Yugoslavia",
+          "label": "ID Records"
+        },
+        {
+          "time": "2:45am",
+          "track": "So What?",
+          "artist": "Anti Nowhere League",
+          "album": "Live in Yugoslavia",
+          "label": "ID Records"
+        },
+        {
+          "time": "2:48am",
+          "track": "Reck-A-Nowhere",
+          "artist": "Anti Nowhere League",
+          "album": "Live in Yugoslavia",
+          "label": "ID Records"
+        },
+        {
+          "time": "2:52am",
+          "track": "Paint It Black",
+          "artist": "Anti Nowhere League",
+          "album": "Live in Yugoslavia",
+          "label": "ID Records"
+        },
+        {
+          "time": "2:56am",
+          "track": "We Are The Leagie",
+          "artist": "Anti Nowhere League",
+          "album": "Live in Yugoslavia",
+          "label": "ID Records"
+        }
+      ]
+    },
+    {
+      "id": "64773",
+      "url": "https://xray.fm/broadcasts/64773",
+      "title": "Playing by Sense of Smell_Vol 55",
+      "air_date": "6-20-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/Jane_s_Addiction-Ritual_de_lo_Habitual.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_55_06202025.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "I Got Loaded",
+          "artist": "Los Lobos",
+          "album": "How Will The Wolf Survive?",
+          "label": "Slash"
+        },
+        {
+          "time": "2:04am",
+          "track": "Kathleen",
+          "artist": "The Blasters",
+          "album": "Testament - The Complete Slash Recordings",
+          "label": "Slash"
+        },
+        {
+          "time": "2:10am",
+          "track": "War Pigs",
+          "artist": "Faith No More",
+          "album": "The Real Thing",
+          "label": "Slash"
+        },
+        {
+          "time": "2:18am",
+          "track": "Gone Baby Gone",
+          "artist": "Violent Femmes",
+          "album": "Violent Femmes",
+          "label": "Slash"
+        },
+        {
+          "time": "2:21am",
+          "track": "Fadeaway",
+          "artist": "BoDeans",
+          "album": "Love & Hope & Sex & Dreams",
+          "label": "Slash"
+        },
+        {
+          "time": "2:28am",
+          "track": "Three Days",
+          "artist": "Jane's Addiction",
+          "album": "Ritual de lo Habitual",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:39am",
+          "track": "Then She Did...",
+          "artist": "Jane's Addiction",
+          "album": "Ritual de lo Habitual",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:47am",
+          "track": "Of Course",
+          "artist": "Jane's Addiction",
+          "album": "Ritual de lo Habitual",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:54am",
+          "track": "Classic Girl",
+          "artist": "Jane's Addiction",
+          "album": "Ritual de lo Habitual",
+          "label": "Warner Bros"
+        }
+      ]
+    },
+    {
+      "id": "64645",
+      "url": "https://xray.fm/broadcasts/64645",
+      "title": "Playing by Sense of Smell_Vol 54",
+      "air_date": "6-13-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/Queen_A_Night_At_The_Opera.png",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_54_06132025.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Romeo and Juliette",
+          "artist": "Lou Reed",
+          "album": "New York",
+          "label": "Sire"
+        },
+        {
+          "time": "2:04am",
+          "track": "Outta Me Onto You",
+          "artist": "Ani DiFranco",
+          "album": "Dialate",
+          "label": "Righteous Babe"
+        },
+        {
+          "time": "2:08am",
+          "track": "Loverman",
+          "artist": "Nich Cave & The Bad Seeds",
+          "album": "Let Love In",
+          "label": "Mute"
+        },
+        {
+          "time": "2:15am",
+          "track": "Night of The Swallow",
+          "artist": "Kate Buch",
+          "album": "The Dreaming",
+          "label": "EMI"
+        },
+        {
+          "time": "2:20am",
+          "track": "Eternal Life",
+          "artist": "Jeff Buckley",
+          "album": "Grace",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:25am",
+          "track": "Big Exit",
+          "artist": "PJ Harvey",
+          "album": "Stories from the City, Stories from the Sea",
+          "label": "Island"
+        },
+        {
+          "time": "2:29am",
+          "track": "Boraccho",
+          "artist": "Mark Lanagan",
+          "album": "Whiskey For The Holy Ghost",
+          "label": "Sub Pop"
+        },
+        {
+          "time": "2:38am",
+          "track": "Death On Two Legs",
+          "artist": "Queen",
+          "album": "A Night At The Opera",
+          "label": "EMI"
+        },
+        {
+          "time": "2:42am",
+          "track": "Lazy On A Sunday Afternoon",
+          "artist": "Queen",
+          "album": "A Night At The Opera",
+          "label": "EMI"
+        },
+        {
+          "time": "2:43am",
+          "track": "I'm In Love With My Car",
+          "artist": "Queen",
+          "album": "A Night At The Opera",
+          "label": "EMI"
+        },
+        {
+          "time": "2:46am",
+          "track": "You're My Best Friend",
+          "artist": "Queen",
+          "album": "A Night At The Opera",
+          "label": "EMI"
+        },
+        {
+          "time": "2:49am",
+          "track": "39",
+          "artist": "Queen",
+          "album": "A Night At The Opera",
+          "label": "EMI"
+        },
+        {
+          "time": "2:52am",
+          "track": "Sweet Lady",
+          "artist": "Queen",
+          "album": "A Night At The Opera",
+          "label": "EMI"
+        },
+        {
+          "time": "2:56am",
+          "track": "Seaside Rendevous",
+          "artist": "Queen",
+          "album": "A Night At The Opera",
+          "label": "EMI"
+        }
+      ]
+    },
+    {
+      "id": "64514",
+      "url": "https://xray.fm/broadcasts/64514",
+      "title": "Playing by Sense of Smell_Vol 53",
+      "air_date": "6-6-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/images_YwGJY.jpeg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_53_06062025.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Fight The Good Fight",
+          "artist": "Triumph",
+          "album": "Allied Forces",
+          "label": "Attic"
+        },
+        {
+          "time": "2:07am",
+          "track": "Human Bomb",
+          "artist": "DOA",
+          "album": "(single)",
+          "label": "Sudden Death"
+        },
+        {
+          "time": "2:11am",
+          "track": "Roll On Down The Highway",
+          "artist": "Bachman Turner Overdrive",
+          "album": "Not Fragile",
+          "label": "Mercury"
+        },
+        {
+          "time": "2:15am",
+          "track": "The Pusher",
+          "artist": "Steppenwolf",
+          "album": "Steppenwolf",
+          "label": "ABC Dunhill"
+        },
+        {
+          "time": "2:21am",
+          "track": "Mass Romantic",
+          "artist": "The New Pornographers",
+          "album": "Mass Romantic",
+          "label": "Mint"
+        },
+        {
+          "time": "2:25am",
+          "track": "Unknown Legend",
+          "artist": "Neil Young",
+          "album": "Unplugged",
+          "label": "Reprise"
+        },
+        {
+          "time": "2:29am",
+          "track": "Do It Or Die",
+          "artist": "Die Mannequinn",
+          "album": "Slaughter Daughter (EP)",
+          "label": "How to Kill"
+        },
+        {
+          "time": "2:33am",
+          "track": "Bambi",
+          "artist": "Tokyo Police Club",
+          "album": "Champ",
+          "label": "Mom + Pop Music"
+        },
+        {
+          "time": "2:37am",
+          "track": "Little Bones",
+          "artist": "The Tragically Hip",
+          "album": "Road Apples",
+          "label": "MCA"
+        },
+        {
+          "time": "2:42am",
+          "track": "No Productivity",
+          "artist": "The Subhumans",
+          "album": "Firing Squad 7\"",
+          "label": "Quintessence Records"
+        },
+        {
+          "time": "2:47am",
+          "track": "I'm An Adult Now",
+          "artist": "The Pursuit of Happiness",
+          "album": "Love Junk",
+          "label": "Chrysalis"
+        },
+        {
+          "time": "2:51am",
+          "track": "Lunatic Fringe",
+          "artist": "Red Rider",
+          "album": "As Far As Siam",
+          "label": "Capitol"
+        },
+        {
+          "time": "2:57am",
+          "track": "The Safety Dance",
+          "artist": "Men Without Hats",
+          "album": "Rhythm of Youth",
+          "label": "Sire"
+        }
+      ]
+    },
+    {
+      "id": "64296",
+      "url": "https://xray.fm/broadcasts/64296",
+      "title": "Playing by Sense of Smell_Vol 52",
+      "air_date": "5-23-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/X3BFOFXASBA43IP4VSE4M4CC2Y.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_52_05232025.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Arnold Layne",
+          "artist": "Pink Floyd",
+          "album": "(single)",
+          "label": "EMI"
+        },
+        {
+          "time": "2:04am",
+          "track": "See Emily Play",
+          "artist": "Pink Floyd",
+          "album": "The Piper at the Gates of Dawn",
+          "label": "EMI"
+        },
+        {
+          "time": "2:07am",
+          "track": "Roll with It",
+          "artist": "Steve Miller Blues Band",
+          "album": "Children of the Future",
+          "label": "Capitol"
+        },
+        {
+          "time": "2:10am",
+          "track": "Soul Searchin",
+          "artist": "The Electric Flag",
+          "album": "An American Music Band",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:13am",
+          "track": "You're Gonna Miss Me",
+          "artist": "13th Floor Elevators",
+          "album": "The Psychedelic Sounds Of The 13th Floor Elevators",
+          "label": "International Artist"
+        },
+        {
+          "time": "2:16am",
+          "track": "Catch Me Daddy",
+          "artist": "Big Brother & The Holding Company",
+          "album": "Live at Winterland '68",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:22am",
+          "track": "Psychotic Reaction",
+          "artist": "Count Five",
+          "album": "Psychotic Reaction",
+          "label": "Double Shot"
+        },
+        {
+          "time": "2:28am",
+          "track": "3/5 of a Mile in 10 Seconds",
+          "artist": "Jefferson Airplane",
+          "album": "Surrealistic Pillow",
+          "label": "RCA Victor"
+        },
+        {
+          "time": "2:32am",
+          "track": "Gold and Silver",
+          "artist": "Quicksilver Messenger Service",
+          "album": "Quicksilver Messenger Service",
+          "label": "Capitol"
+        },
+        {
+          "time": "2:39am",
+          "track": "Tale of Brave Ulysses",
+          "artist": "Cream",
+          "album": "Disraeli Gears",
+          "label": "Atco"
+        },
+        {
+          "time": "2:42am",
+          "track": "SWLABR",
+          "artist": "Cream",
+          "album": "Disreali Gears",
+          "label": "Atco"
+        },
+        {
+          "time": "2:45am",
+          "track": "Soul Kitchen",
+          "artist": "The Doors",
+          "album": "The Doors",
+          "label": "Elektra"
+        },
+        {
+          "time": "2:48am",
+          "track": "I Had Too Much To Dream Last Night",
+          "artist": "The Electric Prunes",
+          "album": "The Electric Pruunes",
+          "label": "Reprise"
+        },
+        {
+          "time": "2:50am",
+          "track": "Preacher",
+          "artist": "Blue Cheer",
+          "album": "The Original Human Being",
+          "label": "Phillips"
+        },
+        {
+          "time": "2:54am",
+          "track": "Saint Stephen",
+          "artist": "The Grateful Dead",
+          "album": "30 trups Around the Sun- 1968-10-20 Berkeley, CA",
+          "label": "Rhino"
+        }
+      ]
+    },
+    {
+      "id": "64181",
+      "url": "https://xray.fm/broadcasts/64181",
+      "title": "Playing by Sense of Smell_Vol 51",
+      "air_date": "5-16-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/Dear_science_album_cover.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_51_05162025.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Lifeline",
+          "artist": "Catherine Wheel",
+          "album": "Wishville",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:05am",
+          "track": "She's Your Cocaine",
+          "artist": "Tori Amos",
+          "album": "From The Choirgirl Hotel",
+          "label": "Atlantic"
+        },
+        {
+          "time": "2:09am",
+          "track": "Black Swan",
+          "artist": "Thom Yorke",
+          "album": "The Eraser",
+          "label": "XL"
+        },
+        {
+          "time": "2:14am",
+          "track": "Retarded",
+          "artist": "The Afghan Whigs",
+          "album": "Up In It",
+          "label": "Sub Pop"
+        },
+        {
+          "time": "2:17am",
+          "track": "Cool For Cats",
+          "artist": "Squeeze",
+          "album": "Cool For Cats",
+          "label": "A&M"
+        },
+        {
+          "time": "2:20am",
+          "track": "Candle",
+          "artist": "Sonic Youth",
+          "album": "Daydream Nation",
+          "label": "Enigma"
+        },
+        {
+          "time": "2:29am",
+          "track": "Family Tree",
+          "artist": "TV On The Radio",
+          "album": "Dear Science",
+          "label": "Interscope"
+        },
+        {
+          "time": "2:34am",
+          "track": "Red Dress",
+          "artist": "TV On The Radio",
+          "album": "Dear Science",
+          "label": "Interscope"
+        },
+        {
+          "time": "2:39am",
+          "track": "Love Dog",
+          "artist": "Tv On The Radio",
+          "album": "Dear Science",
+          "label": "Interscope"
+        },
+        {
+          "time": "2:44am",
+          "track": "Shout Me Out",
+          "artist": "TV On The Radio",
+          "album": "Dear Science",
+          "label": "Interscope"
+        },
+        {
+          "time": "2:49am",
+          "track": "DLZ",
+          "artist": "TV On The Radio",
+          "album": "Dear Science",
+          "label": "Interscope"
+        },
+        {
+          "time": "2:53am",
+          "track": "Lover's Day",
+          "artist": "TV On The Radio",
+          "album": "Dear Science",
+          "label": "Interscope"
+        }
+      ]
+    },
+    {
+      "id": "64060",
+      "url": "https://xray.fm/broadcasts/64060",
+      "title": "Playing by Sense of Smell_Vol 50",
+      "air_date": "5-9-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/ELR_Logo.png",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_50_05092025.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Operator (That's Not That Way It Feels)",
+          "artist": "Jim Croce",
+          "album": "You Don't Mess Around With Jim",
+          "label": "ABC"
+        },
+        {
+          "time": "2:05am",
+          "track": "Isn't It a Pity",
+          "artist": "George Harrison",
+          "album": "All Things Must Pass",
+          "label": "Apple"
+        },
+        {
+          "time": "2:12am",
+          "track": "She Brings Me Love",
+          "artist": "Bad Company",
+          "album": "Desolation Angels",
+          "label": "Swan Song"
+        },
+        {
+          "time": "2:17am",
+          "track": "Beth",
+          "artist": "KISS",
+          "album": "Destroyer",
+          "label": "Casablanca"
+        },
+        {
+          "time": "2:20am",
+          "track": "Cypress Avenue",
+          "artist": "Van Morrison",
+          "album": "Astral Weeks",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:27am",
+          "track": "Lover, You Should've Come Over",
+          "artist": "Jamie Cullum",
+          "album": "Twentysomething",
+          "label": "Verve"
+        },
+        {
+          "time": "2:32am",
+          "track": "Shower The People",
+          "artist": "James Taylor",
+          "album": "In The Pocket",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:36am",
+          "track": "Black Water",
+          "artist": "The Doobie Brothers",
+          "album": "What Were Once Vices Are Now Habits",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:40am",
+          "track": "Sara Smile",
+          "artist": "Hall & Oates",
+          "album": "Daryl Hall & John Oates",
+          "label": "RCA"
+        },
+        {
+          "time": "2:43am",
+          "track": "Hypnotized",
+          "artist": "Bob Welch & Friends",
+          "album": "Live at The Roxy",
+          "label": "Burning Airlines"
+        },
+        {
+          "time": "2:50am",
+          "track": "Midnight In Harlem",
+          "artist": "Tedeschi Trucks Band",
+          "album": "Revelator",
+          "label": "Sony"
+        }
+      ]
+    },
+    {
+      "id": "63922",
+      "url": "https://xray.fm/broadcasts/63922",
+      "title": "Playing by Sense of Smell_Vol 49",
+      "air_date": "5-2-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/jazz_fus.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_49_05022025.mp3",
+      "track_count": 8,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Anxiety Taurian Matador",
+          "artist": "Billy Cobham",
+          "album": "Spectrum",
+          "label": "Atlantic"
+        },
+        {
+          "time": "2:06am",
+          "track": "The Great Escape",
+          "artist": "Larry Coryell",
+          "album": "Barefoot Bot",
+          "label": "Flying Dutchman"
+        },
+        {
+          "time": "2:14am",
+          "track": "One Word",
+          "artist": "Mahavishnu Orchestra",
+          "album": "Birds of Fire",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:24am",
+          "track": "Disco Suicide",
+          "artist": "Brand X",
+          "album": "MorrocanRoll",
+          "label": "Charisma"
+        },
+        {
+          "time": "2:32am",
+          "track": "Herrandnu",
+          "artist": "Weather Report",
+          "album": "Black Market",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:39am",
+          "track": "Million Dollar Legs",
+          "artist": "Tony Williams Lifetime",
+          "album": "Lifetime: The Collection",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:46am",
+          "track": "Beelzebub",
+          "artist": "Bruford",
+          "album": "Feels Good To Me",
+          "label": "EG"
+        },
+        {
+          "time": "2:51am",
+          "track": "Flight Of The Newborn",
+          "artist": "Return To Forever",
+          "album": "No Mystery",
+          "label": "Polydor"
+        }
+      ]
+    },
+    {
+      "id": "63799",
+      "url": "https://xray.fm/broadcasts/63799",
+      "title": "Playing by Sense of Smell_Vol 48",
+      "air_date": "4-25-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/buzz_lp_cover.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_48_04252025.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Last Rockers",
+          "artist": "Vice Squad",
+          "album": "Punk and Disorderly",
+          "label": "Anagram"
+        },
+        {
+          "time": "2:05am",
+          "track": "Plateau",
+          "artist": "Meat Puppets",
+          "album": "Meat Puppets",
+          "label": "SST"
+        },
+        {
+          "time": "2:08am",
+          "track": "Capital Fails Us Now",
+          "artist": "Gang Of Four",
+          "album": "Another Day/Another Dollar",
+          "label": "Warner"
+        },
+        {
+          "time": "2:12am",
+          "track": "No One Is Innocent (feat. Ronnie Biggs)",
+          "artist": "Sex Pistols",
+          "album": "The Biggest Blow",
+          "label": "Virgin"
+        },
+        {
+          "time": "2:16am",
+          "track": "Complete Control",
+          "artist": "The Clash",
+          "album": "The Clash",
+          "label": "Epic"
+        },
+        {
+          "time": "2:20am",
+          "track": "Song of Liberty",
+          "artist": "Faith No Man",
+          "album": "(single)",
+          "label": "Ministry of Propoganda"
+        },
+        {
+          "time": "2:24am",
+          "track": "Aneurysm (demo)",
+          "artist": "Nirvana",
+          "album": "With the Lights Out",
+          "label": "DGC"
+        },
+        {
+          "time": "2:29am",
+          "track": "24 Hours",
+          "artist": "Joy Division",
+          "album": "The Complete BBC Recordings",
+          "label": "Strange Fruit"
+        },
+        {
+          "time": "2:33am",
+          "track": "California Uber Alles",
+          "artist": "Dead Kennedy's",
+          "album": "Fresh Fruit For Rotting Vegetables",
+          "label": "Alternative Tentacles"
+        },
+        {
+          "time": "2:39am",
+          "track": "I Dont Mind",
+          "artist": "Buzzcocks",
+          "album": "Another Music In A Different Kitchen",
+          "label": "UA"
+        },
+        {
+          "time": "2:43am",
+          "track": "Fiction Romance",
+          "artist": "Buzzcocks",
+          "album": "Another Music In A Different Kitchen",
+          "label": "UA"
+        },
+        {
+          "time": "2:47am",
+          "track": "Autonomy",
+          "artist": "Buzzcocks",
+          "album": "Another Music In A Different Kitchen",
+          "label": "UA"
+        },
+        {
+          "time": "2:50am",
+          "track": "I Need",
+          "artist": "Buzzcocks",
+          "album": "Another Music In A Different Kitchen",
+          "label": "UA"
+        },
+        {
+          "time": "2:54am",
+          "track": "Moving Away From the Pulsebeat",
+          "artist": "Buzzcocks",
+          "album": "Another Music In A Different Kitchen",
+          "label": "UA"
+        }
+      ]
+    },
+    {
+      "id": "63688",
+      "url": "https://xray.fm/broadcasts/63688",
+      "title": "Playing by Sense of Smell_Vol 47",
+      "air_date": "4-18-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/damnright.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_47_04182025.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Mojo Hand",
+          "artist": "Lightnin Hopkins",
+          "album": "Mojo Hand",
+          "label": "Fire"
+        },
+        {
+          "time": "2:04am",
+          "track": "When My Train Pulls In",
+          "artist": "Gary Clark Jr",
+          "album": "Blak and Blu",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:12am",
+          "track": "I'm Tore Down",
+          "artist": "Freddie King",
+          "album": "Freddie King Sings",
+          "label": "King"
+        },
+        {
+          "time": "2:16am",
+          "track": "Skinny Woman",
+          "artist": "North Mississippi Allstars",
+          "album": "Shake Hands With Shorty",
+          "label": "Tone Cool"
+        },
+        {
+          "time": "2:21am",
+          "track": "How Blue Can You Get",
+          "artist": "BB King",
+          "album": "Live at Cook County Jail",
+          "label": "ABC"
+        },
+        {
+          "time": "2:26am",
+          "track": "Oh Death",
+          "artist": "Doyle BRamhall ii (feat Erika Badhu)",
+          "album": "A Brief History of The Blues",
+          "label": "Motown"
+        },
+        {
+          "time": "2:35am",
+          "track": "Too Broke To Spend The Night",
+          "artist": "Buddy Guy",
+          "album": "Damn Right, I've Got The Blues",
+          "label": "Silvertone"
+        },
+        {
+          "time": "2:40am",
+          "track": "Black Night",
+          "artist": "Buddy Guy",
+          "album": "Damn Right, I've Got The Blues",
+          "label": "Silvertone"
+        },
+        {
+          "time": "2:48am",
+          "track": "Let Me Love You Baby",
+          "artist": "Buddy Guy",
+          "album": "Damn Right, I've Got The Blues",
+          "label": "Silbertone"
+        },
+        {
+          "time": "2:53am",
+          "track": "Rememberin' Stevie",
+          "artist": "Buddy Guy",
+          "album": "Damn Right, I've Got The Blues",
+          "label": "Silbertone"
+        }
+      ]
+    },
+    {
+      "id": "63588",
+      "url": "https://xray.fm/broadcasts/63588",
+      "title": "Playing by Sense of Smell_Vol 46",
+      "air_date": "4-11-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/zv613s.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_46_04112025.mp3",
+      "track_count": 8,
+      "tracks": [
+        {
+          "time": "2:03am",
+          "track": "Money (demo)",
+          "artist": "Pink Floyd",
+          "album": "Dark Side of the Moon - Immersion Box Set",
+          "label": "EMI"
+        },
+        {
+          "time": "2:06am",
+          "track": "Forbidden By Rule",
+          "artist": "Djam Karet",
+          "album": "The Devouring",
+          "label": "Cuneiform"
+        },
+        {
+          "time": "2:12am",
+          "track": "Freefall",
+          "artist": "Camel",
+          "album": "Mirage",
+          "label": "Deram"
+        },
+        {
+          "time": "2:18am",
+          "track": "From The Greenhouse",
+          "artist": "Crack The Sky",
+          "album": "From The Greenhouse",
+          "label": "Grudge"
+        },
+        {
+          "time": "2:24am",
+          "track": "Lark's Tongue in Aspic (Part 1)",
+          "artist": "King Crimson",
+          "album": "Lark's Tongue in Aspic",
+          "label": "Island"
+        },
+        {
+          "time": "2:37am",
+          "track": "Natural Science",
+          "artist": "Rush",
+          "album": "Permanent Waves",
+          "label": "Anthem"
+        },
+        {
+          "time": "2:46am",
+          "track": "One More Night",
+          "artist": "Can",
+          "album": "Ege Bamyasi",
+          "label": "United Artists"
+        },
+        {
+          "time": "2:52am",
+          "track": "The Doctor (demo)",
+          "artist": "Pink Floyd",
+          "album": "The Wall - Immersion Box Set",
+          "label": "EMI"
+        }
+      ]
+    },
+    {
+      "id": "63447",
+      "url": "https://xray.fm/broadcasts/63447",
+      "title": "Playing by Sense of Smell_Vol 45",
+      "air_date": "4-4-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/Good_For_Your_Soul_Album_Art.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_45_04042025.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Animal Day",
+          "artist": "Wall of Voodoo",
+          "album": "Dark Continent",
+          "label": "I.R.S."
+        },
+        {
+          "time": "2:04am",
+          "track": "This Is Pop",
+          "artist": "XTC",
+          "album": "White Music",
+          "label": "Geffen"
+        },
+        {
+          "time": "2:07am",
+          "track": "I Married A Martian",
+          "artist": "Sparks",
+          "album": "Whomp That Sucker",
+          "label": "RCA"
+        },
+        {
+          "time": "2:12am",
+          "track": "10:15 Saturday Night",
+          "artist": "The Cure",
+          "album": "Three Imaginary Boys",
+          "label": "Fiction"
+        },
+        {
+          "time": "2:17am",
+          "track": "(I Don't Want to Go to) Chelsea",
+          "artist": "Elvis Costello",
+          "album": "Armed Forces",
+          "label": "Radar"
+        },
+        {
+          "time": "2:20am",
+          "track": "Fools In Love",
+          "artist": "Joe Jackson",
+          "album": "Look Sharp!",
+          "label": "A&M"
+        },
+        {
+          "time": "2:25am",
+          "track": "Uncontrollable Urge",
+          "artist": "Devo",
+          "album": "Are We Not Men",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:28am",
+          "track": "She Blinded Me With Science",
+          "artist": "Thomas Dolby",
+          "album": "The Golden Age of Wireless",
+          "label": "EMI"
+        },
+        {
+          "time": "2:32am",
+          "track": "President Gas",
+          "artist": "The Psychedelic Furs",
+          "album": "Forever Now",
+          "label": "CBS"
+        },
+        {
+          "time": "2:38am",
+          "track": "Nothing Bad Ever Happens To Me",
+          "artist": "Oingo Boingo",
+          "album": "Good For Your Soul",
+          "label": "A&M"
+        },
+        {
+          "time": "2:44am",
+          "track": "Wake Up (Its 1984)",
+          "artist": "Oingo Boingo",
+          "album": "Good For Your Soul",
+          "label": "A&M"
+        },
+        {
+          "time": "2:47am",
+          "track": "Dead or Alive",
+          "artist": "Oingo Boingo",
+          "album": "Good For Your Soul",
+          "label": "A&M"
+        },
+        {
+          "time": "2:50am",
+          "track": "Pictures of You",
+          "artist": "Oingo Boingo",
+          "album": "Good For Your Soul",
+          "label": "A&M"
+        },
+        {
+          "time": "2:54am",
+          "track": "Little Guns",
+          "artist": "Oingo Boingo",
+          "album": "Good For Your Soul",
+          "label": "A&M"
+        }
+      ]
+    },
+    {
+      "id": "63339",
+      "url": "https://xray.fm/broadcasts/63339",
+      "title": "Playing by Sense of Smell_Vol 44",
+      "air_date": "3-28-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/Warmjetsvinyl.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_44_03282025.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "This Guitar (Can't Keep from Crying)",
+          "artist": "George Harrison",
+          "album": "Extra Texture",
+          "label": "Apple"
+        },
+        {
+          "time": "2:05am",
+          "track": "Anyone Can Play Guitar",
+          "artist": "Radiohead",
+          "album": "Pablo Honey",
+          "label": "Capitol"
+        },
+        {
+          "time": "2:09am",
+          "track": "Suppers Ready",
+          "artist": "Genesis",
+          "album": "Foxtrot",
+          "label": "Charisma"
+        },
+        {
+          "time": "2:32am",
+          "track": "My Guitar Wants to Kill Your Mama",
+          "artist": "Frank Zappa",
+          "album": "Weasels Ripped My Flesh",
+          "label": "Bizarre"
+        },
+        {
+          "time": "2:39am",
+          "track": "On Soma Faraway Beach",
+          "artist": "Brian Eno",
+          "album": "Here Come The Warm Jets",
+          "label": "E.G."
+        },
+        {
+          "time": "2:44am",
+          "track": "Blank Frank",
+          "artist": "Brian Eno",
+          "album": "Here Come The Warm Jets",
+          "label": "E.G."
+        },
+        {
+          "time": "2:48am",
+          "track": "Dead Finks Don't Talk",
+          "artist": "Brian Eno",
+          "album": "Here Come The Warm Jets",
+          "label": "E.G."
+        },
+        {
+          "time": "2:51am",
+          "track": "Some Of Them Are Old",
+          "artist": "Brian Eno",
+          "album": "Here Come The Warm Jets",
+          "label": "E.G."
+        },
+        {
+          "time": "2:54am",
+          "track": "Here Come The Warm Jets",
+          "artist": "Brian Eno",
+          "album": "Here Come The Warm Jets",
+          "label": "E.G."
+        }
+      ]
+    },
+    {
+      "id": "63223",
+      "url": "https://xray.fm/broadcasts/63223",
+      "title": "Playing by Sense of Smell_Vol 43",
+      "air_date": "3-21-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/Led-Zeppelin-Doc-Trailer.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_43_03212025.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Diamonds",
+          "artist": "Jet Harris and Tony Meehan",
+          "album": "(single)",
+          "label": "Decca"
+        },
+        {
+          "time": "2:04am",
+          "track": "You Better Run",
+          "artist": "Listen",
+          "album": "(single)",
+          "label": "CBS Records"
+        },
+        {
+          "time": "2:07am",
+          "track": "Happenings Ten Years Time Ago",
+          "artist": "Yardbirds",
+          "album": "(single)",
+          "label": "Epic"
+        },
+        {
+          "time": "2:10am",
+          "track": "Dazed and Confused",
+          "artist": "Jake Holmes",
+          "album": "The Above Ground Sound of Jake Holmes",
+          "label": "Tower"
+        },
+        {
+          "time": "2:17am",
+          "track": "Rich Kid Blues",
+          "artist": "Terry Reid",
+          "album": "(single)",
+          "label": "ABC"
+        },
+        {
+          "time": "2:23am",
+          "track": "I Got To Find My baby",
+          "artist": "Band of Joy",
+          "album": "(single)",
+          "label": "CBS Records"
+        },
+        {
+          "time": "2:27am",
+          "track": "Mellow Yellow",
+          "artist": "Donavan",
+          "album": "Mellow Yellow",
+          "label": "Epic"
+        },
+        {
+          "time": "2:31am",
+          "track": "Dazed and Confused",
+          "artist": "The Yardbirds",
+          "album": "Live at the BBC",
+          "label": "Repetoire"
+        },
+        {
+          "time": "2:39am",
+          "track": "Misty Mountain Hop",
+          "artist": "Led Zeppelin",
+          "album": "Led Zeppelin IV",
+          "label": "Atlantic"
+        },
+        {
+          "time": "2:44am",
+          "track": "Four Sticks",
+          "artist": "Led Zeppelin",
+          "album": "Led Zeppelin IV",
+          "label": "Atlantic"
+        },
+        {
+          "time": "2:48am",
+          "track": "Going To California",
+          "artist": "Led Zeppelin",
+          "album": "Led Zeppelin IV",
+          "label": "Atlantic"
+        },
+        {
+          "time": "2:50am",
+          "track": "When The Levee Breaks",
+          "artist": "Led Zeppelin",
+          "album": "Led Zeppelin IV",
+          "label": "Atlantic"
+        },
+        {
+          "time": "2:56am",
+          "track": "Poor Tom - Instrumental Mix",
+          "artist": "Led Zeppelin",
+          "album": "CODA - Deluxe",
+          "label": "Swan Song"
+        }
+      ]
+    },
+    {
+      "id": "63097",
+      "url": "https://xray.fm/broadcasts/63097",
+      "title": "Playing by Sense of Smell_Vol 42",
+      "air_date": "3-14-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/jkhk.png",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_42_03142025.mp3",
+      "track_count": 0,
+      "tracks": []
+    },
+    {
+      "id": "62961",
+      "url": "https://xray.fm/broadcasts/62961",
+      "title": "Playing by Sense of Smell_Vol 41",
+      "air_date": "3-7-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/Stiff.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_41_03072025.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Addidas in Heat",
+          "artist": "Adrian Belew",
+          "album": "Lone Rhino",
+          "label": "Island"
+        },
+        {
+          "time": "2:04am",
+          "track": "Im In A Clique",
+          "artist": "Todd Rundgren",
+          "album": "Runt",
+          "label": "Ampex"
+        },
+        {
+          "time": "2:09am",
+          "track": "You Cant Talk",
+          "artist": "Tin Machine",
+          "album": "Tin Machine II",
+          "label": "Victory"
+        },
+        {
+          "time": "2:12am",
+          "track": "Time For Heroes",
+          "artist": "The Libertones",
+          "album": "The For Heroes",
+          "label": "Rough Trade"
+        },
+        {
+          "time": "2:15am",
+          "track": "No Anchovies, Please",
+          "artist": "J Geils Band",
+          "album": "Love Stinks",
+          "label": "Capitol"
+        },
+        {
+          "time": "2:20am",
+          "track": "Refrigerator Car",
+          "artist": "Spin Doctors",
+          "album": "Pocket Full Of Kryptonite",
+          "label": "Epic"
+        },
+        {
+          "time": "2:25am",
+          "track": "Maps",
+          "artist": "Yeah Yeah Yeahs",
+          "album": "Fever To Tell",
+          "label": "Interscope"
+        },
+        {
+          "time": "2:29am",
+          "track": "Crash Burn",
+          "artist": "Blues Traveler",
+          "album": "Four",
+          "label": "A&M"
+        },
+        {
+          "time": "2:32am",
+          "track": "Im Shakin",
+          "artist": "The Blasters",
+          "album": "The Blasters",
+          "label": "Slash"
+        },
+        {
+          "time": "2:34am",
+          "track": "All I Want",
+          "artist": "Bobby McFerrin",
+          "album": "Simple Pleasures",
+          "label": "Manhattan"
+        },
+        {
+          "time": "2:37am",
+          "track": "(Im The One) Big Big Fun",
+          "artist": "White Denim",
+          "album": "Stiff",
+          "label": "Downtown"
+        },
+        {
+          "time": "2:40am",
+          "track": "Real Deal Momma",
+          "artist": "White Denim",
+          "album": "Stiff",
+          "label": "Downtown"
+        },
+        {
+          "time": "2:45am",
+          "track": "Mirrored In Reverse",
+          "artist": "White Denim",
+          "album": "Stiff",
+          "label": "Downtown"
+        },
+        {
+          "time": "2:50am",
+          "track": "Thank You",
+          "artist": "White Denim",
+          "album": "Stiff",
+          "label": "Downtown"
+        },
+        {
+          "time": "2:54am",
+          "track": "Had 2 Know",
+          "artist": "White Denim",
+          "album": "Stiff",
+          "label": "Downtown"
+        }
+      ]
+    },
+    {
+      "id": "62853",
+      "url": "https://xray.fm/broadcasts/62853",
+      "title": "Playing by Sense of Smell_Vol 40",
+      "air_date": "2-28-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/Killing_Joke_album.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_40_02282025.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Start!",
+          "artist": "The Jam",
+          "album": "Sound Affects",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:04am",
+          "track": "Johnny Hit and Run Pauline",
+          "artist": "X",
+          "album": "Los Angeles",
+          "label": "Slash"
+        },
+        {
+          "time": "2:07am",
+          "track": "Holiday In Cambodia",
+          "artist": "Dead Kennedy's",
+          "album": "Fresh Fruit For Rotting Vegetables",
+          "label": "Cherry Red"
+        },
+        {
+          "time": "2:12am",
+          "track": "Heart and Soul",
+          "artist": "Joy Division",
+          "album": "Closer",
+          "label": "Factory"
+        },
+        {
+          "time": "2:18am",
+          "track": "Turning Japanese",
+          "artist": "The Vapors",
+          "album": "New Clear Days",
+          "label": "Liberty"
+        },
+        {
+          "time": "2:22am",
+          "track": "Babooshka",
+          "artist": "Kate Bush",
+          "album": "Never For Ever",
+          "label": "EMI"
+        },
+        {
+          "time": "2:25am",
+          "track": "A Day Without Me",
+          "artist": "U2",
+          "album": "Boy",
+          "label": "Island"
+        },
+        {
+          "time": "2:28am",
+          "track": "Jacob's Ladder",
+          "artist": "Rush",
+          "album": "Permanent Waves",
+          "label": "Anthem"
+        },
+        {
+          "time": "2:36am",
+          "track": "The Wait",
+          "artist": "Killing Joke",
+          "album": "Killing Joke",
+          "label": "E.G."
+        },
+        {
+          "time": "2:41am",
+          "track": "Complications",
+          "artist": "Killing Joke",
+          "album": "Killing Joke",
+          "label": "E.G."
+        },
+        {
+          "time": "2:45am",
+          "track": "Change",
+          "artist": "Killing Joke",
+          "album": "Killing Joke",
+          "label": "E.G."
+        },
+        {
+          "time": "2:49am",
+          "track": "S.O.36",
+          "artist": "Killing Joke",
+          "album": "Killing Joke",
+          "label": "E.G."
+        },
+        {
+          "time": "2:56am",
+          "track": "Primitive",
+          "artist": "Killing Joke",
+          "album": "Killing Joke",
+          "label": "EG"
+        }
+      ]
+    },
+    {
+      "id": "62743",
+      "url": "https://xray.fm/broadcasts/62743",
+      "title": "Playing by Sense of Smell_Vol 39",
+      "air_date": "2-21-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/Police-album-reggattadeblanc.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PBSOS_Vol_39_02212025.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "What'd I Say",
+          "artist": "Steve Cropper, Pop Staples & Albert King",
+          "album": "Jammed Together",
+          "label": "Stax"
+        },
+        {
+          "time": "2:06am",
+          "track": "The Things We Do For Love",
+          "artist": "10CC",
+          "album": "(single)",
+          "label": "Mercury"
+        },
+        {
+          "time": "2:10am",
+          "track": "Kid Charlemagne",
+          "artist": "Steely Dan",
+          "album": "Alive In America",
+          "label": "Giant"
+        },
+        {
+          "time": "2:16am",
+          "track": "Hanging On The telephone",
+          "artist": "Blondie",
+          "album": "Picture This Live",
+          "label": "Chrysalis"
+        },
+        {
+          "time": "2:19am",
+          "track": "Helicopter",
+          "artist": "Bloc Party",
+          "album": "Silent Alarm",
+          "label": "Wichita"
+        },
+        {
+          "time": "2:24am",
+          "track": "I Want To Take You Higher",
+          "artist": "Sly & The Family Stone",
+          "album": "Stand",
+          "label": "Epic"
+        },
+        {
+          "time": "2:27am",
+          "track": "Solid Ground",
+          "artist": "Maps & Atlases",
+          "album": "Perch Patchwork",
+          "label": "Barsuk Records"
+        },
+        {
+          "time": "2:31am",
+          "track": "Shining Star",
+          "artist": "Earth, Wind & Fire",
+          "album": "That's The Way Of The World",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:36am",
+          "track": "Walking On The Moon",
+          "artist": "The Police",
+          "album": "Regatta de Blanc",
+          "label": "A&M"
+        },
+        {
+          "time": "2:41am",
+          "track": "On Any Other Day",
+          "artist": "The Police",
+          "album": "Reggatta de Blanc",
+          "label": "A&M"
+        },
+        {
+          "time": "2:44am",
+          "track": "The Bed's Too Big Without You",
+          "artist": "The Police",
+          "album": "Reggatta de Blanc",
+          "label": "A&M"
+        },
+        {
+          "time": "2:47am",
+          "track": "Contact",
+          "artist": "The Police",
+          "album": "Reggatta de Blanc",
+          "label": "A&M"
+        },
+        {
+          "time": "2:50am",
+          "track": "Does Everyone Stare",
+          "artist": "The Police",
+          "album": "Reggatta de Blanc",
+          "label": "A&M"
+        },
+        {
+          "time": "2:54am",
+          "track": "No Time This Time",
+          "artist": "The Police",
+          "album": "Reggatta de Blanc",
+          "label": "A&M"
+        }
+      ]
+    },
+    {
+      "id": "62634",
+      "url": "https://xray.fm/broadcasts/62634",
+      "title": "Playing by Sense of Smell_Vol 38",
+      "air_date": "2-14-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/slide-guitar-apple-loops.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_38_02142025.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Firebird Suite",
+          "artist": "Sonny Landreth",
+          "album": "Bound by the Blues",
+          "label": "Mascot"
+        },
+        {
+          "time": "2:05am",
+          "track": "Uberesso",
+          "artist": "Sonny Landreth",
+          "album": "Cross Roads Guitar Festival 2007",
+          "label": "reprise Records"
+        },
+        {
+          "time": "2:08am",
+          "track": "The Weight",
+          "artist": "Aretha Franklin",
+          "album": "This Girl's In Love With You",
+          "label": "Atlantic"
+        },
+        {
+          "time": "2:11am",
+          "track": "Statesboro Blues",
+          "artist": "The Allman Brothers",
+          "album": "Bear's Sonic Journals - Fillmore East 1970",
+          "label": "Grateful Dead"
+        },
+        {
+          "time": "2:15am",
+          "track": "Sahib Teri Bandi/Maki Madni",
+          "artist": "Derek Trucks Band",
+          "album": "Songlines",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:28am",
+          "track": "It Hurts Me Too",
+          "artist": "Ellmore James",
+          "album": "(single)",
+          "label": "Chief Records"
+        },
+        {
+          "time": "2:31am",
+          "track": "Rock and Roll Doctor",
+          "artist": "Little Feat",
+          "album": "Feats Dont Fail Me Now",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:34am",
+          "track": "Crest Of A Wave",
+          "artist": "Rory Gallagher",
+          "album": "Deuce",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:40am",
+          "track": "High Hopes",
+          "artist": "Pink Floyd",
+          "album": "Division Bell",
+          "label": "EMI"
+        },
+        {
+          "time": "2:49am",
+          "track": "If I'm Unworthy",
+          "artist": "Blake Mills",
+          "album": "Heigh Ho",
+          "label": "Verve Records"
+        },
+        {
+          "time": "2:55am",
+          "track": "Rollin' and Tumblin'",
+          "artist": "Muddy Waters",
+          "album": "(single)",
+          "label": "Chess Records"
+        }
+      ]
+    },
+    {
+      "id": "62519",
+      "url": "https://xray.fm/broadcasts/62519",
+      "title": "Playing by Sense of Smell_Vol 37",
+      "air_date": "2-7-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/Pretenders_album.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_37_02072025.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Back In Flesh",
+          "artist": "Wall of Woodoo",
+          "album": "Dark Continent",
+          "label": "IRS"
+        },
+        {
+          "time": "2:05am",
+          "track": "Rush",
+          "artist": "Big Audio Dynamite II",
+          "album": "The Globe",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:10am",
+          "track": "Yoshimi Battles the Pink Robots Part 1",
+          "artist": "The Flaming Lips",
+          "album": "Yoshimi Battles the Pink Robots",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:15am",
+          "track": "Statue of Liberty",
+          "artist": "XTC",
+          "album": "White Music",
+          "label": "Virgin"
+        },
+        {
+          "time": "2:18am",
+          "track": "DNA",
+          "artist": "The Kills",
+          "album": "Blood Preassures",
+          "label": "Domino"
+        },
+        {
+          "time": "2:23am",
+          "track": "Vision of Division",
+          "artist": "The Strokes",
+          "album": "First Impressions Of Earth",
+          "label": "Rough Trade"
+        },
+        {
+          "time": "2:27am",
+          "track": "White Palms",
+          "artist": "Black Rebel Motorcycle Club",
+          "album": "B.R.M.C.",
+          "label": "Virgin, Abstract Dragon"
+        },
+        {
+          "time": "2:35am",
+          "track": "Kid",
+          "artist": "The Pretenders",
+          "album": "Pretenders",
+          "label": "Real Records"
+        },
+        {
+          "time": "2:38am",
+          "track": "Private Life",
+          "artist": "The Pretenders",
+          "album": "Pretenders",
+          "label": "Real Records"
+        },
+        {
+          "time": "2:44am",
+          "track": "Brass In Pocket",
+          "artist": "The Pretenders",
+          "album": "Pretenders",
+          "label": "Real Records"
+        },
+        {
+          "time": "2:47am",
+          "track": "Lovers of Today",
+          "artist": "The Pretenders",
+          "album": "Pretenders",
+          "label": "Real Records"
+        },
+        {
+          "time": "2:53am",
+          "track": "Mystery Achievement",
+          "artist": "The Pretenders",
+          "album": "Pretenders",
+          "label": "Real Records"
+        }
+      ]
+    },
+    {
+      "id": "62400",
+      "url": "https://xray.fm/broadcasts/62400",
+      "title": "Playing by Sense of Smell_Vol 36",
+      "air_date": "1-31-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_36_01312025.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Try A Little Tenderness",
+          "artist": "The Commitments",
+          "album": "The Commitments (Original Motion Picture Soundtrack)",
+          "label": "MCA"
+        },
+        {
+          "time": "2:05am",
+          "track": "These Are My Friends",
+          "artist": "Daniela Mars",
+          "album": "Crazy Clown TIme",
+          "label": "Play It Again Sam US"
+        },
+        {
+          "time": "2:10am",
+          "track": "Got My Mojo Workin'",
+          "artist": "Marc Ford",
+          "album": "Weary and Wired",
+          "label": "Blues Bureau International"
+        },
+        {
+          "time": "2:15am",
+          "track": "Wolf Like Me",
+          "artist": "TV on the Radio",
+          "album": "Return To Cookie Mountain",
+          "label": "Touch and Go"
+        },
+        {
+          "time": "2:19am",
+          "track": "Country House Shuffle",
+          "artist": "Dixie Dregs",
+          "album": "Night of The Living Dregs",
+          "label": "Capricorn"
+        },
+        {
+          "time": "2:23am",
+          "track": "Capricorn",
+          "artist": "Motorhead",
+          "album": "Overkill",
+          "label": "Bronze"
+        },
+        {
+          "time": "2:30am",
+          "track": "Lost My Mule In Texas",
+          "artist": "Colonlel Bruce Hampton and the Aquarium Rescue Unit",
+          "album": "Mirrors of Embarrassment",
+          "label": "Capricorn"
+        },
+        {
+          "time": "2:35am",
+          "track": "Riddles Are Abound Tonite",
+          "artist": "Colonle Les Claypool's Fearless Flying Frod Brigade",
+          "album": "Live Frogs - Set 1",
+          "label": "Prawn Song"
+        },
+        {
+          "time": "2:41am",
+          "track": "For Your Pleasure",
+          "artist": "Roxy Music",
+          "album": "For Your Pleasure",
+          "label": "Island"
+        },
+        {
+          "time": "2:48am",
+          "track": "Lazaretto",
+          "artist": "Jack White",
+          "album": "Lazaretto",
+          "label": "Third Man Records"
+        },
+        {
+          "time": "2:53am",
+          "track": "Victory Dance",
+          "artist": "My Morning Jacket",
+          "album": "Circuital",
+          "label": "ATO Records"
+        }
+      ]
+    },
+    {
+      "id": "62291",
+      "url": "https://xray.fm/broadcasts/62291",
+      "title": "Playing by Sense of Smell_Vol 35",
+      "air_date": "1-24-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_35_01242025.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Don't Eat Stuff Off The Sidewalk",
+          "artist": "The Cramps",
+          "album": "Psychedelic Jungle",
+          "label": "IRS"
+        },
+        {
+          "time": "2:03am",
+          "track": "1969",
+          "artist": "The Stooges",
+          "album": "The Stooges",
+          "label": "Elektra"
+        },
+        {
+          "time": "2:07am",
+          "track": "Greedy Soul",
+          "artist": "Liam Gallagher",
+          "album": "As You Were",
+          "label": "Warner"
+        },
+        {
+          "time": "2:14am",
+          "track": "See No Evil",
+          "artist": "Television",
+          "album": "Marquee Moon",
+          "label": "Elecktra"
+        },
+        {
+          "time": "2:21am",
+          "track": "Peanuts",
+          "artist": "The Police",
+          "album": "Outlandes D' Amour",
+          "label": "A&M"
+        },
+        {
+          "time": "2:25am",
+          "track": "A Good Idea",
+          "artist": "Sugar",
+          "album": "Copper Blue",
+          "label": "Creation"
+        },
+        {
+          "time": "2:29am",
+          "track": "Down in The Tube Station At Midnight",
+          "artist": "The Jam",
+          "album": "All The Mod Cons",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:39am",
+          "track": "Sunday Papers",
+          "artist": "Joe Jackson",
+          "album": "Look Sharp",
+          "label": "A&M"
+        },
+        {
+          "time": "2:43am",
+          "track": "Watching The Detectives",
+          "artist": "Elvis Costello",
+          "album": "My Aim Is True",
+          "label": "Stiff"
+        },
+        {
+          "time": "2:48am",
+          "track": "Sweet and Tender Hooligan",
+          "artist": "The Smiths",
+          "album": "single",
+          "label": "sire"
+        },
+        {
+          "time": "2:49am",
+          "track": "Bad Scene, Everyone's Fault",
+          "artist": "Jawbreaker",
+          "album": "Dear You",
+          "label": "DGC"
+        },
+        {
+          "time": "2:53am",
+          "track": "Mongoloid",
+          "artist": "Devo",
+          "album": "Are We Not Men?",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:54am",
+          "track": "Ocean Size",
+          "artist": "Jane's Addiction",
+          "album": "Nothing Shocking",
+          "label": "Warner BRos"
+        },
+        {
+          "time": "2:56am",
+          "track": "Down In The Park",
+          "artist": "Gary Numan",
+          "album": "Replica",
+          "label": "Beggars Banuet"
+        }
+      ]
+    },
+    {
+      "id": "62176",
+      "url": "https://xray.fm/broadcasts/62176",
+      "title": "Playing by Sense of Smell_Vol 34",
+      "air_date": "1-17-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/cts.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_34_011724.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Knife's Edge",
+          "artist": "Emerson, Lake & Palmer",
+          "album": "Emerson, Lake & Palmer",
+          "label": "Polygram"
+        },
+        {
+          "time": "2:06am",
+          "track": "Hold On",
+          "artist": "Crack The Sky",
+          "album": "Crack The Sky",
+          "label": "Lifesong"
+        },
+        {
+          "time": "2:09am",
+          "track": "Huffin'",
+          "artist": "Soft Machine",
+          "album": "Alive & Well: Recorded in Paris",
+          "label": "Harvest"
+        },
+        {
+          "time": "2:14am",
+          "track": "The Sound Of Muzak",
+          "artist": "Porcupine Tree",
+          "album": "In Absentia",
+          "label": "Lava"
+        },
+        {
+          "time": "2:19am",
+          "track": "Garden Party",
+          "artist": "Marillion",
+          "album": "Script for a Jester's Tear",
+          "label": "EMI"
+        },
+        {
+          "time": "2:28am",
+          "track": "Hymn 43",
+          "artist": "Jethro Tull",
+          "album": "Aqualung",
+          "label": "Chrysalis"
+        },
+        {
+          "time": "2:32am",
+          "track": "The Dance of Maya",
+          "artist": "Mahavishnu Orchestra",
+          "album": "Inner Mounting Flame",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:40am",
+          "track": "Hero and Heroine",
+          "artist": "Strawbs",
+          "album": "Hero and Heroine",
+          "label": "A&M"
+        },
+        {
+          "time": "2:44am",
+          "track": "One Of These Days",
+          "artist": "Pink FLoyd",
+          "album": "Meddle",
+          "label": "Harvest"
+        },
+        {
+          "time": "2:50am",
+          "track": "Dimplicity",
+          "artist": "Triumvirant",
+          "album": "Illusions on a Double Dimple",
+          "label": "Harvest"
+        },
+        {
+          "time": "2:53am",
+          "track": "Release, Release",
+          "artist": "Yes",
+          "album": "Tormato",
+          "label": "Atlantic"
+        }
+      ]
+    },
+    {
+      "id": "62020",
+      "url": "https://xray.fm/broadcasts/62020",
+      "title": "Playing by Sense of Smell_Vol 33",
+      "air_date": "1-10-2025",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/dbs.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_33_01102025.mp3",
+      "track_count": 16,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Ghostwind",
+          "artist": "Steve Morse",
+          "album": "High Tension Wires",
+          "label": "MCA"
+        },
+        {
+          "time": "2:04am",
+          "track": "On The Loose",
+          "artist": "Saga",
+          "album": "Worlds Apart",
+          "label": "Portrait"
+        },
+        {
+          "time": "2:08am",
+          "track": "Spellbound",
+          "artist": "Siouxsie and the Banshees",
+          "album": "Juju",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:12am",
+          "track": "The Day I Tried To Live",
+          "artist": "Soundgarden",
+          "album": "Superunknown",
+          "label": "A&M"
+        },
+        {
+          "time": "2:17am",
+          "track": "Beautiful People",
+          "artist": "SuperHeavy",
+          "album": "SuperHeavy",
+          "label": "A&M"
+        },
+        {
+          "time": "2:25am",
+          "track": "Marijuana",
+          "artist": "Sly & Robbie",
+          "album": "This Is Crucial Reggae",
+          "label": "Trojan Records"
+        },
+        {
+          "time": "2:28am",
+          "track": "What's The Matter With You?",
+          "artist": "Split Enz",
+          "album": "True Colors",
+          "label": "A&M"
+        },
+        {
+          "time": "2:31am",
+          "track": "Diamondback Cadillac",
+          "artist": "Soho Vamp",
+          "album": "Siho Vamp",
+          "label": "Self released"
+        },
+        {
+          "time": "2:34am",
+          "track": "Gutter Strutter",
+          "artist": "Soho Vamp",
+          "album": "Soho Vamp",
+          "label": "Self released"
+        },
+        {
+          "time": "2:37am",
+          "track": "Leo",
+          "artist": "Slender",
+          "album": "Ya Hallo!",
+          "label": "self released"
+        },
+        {
+          "time": "2:41am",
+          "track": "Living A Lie",
+          "artist": "The dB's",
+          "album": "Repercussion",
+          "label": "Albion Records"
+        },
+        {
+          "time": "2:45am",
+          "track": "We Were Happy There",
+          "artist": "The dB's",
+          "album": "Repercussion",
+          "label": "Albion Records"
+        },
+        {
+          "time": "2:48am",
+          "track": "Happenstance",
+          "artist": "The dB's",
+          "album": "Repercussion",
+          "label": "Albion Records"
+        },
+        {
+          "time": "2:52am",
+          "track": "From A Window",
+          "artist": "The dB's",
+          "album": "Repercussion",
+          "label": "Albion Records"
+        },
+        {
+          "time": "2:55am",
+          "track": "Amplifer",
+          "artist": "The dB's",
+          "album": "Repercussion",
+          "label": "Albion Recoeds"
+        },
+        {
+          "time": "2:56am",
+          "track": "Ask For Jill",
+          "artist": "The dB's",
+          "album": "Repercussion",
+          "label": "Albion Records"
+        }
+      ]
+    },
+    {
+      "id": "61797",
+      "url": "https://xray.fm/broadcasts/61797",
+      "title": "Playing by Sense of Smell_Vol 32",
+      "air_date": "12-27-2024",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/IMG_3410.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_32_12272024.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "New Year's Prayer",
+          "artist": "Jeff Buckley",
+          "album": "Sketches For My Sweetheart The Drunk",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:06am",
+          "track": "Power Of Soul",
+          "artist": "Jimi Hendrix",
+          "album": "Band of Gypsys",
+          "label": "Polydor"
+        },
+        {
+          "time": "2:11am",
+          "track": "Message To Love",
+          "artist": "Jimi Hendrix",
+          "album": "Band of Gypsys",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:15am",
+          "track": "Now I Wanna Be A Good Boy",
+          "artist": "The Ramones",
+          "album": "It's Alive",
+          "label": "Sire"
+        },
+        {
+          "time": "2:17am",
+          "track": "Judy Is A Punk",
+          "artist": "The Ramones",
+          "album": "It's Alive",
+          "label": "Sire"
+        },
+        {
+          "time": "2:19am",
+          "track": "Suzy Is A Headbanger",
+          "artist": "The Ramones",
+          "album": "It's Alive",
+          "label": "Sire"
+        },
+        {
+          "time": "2:21am",
+          "track": "Let's Dance",
+          "artist": "The Ramones",
+          "album": "It's Alive",
+          "label": "Sire"
+        },
+        {
+          "time": "2:23am",
+          "track": "Oh Oh I Love Her So",
+          "artist": "The Ramones",
+          "album": "It's Alive",
+          "label": "Sire"
+        },
+        {
+          "time": "2:25am",
+          "track": "Now I wanna Sniff Some Glue",
+          "artist": "The Ramones",
+          "album": "It's Alive",
+          "label": "Sire"
+        },
+        {
+          "time": "2:30am",
+          "track": "We're A Happy Family",
+          "artist": "The Ramones",
+          "album": "It's Alive",
+          "label": "Sire"
+        },
+        {
+          "time": "2:33am",
+          "track": "Bad Little Doggie",
+          "artist": "Gov't Mule",
+          "album": "Mulennium",
+          "label": "Evit Teen"
+        },
+        {
+          "time": "2:37am",
+          "track": "21st Century Schizoid Man",
+          "artist": "Gov't Mule",
+          "album": "Mullenium",
+          "label": "Evil Teen"
+        },
+        {
+          "time": "2:44am",
+          "track": "We're Not Gonna Take It",
+          "artist": "Gov't Mule",
+          "album": "Mullenium",
+          "label": "Evil Teen"
+        },
+        {
+          "time": "2:48am",
+          "track": "Dazed And Confused",
+          "artist": "Gov't Mule",
+          "album": "Mullenium",
+          "label": "Evil Teen"
+        }
+      ]
+    },
+    {
+      "id": "61686",
+      "url": "https://xray.fm/broadcasts/61686",
+      "title": "Playing by Sense of Smell_Vol 31",
+      "air_date": "12-20-2024",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/12-days-of-xmas-record-store-day.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_31_12202024.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Linus and Lucy",
+          "artist": "Vince Guaraldi Trio",
+          "album": "A Charlie Brown Christmas",
+          "label": "Fantasy Records"
+        },
+        {
+          "time": "2:00am",
+          "track": "12 Days of Christmas",
+          "artist": "Bob & Doug McKenzie",
+          "album": "Great White North",
+          "label": "Mercury"
+        },
+        {
+          "time": "2:00am",
+          "track": "Christmas Night In Harlem",
+          "artist": "Louis Armstrong",
+          "album": "Louis Armstrong and his All Stars",
+          "label": "Decca"
+        },
+        {
+          "time": "2:00am",
+          "track": "I Believe In Father Christmas",
+          "artist": "Greg Lake",
+          "album": "single",
+          "label": "Manticore"
+        },
+        {
+          "time": "2:00am",
+          "track": "Christmas (Baby Please Come Home)",
+          "artist": "Darlene Love",
+          "album": "A Christmas Gift for You from Philles Records",
+          "label": "Philles"
+        },
+        {
+          "time": "2:00am",
+          "track": "Father Christmas",
+          "artist": "The Kinks",
+          "album": "single",
+          "label": "Arista"
+        },
+        {
+          "time": "2:00am",
+          "track": "Mele Kalikimaka (Hawaiian Christmas Song)",
+          "artist": "Bing Crosby & The Andrews Sisters",
+          "album": "White Christmas",
+          "label": "Universal"
+        },
+        {
+          "time": "2:00am",
+          "track": "Santa Claus Go Straght To The Ghetto",
+          "artist": "James Brown",
+          "album": "A Soulful Christmas",
+          "label": "King Records"
+        },
+        {
+          "time": "2:00am",
+          "track": "I'll Be Home for Christmas",
+          "artist": "The Carpenters",
+          "album": "A Christmas Portrait",
+          "label": "A&M"
+        },
+        {
+          "time": "2:00am",
+          "track": "Merry Christmas ( I don’t want to fight tonight)",
+          "artist": "The Ramones",
+          "album": "Brain Drain",
+          "label": "Sire Records"
+        },
+        {
+          "time": "2:00am",
+          "track": "White Christmas",
+          "artist": "Iggy Pop",
+          "album": "Single",
+          "label": "Virgin"
+        },
+        {
+          "time": "2:00am",
+          "track": "Ring Out Solstice Bells",
+          "artist": "Jethro Tull",
+          "album": "Song from the Wood",
+          "label": "Chrysalis"
+        },
+        {
+          "time": "2:00am",
+          "track": "Santa and his Old Lady",
+          "artist": "Cheech & Chong",
+          "album": "single",
+          "label": "Ode"
+        },
+        {
+          "time": "2:00am",
+          "track": "O Tannenbaum",
+          "artist": "Vince Guaraldi Trio",
+          "album": "A Charlie Brown Christmas",
+          "label": "Fantasy"
+        }
+      ]
+    },
+    {
+      "id": "61554",
+      "url": "https://xray.fm/broadcasts/61554",
+      "title": "Playing by Sense of Smell_Vol 30",
+      "air_date": "12-13-2024",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/Quadr.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_30_12132024.mp3",
+      "track_count": 15,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "I Want a Hippopotamus for Christmas",
+          "artist": "Gayle Peevey",
+          "album": "single",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:00am",
+          "track": "Whiskey River",
+          "artist": "Willie Nelson",
+          "album": "Shotgun Willie",
+          "label": "Atlantic Recording Corp."
+        },
+        {
+          "time": "2:00am",
+          "track": "Cocaine Blues",
+          "artist": "Johnny Cash",
+          "album": "At Folsom Prison",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:00am",
+          "track": "Wild Wood",
+          "artist": "Paul Weller",
+          "album": "Days of Speed",
+          "label": "Independiente"
+        },
+        {
+          "time": "2:00am",
+          "track": "Jailhouse Rock",
+          "artist": "Elvis Presley",
+          "album": "single",
+          "label": "RCA Victor"
+        },
+        {
+          "time": "2:00am",
+          "track": "The Power Of Positive Drinking",
+          "artist": "Lou Reed",
+          "album": "Growing Up In Public",
+          "label": "Arista"
+        },
+        {
+          "time": "2:00am",
+          "track": "I Got a Woman",
+          "artist": "Ray Charles",
+          "album": "Ray Charles",
+          "label": "Atlantic"
+        },
+        {
+          "time": "2:00am",
+          "track": "Move Over Let Me Dance, Part 1",
+          "artist": "Isley Brothers w/ Jimi Hendrix",
+          "album": "In The Beginning",
+          "label": "Sony"
+        },
+        {
+          "time": "2:00am",
+          "track": "Me And Bobby McGee",
+          "artist": "Kris Kristofferson",
+          "album": "Live from Austin Texas",
+          "label": "New West"
+        },
+        {
+          "time": "2:00am",
+          "track": "Struggle",
+          "artist": "Keith Richards",
+          "album": "Talk Is Cheap",
+          "label": "Virgin"
+        },
+        {
+          "time": "2:00am",
+          "track": "December 1963 (Oh, What a Night)",
+          "artist": "Frankie Vallie and the Four Season",
+          "album": "single",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:00am",
+          "track": "5:15",
+          "artist": "The Who",
+          "album": "Quadrophenia",
+          "label": "MCA"
+        },
+        {
+          "time": "2:00am",
+          "track": "Sea and Sand",
+          "artist": "The Who",
+          "album": "Quadrophenia",
+          "label": "MCA"
+        },
+        {
+          "time": "2:00am",
+          "track": "Drowned",
+          "artist": "The Who",
+          "album": "Quadrophenia",
+          "label": "MCA"
+        },
+        {
+          "time": "2:00am",
+          "track": "Bell Boy",
+          "artist": "The Who",
+          "album": "Quadrophenia",
+          "label": "MCA"
+        }
+      ]
+    },
+    {
+      "id": "61426",
+      "url": "https://xray.fm/broadcasts/61426",
+      "title": "Playing by Sense of Smell_Vol 29",
+      "air_date": "12-6-2024",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/fearless.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_29_12062024.mp3",
+      "track_count": 14,
+      "tracks": [
+        {
+          "time": "12:00am",
+          "track": "Motorbikin' (session take)",
+          "artist": "Billy Idol",
+          "album": "Rebel Yell",
+          "label": "Chrysalis"
+        },
+        {
+          "time": "2:02am",
+          "track": "C30 C60 C90 Go!",
+          "artist": "Bow Wow Wow",
+          "album": "single",
+          "label": "EMI"
+        },
+        {
+          "time": "2:05am",
+          "track": "Skidmarks On My Heart",
+          "artist": "Go Go's",
+          "album": "Beauty and the Beat",
+          "label": "IRS"
+        },
+        {
+          "time": "2:08am",
+          "track": "Speed Racer",
+          "artist": "Devo",
+          "album": "Oh No! It's DEVO!",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:16am",
+          "track": "Little Guns",
+          "artist": "Oingo Boingo",
+          "album": "Good For Your Soul",
+          "label": "UMG"
+        },
+        {
+          "time": "2:20am",
+          "track": "(Lets all go to) The Fire Dances",
+          "artist": "Killing Joke",
+          "album": "Fire Dances",
+          "label": "EMG"
+        },
+        {
+          "time": "2:26am",
+          "track": "Four Little Diamonds",
+          "artist": "Electric Light Orchestra",
+          "album": "Secret Messages",
+          "label": "Jet Records"
+        },
+        {
+          "time": "2:30am",
+          "track": "Radio Free Europe",
+          "artist": "R.E.M.",
+          "album": "Murmur",
+          "label": "IRS"
+        },
+        {
+          "time": "2:33am",
+          "track": "Silent Love",
+          "artist": "Nina Hagen",
+          "album": "Fearless",
+          "label": "CBS"
+        },
+        {
+          "time": "2:38am",
+          "track": "What It Is",
+          "artist": "Nina Hagen",
+          "album": "Fearless",
+          "label": "CBS"
+        },
+        {
+          "time": "2:42am",
+          "track": "T.V. Snooze",
+          "artist": "Nina Hagen",
+          "album": "Fearless",
+          "label": "CBS"
+        },
+        {
+          "time": "2:46am",
+          "track": "Springtime in Paris",
+          "artist": "Nina Hagen",
+          "album": "Fearless",
+          "label": "CBS"
+        },
+        {
+          "time": "2:47am",
+          "track": "Zarah",
+          "artist": "Nina Hagen",
+          "album": "Fearless",
+          "label": "CBS"
+        },
+        {
+          "time": "2:53am",
+          "track": "New York New York",
+          "artist": "Nina Hagen",
+          "album": "Fearless",
+          "label": "CBS"
+        }
+      ]
+    },
+    {
+      "id": "61325",
+      "url": "https://xray.fm/broadcasts/61325",
+      "title": "Playing by Sense of Smell_Vol 28",
+      "air_date": "11-29-2024",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/uk_lp_cover.jpg",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_28_11292024.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "2:02am",
+          "track": "Sheltering Sky",
+          "artist": "King Crimson",
+          "album": "Discipline",
+          "label": "EG"
+        },
+        {
+          "time": "2:11am",
+          "track": "Knife and Fork",
+          "artist": "Stan Ridgway",
+          "album": "Black Diamond",
+          "label": "Birdcage"
+        },
+        {
+          "time": "2:15am",
+          "track": "Saint Joe on the School bus",
+          "artist": "Marcy Playground",
+          "album": "Marcy Playground",
+          "label": "Capitol"
+        },
+        {
+          "time": "2:18am",
+          "track": "Bales of Cocaine",
+          "artist": "Reverend Horton Heat",
+          "album": "Full Custom Gospel Sounds",
+          "label": "Sub Pop"
+        },
+        {
+          "time": "2:21am",
+          "track": "Mr. Wright",
+          "artist": "The Lennon Claypool Delirium",
+          "album": "The Monolith of Phobos",
+          "label": "ATO"
+        },
+        {
+          "time": "2:25am",
+          "track": "Bowtie (feat. Sleepy Brown & Jazze Pha)",
+          "artist": "OutKast",
+          "album": "Speakerboxx/The Love Below",
+          "label": "Arista"
+        },
+        {
+          "time": "2:29am",
+          "track": "Lime Green Sweater",
+          "artist": "The Negro Problem",
+          "album": "Welcome Black",
+          "label": "Smile"
+        },
+        {
+          "time": "2:33am",
+          "track": "Alaska",
+          "artist": "U.K.",
+          "album": "U.K.",
+          "label": "E.G."
+        },
+        {
+          "time": "2:38am",
+          "track": "Time to Kill",
+          "artist": "U,K,",
+          "album": "U,K,",
+          "label": "E,G,"
+        },
+        {
+          "time": "2:42am",
+          "track": "Nevermore",
+          "artist": "U.K.",
+          "album": "U.K.",
+          "label": "E.G,"
+        },
+        {
+          "time": "2:52am",
+          "track": "Mental Medication",
+          "artist": "U.K.",
+          "album": "U.K.",
+          "label": "E.G."
+        }
+      ]
+    },
+    {
+      "id": "61193",
+      "url": "https://xray.fm/broadcasts/61193",
+      "title": "Playing by Sense of Smell_Vol 27",
+      "air_date": "11-22-2024",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_27_11222024.mp3",
+      "track_count": 9,
+      "tracks": [
+        {
+          "time": "2:02am",
+          "track": "Viscera Eyes",
+          "artist": "Mars Volta",
+          "album": "Amputechture",
+          "label": "Gold Standard"
+        },
+        {
+          "time": "2:12am",
+          "track": "Several Species Of Small Furry Animals Gathered Together In A Cave And Grooving With A Pict",
+          "artist": "Pink Floyd",
+          "album": "UmmaGumma",
+          "label": "Haarvest"
+        },
+        {
+          "time": "2:17am",
+          "track": "Mediterranean Sundance/Río Ancho",
+          "artist": "Al DiMeola, John McLaughlin and Paco DeLucia",
+          "album": "Friday Night In San Francisco",
+          "label": "Philips"
+        },
+        {
+          "time": "2:29am",
+          "track": "The Black Page #1",
+          "artist": "Frank Zappa",
+          "album": "single",
+          "label": "Barking Dog Records"
+        },
+        {
+          "time": "2:30am",
+          "track": "Nazi Punks Fuck Off",
+          "artist": "Dead Kennedy's",
+          "album": "In God We Trust",
+          "label": "Alternative Tentacles"
+        },
+        {
+          "time": "2:36am",
+          "track": "San Jacinto",
+          "artist": "Peter Gabriel",
+          "album": "Plays Live",
+          "label": "Geffen"
+        },
+        {
+          "time": "2:44am",
+          "track": "Solsbury Hill",
+          "artist": "Peter Gabriel",
+          "album": "Plays Live",
+          "label": "Geffen"
+        },
+        {
+          "time": "2:48am",
+          "track": "No Self Control",
+          "artist": "Peter Gabriel",
+          "album": "Plays Live",
+          "label": "Geffen"
+        },
+        {
+          "time": "2:54am",
+          "track": "I Don't Remember",
+          "artist": "Peter Gabriel",
+          "album": "Plays Live",
+          "label": "Geffen"
+        }
+      ]
+    },
+    {
+      "id": "61072",
+      "url": "https://xray.fm/broadcasts/61072",
+      "title": "Playing by Sense of Smell_Vol 26",
+      "air_date": "11-15-2024",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_26_11152024.mp3",
+      "track_count": 13,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Indian Lake",
+          "artist": "The Cowsills",
+          "album": "(single)",
+          "label": "MGM"
+        },
+        {
+          "time": "2:04am",
+          "track": "Don't Do It",
+          "artist": "The Band",
+          "album": "Rock Of Ages",
+          "label": "Capitol"
+        },
+        {
+          "time": "2:09am",
+          "track": "I'm In Touch With Your World",
+          "artist": "The Cars",
+          "album": "The Cars",
+          "label": "Elektra"
+        },
+        {
+          "time": "2:13am",
+          "track": "Sunday Morning",
+          "artist": "Maroon 5",
+          "album": "Songs About Jane",
+          "label": "Octone"
+        },
+        {
+          "time": "2:17am",
+          "track": "The Golden State",
+          "artist": "John Doe",
+          "album": "A Year In The Wilderness",
+          "label": "Yep Roc"
+        },
+        {
+          "time": "2:20am",
+          "track": "Funkify Your Life",
+          "artist": "The Meters",
+          "album": "New Directions",
+          "label": "Warner Bros"
+        },
+        {
+          "time": "2:26am",
+          "track": "Gone, Gone, Gone",
+          "artist": "Bad Company",
+          "album": "Desolation Angels",
+          "label": "Swan Song"
+        },
+        {
+          "time": "2:30am",
+          "track": "Washing Of The Water",
+          "artist": "Peter Gabriel",
+          "album": "Secret World Live",
+          "label": "Geffen"
+        },
+        {
+          "time": "2:32am",
+          "track": "Smash It Up (Parts 1 & 2)",
+          "artist": "The Damned",
+          "album": "The Best Of The Damned",
+          "label": "Chiswhick"
+        },
+        {
+          "time": "2:34am",
+          "track": "Plan 9 Channel 7",
+          "artist": "The Damned",
+          "album": "The Best Of The Damned",
+          "label": "Chiswhick"
+        },
+        {
+          "time": "2:40am",
+          "track": "Rabid (Over You)",
+          "artist": "The Damned",
+          "album": "The Best Of The Damned",
+          "label": "Chiswhick"
+        },
+        {
+          "time": "2:44am",
+          "track": "Wait For The Blackout",
+          "artist": "The Damned",
+          "album": "The Best Of The Damned",
+          "label": "Chiswhick"
+        },
+        {
+          "time": "2:52am",
+          "track": "History Of The World (Part 1)",
+          "artist": "The Damned",
+          "album": "The Best Of The Damned",
+          "label": "Chiswhick"
+        }
+      ]
+    },
+    {
+      "id": "60954",
+      "url": "https://xray.fm/broadcasts/60954",
+      "title": "Playing by Sense of Smell_Vol 25",
+      "air_date": "11-8-2024",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_25_11082024.mp3",
+      "track_count": 12,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Keep Your Eye on the Sparrow",
+          "artist": "Rhythm Heritage",
+          "album": "single",
+          "label": "ABC"
+        },
+        {
+          "time": "2:05am",
+          "track": "Would?",
+          "artist": "Alice In Chains",
+          "album": "MTV Unplugged In New York",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:09am",
+          "track": "5 01 AM (The Pros And Cons Of Hitch Hiking, Part 10)",
+          "artist": "Roger Waters",
+          "album": "The Pros and Cons of Hitchhiking",
+          "label": "Harvest"
+        },
+        {
+          "time": "2:15am",
+          "track": "Gin and Juice",
+          "artist": "Snoop Dogg",
+          "album": "Doggystyle",
+          "label": "Death Row"
+        },
+        {
+          "time": "2:19am",
+          "track": "R U Mine",
+          "artist": "Arctic Monkeys",
+          "album": "AM",
+          "label": "Domino"
+        },
+        {
+          "time": "2:23am",
+          "track": "My Way",
+          "artist": "Sid Vicious",
+          "album": "Sid Sings",
+          "label": "Virgin"
+        },
+        {
+          "time": "2:27am",
+          "track": "Larks' Tongue In Aspic (part 1)",
+          "artist": "King Crimson",
+          "album": "Larks' Tongue In Aspic",
+          "label": "Island"
+        },
+        {
+          "time": "2:41am",
+          "track": "Dream On",
+          "artist": "Aerosmith",
+          "album": "Live! Bootleg",
+          "label": "CBS"
+        },
+        {
+          "time": "2:46am",
+          "track": "Chip Away The Stone",
+          "artist": "Aerosmith",
+          "album": "Live! Bootleg",
+          "label": "CBS"
+        },
+        {
+          "time": "2:50am",
+          "track": "Sight Fpr Sore Eyes",
+          "artist": "Aerosmith",
+          "album": "Live! Bootleg",
+          "label": "CBS"
+        },
+        {
+          "time": "2:53am",
+          "track": "Mama Kin",
+          "artist": "Aerosmith",
+          "album": "Live! Bootleg",
+          "label": "CBS"
+        },
+        {
+          "time": "2:57am",
+          "track": "S.O.S.",
+          "artist": "Aerosmith",
+          "album": "Live! Bootleg",
+          "label": "CBS"
+        }
+      ]
+    },
+    {
+      "id": "60850",
+      "url": "https://xray.fm/broadcasts/60850",
+      "title": "Playing by Sense of Smell_Vol 24",
+      "air_date": "11-1-2024",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_24_11012024.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "2:00am",
+          "track": "Call It Stormy Monday",
+          "artist": "Albert King with Stevie Ray Vaughan",
+          "album": "In Session",
+          "label": "Stax"
+        },
+        {
+          "time": "2:10am",
+          "track": "Killing Floor",
+          "artist": "Howlin' Wolf",
+          "album": "The London Howlin' Wolf Sessions",
+          "label": "Chess"
+        },
+        {
+          "time": "2:16am",
+          "track": "Red House",
+          "artist": "The Jimi Hendrix Experience",
+          "album": "San Francisco 1968-2-04",
+          "label": "Dagger Records"
+        },
+        {
+          "time": "2:22am",
+          "track": "Key To The Highway",
+          "artist": "Sonny Landreth",
+          "album": "Bound by the Blues",
+          "label": "Mascot Label Group"
+        },
+        {
+          "time": "2:27am",
+          "track": "Smokestack",
+          "artist": "Doyle Bramhall II and Smokestack",
+          "album": "Welcome",
+          "label": "RCA"
+        },
+        {
+          "time": "2:28am",
+          "track": "Changes",
+          "artist": "David Bowie",
+          "album": "Ziggy Stardust: The Motion Picture",
+          "label": "RCA"
+        },
+        {
+          "time": "2:34am",
+          "track": "Lets Spend The Night Together",
+          "artist": "David Bowie",
+          "album": "Ziggy Stardust: The Motion Picture",
+          "label": "RCA"
+        },
+        {
+          "time": "2:38am",
+          "track": "Suffragette City",
+          "artist": "David Bowie",
+          "album": "Ziggy Stardust: The Motion Picture",
+          "label": "RCA"
+        },
+        {
+          "time": "2:42am",
+          "track": "White Light / White Heat",
+          "artist": "David Bowie",
+          "album": "Ziggy Stardust: The Motion Picture",
+          "label": "RCA"
+        },
+        {
+          "time": "2:50am",
+          "track": "Rock n Roll Suicide",
+          "artist": "David Bowie",
+          "album": "Ziggy Stardust: The Motion Picture",
+          "label": "RCA"
+        }
+      ]
+    },
+    {
+      "id": "60725",
+      "url": "https://xray.fm/broadcasts/60725",
+      "title": "Playing by Sense of Smell_Vol 23",
+      "air_date": "10-25-2024",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_23_10252024.mp3",
+      "track_count": 10,
+      "tracks": [
+        {
+          "time": "2:04am",
+          "track": "Sammy",
+          "artist": "Fetchin Bones",
+          "album": "Galaxy 500",
+          "label": "Capitol"
+        },
+        {
+          "time": "2:06am",
+          "track": "Blinded by the Light",
+          "artist": "Manfred Mann's Earth Band",
+          "album": "The Roaring Silence",
+          "label": "Bronze"
+        },
+        {
+          "time": "2:13am",
+          "track": "Walking in LA",
+          "artist": "Missing Persons",
+          "album": "Spring Session M",
+          "label": "Capitol"
+        },
+        {
+          "time": "2:17am",
+          "track": "Dumb Waiters",
+          "artist": "The Psychadelic Furs",
+          "album": "TalkTalk Talk",
+          "label": "Columbia"
+        },
+        {
+          "time": "2:23am",
+          "track": "History Song",
+          "artist": "The Good, the Bad & the Queen",
+          "album": "The Good, the Bad & the Queen",
+          "label": "Virgin"
+        },
+        {
+          "time": "2:27am",
+          "track": "Magazin",
+          "artist": "White Denim",
+          "album": "Performance",
+          "label": "City Slang"
+        },
+        {
+          "time": "2:31am",
+          "track": "Tennessee",
+          "artist": "Arrested Development",
+          "album": "3 Years, 5 Months and 2 Days in the Life Of...",
+          "label": "Chrysalis"
+        },
+        {
+          "time": "2:35am",
+          "track": "Darkness/Earth in Search of a Sun",
+          "artist": "Jeff Beck",
+          "album": "Jeff Beck with the Jan Hammer Group Live",
+          "label": "Epis"
+        },
+        {
+          "time": "2:43am",
+          "track": "Scatterbrain",
+          "artist": "Jeff Beck",
+          "album": "Jeff Beck with the Jan Hammer Group Live",
+          "label": "Epic"
+        },
+        {
+          "time": "2:52am",
+          "track": "Blue Wind",
+          "artist": "Jeff Beck",
+          "album": "Jeff Beck with the Jan Hammer Group Live",
+          "label": "Epic"
+        }
+      ]
+    },
+    {
+      "id": "60557",
+      "url": "https://xray.fm/broadcasts/60557",
+      "title": "Playing by Sense of Smell_Vol 22",
+      "air_date": "10-18-2024",
+      "air_time": "2:00am",
+      "image": "https://cdn.xray.fm/image/medium/",
+      "audio_url": "https://cdn.xray.fm/audio/playing-by-sense-of-smell/PbSoS_Vol_22_10182024.mp3",
+      "track_count": 11,
+      "tracks": [
+        {
+          "time": "2:01am",
+          "track": "Out of the City (Into Country Life)",
+          "artist": "Allen Toussaint",
+          "album": "Life, Love and Faith",
+          "label": "Reprise Records"
+        },
+        {
+          "time": "2:05am",
+          "track": "I Zimbra",
+          "artist": "Talking Heads",
+          "album": "The Name of this Band is Talking Heads",
+          "label": "Sire"
+        },
+        {
+          "time": "2:09am",
+          "track": "Drugs",
+          "artist": "Talking Heads",
+          "album": "The Name of the Band is Talking Heads",
+          "label": "Sire"
+        },
+        {
+          "time": "2:14am",
+          "track": "Houses In Motion",
+          "artist": "Talking Heads",
+          "album": "The Name of the Band is Talking Heads",
+          "label": "Sire"
+        },
+        {
+          "time": "2:22am",
+          "track": "Life During Wartime",
+          "artist": "Talking Heads",
+          "album": "The Name of the Band is Talking Heads",
+          "label": "Sire"
+        },
+        {
+          "time": "2:27am",
+          "track": "Tennessee Jed",
+          "artist": "Grateful Dead",
+          "album": "30 Trips Around the Sun",
+          "label": "Grateful Dead Productions"
+        },
+        {
+          "time": "2:35am",
+          "track": "Riot",
+          "artist": "Dead Kennedys",
+          "album": "Plastic Surgery Disasters",
+          "label": "Alternative Tentacles"
+        },
+        {
+          "time": "2:41am",
+          "track": "Bleed For Me",
+          "artist": "Dead Kennedys",
+          "album": "Plastic Surgery Disasters",
+          "label": "Alternative Tentacles"
+        },
+        {
+          "time": "2:44am",
+          "track": "I Am The Owl",
+          "artist": "Dead Kennedys",
+          "album": "Plastic Surgery Disasters",
+          "label": "Alternative Tentacles"
+        },
+        {
+          "time": "2:50am",
+          "track": "Dead End",
+          "artist": "Dead Kennedys",
+          "album": "Plastic Surgery Disasters",
+          "label": "Alternative Tentacles"
+        },
+        {
+          "time": "2:54am",
+          "track": "Mon Over Marin",
+          "artist": "Dead Kennedy's",
+          "album": "Plastic Surgery Disasters",
+          "label": "Alternative Tentacles"
+        }
+      ]
+    }
+  ]
+}
