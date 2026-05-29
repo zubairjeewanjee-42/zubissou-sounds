@@ -2383,14 +2383,10 @@ html[data-mode="night"] .knob-auto-dot { color: rgba(120, 200, 150, 0.85); }
 .knob:active { cursor: grabbing; }
 .knob:hover { transform: translateY(-1px); }
 
-/* ===== Knob state glows — green = AUTO (untouched), red = TOUCHED (user-dialed) =====
-   Reads like a hi-fi tape deck: a green pilot lamp when the channel's on automatic,
-   a red one when the operator's taken the wheel. */
+/* ===== Knob state — red glow ONLY when touched. AUTO stays clean. =====
+   The room idles quietly; the lamp only lights when the operator takes the wheel. */
 .knob {
-  box-shadow:
-    2px 4px 0 rgba(0, 0, 0, 0.12),
-    0 0 0 2px rgba(76, 175, 88, 0.55),
-    0 0 8px rgba(76, 175, 88, 0.35);
+  box-shadow: 2px 4px 0 rgba(0, 0, 0, 0.12);
 }
 .knob.touched {
   box-shadow:
@@ -2399,33 +2395,13 @@ html[data-mode="night"] .knob-auto-dot { color: rgba(120, 200, 150, 0.85); }
     0 0 10px rgba(216, 56, 50, 0.55);
 }
 html[data-mode="night"] .knob {
-  box-shadow:
-    2px 4px 0 rgba(0, 0, 0, 0.45),
-    0 0 0 2px rgba(76, 175, 88, 0.70),
-    0 0 12px rgba(76, 175, 88, 0.55);
+  box-shadow: 2px 4px 0 rgba(0, 0, 0, 0.45);
 }
 html[data-mode="night"] .knob.touched {
   box-shadow:
     2px 4px 0 rgba(0, 0, 0, 0.45),
     0 0 0 2px rgba(232, 88, 80, 0.95),
     0 0 14px rgba(232, 88, 80, 0.70);
-}
-@media (prefers-reduced-motion: no-preference) {
-  /* Soft breathing pulse on AUTO so it reads "the room is listening" */
-  .knob:not(.touched) {
-    animation: knobAutoBreathe 3.6s ease-in-out infinite;
-  }
-}
-@keyframes knobAutoBreathe {
-  0%, 100% { box-shadow: 2px 4px 0 rgba(0, 0, 0, 0.12), 0 0 0 2px rgba(76, 175, 88, 0.55), 0 0 8px rgba(76, 175, 88, 0.35); }
-  50%      { box-shadow: 2px 4px 0 rgba(0, 0, 0, 0.12), 0 0 0 2px rgba(76, 175, 88, 0.70), 0 0 12px rgba(76, 175, 88, 0.55); }
-}
-html[data-mode="night"] .knob:not(.touched) {
-  animation-name: knobAutoBreatheNight;
-}
-@keyframes knobAutoBreatheNight {
-  0%, 100% { box-shadow: 2px 4px 0 rgba(0,0,0,0.45), 0 0 0 2px rgba(76, 175, 88, 0.70), 0 0 12px rgba(76, 175, 88, 0.55); }
-  50%      { box-shadow: 2px 4px 0 rgba(0,0,0,0.45), 0 0 0 2px rgba(76, 175, 88, 0.85), 0 0 18px rgba(76, 175, 88, 0.75); }
 }
 
 /* Single crescent highlight on the top-left — flat illustrative */
@@ -5370,9 +5346,12 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
         </div>
       </div>
       <div class="colophon-coda">
-        <em>Music means something here.</em> Treat the station like a hi-fi you respect:
-        take time to dial in, listen on good speakers, sit with one album before moving to the next.
-        &nbsp;—&nbsp;<strong>Z.</strong>
+        <em>"Music can lift us out of depression or move us to tears. It is a remedy, a tonic, orange juice for the ear.
+        But for many of my neurological patients, music is even more — it can provide access, even when no medication can,
+        to movement, to speech, to life itself. For them, music is not a luxury, but a necessity."</em>
+        <div style="margin-top:8px; font-family: 'IBM Plex Mono', monospace; font-size: 10.5px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--brass-deep);">
+          — Oliver Sacks · Musicophilia
+        </div>
       </div>
     </section>
 
@@ -5459,7 +5438,15 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
       <p>Your DJ-curator voice. In Phase 2 they speak between tracks — short interludes about song meaning, where the artist is from, why a piece was chosen. ElevenLabs synthesis, voice trained on a personal corpus. For now they write — the line below the play button is theirs.</p>
 
       <h3>Coda</h3>
-      <p>Music means something here. Treat the station like a hi-fi you respect: take time to dial in, listen on good speakers, sit with one album before moving to the next. <em>—&nbsp;Z.</em></p>
+      <p style="font-family: 'Lora', serif; font-style: italic; font-size: 14px; line-height: 1.65; border-left: 2px solid var(--amber-deep); padding-left: 14px; color: var(--ink-soft);">
+        "Music can lift us out of depression or move us to tears. It is a remedy, a tonic, orange juice for the ear.
+        But for many of my neurological patients, music is even more — it can provide access, even when no medication can,
+        to movement, to speech, to life itself. For them, music is not a luxury, but a necessity."
+        <br><br>
+        <span style="font-family: 'IBM Plex Mono', monospace; font-style: normal; font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--brass-deep);">
+          — Oliver Sacks · Musicophilia
+        </span>
+      </p>
     </div>
   </div>
 
