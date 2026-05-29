@@ -3,14 +3,59 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-<meta name="theme-color" content="#FAFAF7">
-<title>Zubissou Sounds — The Listening Station</title>
+<meta name="theme-color" content="#FAFAF7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1A0F08" media="(prefers-color-scheme: dark)">
+
+<!-- ===== PRIMARY META ===== -->
+<title>Zubissou Sounds · The Listening Station — by Zubair Jeewanjee</title>
+<meta name="description" content="A private listening room for the always-on era. Seven-knob taste console, top-100 vinyl canon, fingerprint analytics across Aquarium Drunkard / Derrick Gee / XRAY.fm, and a Spotify-connected playback layer. Built by Zubair Jeewanjee.">
+<meta name="author" content="Zubair Jeewanjee">
+<meta name="keywords" content="Zubissou Sounds, Zubair Jeewanjee, music dashboard, listening station, Aquarium Drunkard, vinyl canon, Spotify, personal capstone, hi-fi UI, kissa, Wes Anderson UI, music data app">
+<link rel="canonical" href="https://zubissou-sounds.pages.dev/">
+
+<!-- ===== FAVICON · inline SVG, no external file ===== -->
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%231A0F08'/><circle cx='32' cy='32' r='22' fill='none' stroke='%23E66A1F' stroke-width='2.5'/><circle cx='32' cy='32' r='14' fill='none' stroke='%23E66A1F' stroke-width='1.2' opacity='0.7'/><circle cx='32' cy='32' r='6.5' fill='%23E66A1F'/><circle cx='32' cy='32' r='1.6' fill='%231A0F08'/><text x='32' y='58' text-anchor='middle' font-family='Antonio, sans-serif' font-size='7' font-weight='700' fill='%23E8D9B5' letter-spacing='1.5'>ZS</text></svg>">
+<link rel="apple-touch-icon" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect width='180' height='180' rx='36' fill='%231A0F08'/><circle cx='90' cy='90' r='64' fill='none' stroke='%23E66A1F' stroke-width='5'/><circle cx='90' cy='90' r='40' fill='none' stroke='%23E66A1F' stroke-width='2' opacity='0.7'/><circle cx='90' cy='90' r='18' fill='%23E66A1F'/><circle cx='90' cy='90' r='4' fill='%231A0F08'/></svg>">
+
+<!-- ===== OPEN GRAPH ===== -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Zubissou Sounds">
+<meta property="og:title" content="Zubissou Sounds · The Listening Station">
+<meta property="og:description" content="A private listening room for the always-on era. Seven-knob taste console, top-100 vinyl canon, fingerprint analytics across Aquarium Drunkard / Derrick Gee / XRAY.fm. Built by Zubair Jeewanjee.">
+<meta property="og:url" content="https://zubissou-sounds.pages.dev/">
+<meta property="og:locale" content="en_US">
+
+<!-- ===== TWITTER CARD ===== -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Zubissou Sounds · The Listening Station">
+<meta name="twitter:description" content="A private listening room — seven-knob taste console, top-100 vinyl canon, fingerprint analytics, Spotify-connected. Built by Zubair Jeewanjee.">
+<meta name="twitter:creator" content="@zubairjeewanjee">
+
+<!-- ===== JSON-LD · Creative Work ===== -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Zubissou Sounds — The Listening Station",
+  "alternateName": "Zubissou Sounds",
+  "description": "A private listening room for the always-on era. A seven-knob taste console, a top-100 vinyl canon, fingerprint analytics across trusted curators, and a Spotify-connected playback layer.",
+  "url": "https://zubissou-sounds.pages.dev/",
+  "creator": {
+    "@type": "Person",
+    "name": "Zubair Jeewanjee",
+    "url": "https://github.com/zubairjeewanjee-42"
+  },
+  "datePublished": "2026-05-26",
+  "genre": ["music", "personal-software", "data-visualization", "dashboard"],
+  "keywords": "music dashboard, listening station, vinyl canon, Spotify, Aquarium Drunkard, taste console"
+}
+</script>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@300;400;500;600&family=Bebas+Neue&family=Big+Shoulders+Display:wght@400;500;700;800;900&family=Lora:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500;600&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-<script src="https://sdk.scdn.co/spotify-player.js"></script>
 <script src="https://sdk.scdn.co/spotify-player.js"></script>
 <style>
 /* ========================================================================
@@ -1649,6 +1694,18 @@ html[data-mode="night"] .speaker-dust-cap {
   margin: 0 auto 16px;
 }
 html[data-mode="night"] .console-subtitle { color: rgba(232, 217, 181, 0.7); }
+.console-byline {
+  font-family: 'Big Shoulders Display', 'Antonio', sans-serif;
+  font-weight: 700;
+  font-size: 9px;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  text-align: center;
+  color: var(--brass-deep);
+  opacity: 0.85;
+  margin: -8px auto 14px;
+}
+html[data-mode="night"] .console-byline { color: rgba(255, 200, 120, 0.7); }
 .console-builtby {
   font-family: 'Big Shoulders Display', 'Antonio', sans-serif;
   font-weight: 800;
@@ -2599,41 +2656,91 @@ html[data-mode="night"] .vol-fader {
 .console-message:empty { opacity: 0; min-height: 0; margin: 0 auto; }
 html[data-mode="night"] .console-message { color: rgba(232, 217, 181, 0.7); }
 
-/* ===== MODE TOGGLE — Records / Sets ===== */
+/* ===== MODE TOGGLE — Records / Sets (compact console-lamp) =====
+   Single hi-fi indicator. One LED that runs cool (RECORDS, green) or hot (SETS, red).
+   Click anywhere on the body to flip. Lives inline with the intent bar row. */
 .mode-toggle {
-  display: flex;
-  gap: 0;
-  width: fit-content;
-  margin: 0 auto 12px;
+  display: inline-flex; align-items: center; gap: 7px;
   background: rgba(0,0,0,0.10);
-  border: 1px solid rgba(0,0,0,0.18);
-  border-radius: 22px;
-  padding: 3px;
-}
-.mode-tab {
+  border: 1px solid rgba(0,0,0,0.16);
+  border-radius: 6px;
+  padding: 4px 9px 4px 8px;
+  cursor: pointer;
   font-family: 'Big Shoulders Display', 'Antonio', sans-serif;
-  font-weight: 700;
-  font-size: 11px;
-  letter-spacing: 0.22em;
+  font-weight: 800;
+  font-size: 9px;
+  letter-spacing: 0.28em;
+  text-transform: uppercase;
   color: var(--walnut-soft);
-  background: transparent;
-  border: none; cursor: pointer;
-  padding: 6px 16px;
-  border-radius: 18px;
+  user-select: none;
   transition: background 200ms ease, color 200ms ease, transform 60ms ease;
 }
-.mode-tab:hover { color: var(--walnut); }
-.mode-tab:active { transform: scale(0.97); transition-duration: 30ms; }
-.mode-tab.active {
-  background: linear-gradient(180deg, var(--amber-soft) 0%, var(--amber) 60%, var(--amber-deep) 100%);
-  color: #1A0F08;
-  box-shadow:
-    inset 0 1px 1px rgba(255, 220, 170, 0.55),
-    0 2px 6px rgba(184, 80, 21, 0.32);
+.mode-toggle:hover { color: var(--walnut); background: rgba(0,0,0,0.14); }
+.mode-toggle:active { transform: scale(0.97); transition-duration: 30ms; }
+.mode-led {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: #2D5A3A;
+  box-shadow: 0 0 4px rgba(76, 175, 88, 0.6), inset 0 0 2px rgba(0,0,0,0.4);
+  transition: background 220ms ease, box-shadow 220ms ease;
 }
-html[data-mode="night"] .mode-toggle { background: rgba(0,0,0,0.32); border-color: rgba(255,200,120,0.18); }
-html[data-mode="night"] .mode-tab { color: rgba(232, 217, 181, 0.65); }
-html[data-mode="night"] .mode-tab:hover { color: var(--vu-cream); }
+.mode-toggle[data-mode="records"] .mode-led {
+  background: #4CAF58;
+  box-shadow: 0 0 6px rgba(76, 175, 88, 0.85), inset 0 0 2px rgba(0,0,0,0.3);
+}
+.mode-toggle[data-mode="sets"] {
+  color: var(--amber-deep);
+}
+.mode-toggle[data-mode="sets"] .mode-led {
+  background: #E66A1F;
+  box-shadow: 0 0 8px rgba(230, 106, 31, 0.9), inset 0 0 2px rgba(0,0,0,0.3);
+  animation: modePulse 1.6s ease-in-out infinite;
+}
+@keyframes modePulse {
+  0%, 100% { box-shadow: 0 0 6px rgba(230, 106, 31, 0.7), inset 0 0 2px rgba(0,0,0,0.3); }
+  50%      { box-shadow: 0 0 11px rgba(230, 106, 31, 1), inset 0 0 2px rgba(0,0,0,0.3); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .mode-toggle[data-mode="sets"] .mode-led { animation: none; }
+}
+html[data-mode="night"] .mode-toggle { background: rgba(0,0,0,0.32); border-color: rgba(255,200,120,0.18); color: rgba(232, 217, 181, 0.7); }
+html[data-mode="night"] .mode-toggle:hover { color: var(--vu-cream); }
+
+/* Wrapper row — mode toggle + dialed pill, sit above the action row */
+.mode-row {
+  display: flex; align-items: center; justify-content: center;
+  gap: 12px; flex-wrap: wrap;
+  margin: 0 auto 10px;
+}
+
+/* DIALED · PYRAMID HOURS — currently-active preset feedback */
+.dialed-pill {
+  display: none;
+  align-items: center; gap: 7px;
+  font-family: 'Big Shoulders Display', 'Antonio', sans-serif;
+  font-weight: 800;
+  font-size: 10px;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--amber-deep);
+  background: linear-gradient(180deg, rgba(230,106,31,0.10) 0%, rgba(230,106,31,0.18) 100%);
+  border: 1px solid rgba(230, 106, 31, 0.45);
+  border-radius: 6px;
+  padding: 4px 10px;
+  animation: dialedFade 320ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+.dialed-pill.visible { display: inline-flex; }
+.dialed-pill .dialed-led {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: #E66A1F;
+  box-shadow: 0 0 5px rgba(230, 106, 31, 0.9);
+}
+.dialed-pill .dialed-name { font-style: normal; font-family: 'Lora', serif; font-style: italic; font-weight: 500; letter-spacing: 0.04em; text-transform: none; color: var(--ink); }
+html[data-mode="night"] .dialed-pill .dialed-name { color: var(--vu-cream); }
+@keyframes dialedFade {
+  from { opacity: 0; transform: translateY(-2px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@media (prefers-reduced-motion: reduce) { .dialed-pill { animation: none; } }
 
 /* The Sets panel — appears under the toggle when mode=sets and matches exist */
 .sets-panel {
@@ -2683,10 +2790,105 @@ html[data-mode="night"] .set-chip { background: rgba(0,0,0,0.32); color: var(--v
   display: flex; align-items: stretch; gap: 8px;
   flex-wrap: wrap;
 }
+/* ===== MOBILE — strict modular stacking, generous touch targets, no overflow ===== */
 @media (max-width: 560px) {
-  .play-btn { flex: 1 1 auto; }            /* stays between PREV/NEXT in the transport row */
-  .transport-btn { flex: 0 0 46px; min-width: 46px; }
-  .aux-btn { flex: 1 1 0; padding: 0 10px; font-size: 11px; }
+  /* CONSOLE — tighter padding, reclaim edge space */
+  .console { padding: 18px 14px 16px; border-radius: 6px; }
+  .console-title { font-size: 13px; letter-spacing: 0.28em; }
+  .console-subtitle { font-size: 11.5px; margin-bottom: 4px; }
+  .console-byline { font-size: 8.5px; letter-spacing: 0.24em; margin: -4px auto 12px; padding: 0 6px; }
+  .console-mfg-left, .console-mfg { display: none; }
+
+  /* VU + tubes — tighter row */
+  .vu-row { gap: 8px; }
+
+  /* INTENT BAR — comfortable type, full bleed */
+  .intent { font-size: 13.5px; padding: 11px 14px; }
+
+  /* MODE ROW — compact, centered, doesn't hog real estate */
+  .mode-row { gap: 8px; margin-bottom: 10px; }
+  .mode-toggle { padding: 5px 10px; font-size: 9.5px; letter-spacing: 0.22em; }
+  .dialed-pill { font-size: 9px; padding: 3px 8px; letter-spacing: 0.18em; }
+
+  /* ACTION ROW — modular stacking via flex-basis.
+     Row 1: PREV / PLAY / NEXT  (full width)
+     Row 2: RANDOM · PRESETS · +BUILD · RESET  (4-up grid)
+     Row 3: volume (full width, centered)
+     The volume slider going off-screen is a flex-shrink bug — fixed by forcing basis:100%. */
+  .action-row {
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  /* Transport row owns its own line */
+  .action-row > .transport-row {
+    flex: 1 1 100%;
+    width: 100%;
+    gap: 8px;
+    order: 1;
+  }
+  .action-row > .transport-row .play-btn {
+    flex: 1 1 auto;
+    height: 54px;
+    font-size: 16px;
+    letter-spacing: 0.22em;
+  }
+  .action-row > .transport-row .transport-btn {
+    flex: 0 0 54px;
+    width: 54px;
+    height: 54px;
+    min-width: 54px;
+  }
+
+  /* Four aux buttons share their own row evenly — bigger touch targets, breathing room */
+  .action-row > .aux-btn {
+    flex: 1 1 calc(25% - 6px);
+    max-width: calc(25% - 6px);
+    min-width: 0;
+    height: 46px;
+    padding: 0 6px;
+    font-size: 11px;
+    letter-spacing: 0.10em;
+    order: 2;
+  }
+  .action-row > .aux-btn .aux-icon { margin-right: 4px; width: 12px; height: 12px; }
+
+  /* Volume drops to its own row — no more spilling past the right edge */
+  .action-row > .vol-control {
+    flex: 0 0 100%;
+    width: 100%;
+    height: 36px;
+    padding: 0 12px;
+    justify-content: center;
+    order: 3;
+  }
+  .action-row > .vol-control .vol-fader {
+    width: 100%;
+    max-width: 280px;
+  }
+
+  /* NOW PLAYING when silent — small, unobtrusive. Was eating ~110px of vertical for no reason. */
+  .np-inline { min-height: 0; padding: 8px 12px; margin-top: 10px; }
+  .np-inline .np-empty { font-size: 12.5px; padding: 4px 0; line-height: 1.4; }
+
+  /* STATUS STRIP — wrap cleanly so RADIO doesn't get truncated */
+  .console-status {
+    justify-content: center;
+    gap: 8px 14px;
+    font-size: 9.5px;
+    padding-top: 12px;
+    margin-top: 12px;
+  }
+  .status-pill { flex: 0 0 auto; white-space: nowrap; }
+}
+
+/* Even tighter — small phones (iPhone SE, narrow Androids) */
+@media (max-width: 400px) {
+  .action-row > .aux-btn { font-size: 10px; letter-spacing: 0.06em; }
+  .action-row > .aux-btn .aux-icon { display: none; }
+  .action-row > .transport-row .play-btn { font-size: 15px; letter-spacing: 0.18em; }
+  .console-title { font-size: 12px; letter-spacing: 0.22em; }
+  .console-byline { font-size: 8px; letter-spacing: 0.18em; }
 }
 
 /* ===== STATUS STRIP ===== */
@@ -3762,6 +3964,108 @@ html[data-mode="night"] .window-frame {
   background: var(--red-active);
 }
 
+/* ===== COLOPHON · resume-ready back cover ===== */
+.colophon {
+  margin-top: 28px;
+  padding: 0 4px 80px;
+}
+.colophon-rule {
+  height: 1px;
+  background: linear-gradient(90deg, transparent 0%, var(--brass-deep) 15%, var(--brass-deep) 85%, transparent 100%);
+  opacity: 0.35;
+  margin: 0 auto 28px;
+  max-width: 720px;
+}
+.colophon-mast {
+  display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 18px;
+  font-family: 'Big Shoulders Display', 'Antonio', sans-serif;
+}
+.colophon-mark {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 30px; height: 30px;
+  background: var(--ink); color: var(--vu-cream);
+  border-radius: 5px;
+  font-weight: 900; font-size: 13px; letter-spacing: 0.06em;
+}
+html[data-mode="night"] .colophon-mark { background: var(--amber-deep); color: #1A0F08; }
+.colophon-title {
+  font-weight: 800; font-size: 13px; letter-spacing: 0.28em;
+  color: var(--ink);
+}
+html[data-mode="night"] .colophon-title { color: var(--vu-cream); }
+.colophon-edition {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px; letter-spacing: 0.18em;
+  color: var(--ink-soft);
+  opacity: 0.7;
+}
+.colophon-lede {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 14.5px;
+  line-height: 1.7;
+  color: var(--ink-soft);
+  max-width: 680px;
+  margin: 0 auto 26px;
+  text-align: center;
+}
+html[data-mode="night"] .colophon-lede { color: rgba(232, 217, 181, 0.8); }
+.colophon-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 22px 28px;
+  max-width: 920px;
+  margin: 0 auto 28px;
+}
+.colophon-block { padding: 4px 0; }
+.colophon-h {
+  font-family: 'Big Shoulders Display', 'Antonio', sans-serif;
+  font-weight: 800;
+  font-size: 10px;
+  letter-spacing: 0.32em;
+  text-transform: uppercase;
+  color: var(--amber-deep);
+  margin-bottom: 8px;
+  border-bottom: 1px solid rgba(184, 80, 21, 0.22);
+  padding-bottom: 6px;
+}
+.colophon-body {
+  font-family: 'Lora', serif;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--ink);
+}
+html[data-mode="night"] .colophon-body { color: rgba(232, 217, 181, 0.85); }
+.colophon-link {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11.5px;
+  color: var(--amber-deep);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(230, 106, 31, 0.4);
+  padding-bottom: 1px;
+  transition: color 160ms ease, border-color 160ms ease;
+}
+.colophon-link:hover { color: var(--amber); border-bottom-color: var(--amber); }
+.colophon-coda {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 13.5px;
+  line-height: 1.7;
+  text-align: center;
+  color: var(--ink-soft);
+  max-width: 640px;
+  margin: 0 auto;
+  padding-top: 22px;
+  border-top: 1px dashed rgba(184, 80, 21, 0.25);
+}
+html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
+@media (max-width: 560px) {
+  .colophon-grid { gap: 18px; }
+  .colophon-lede { font-size: 13.5px; }
+}
+
 /* Floating help/manual buttons */
 .fab-row {
   position: fixed;
@@ -4209,6 +4513,7 @@ html[data-mode="night"] .window-frame {
         <span class="console-mfg">ZS-001 · 2026</span>
         <div class="console-title">ZUBISSOU LISTENING STATION</div>
         <div class="console-subtitle">analog inputs · digital soul</div>
+        <div class="console-byline">a private listening room, built by Zubair Jeewanjee · for heads, by a head</div>
 
         <!-- VU + Tubes row (2 tubes left, VU center, 2 tubes right) -->
         <div class="vu-row">
@@ -4236,10 +4541,21 @@ html[data-mode="night"] .window-frame {
           <!-- Knobs injected by JS -->
         </div>
 
-        <!-- Mode toggle: RECORDS (full albums) ↔ SETS (curated playlists) -->
-        <div class="mode-toggle" id="mode-toggle" role="tablist" aria-label="Playback mode">
-          <button class="mode-tab active" data-mode="records" role="tab" aria-selected="true">RECORDS</button>
-          <button class="mode-tab" data-mode="sets" role="tab" aria-selected="false">SETS</button>
+        <!-- Mode lamp · DIALED feedback. Single click on the lamp flips RECORDS ↔ SETS.
+             The dialed pill appears whenever a preset is currently dialed in,
+             and clears the moment any knob is touched. -->
+        <div class="mode-row">
+          <button class="mode-toggle" id="mode-toggle" data-mode="records"
+                  aria-label="Playback mode — click to toggle" aria-pressed="false"
+                  title="RECORDS (cool) ↔ SETS (hot) · click to flip">
+            <span class="mode-led" aria-hidden="true"></span>
+            <span class="mode-label" id="mode-label">RECORDS</span>
+          </button>
+          <div class="dialed-pill" id="dialed-pill" aria-live="polite">
+            <span class="dialed-led" aria-hidden="true"></span>
+            <span>Dialed ·</span>
+            <span class="dialed-name" id="dialed-name">—</span>
+          </div>
         </div>
 
         <!-- SETS panel — shows playlists matching the current knob state -->
@@ -4271,7 +4587,7 @@ html[data-mode="night"] .window-frame {
 
         <!-- NOW PLAYING — inline inside the player -->
         <div id="np-content" class="np-inline">
-          <div class="np-empty">Silent until you act. Press PLAY to begin.</div>
+          <div class="np-empty">The room is silent. Press PLAY when you have a reason.</div>
         </div>
 
         <!-- Console messages — what the room is doing (channel building, cue states, etc) -->
@@ -4313,7 +4629,7 @@ html[data-mode="night"] .window-frame {
     <section class="section">
       <div class="section-header">
         <div class="section-title">Taste Profile</div>
-        <div class="section-meta" id="np-status">last 50 tracks · connect Spotify to light up</div>
+        <div class="section-meta" id="np-status">the last fifty tracks, read like tea leaves · connect Spotify to light the bulbs</div>
       </div>
       <div class="panel">
         <canvas id="radar-chart" height="180"></canvas>
@@ -4324,7 +4640,7 @@ html[data-mode="night"] .window-frame {
     <section class="section">
       <div class="section-header">
         <div class="section-title">Taste Map</div>
-        <div class="section-meta" id="tastemap-meta">your canon plotted by feel — mood × energy</div>
+        <div class="section-meta" id="tastemap-meta">the canon, plotted by feel · mood on one axis, energy on the other — a fingerprint in pigment</div>
       </div>
       <div class="panel">
         <div class="tastemap-wrap">
@@ -4344,7 +4660,7 @@ html[data-mode="night"] .window-frame {
     <section class="section">
       <div class="section-header">
         <div class="section-title">Across Time</div>
-        <div class="section-meta" id="acrosstime-meta">your canon by decade, colored by genre</div>
+        <div class="section-meta" id="acrosstime-meta">the canon walked through the decades · genre keeps the colors honest</div>
       </div>
       <div class="panel">
         <div class="viz-soft"><canvas id="acrosstime-chart" height="200"></canvas></div>
@@ -4356,7 +4672,7 @@ html[data-mode="night"] .window-frame {
     <section class="section">
       <div class="section-header">
         <div class="section-title">World of the Canon</div>
-        <div class="section-meta" id="worldmap-meta">where your music comes from</div>
+        <div class="section-meta" id="worldmap-meta">a geography of listening · the records and the rooms they were cut in</div>
       </div>
       <div class="panel">
         <div class="viz-soft"><canvas id="worldmap-chart" height="200"></canvas></div>
@@ -4367,7 +4683,7 @@ html[data-mode="night"] .window-frame {
     <section class="section">
       <div class="section-header">
         <div class="section-title">My Fingerprint</div>
-        <div class="section-meta" id="curfp-meta">top artists across the sources I curate · color = how many of my sources cross-spin them</div>
+        <div class="section-meta" id="curfp-meta">the artists that keep recurring across every voice I trust · the brighter the amber, the more rooms nod along</div>
       </div>
       <div class="panel">
         <div class="viz-soft" style="height:280px;"><canvas id="curfp-chart" height="240"></canvas></div>
@@ -4378,7 +4694,7 @@ html[data-mode="night"] .window-frame {
     <section class="section">
       <div class="section-header">
         <div class="section-title">The Charts</div>
-        <div class="section-meta">from Spotify · personal</div>
+        <div class="section-meta">top tracks, top artists · through the lens of right now, six months back, all-time</div>
       </div>
       <div class="scope-tabs" id="scope-tabs">
         <div class="scope-tab active" data-scope="short_term">4 WEEKS</div>
@@ -4405,7 +4721,7 @@ html[data-mode="night"] .window-frame {
     <section class="section">
       <div class="section-header">
         <div class="section-title">My Spotify Playlists</div>
-        <div class="section-meta" id="my-playlists-meta">connect Spotify to load · overlap with canon glows amber</div>
+        <div class="section-meta" id="my-playlists-meta">what's in rotation tonight · anything overlapping the canon glows amber</div>
       </div>
       <div class="panel">
         <div class="my-pl-grid" id="my-playlists-grid">
@@ -4432,7 +4748,7 @@ html[data-mode="night"] .window-frame {
     <section class="section">
       <div class="section-header">
         <div class="section-title">Listening Times · Heatmap</div>
-        <div class="section-meta" id="heatmap-meta">day-of-week × hour-of-day</div>
+        <div class="section-meta" id="heatmap-meta">when the room is loudest · day-of-week against hour-of-day, drawn from the last fifty plays</div>
       </div>
       <div class="panel">
         <div class="heatmap" id="heatmap"></div>
@@ -4446,7 +4762,7 @@ html[data-mode="night"] .window-frame {
     <section class="section">
       <div class="section-header">
         <div class="section-title">Canon · Cross-Reference</div>
-        <div class="section-meta">your top-100 × your spotify activity</div>
+        <div class="section-meta">where the holy-100 meets the actual rotation · what stays warm, what gathers dust</div>
       </div>
       <!-- Stacked: Recently Touched on top, Dusty below — both full width so shelves don't get cut off -->
       <div class="panel" style="margin-bottom: 14px;">
@@ -4467,7 +4783,7 @@ html[data-mode="night"] .window-frame {
     <section class="section" id="ad-spinning-section" style="display:none;">
       <div class="section-header">
         <div class="section-title">Currently Spinning</div>
-        <div class="section-meta" id="ad-spinning-meta">— via Aquarium Drunkard</div>
+        <div class="section-meta" id="ad-spinning-meta">the rotation, today · straight from the heads at Aquarium Drunkard</div>
       </div>
       <div class="ad-spinning-grid" id="ad-spinning-grid"></div>
     </section>
@@ -4476,7 +4792,7 @@ html[data-mode="night"] .window-frame {
     <section class="section" id="derrick-shelf-section" style="display:none;">
       <div class="section-header">
         <div class="section-title">Derrick Gee</div>
-        <div class="section-meta" id="derrick-meta">— Spotify curator</div>
+        <div class="section-meta" id="derrick-meta">six sets from the man himself · Spotify, in his hands</div>
       </div>
       <div class="ad-spinning-grid" id="derrick-shelf-grid"></div>
     </section>
@@ -4486,8 +4802,8 @@ html[data-mode="night"] .window-frame {
       <div class="section-header">
         <div class="section-title">Trusted Curators</div>
         <div class="section-meta">
-          <span id="xray-stats">— shows, — tracks</span>
-          &nbsp;·&nbsp; via XRAY.fm
+          the heads I keep one ear on · <span id="xray-stats">— shows, — tracks</span>
+          &nbsp;·&nbsp; pulled from XRAY.fm, independent radio in heavy rotation
         </div>
       </div>
       <div class="curators-grid" id="curators-grid"></div>
@@ -4498,7 +4814,7 @@ html[data-mode="night"] .window-frame {
       <div class="section-header">
         <div class="section-title">The Vinyl Wall</div>
         <div class="section-meta">
-          <span id="vinyl-count">—</span> albums · top-100 + birth-year
+          one hundred records, no algorithm · the canon, in spines · <span id="vinyl-count">—</span> entries with the birth-year shelf
           &nbsp;·&nbsp;
           <button class="inline-btn" id="manage-canon-btn">MANAGE CANON</button>
         </div>
@@ -4508,6 +4824,73 @@ html[data-mode="night"] .window-frame {
                placeholder="fuzzy search · artist, album, year, genre, country…" />
       </div>
       <div class="vinyl-grid" id="vinyl-grid"></div>
+    </section>
+
+    <!-- ===== COLOPHON · the back cover ===== -->
+    <section class="section colophon">
+      <div class="colophon-rule"></div>
+      <div class="colophon-mast">
+        <span class="colophon-mark">ZS</span>
+        <span class="colophon-title">ZUBISSOU SOUNDS · THE LISTENING STATION</span>
+        <span class="colophon-edition">FIRST EDITION · ZS-001 · 2026</span>
+      </div>
+      <p class="colophon-lede">
+        A private listening room for the always-on era. The console is the inverse of an algorithmic feed
+        — a seven-knob taste model that scores your canon against the kind of moment you're in, paired with
+        a curator layer fed by <em>Aquarium Drunkard</em>, <em>Derrick Gee</em>, and a dozen independent radio
+        shows on XRAY.fm. Spotify is the speaker; the room is the brain.
+      </p>
+      <div class="colophon-grid">
+        <div class="colophon-block">
+          <div class="colophon-h">Built by</div>
+          <div class="colophon-body">
+            Zubair Jeewanjee · product, design, code.<br>
+            A personal capstone. Single HTML file, ~8,300 lines. No backend, no analytics, no ads.
+          </div>
+        </div>
+        <div class="colophon-block">
+          <div class="colophon-h">Stack</div>
+          <div class="colophon-body">
+            Vanilla JS · Chart.js for the visuals · Fuse.js for fuzzy search · Spotify Web API + Web Playback SDK
+            via PKCE OAuth · Last.fm for global signal · static JSON for the canon · Cloudflare Pages for the wire.
+          </div>
+        </div>
+        <div class="colophon-block">
+          <div class="colophon-h">Heads quoted</div>
+          <div class="colophon-body">
+            <em>Aquarium Drunkard</em> (six hundred posts, fuzzy-matched into the Codex) ·
+            <em>Derrick Gee</em> (six sets, three hundred tracks) ·
+            <em>XRAY.fm</em> (Steven Cantor, Hot Fudge Sunday, On The Corner, Get Outta Town, more).
+          </div>
+        </div>
+        <div class="colophon-block">
+          <div class="colophon-h">The canon</div>
+          <div class="colophon-body">
+            One hundred records, hand-picked, plus a birth-year shelf (1984) for context.
+            Pre-1900s spirituals through 2020s ambient. Promotable, demotable, reorderable. No algorithm decides who's in.
+          </div>
+        </div>
+        <div class="colophon-block">
+          <div class="colophon-h">Aesthetic</div>
+          <div class="colophon-body">
+            Wes Anderson's <em>The Life Aquatic</em> palette · Tokyo kissa listening-bar geometry ·
+            vintage Marantz / Sansui console hardware as the literal metaphor.
+            Day mode is a gallery. Night mode is a lounge.
+          </div>
+        </div>
+        <div class="colophon-block">
+          <div class="colophon-h">Source</div>
+          <div class="colophon-body">
+            <a href="https://github.com/zubairjeewanjee-42/zubissou-sounds" target="_blank" rel="noopener" class="colophon-link">github · zubairjeewanjee-42 / zubissou-sounds</a><br>
+            <span style="opacity:0.7;">Hosted on Cloudflare Pages. Hand-written, end-to-end.</span>
+          </div>
+        </div>
+      </div>
+      <div class="colophon-coda">
+        <em>Music means something here.</em> Treat the station like a hi-fi you respect:
+        take time to dial in, listen on good speakers, sit with one album before moving to the next.
+        &nbsp;—&nbsp;<strong>Z.</strong>
+      </div>
     </section>
 
   </main>
@@ -4535,10 +4918,20 @@ html[data-mode="night"] .window-frame {
   <div class="modal-backdrop" id="manual-modal" aria-hidden="true">
     <div class="modal">
       <button class="modal-close" data-close="manual-modal">CLOSE ×</button>
-      <h2>The Manual<small>How to operate Zubissou Sounds — The Listening Station</small></h2>
+      <h2>The Manual<small>A field guide to the Listening Station · by Zubair Jeewanjee</small></h2>
+
+      <p style="font-family:'Lora',serif; font-style:italic; font-size:14px; line-height:1.65; color:var(--ink-soft); border-left:2px solid var(--amber-deep); padding-left:14px; margin:14px 0 22px;">
+        Zubissou Sounds is a private listening room — built as the inverse of an algorithmic feed.
+        Where streaming services chase the next click, this room asks one quieter question:
+        <em>what kind of moment is this?</em>
+        Seven knobs. A canon of one hundred records. A handful of trusted heads — Aquarium Drunkard,
+        Derrick Gee, XRAY.fm — whose taste is folded in. The dashboard reads its own data, hits the
+        Spotify Web API for playback, and refuses, structurally, to recommend anything you didn't
+        already mean.
+      </p>
 
       <h3>1 · The Console</h3>
-      <p>The home screen is a listening station. <strong>Silent on arrival.</strong> Press <kbd>PLAY</kbd> and trust the Model, or tune the knobs first to override.</p>
+      <p>The home screen is a listening station. <strong>Silent on arrival.</strong> Press <kbd>PLAY</kbd> and trust the Model, or dial the knobs first to override. The room reads you, then plays.</p>
 
       <h3>2 · The Seven Knobs</h3>
       <ul>
@@ -5122,6 +5515,8 @@ function attachKnob(knob) {
     knobState[id] = v;
     knobTouched[id] = true;
     updateKnobVisual(id);
+    // Any manual knob movement breaks the "dialed preset" identity.
+    try { if (typeof clearDialedPreset === 'function') clearDialedPreset(); } catch {}
   }
   function end(e) {
     if (!dragging) return;
@@ -5152,6 +5547,7 @@ function attachKnob(knob) {
       knobState[id] = Math.max(0, Math.min(100, knobState[id] + delta));
       knobTouched[id] = true;
       updateKnobVisual(id);
+      try { if (typeof clearDialedPreset === 'function') clearDialedPreset(); } catch {}
       e.preventDefault();
     }
   });
@@ -5888,7 +6284,7 @@ async function loadNowPlaying() {
     const np = await spotifyFetch('/me/player/currently-playing');
     const c = document.getElementById('np-content');
     if (!np || !np.item) {
-      c.innerHTML = '<div class="np-empty">Silent until you act. Press PLAY to begin.</div>';
+      c.innerHTML = '<div class="np-empty">The room is silent. Press PLAY when you have a reason.</div>';
       zsCurrentTrack = null;
       setPlayButtonState(false);
       return;
@@ -6933,20 +7329,49 @@ document.getElementById('build-btn').addEventListener('click', () => {
    day/night theme. Identical names clobber each other via hoisting and break
    theming for the entire page. */
 let zsPlayMode = localStorage.getItem('zs:play_mode') || 'records';   // 'records' | 'sets'
+let zsCurrentPresetId = null;   // remembers which preset is currently dialed (cleared on knob touch)
+
 function setPlayMode(mode) {
   zsPlayMode = mode;
   localStorage.setItem('zs:play_mode', mode);
-  document.querySelectorAll('.mode-tab').forEach(t => {
-    const a = t.dataset.mode === mode;
-    t.classList.toggle('active', a);
-    t.setAttribute('aria-selected', a ? 'true' : 'false');
-  });
+  const toggle = document.getElementById('mode-toggle');
+  const label = document.getElementById('mode-label');
+  if (toggle) {
+    toggle.dataset.mode = mode;
+    toggle.setAttribute('aria-pressed', mode === 'sets' ? 'true' : 'false');
+  }
+  if (label) label.textContent = (mode === 'sets' ? 'SETS' : 'RECORDS');
   refreshSetsPanel();
   if (typeof logTelemetry === 'function') logTelemetry('play_mode_change', { mode });
 }
-document.querySelectorAll('.mode-tab').forEach(tab => {
-  tab.addEventListener('click', () => setPlayMode(tab.dataset.mode));
+
+// Single-button toggle — click anywhere on it to flip RECORDS ↔ SETS
+document.getElementById('mode-toggle')?.addEventListener('click', () => {
+  setPlayMode(zsPlayMode === 'sets' ? 'records' : 'sets');
 });
+
+// Track the currently-dialed preset so the user sees clear feedback after applying.
+function setDialedPreset(preset) {
+  zsCurrentPresetId = preset ? preset.id : null;
+  const pill = document.getElementById('dialed-pill');
+  const name = document.getElementById('dialed-name');
+  if (!pill || !name) return;
+  if (preset) {
+    name.textContent = preset.name || '—';
+    pill.classList.add('visible');
+  } else {
+    pill.classList.remove('visible');
+    name.textContent = '—';
+  }
+  // Re-rank the matching sets so the active one stays highlighted as best.
+  try { refreshSetsPanel(); } catch {}
+}
+
+// Any manual knob movement clears the "dialed" indicator — once you tweak,
+// you're no longer on a preset, you're somewhere new.
+function clearDialedPreset() {
+  if (zsCurrentPresetId !== null) setDialedPreset(null);
+}
 
 /* Distance from current knobState to a preset's knobs.
    Lower = closer match. Untouched knobs are skipped (treated as "open"). */
@@ -6980,11 +7405,14 @@ function refreshSetsPanel() {
     .sort((a, b) => a.d - b.d)
     .slice(0, 5);
   if (!ranked.length) { panel.classList.remove('visible'); panel.innerHTML = ''; return; }
+  // The "best" chip is the dialed-in preset if it's in the top 5; otherwise the closest match.
+  const dialedRank = ranked.findIndex(r => r.p.id === zsCurrentPresetId);
+  const bestIdx = dialedRank >= 0 ? dialedRank : 0;
   panel.innerHTML = `
     <div class="sets-panel-label">Matching Sets · click to dial in</div>
     <div class="sets-list">
       ${ranked.map((r, i) => `
-        <button class="set-chip ${i === 0 ? 'best' : ''}" data-preset="${r.p.id}" title="${escapeHtml(r.p.desc || '')}">
+        <button class="set-chip ${i === bestIdx ? 'best' : ''}" data-preset="${r.p.id}" title="${escapeHtml(r.p.desc || '')}">
           ${r.p.tier === 'personal-brand' ? '<span class="set-chip-tier">Zubair</span>' : ''}
           ${escapeHtml(r.p.name)}
         </button>
@@ -8084,6 +8512,9 @@ async function applyPreset(p) {
   presetsModal.classList.remove('open');
   presetsModal.setAttribute('aria-hidden', 'true');
   logTelemetry('preset_apply', { id: p.id });
+
+  // Persistent visual feedback — the DIALED · NAME pill stays lit until a knob moves.
+  if (typeof setDialedPreset === 'function') setDialedPreset(p);
 
   // If connected, CUE the preset's selection without interrupting the current track.
   const tok = await getValidAccessToken();
