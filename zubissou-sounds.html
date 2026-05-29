@@ -605,12 +605,34 @@ html[data-mode="night"] .window-frame { border-color: var(--walnut); }
 }
 
 /* Generic scene container */
+/* Scenes are absolutely-stacked. Active scene at translateX(0); inactive scenes
+   parked just off-screen (left/right) at ±100%. During a swipe, JS sets the
+   transforms directly. After release, this transition smooths the snap.
+   `cubic-bezier(0.22, 1, 0.36, 1)` is iOS-grade "ease-out-quint" — buttery. */
 .window-scene {
   position: absolute; inset: 0;
   opacity: 0;
-  transition: opacity 800ms ease;
+  transform: translate3d(100%, 0, 0);
+  transition: transform 520ms cubic-bezier(0.22, 1, 0.36, 1),
+              opacity   520ms cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: transform, opacity;
 }
-.window-scene.active { opacity: 1; }
+.window-scene.active {
+  opacity: 1;
+  transform: translate3d(0, 0, 0);
+}
+.window-scene.prev { transform: translate3d(-100%, 0, 0); opacity: 0.92; }
+.window-scene.next { transform: translate3d( 100%, 0, 0); opacity: 0.92; }
+
+/* During an active swipe, suspend the transition so the scene tracks the finger
+   1:1 — no rubber-band lag. JS adds .is-dragging to the window-frame. */
+.window-frame.is-dragging .window-scene {
+  transition: none;
+}
+
+/* The window is a horizontal swipe surface — let native vertical scrolling pass through */
+.window-frame { touch-action: pan-y; user-select: none; -webkit-user-select: none; }
+.window-frame.is-dragging { cursor: grabbing; }
 
 /* Scene image override — when a user-supplied image is found at
    assets/img/scenes/{slug}.{jpg,png,webp}, the JS adds .has-image to the
@@ -5745,6 +5767,157 @@ document.getElementById('scene-dots').addEventListener('click', e => {
 
 // Boot the auto-scene immediately
 setScene(autoScene());
+
+/* ============================================================
+   SCENE SWIPE — buttery horizontal swipe to change scenes.
+   Active scene tracks the finger 1:1. Adjacent scenes peek
+   in from the edges. Release past ~25% of viewport → commit
+   to next/prev (with momentum). Otherwise spring back.
+   ============================================================ */
+(function installSceneSwipe() {
+  const SCENE_ORDER = ['beach', 'garden', 'rain', 'city'];
+  const win = document.getElementById('window');
+  if (!win) return;
+
+  // Helper: scene element by name
+  const sceneEl = name => win.querySelector(`.window-scene[data-scene="${name}"]`);
+
+  // Helper: prev/next in the cycle
+  const idx = name => SCENE_ORDER.indexOf(name);
+  const prevOf = name => SCENE_ORDER[(idx(name) + SCENE_ORDER.length - 1) % SCENE_ORDER.length];
+  const nextOf = name => SCENE_ORDER[(idx(name) + 1) % SCENE_ORDER.length];
+
+  // Helper: pull the current active scene name from the DOM
+  const currentScene = () => {
+    const a = win.querySelector('.window-scene.active');
+    return a ? a.dataset.scene : SCENE_ORDER[0];
+  };
+
+  let active = false;
+  let startX = 0, startY = 0;
+  let dx = 0, dy = 0;
+  let locked = false;            // once we detect a horizontal swipe, lock to horizontal
+  let pId = null;
+  let width = 0;
+  let prevEl, curEl, nextEl;
+
+  function down(e) {
+    if (e.pointerType === 'mouse' && e.button !== 0) return;
+    // Don't intercept clicks on the scene-dot pickers — they own their own gestures
+    if (e.target.closest && e.target.closest('.scene-dot')) return;
+    active = true; locked = false;
+    startX = e.clientX; startY = e.clientY;
+    dx = 0; dy = 0;
+    pId = e.pointerId;
+    width = win.getBoundingClientRect().width;
+    const cur = currentScene();
+    curEl  = sceneEl(cur);
+    prevEl = sceneEl(prevOf(cur));
+    nextEl = sceneEl(nextOf(cur));
+    // Position peek neighbors just off-screen
+    if (prevEl) { prevEl.classList.add('prev'); prevEl.classList.remove('next'); prevEl.style.opacity = ''; }
+    if (nextEl) { nextEl.classList.add('next'); nextEl.classList.remove('prev'); nextEl.style.opacity = ''; }
+    win.classList.add('is-dragging');
+  }
+
+  function move(e) {
+    if (!active) return;
+    dx = e.clientX - startX;
+    dy = e.clientY - startY;
+    if (!locked) {
+      // Decide intent: if movement is more vertical than horizontal, give up — let the page scroll
+      if (Math.abs(dy) > Math.abs(dx) + 6) {
+        cancel(); return;
+      }
+      if (Math.abs(dx) > 8) locked = true;
+      else return;
+    }
+    e.preventDefault();
+    // Rubber-band: when dragging into a side, dampen so it feels resistive
+    let translate = dx;
+    if (Math.abs(dx) > width * 0.5) {
+      const sign = Math.sign(dx);
+      const excess = Math.abs(dx) - width * 0.5;
+      translate = sign * (width * 0.5 + excess * 0.35);
+    }
+    if (curEl)  curEl.style.transform  = `translate3d(${translate}px, 0, 0)`;
+    if (prevEl) prevEl.style.transform = `translate3d(${translate - width}px, 0, 0)`;
+    if (nextEl) nextEl.style.transform = `translate3d(${translate + width}px, 0, 0)`;
+    // Fade the active scene slightly so the incoming scene reads
+    const t = Math.min(1, Math.abs(translate) / width);
+    if (curEl)  curEl.style.opacity  = String(1 - t * 0.35);
+    if (prevEl) prevEl.style.opacity = String(0.6 + t * 0.4);
+    if (nextEl) nextEl.style.opacity = String(0.6 + t * 0.4);
+  }
+
+  function up() {
+    if (!active) return;
+    active = false;
+    win.classList.remove('is-dragging');
+    if (pId !== null && win.releasePointerCapture) {
+      try { win.releasePointerCapture(pId); } catch {}
+    }
+    // Clear inline transforms so CSS classes take over the snap
+    const clearAll = () => { [curEl, prevEl, nextEl].forEach(el => { if (el) { el.style.transform = ''; el.style.opacity = ''; } }); };
+
+    const threshold = width * 0.25;   // 25% of window width
+    const commit = (incomingEl, direction /* -1 left, +1 right */) => {
+      // Animate to committed positions
+      curEl.style.transform = `translate3d(${direction * -width}px, 0, 0)`;
+      curEl.style.opacity = '0';                                 // outgoing fades fully
+      incomingEl.style.transform = `translate3d(0, 0, 0)`;
+      incomingEl.style.opacity = '1';
+      const target = incomingEl.dataset.scene;
+      // After the CSS transition completes, swap the active class + clear inline styles.
+      // Because the outgoing scene is at opacity 0 by now, the transform snap is invisible.
+      setTimeout(() => {
+        localStorage.setItem('zs:scene_manual', target);
+        setScene(target);
+        // Next frame, clear inline styles + peek classes
+        requestAnimationFrame(() => {
+          [curEl, prevEl, nextEl].forEach(el => {
+            if (!el) return;
+            el.style.transform = '';
+            el.style.opacity = '';
+          });
+          if (prevEl) prevEl.classList.remove('prev');
+          if (nextEl) nextEl.classList.remove('next');
+        });
+      }, 540);
+    };
+
+    if (locked && dx <= -threshold && nextEl) {
+      commit(nextEl, -1);   // swiped LEFT → next scene
+    } else if (locked && dx >= threshold && prevEl) {
+      commit(prevEl, +1);   // swiped RIGHT → previous scene
+    } else {
+      // Spring back to current scene
+      if (curEl)  { curEl.style.transform = ''; curEl.style.opacity = ''; }
+      if (prevEl) { prevEl.style.transform = ''; prevEl.style.opacity = ''; }
+      if (nextEl) { nextEl.style.transform = ''; nextEl.style.opacity = ''; }
+      setTimeout(() => {
+        if (prevEl) prevEl.classList.remove('prev');
+        if (nextEl) nextEl.classList.remove('next');
+      }, 520);
+    }
+  }
+
+  function cancel() {
+    active = false; locked = false;
+    win.classList.remove('is-dragging');
+    [curEl, prevEl, nextEl].forEach(el => { if (el) { el.style.transform = ''; el.style.opacity = ''; } });
+    setTimeout(() => {
+      if (prevEl) prevEl.classList.remove('prev');
+      if (nextEl) nextEl.classList.remove('next');
+    }, 50);
+  }
+
+  win.addEventListener('pointerdown', down);
+  win.addEventListener('pointermove', move);
+  win.addEventListener('pointerup', up);
+  win.addEventListener('pointercancel', cancel);
+  win.addEventListener('pointerleave', e => { if (active) up(e); });
+})();
 
 /* ---------- SCENE IMAGE OVERRIDE ----------
    Drop a file at  assets/img/scenes/{slug}.{jpg,jpeg,png,webp}
