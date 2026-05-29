@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+# This is a private listening room.
+# If you're a recruiter or hiring manager,
+# please contact Zubair Jeewanjee directly.

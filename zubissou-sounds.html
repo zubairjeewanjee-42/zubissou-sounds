@@ -7,7 +7,7 @@
 <meta name="theme-color" content="#1A0F08" media="(prefers-color-scheme: dark)">
 
 <!-- ===== PRIMARY META ===== -->
-<title>Zubissou Listening — a private listening room by Zubair Jeewanjee</title>
+<title>Zubissou Studio — music curation for the moment, by Zubair Jeewanjee</title>
 <meta name="description" content="A private listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed. Built by Zubair Jeewanjee.">
 <meta name="author" content="Zubair Jeewanjee">
 <meta name="keywords" content="Zubissou Listening, Zubissou Sounds, Zubair Jeewanjee, music dashboard, vinyl canon, personal capstone, hi-fi UI, kissa, Wes Anderson UI, taste console">
@@ -23,8 +23,8 @@
 
 <!-- ===== OPEN GRAPH ===== -->
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="Zubissou Listening">
-<meta property="og:title" content="Zubissou Listening">
+<meta property="og:site_name" content="Zubissou Studio">
+<meta property="og:title" content="Zubissou Studio">
 <meta property="og:description" content="A private listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed. — Z.">
 <meta property="og:url" content="https://zubissou-sounds.pages.dev/">
 <meta property="og:locale" content="en_US">
@@ -37,7 +37,7 @@
 
 <!-- ===== TWITTER CARD ===== -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Zubissou Listening">
+<meta name="twitter:title" content="Zubissou Studio">
 <meta name="twitter:description" content="A private listening room. Seven knobs against one hundred records. Hand-curated. The inverse of a feed.">
 <meta name="twitter:creator" content="@zubairjeewanjee">
 <meta name="twitter:image" content="https://zubissou-sounds.pages.dev/assets/img/zubair-pier.jpg">
@@ -53,8 +53,8 @@
 {
   "@context": "https://schema.org",
   "@type": "CreativeWork",
-  "name": "Zubissou Listening",
-  "alternateName": ["Zubissou Sounds", "Zubissou Listening Station"],
+  "name": "Zubissou Studio",
+  "alternateName": ["Zubissou Listening", "Zubissou Sounds", "Zubissou Listening Station"],
   "description": "A private listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed.",
   "url": "https://zubissou-sounds.pages.dev/",
   "image": "https://zubissou-sounds.pages.dev/assets/img/zubair-pier.jpg",
@@ -683,10 +683,10 @@ html[data-mode="night"] .window-frame { border-color: var(--walnut); }
 
 /* ===== MOBILE SCENE CROP — beach + city framed independently ===== */
 @media (max-width: 560px) {
-  /* BEACH — further left to keep family + dog in frame */
+  /* BEACH — anchored right so family + dog stay in frame */
   .scene-beach.has-image .scene-image-overlay {
     background-size: 175%;
-    background-position: 0% 32%;     /* hard left, slight up */
+    background-position: 80% 32%;    /* anchor right, slight up */
   }
   /* CITY — shift DOWN ~15% to reveal more water (50% → 65% y) */
   .scene-city.has-image .scene-image-overlay {
@@ -697,7 +697,7 @@ html[data-mode="night"] .window-frame { border-color: var(--walnut); }
 @media (max-width: 400px) {
   .scene-beach.has-image .scene-image-overlay {
     background-size: 195%;
-    background-position: 0% 30%;
+    background-position: 82% 30%;
   }
   .scene-city.has-image .scene-image-overlay {
     background-size: 195%;
@@ -1707,12 +1707,22 @@ html[data-mode="night"] .speaker-dust-cap {
   animation: speakerHalo 0.42s ease-in-out infinite alternate;
 }
 @keyframes speakerPulse {
-  0%   { transform: scale(1); }
-  100% { transform: scale(1.08); }   /* visible cone throw — was a tiny 1.025 */
+  0%   { transform: scale(1)    translateY(0); }
+  100% { transform: scale(1.14) translateY(-2px); }   /* real cone throw */
 }
 @keyframes speakerHalo {
   0%   { box-shadow: 0 0 0 0 rgba(255, 130, 50, 0); }
-  100% { box-shadow: 0 0 28px 8px rgba(255, 130, 50, 0.55); }
+  100% { box-shadow: 0 0 38px 14px rgba(255, 130, 50, 0.70); }
+}
+/* Tap feedback — when the user clicks/touches a speaker, brief press + pulse to "feel" it */
+.speaker-cab { cursor: pointer; transition: transform 80ms cubic-bezier(0.34, 1.56, 0.64, 1); }
+.speaker-cab:active { transform: scale(0.97); transition-duration: 30ms; }
+.speaker-cab.tap-pulse { animation: speakerTapPulse 320ms cubic-bezier(0.34, 1.56, 0.64, 1); }
+@keyframes speakerTapPulse {
+  0%   { transform: scale(1); }
+  35%  { transform: scale(1.08); }
+  70%  { transform: scale(0.97); }
+  100% { transform: scale(1); }
 }
 /* Idle breath when not playing — barely perceptible, just so the room feels on */
 @media (prefers-reduced-motion: no-preference) {
@@ -3559,6 +3569,37 @@ html[data-mode="night"] .status-connect { color: var(--vu-cream); }
   object-fit: cover;
   display: block;
 }
+/* Procedural cover — used when cover_url is missing. Looks like an art-directed
+   plain-cover edition, not a broken image. */
+.vinyl-cover-fallback {
+  position: absolute; inset: 0;
+  display: flex; flex-direction: column;
+  align-items: center; justify-content: center;
+  padding: 14px;
+  color: rgba(255, 230, 180, 0.92);
+  text-align: center;
+  gap: 6px;
+}
+.vcf-initials {
+  font-family: 'Big Shoulders Display', 'Antonio', sans-serif;
+  font-weight: 900;
+  font-size: clamp(28px, 8vw, 44px);
+  letter-spacing: 0.05em;
+  line-height: 1;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+}
+.vcf-album {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-size: 11px;
+  line-height: 1.3;
+  opacity: 0.75;
+  max-width: 90%;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
 .vinyl-rank {
   position: absolute;
   top: 4px; right: 4px;
@@ -4635,12 +4676,23 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
 }
 
 /* ===== VINYL SPINE VIEW ===== */
+/* Section-level controls row — sits between the header and the section body.
+   Buttons + view-toggles live here on their own line, so the header stays clean. */
+.section-controls {
+  display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+  margin: 4px 0 14px;
+}
+@media (max-width: 560px) {
+  .section-controls { gap: 8px; margin-bottom: 12px; }
+  .section-controls > * { flex: 0 0 auto; }
+}
+
 .view-toggle {
   display: inline-flex;
   border: 1px solid var(--brass-deep);
   border-radius: 2px;
   overflow: hidden;
-  margin-left: 8px;
+  margin-left: 0;
   vertical-align: middle;
 }
 .view-toggle button {
@@ -4993,8 +5045,8 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
       <div class="console">
         <span class="console-mfg-left">MODEL · D</span>
         <span class="console-mfg">ZS-001 · 2026</span>
-        <div class="console-title">ZUBISSOU LISTENING</div>
-        <div class="console-byline">a private listening room built by Zubair Jeewanjee</div>
+        <div class="console-title">ZUBISSOU STUDIO</div>
+        <div class="console-byline">a private listening room · music curation for the moment · by Zubair Jeewanjee</div>
 
         <!-- VU + Tubes row (2 tubes left, VU center, 2 tubes right) -->
         <div class="vu-row">
@@ -5297,10 +5349,13 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
       <div class="section-header">
         <div class="section-title">The Vinyl Wall</div>
         <div class="section-meta">
-          one hundred records, no algorithm · the canon, in spines · <span id="vinyl-count">—</span> entries with the birth-year shelf
-          &nbsp;·&nbsp;
-          <button class="inline-btn" id="manage-canon-btn">MANAGE CANON</button>
+          <span class="meta-text">one hundred records, no algorithm · <span id="vinyl-count">—</span> entries with the birth-year shelf</span>
         </div>
+      </div>
+      <!-- Controls row sits OUTSIDE the header so layouts stay predictable on mobile -->
+      <div class="section-controls">
+        <button class="inline-btn" id="manage-canon-btn">MANAGE CANON</button>
+        <!-- view-toggle (Covers/Spines) injected here by JS -->
       </div>
       <div class="search-bar">
         <input type="text" id="vinyl-search" class="search-input"
@@ -5320,11 +5375,11 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
           <span class="cm-back" aria-hidden="true"
                 style="background-image:url('assets/img/zubair-pier.jpg');"></span>
         </button>
-        <span class="colophon-title">ZUBISSOU LISTENING</span>
+        <span class="colophon-title">ZUBISSOU STUDIO</span>
         <span class="colophon-edition">FIRST EDITION · ZS-001 · 2026</span>
       </div>
       <p class="colophon-lede">
-        A private listening room for the always-on era. The inverse of a feed.
+        Part private listening room, part music curator's studio. The inverse of a feed.
         <br>
         The best curators don't shuffle — they read the room.
         Mood, energy, weather, the hour of the day. Every record chosen for the moment it's in.
@@ -6449,9 +6504,12 @@ function renderVinylGrid(items) {
   list.slice(0, 200).forEach((it, idx) => {
     const card = document.createElement('div');
     card.className = 'vinyl-card';
+    const fallback = makeProceduralCover(it);
     card.innerHTML = `
-      <div class="vinyl-cover">
-        ${it.cover_url ? `<img src="${it.cover_url}" loading="lazy" alt="${it.album}">` : ''}
+      <div class="vinyl-cover" ${!it.cover_url ? `style="background:${fallback.bg};"` : ''}>
+        ${it.cover_url
+          ? `<img src="${it.cover_url}" loading="lazy" alt="${escapeHtml(it.album || '')}">`
+          : `<div class="vinyl-cover-fallback"><span class="vcf-initials">${fallback.initials}</span><span class="vcf-album">${escapeHtml((it.album || it.track || '').slice(0, 32))}</span></div>`}
         ${it.rank ? `<div class="vinyl-rank">${it.rank}</div>` : ''}
         <div class="vinyl-recent-dot" data-spotify-id="${it.spotify_id || ''}"></div>
       </div>
@@ -6463,7 +6521,55 @@ function renderVinylGrid(items) {
     `;
     card.addEventListener('click', () => openCodex(it));
     vinylGridEl.appendChild(card);
+
+    // Opportunistic Spotify cover lookup — when we have a token + spotify_id, fetch
+    // the real album art and slot it in to replace the procedural fallback.
+    if (!it.cover_url && it.spotify_id) {
+      fetchAlbumCover(it.spotify_id).then(url => {
+        if (!url) return;
+        it.cover_url = url; // mutate so subsequent renders use it
+        const cov = card.querySelector('.vinyl-cover');
+        if (!cov) return;
+        cov.innerHTML = `<img src="${url}" loading="lazy" alt="${escapeHtml(it.album || '')}">${it.rank ? `<div class="vinyl-rank">${it.rank}</div>` : ''}<div class="vinyl-recent-dot" data-spotify-id="${it.spotify_id}"></div>`;
+        cov.style.background = '';
+      }).catch(() => {});
+    }
   });
+}
+
+/* Procedural fallback cover — deterministic hue from artist+album hash, initials in the center.
+   Looks designed rather than broken. Used wherever cover_url is missing. */
+function makeProceduralCover(it) {
+  const s = ((it.artist || '') + '·' + (it.album || it.track || '')).toLowerCase();
+  let h = 0;
+  for (let i = 0; i < s.length; i++) h = ((h << 5) - h + s.charCodeAt(i)) | 0;
+  const hue = Math.abs(h) % 360;
+  // initials from artist words (max 2 letters)
+  const words = (it.artist || it.album || '?').split(/\s+/).filter(Boolean);
+  let initials = '';
+  if (words.length === 1) initials = words[0].slice(0, 2).toUpperCase();
+  else initials = (words[0][0] + (words[1] ? words[1][0] : '')).toUpperCase();
+  const c1 = `hsl(${hue}, 38%, 28%)`;
+  const c2 = `hsl(${(hue + 22) % 360}, 45%, 14%)`;
+  return {
+    bg: `linear-gradient(135deg, ${c1} 0%, ${c2} 100%)`,
+    initials,
+  };
+}
+
+/* One-shot Spotify album art lookup — returns the largest image URL, or null. */
+const _coverCache = new Map();
+async function fetchAlbumCover(spotifyId) {
+  if (!spotifyId) return null;
+  if (_coverCache.has(spotifyId)) return _coverCache.get(spotifyId);
+  try {
+    const tok = await getValidAccessToken();
+    if (!tok) return null;
+    const r = await spotifyFetch(`/albums/${spotifyId}`);
+    const url = r && r.images && r.images[0] && r.images[0].url;
+    if (url) _coverCache.set(spotifyId, url);
+    return url || null;
+  } catch { return null; }
 }
 
 vinylSearchEl.addEventListener('input', e => {
@@ -7207,7 +7313,11 @@ function radarNote(msg) {
    so the Taste Profile is NEVER blank. When Spotify connects, the live data takes over. */
 function renderRadarFromCanon() {
   try {
-    if (typeof Chart === 'undefined' || !window.CANON) return;
+    if (typeof Chart === 'undefined') { radarNote('— chart library blocked from loading —'); return; }
+    if (typeof CANON === 'undefined' || !Array.isArray(CANON) || !CANON.length) {
+      radarNote('— canon loading… —');
+      return;
+    }
     const counts = {};
     CANON.filter(c => c.type === 'album' && c.genre).forEach(c => {
       const g = String(c.genre).split(/[\/,;]/)[0].trim();
@@ -9464,18 +9574,17 @@ function renderSpineShelf(list, container) {
   container.appendChild(shelf);
 }
 
-/* Modify the vinyl section: add view toggle (Covers / Spines) */
+/* Modify the vinyl section: add view toggle (Covers / Spines) into the controls row */
 function installVinylViewToggle() {
-  const meta = document.querySelector('.section .section-meta .inline-btn');
-  if (!meta) return;
+  const controls = document.querySelector('.section .section-controls');
+  if (!controls) return;
   const wrap = document.createElement('span');
   wrap.className = 'view-toggle';
   wrap.innerHTML = `
     <button data-view="covers" ${vinylViewMode === 'covers' ? 'class="active"' : ''}>Covers</button>
     <button data-view="spines" ${vinylViewMode === 'spines' ? 'class="active"' : ''}>Spines</button>
   `;
-  // Insert before MANAGE CANON button
-  meta.parentNode.insertBefore(wrap, meta);
+  controls.appendChild(wrap);
   wrap.querySelectorAll('button').forEach(b => {
     b.addEventListener('click', () => {
       vinylViewMode = b.dataset.view;
@@ -9515,13 +9624,30 @@ renderCanonList = function(elId, items) {
   return _origRenderCanonList(elId, items);
 };
 
-/* ---------- SPEAKERS — pulse on play ---------- */
+/* ---------- SPEAKERS — pulse on play + tap-to-feel ---------- */
 function startSpeakerPulse() {
   document.querySelectorAll('.speaker-cab').forEach(s => s.classList.add('playing'));
 }
 function stopSpeakerPulse() {
   document.querySelectorAll('.speaker-cab').forEach(s => s.classList.remove('playing'));
 }
+// Tap a speaker → haptic buzz + short "playing" pulse to feel like you woke it up.
+// If the room is already playing, just gives the press feedback.
+document.querySelectorAll('.speaker-cab').forEach(s => {
+  s.addEventListener('click', () => {
+    if (navigator.vibrate) { try { navigator.vibrate([12, 40, 12]); } catch {} }
+    s.classList.add('tap-pulse');
+    setTimeout(() => s.classList.remove('tap-pulse'), 350);
+    if (!s.classList.contains('playing')) {
+      // brief "demo" pulse — about 1.2s so the user feels the cone breathe
+      s.classList.add('playing');
+      setTimeout(() => {
+        // only stop if the room isn't actually playing
+        if (!zsIsPlaying) s.classList.remove('playing');
+      }, 1200);
+    }
+  });
+});
 
 /* Hook into Now Playing — pulse when we have a track */
 const _origLoadNowPlaying = loadNowPlaying;
