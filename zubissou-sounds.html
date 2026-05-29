@@ -13,23 +13,34 @@
 <meta name="keywords" content="Zubissou Sounds, Zubair Jeewanjee, music dashboard, listening station, Aquarium Drunkard, vinyl canon, Spotify, personal capstone, hi-fi UI, kissa, Wes Anderson UI, music data app">
 <link rel="canonical" href="https://zubissou-sounds.pages.dev/">
 
-<!-- ===== FAVICON · inline SVG, no external file ===== -->
+<!-- ===== FAVICON · photographic mark (the pier + lighthouse photo) =====
+     Browsers pick the best size. If the photo file is missing, falls back to the inline SVG vinyl mark. -->
+<link rel="icon" type="image/jpeg" href="assets/img/zubair-pier.jpg">
 <link rel="icon" type="image/svg+xml" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%231A0F08'/><circle cx='32' cy='32' r='22' fill='none' stroke='%23E66A1F' stroke-width='2.5'/><circle cx='32' cy='32' r='14' fill='none' stroke='%23E66A1F' stroke-width='1.2' opacity='0.7'/><circle cx='32' cy='32' r='6.5' fill='%23E66A1F'/><circle cx='32' cy='32' r='1.6' fill='%231A0F08'/><text x='32' y='58' text-anchor='middle' font-family='Antonio, sans-serif' font-size='7' font-weight='700' fill='%23E8D9B5' letter-spacing='1.5'>ZS</text></svg>">
-<link rel="apple-touch-icon" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'><rect width='180' height='180' rx='36' fill='%231A0F08'/><circle cx='90' cy='90' r='64' fill='none' stroke='%23E66A1F' stroke-width='5'/><circle cx='90' cy='90' r='40' fill='none' stroke='%23E66A1F' stroke-width='2' opacity='0.7'/><circle cx='90' cy='90' r='18' fill='%23E66A1F'/><circle cx='90' cy='90' r='4' fill='%231A0F08'/></svg>">
+<link rel="apple-touch-icon" href="assets/img/zubair-pier.jpg">
 
 <!-- ===== OPEN GRAPH ===== -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Zubissou Sounds">
-<meta property="og:title" content="Zubissou Sounds · The Listening Station">
+<meta property="og:title" content="Zubissou Listening · A private listening room">
 <meta property="og:description" content="A private listening room for the always-on era. Seven-knob taste console, top-100 vinyl canon, fingerprint analytics across Aquarium Drunkard / Derrick Gee / XRAY.fm. Built by Zubair Jeewanjee.">
 <meta property="og:url" content="https://zubissou-sounds.pages.dev/">
 <meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://zubissou-sounds.pages.dev/assets/img/zubair-pier.jpg">
+<meta property="og:image:alt" content="Zubair on a pier in the Red Sea, guitar on his lap, lighthouse in the distance.">
 
 <!-- ===== TWITTER CARD ===== -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Zubissou Sounds · The Listening Station">
+<meta name="twitter:title" content="Zubissou Listening · A private listening room">
 <meta name="twitter:description" content="A private listening room — seven-knob taste console, top-100 vinyl canon, fingerprint analytics, Spotify-connected. Built by Zubair Jeewanjee.">
 <meta name="twitter:creator" content="@zubairjeewanjee">
+<meta name="twitter:image" content="https://zubissou-sounds.pages.dev/assets/img/zubair-pier.jpg">
+<meta name="twitter:image:alt" content="Zubair on a pier in the Red Sea, guitar on his lap, lighthouse in the distance.">
+
+<!-- ===== EXTRAS for completeness ===== -->
+<meta name="robots" content="index, follow">
+<meta name="format-detection" content="telephone=no">
+<meta name="color-scheme" content="light dark">
 
 <!-- ===== JSON-LD · Creative Work ===== -->
 <script type="application/ld+json">
@@ -2919,15 +2930,17 @@ html[data-mode="night"] .collapse-toggle:hover { background: var(--brass-deep); 
   /* INTENT BAR — comfortable type */
   .intent { font-size: 13.5px; padding: 11px 14px; }
 
-  /* ----- KNOBS (notes 6 + 7: 7th spans wide, knobs sized up for thumb accuracy) ----- */
+  /* ----- KNOBS (notes 6 + 7: 7th spans wide row centered, ALL knobs same size) ----- */
   .knobs-grid { gap: 14px 12px; }
   .knob-cell { padding: 10px 8px; }
-  .knob { width: 76px; height: 76px; }   /* +27% touch surface vs desktop's 60px */
+  .knob { width: 76px; height: 76px; }   /* +27% touch surface vs desktop's 60px — uniform for all 7 */
   .knob-label { font-size: 12px; }
+  /* 7th cell (PLACE) gets its own row, centered — same dimensions as the others.
+     Width inherits from a regular cell so it stays consistent; we just center it. */
   .knobs-grid > .knob-cell:nth-child(7) {
     grid-column: 1 / -1;
     justify-self: center;
-    max-width: 50%;
+    width: calc(50% - 6px);   /* matches the natural cell width — half-row minus gap */
   }
 
   /* ----- MODE SWITCH (note 9: slide toggle, compact) ----- */
@@ -4110,14 +4123,65 @@ html[data-mode="night"] .window-frame {
   margin-bottom: 18px;
   font-family: 'Big Shoulders Display', 'Antonio', sans-serif;
 }
+/* The ZS mark — pure CSS flip-card. Triple-tap (or three quick clicks) flips it
+   to reveal the author photo. A subtle Easter egg you find once and remember. */
 .colophon-mark {
+  position: relative;
+  display: inline-block;
+  width: 32px; height: 32px;
+  border: none; padding: 0; margin: 0;
+  background: transparent;
+  cursor: pointer;
+  perspective: 600px;
+  -webkit-tap-highlight-color: transparent;
+}
+.colophon-mark .cm-front,
+.colophon-mark .cm-back {
+  position: absolute; inset: 0;
   display: inline-flex; align-items: center; justify-content: center;
-  width: 30px; height: 30px;
-  background: var(--ink); color: var(--vu-cream);
   border-radius: 5px;
   font-weight: 900; font-size: 13px; letter-spacing: 0.06em;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  transition: transform 600ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-html[data-mode="night"] .colophon-mark { background: var(--amber-deep); color: #1A0F08; }
+.colophon-mark .cm-front {
+  background: var(--ink); color: var(--vu-cream);
+}
+.colophon-mark .cm-back {
+  background-size: cover; background-position: center;
+  transform: rotateY(180deg);
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,0.18);
+}
+.colophon-mark.flipped .cm-front { transform: rotateY(180deg); }
+.colophon-mark.flipped .cm-back  { transform: rotateY(360deg); }
+html[data-mode="night"] .colophon-mark .cm-front { background: var(--amber-deep); color: #1A0F08; }
+
+/* Subtle hover hint — the corner shifts so you know it's interactive. */
+.colophon-mark:hover .cm-front { background: var(--brass-deep); }
+.colophon-mark:focus-visible { outline: 2px solid var(--amber); outline-offset: 2px; border-radius: 6px; }
+@media (prefers-reduced-motion: reduce) {
+  .colophon-mark .cm-front, .colophon-mark .cm-back { transition: none; }
+}
+
+/* Author avatar — a circular crop of the photo, sits beside "Built by".
+   Reads like a record-sleeve back-flap portrait. */
+.author-avatar {
+  display: inline-block;
+  flex: 0 0 auto;
+  width: 56px; height: 56px;
+  border-radius: 50%;
+  background-size: cover; background-position: 36% 32%;  /* keeps the face centered */
+  border: 2px solid var(--brass-deep);
+  box-shadow: 0 2px 6px rgba(0,0,0,0.18), inset 0 0 0 1px rgba(255,255,255,0.25);
+  transition: transform 280ms cubic-bezier(0.4,0,0.2,1), box-shadow 280ms ease;
+  filter: saturate(0.92);  /* gentle, sun-faded — matches the Wes Anderson palette */
+}
+.author-avatar:hover { transform: scale(1.04); box-shadow: 0 4px 10px rgba(0,0,0,0.22); }
+html[data-mode="night"] .author-avatar { border-color: var(--brass); filter: saturate(0.85) brightness(0.95); }
+@media (max-width: 560px) {
+  .author-avatar { width: 48px; height: 48px; }
+}
 .colophon-title {
   font-weight: 800; font-size: 13px; letter-spacing: 0.28em;
   color: var(--ink);
@@ -4960,7 +5024,13 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
     <section class="section colophon">
       <div class="colophon-rule"></div>
       <div class="colophon-mast">
-        <span class="colophon-mark">ZS</span>
+        <button class="colophon-mark" id="colophon-mark" type="button"
+                aria-label="Brand mark — triple tap to flip"
+                title="">
+          <span class="cm-front">ZS</span>
+          <span class="cm-back" aria-hidden="true"
+                style="background-image:url('assets/img/zubair-pier.jpg');"></span>
+        </button>
         <span class="colophon-title">ZUBISSOU LISTENING</span>
         <span class="colophon-edition">FIRST EDITION · ZS-001 · 2026</span>
       </div>
@@ -4971,11 +5041,16 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
         shows on XRAY.fm. Spotify is the speaker; the room is the brain.
       </p>
       <div class="colophon-grid">
-        <div class="colophon-block">
+        <div class="colophon-block colophon-builtby">
           <div class="colophon-h">Built by</div>
-          <div class="colophon-body">
-            Zubair Jeewanjee · product, design, code.<br>
-            A personal capstone. Single HTML file, ~8,300 lines. No backend, no analytics, no ads.
+          <div class="colophon-body" style="display:flex; gap:14px; align-items:flex-start;">
+            <span class="author-avatar" aria-hidden="true"
+                  style="background-image:url('assets/img/zubair-pier.jpg');"
+                  title="The author, somewhere in the Red Sea."></span>
+            <span>
+              Zubair Jeewanjee · product, design, code.<br>
+              A personal capstone. Single HTML file, ~8,900 lines. No backend, no analytics, no ads.
+            </span>
           </div>
         </div>
         <div class="colophon-block">
@@ -8845,6 +8920,26 @@ document.addEventListener('keydown', e => {
     });
   }
 });
+
+/* ---------- COLOPHON · ZS mark Easter egg ----------
+   Triple-tap (or three quick clicks within 700ms) the ZS mark to flip it,
+   revealing the author photo. Tap again to flip back. The casual visitor
+   never finds it — friends and recruiters who play with the page do. */
+(function installColophonMarkEgg() {
+  const mark = document.getElementById('colophon-mark');
+  if (!mark) return;
+  let taps = [];
+  mark.addEventListener('click', () => {
+    const now = Date.now();
+    taps = taps.filter(t => now - t < 700);
+    taps.push(now);
+    if (taps.length >= 3) {
+      mark.classList.toggle('flipped');
+      taps = [];
+      if (typeof logTelemetry === 'function') logTelemetry('colophon_mark_flip', { state: mark.classList.contains('flipped') ? 'photo' : 'mark' });
+    }
+  });
+})();
 
 /* ---------- COLLAPSIBLE SECTIONS (mobile) ----------
    Auto-wire any `<section class="collapsible-mobile" data-collapse-id="...">`.
