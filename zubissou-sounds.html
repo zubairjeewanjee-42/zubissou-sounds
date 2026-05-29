@@ -676,19 +676,27 @@ html[data-mode="night"] .window-frame { border-color: var(--walnut); }
   .scene-beach.has-image .scene-image-overlay::after { animation: none; opacity: 0; }
 }
 
-/* ===== MOBILE SCENE CROP — beach + city need to zoom in for more detail ===== */
+/* ===== MOBILE SCENE CROP — beach + city framed independently ===== */
 @media (max-width: 560px) {
-  .scene-beach.has-image .scene-image-overlay,
+  /* BEACH — shift LEFT 30% (toward 20% x), UP to catch the family + dog */
+  .scene-beach.has-image .scene-image-overlay {
+    background-size: 175%;
+    background-position: 20% 32%;    /* left + up */
+  }
+  /* CITY — shift DOWN ~15% to reveal more water (50% → 65% y) */
   .scene-city.has-image .scene-image-overlay {
-    background-size: 175%;          /* zoom in ~75% past cover */
-    background-position: 55% 45%;   /* keep skyline + island in frame */
+    background-size: 175%;
+    background-position: 55% 65%;
   }
 }
 @media (max-width: 400px) {
-  .scene-beach.has-image .scene-image-overlay,
+  .scene-beach.has-image .scene-image-overlay {
+    background-size: 195%;
+    background-position: 18% 30%;
+  }
   .scene-city.has-image .scene-image-overlay {
-    background-size: 195%;          /* tighter for narrow phones */
-    background-position: 58% 45%;
+    background-size: 195%;
+    background-position: 58% 68%;
   }
 }
 /* Hide ALL CSS-art children of every scene, always. The window shows either
@@ -1689,17 +1697,32 @@ html[data-mode="night"] .speaker-dust-cap {
   pointer-events: none;
   transition: box-shadow 80ms ease-out;
 }
-.speaker-cab.playing .speaker-cone { animation: speakerPulse 0.5s ease-in-out infinite alternate; }
+.speaker-cab.playing .speaker-cone { animation: speakerPulse 0.42s cubic-bezier(0.32, 0, 0.18, 1) infinite alternate; }
 .speaker-cab.playing .speaker-pulse-shadow {
-  animation: speakerHalo 0.5s ease-in-out infinite alternate;
+  animation: speakerHalo 0.42s ease-in-out infinite alternate;
 }
 @keyframes speakerPulse {
   0%   { transform: scale(1); }
-  100% { transform: scale(1.025); }
+  100% { transform: scale(1.08); }   /* visible cone throw — was a tiny 1.025 */
 }
 @keyframes speakerHalo {
   0%   { box-shadow: 0 0 0 0 rgba(255, 130, 50, 0); }
-  100% { box-shadow: 0 0 18px 4px rgba(255, 130, 50, 0.35); }
+  100% { box-shadow: 0 0 28px 8px rgba(255, 130, 50, 0.55); }
+}
+/* Idle breath when not playing — barely perceptible, just so the room feels on */
+@media (prefers-reduced-motion: no-preference) {
+  .speaker-cab:not(.playing) .speaker-cone {
+    animation: speakerIdle 3.4s ease-in-out infinite alternate;
+  }
+}
+@keyframes speakerIdle {
+  0%   { transform: scale(1); }
+  100% { transform: scale(1.012); }
+}
+/* Right speaker phase-shifted slightly so they don't pulse in perfect lock — stereo feel */
+.speaker-cab#speaker-R.playing .speaker-cone,
+.speaker-cab#speaker-R.playing .speaker-pulse-shadow {
+  animation-delay: 0.08s;
 }
 .speaker-nameplate {
   position: absolute;
@@ -2359,12 +2382,50 @@ html[data-mode="night"] .knob-auto-dot { color: rgba(120, 200, 150, 0.85); }
 }
 .knob:active { cursor: grabbing; }
 .knob:hover { transform: translateY(-1px); }
-.knob.touched {
-  box-shadow: 2px 4px 0 rgba(0, 0, 0, 0.12), 0 0 0 2px var(--amber);
+
+/* ===== Knob state glows — green = AUTO (untouched), red = TOUCHED (user-dialed) =====
+   Reads like a hi-fi tape deck: a green pilot lamp when the channel's on automatic,
+   a red one when the operator's taken the wheel. */
+.knob {
+  box-shadow:
+    2px 4px 0 rgba(0, 0, 0, 0.12),
+    0 0 0 2px rgba(76, 175, 88, 0.55),
+    0 0 8px rgba(76, 175, 88, 0.35);
 }
-html[data-mode="night"] .knob { box-shadow: 2px 4px 0 rgba(0, 0, 0, 0.45); }
+.knob.touched {
+  box-shadow:
+    2px 4px 0 rgba(0, 0, 0, 0.12),
+    0 0 0 2px rgba(216, 56, 50, 0.85),
+    0 0 10px rgba(216, 56, 50, 0.55);
+}
+html[data-mode="night"] .knob {
+  box-shadow:
+    2px 4px 0 rgba(0, 0, 0, 0.45),
+    0 0 0 2px rgba(76, 175, 88, 0.70),
+    0 0 12px rgba(76, 175, 88, 0.55);
+}
 html[data-mode="night"] .knob.touched {
-  box-shadow: 2px 4px 0 rgba(0, 0, 0, 0.45), 0 0 0 2px var(--amber), 0 0 10px var(--amber);
+  box-shadow:
+    2px 4px 0 rgba(0, 0, 0, 0.45),
+    0 0 0 2px rgba(232, 88, 80, 0.95),
+    0 0 14px rgba(232, 88, 80, 0.70);
+}
+@media (prefers-reduced-motion: no-preference) {
+  /* Soft breathing pulse on AUTO so it reads "the room is listening" */
+  .knob:not(.touched) {
+    animation: knobAutoBreathe 3.6s ease-in-out infinite;
+  }
+}
+@keyframes knobAutoBreathe {
+  0%, 100% { box-shadow: 2px 4px 0 rgba(0, 0, 0, 0.12), 0 0 0 2px rgba(76, 175, 88, 0.55), 0 0 8px rgba(76, 175, 88, 0.35); }
+  50%      { box-shadow: 2px 4px 0 rgba(0, 0, 0, 0.12), 0 0 0 2px rgba(76, 175, 88, 0.70), 0 0 12px rgba(76, 175, 88, 0.55); }
+}
+html[data-mode="night"] .knob:not(.touched) {
+  animation-name: knobAutoBreatheNight;
+}
+@keyframes knobAutoBreatheNight {
+  0%, 100% { box-shadow: 2px 4px 0 rgba(0,0,0,0.45), 0 0 0 2px rgba(76, 175, 88, 0.70), 0 0 12px rgba(76, 175, 88, 0.55); }
+  50%      { box-shadow: 2px 4px 0 rgba(0,0,0,0.45), 0 0 0 2px rgba(76, 175, 88, 0.85), 0 0 18px rgba(76, 175, 88, 0.75); }
 }
 
 /* Single crescent highlight on the top-left — flat illustrative */
@@ -2818,35 +2879,81 @@ html[data-mode="night"] .mode-switch .ms-track { background: rgba(0,0,0,0.40); b
   margin: 0 auto 10px;
 }
 
-/* DIALED · PYRAMID HOURS — currently-active preset feedback */
+/* DIALED · STRAY HOUR — currently-active preset feedback.
+   Sized to MATCH the RECORDS/SETS toggle footprint for symmetry. Bright amber
+   glow + high-contrast text so it stays legible against the night-mode wood. */
 .dialed-pill {
   display: none;
-  align-items: center; gap: 7px;
+  align-items: center; gap: 9px;
   font-family: 'Big Shoulders Display', 'Antonio', sans-serif;
   font-weight: 800;
-  font-size: 10px;
+  font-size: 11px;
   letter-spacing: 0.22em;
   text-transform: uppercase;
-  color: var(--amber-deep);
-  background: linear-gradient(180deg, rgba(230,106,31,0.10) 0%, rgba(230,106,31,0.18) 100%);
-  border: 1px solid rgba(230, 106, 31, 0.45);
-  border-radius: 6px;
-  padding: 4px 10px;
-  animation: dialedFade 320ms cubic-bezier(0.4, 0, 0.2, 1);
+  color: #1A0F08;
+  background: linear-gradient(180deg, #FFC787 0%, var(--amber) 55%, var(--amber-deep) 100%);
+  border: 1px solid var(--amber-deep);
+  border-radius: 14px;
+  padding: 7px 14px;
+  min-height: 30px;                 /* matches mode-switch track height */
+  box-shadow:
+    inset 0 1px 1px rgba(255, 230, 180, 0.65),
+    inset 0 -1px 2px rgba(0,0,0,0.18),
+    0 0 10px rgba(230, 106, 31, 0.55),
+    0 0 22px rgba(230, 106, 31, 0.30),
+    0 2px 4px rgba(0,0,0,0.18);
+  animation: dialedFade 320ms cubic-bezier(0.4, 0, 0.2, 1), dialedBreathe 3.2s ease-in-out infinite 320ms;
 }
 .dialed-pill.visible { display: inline-flex; }
 .dialed-pill .dialed-led {
-  width: 6px; height: 6px; border-radius: 50%;
-  background: #E66A1F;
-  box-shadow: 0 0 5px rgba(230, 106, 31, 0.9);
+  width: 8px; height: 8px; border-radius: 50%;
+  background: #FFF2CC;
+  box-shadow:
+    0 0 5px #FFD08A,
+    0 0 10px rgba(255, 200, 100, 0.85),
+    inset 0 0 2px rgba(255,255,255,0.7);
 }
-.dialed-pill .dialed-name { font-style: normal; font-family: 'Lora', serif; font-style: italic; font-weight: 500; letter-spacing: 0.04em; text-transform: none; color: var(--ink); }
-html[data-mode="night"] .dialed-pill .dialed-name { color: var(--vu-cream); }
+.dialed-pill .dialed-name {
+  font-family: 'Lora', serif;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  color: #1A0F08;
+  text-shadow: 0 1px 0 rgba(255, 230, 180, 0.45);
+}
+/* NIGHT mode — keep the warm amber face; the high contrast against ink works in both themes. */
+html[data-mode="night"] .dialed-pill {
+  box-shadow:
+    inset 0 1px 1px rgba(255, 230, 180, 0.7),
+    inset 0 -1px 2px rgba(0,0,0,0.25),
+    0 0 14px rgba(230, 106, 31, 0.75),
+    0 0 30px rgba(230, 106, 31, 0.40),
+    0 2px 5px rgba(0,0,0,0.30);
+}
+html[data-mode="night"] .dialed-pill .dialed-name { color: #1A0F08; }
 @keyframes dialedFade {
-  from { opacity: 0; transform: translateY(-2px); }
-  to   { opacity: 1; transform: translateY(0); }
+  from { opacity: 0; transform: translateY(-3px) scale(0.96); }
+  to   { opacity: 1; transform: translateY(0) scale(1); }
 }
-@media (prefers-reduced-motion: reduce) { .dialed-pill { animation: none; } }
+@keyframes dialedBreathe {
+  0%, 100% { box-shadow:
+    inset 0 1px 1px rgba(255, 230, 180, 0.65),
+    inset 0 -1px 2px rgba(0,0,0,0.18),
+    0 0 10px rgba(230, 106, 31, 0.55),
+    0 0 22px rgba(230, 106, 31, 0.30),
+    0 2px 4px rgba(0,0,0,0.18); }
+  50%      { box-shadow:
+    inset 0 1px 1px rgba(255, 230, 180, 0.75),
+    inset 0 -1px 2px rgba(0,0,0,0.18),
+    0 0 16px rgba(230, 106, 31, 0.85),
+    0 0 32px rgba(230, 106, 31, 0.50),
+    0 2px 4px rgba(0,0,0,0.18); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .dialed-pill { animation: dialedFade 320ms cubic-bezier(0.4, 0, 0.2, 1); }
+}
 
 /* The Sets panel — appears under the toggle when mode=sets and matches exist */
 .sets-panel {
@@ -2896,6 +3003,51 @@ html[data-mode="night"] .set-chip { background: rgba(0,0,0,0.32); color: var(--v
   display: flex; align-items: stretch; gap: 8px;
   flex-wrap: wrap;
 }
+/* ===== DEVICE PICKER — Spotify Connect device list ===== */
+.status-devices {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 10px;
+  letter-spacing: 0.05em;
+  color: var(--walnut-soft);
+  background: transparent;
+  border: none;
+  padding: 2px 2px;
+  cursor: pointer;
+  text-transform: none;
+  transition: color 120ms ease, transform 120ms ease, opacity 120ms ease;
+}
+.status-devices:hover { color: var(--walnut); transform: translateY(-1px); }
+.status-devices:hover .status-led { background: var(--brass); box-shadow: 0 0 5px var(--brass); opacity: 0.85; }
+.status-devices:active { transform: scale(0.95); transition-duration: 40ms; }
+html[data-mode="night"] .status-devices { color: var(--vu-cream); }
+
+.device-row {
+  display: flex; align-items: center; gap: 12px;
+  width: 100%;
+  padding: 12px 14px;
+  margin-bottom: 8px;
+  background: var(--vu-cream);
+  border: 1px solid var(--brass-deep);
+  border-radius: 4px;
+  cursor: pointer;
+  text-align: left;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 13px;
+  color: var(--ink);
+  transition: background 160ms ease, transform 60ms ease, box-shadow 160ms ease, border-color 160ms ease;
+}
+.device-row:hover { background: var(--brass); color: var(--vu-cream); transform: translateY(-1px); box-shadow: 0 2px 5px rgba(184, 80, 21, 0.25); }
+.device-row:active { transform: translateY(0) scale(0.98); transition-duration: 30ms; }
+.device-row.is-active { border-color: var(--green-on); box-shadow: 0 0 6px rgba(76,175,88,0.35); }
+.device-row.is-preferred { background: var(--amber-soft); border-color: var(--amber-deep); }
+.device-row .device-icon { font-size: 20px; flex-shrink: 0; }
+.device-row .device-name { flex: 1 1 auto; font-weight: 600; }
+.device-row .device-meta { font-size: 10px; letter-spacing: 0.10em; text-transform: uppercase; color: var(--ink-soft); }
+html[data-mode="night"] .device-row { background: rgba(0,0,0,0.30); color: var(--vu-cream); }
+html[data-mode="night"] .device-row:hover { background: var(--brass-deep); }
+html[data-mode="night"] .device-row.is-preferred { background: rgba(230, 106, 31, 0.25); }
+html[data-mode="night"] .device-row .device-meta { color: rgba(232,217,181,0.6); }
+
 /* ===== COLLAPSIBLE SECTIONS (mobile only) =====
    Heavy sections (Vinyl Wall, My Spotify Playlists) collapse on mobile so the
    page isn't endless. Header stays visible; tap the chevron to expand/collapse. */
@@ -3181,6 +3333,7 @@ html[data-mode="night"] .status-connect { color: var(--vu-cream); }
 .status-pill:nth-child(2) .status-led.on { background: var(--pol-mustard); box-shadow: 0 0 6px var(--pol-mustard); }
 .status-pill:nth-child(3) .status-led.on { background: var(--pol-teal);    box-shadow: 0 0 6px var(--pol-teal); }
 .status-pill:nth-child(4) .status-led.on { background: var(--pol-orange);  box-shadow: 0 0 6px var(--pol-orange); }
+.status-pill:nth-child(5) .status-led.on { background: var(--brass);       box-shadow: 0 0 6px var(--brass); }
 
 /* Status pill text glow when LED is on — JS toggles `.live` on the pill so we
    don't depend on :has() selector support. */
@@ -3196,11 +3349,20 @@ html[data-mode="night"] .status-connect { color: var(--vu-cream); }
 .section {
   margin-top: 38px;
 }
+/* ===== SECTION HEADER — uniform grid layout, no shifty meta ====================
+   Two columns: title on the left (1fr), meta on the right (fixed-ish, right-aligned).
+   The meta block has a defined max-width and consistent line-height so it occupies
+   a predictable footprint regardless of copy length. Symmetry across all sections.
+   ============================================================================ */
 .section-header {
-  display: flex; align-items: baseline; justify-content: space-between;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 38%);
+  column-gap: 20px;
+  align-items: end;
   margin-bottom: 14px;
   border-bottom: 1px solid var(--brass-deep);
-  padding-bottom: 6px;
+  padding-bottom: 8px;
+  min-height: 38px;
 }
 .section-title {
   font-family: 'Record Laser', 'Big Shoulders Display', 'Antonio', sans-serif;
@@ -3210,6 +3372,8 @@ html[data-mode="night"] .status-connect { color: var(--vu-cream); }
   color: var(--ink);
   text-transform: uppercase;
   line-height: 0.95;
+  align-self: end;
+  min-width: 0;
 }
 .modal h2 {
   font-weight: 900;
@@ -3220,6 +3384,30 @@ html[data-mode="night"] .status-connect { color: var(--vu-cream); }
   font-size: 11px;
   color: var(--ink-soft);
   letter-spacing: 0.05em;
+  line-height: 1.5;
+  text-align: right;
+  align-self: end;
+  justify-self: end;
+  max-width: 100%;
+}
+/* Inline buttons / links inside meta (e.g. MANAGE CANON) stay aligned with the text */
+.section-meta .inline-btn { vertical-align: baseline; margin-left: 4px; }
+
+/* On mobile, meta drops to its own row beneath the title for readability,
+   still right-aligned, with consistent vertical rhythm. */
+@media (max-width: 720px) {
+  .section-header {
+    grid-template-columns: 1fr;
+    row-gap: 6px;
+    align-items: start;
+  }
+  .section-title { font-size: 19px; letter-spacing: 0.14em; }
+  .section-meta {
+    text-align: left;
+    justify-self: start;
+    font-size: 10.5px;
+    line-height: 1.45;
+  }
 }
 
 /* ===== PELÉ CARD ===== */
@@ -4884,6 +5072,7 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
           <div class="status-pill live live-canon" id="pill-canon"><span class="status-led on" id="led-canon"></span><span>CANON <span id="canon-count">—</span></span></div>
           <div class="status-pill" id="pill-weather"><span class="status-led" id="led-weather"></span><span>WEATHER</span></div>
           <div class="status-pill" id="pill-radio"><span class="status-led" id="led-radio"></span><span>RADIO</span></div>
+          <button class="status-pill status-devices" id="devices-btn" title="Choose which Spotify device plays the sound"><span class="status-led" id="led-devices"></span><span id="devices-label">DEVICES</span></button>
         </div>
       </div>
 
@@ -5271,6 +5460,21 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
 
       <h3>Coda</h3>
       <p>Music means something here. Treat the station like a hi-fi you respect: take time to dial in, listen on good speakers, sit with one album before moving to the next. <em>—&nbsp;Z.</em></p>
+    </div>
+  </div>
+
+  <!-- ===== DEVICES MODAL — pick which Spotify device plays the sound ===== -->
+  <div class="modal-backdrop" id="devices-modal" aria-hidden="true">
+    <div class="modal">
+      <button class="modal-close" data-close="devices-modal">CLOSE ×</button>
+      <h2>Devices<small>which Spotify device should the room play through?</small></h2>
+      <div id="devices-help" class="mono" style="font-size:12px; color:var(--ink-soft); margin-bottom:14px; line-height:1.5;"></div>
+      <div id="devices-list"></div>
+      <div style="margin-top:14px; font-family:'Lora',serif; font-style:italic; font-size:12px; color:var(--ink-soft);">
+        Don't see your phone or speaker? Open the Spotify app there, play any track for a second,
+        then come back here and tap REFRESH.
+      </div>
+      <button class="aux-btn" id="devices-refresh-btn" style="margin-top:14px;">REFRESH</button>
     </div>
   </div>
 
@@ -6729,26 +6933,68 @@ function promoteSongToCanon(item) {
   return true;
 }
 
-function animateVuToBpm(durationMs) {
-  // Gently oscillate the VU needle while playing. Stops on stopVuAnim().
+/* VU needle — driven by a beat-modulated random walk while playing.
+   Spotify Web API doesn't give us raw audio levels, so we simulate the swing
+   pattern of a real meter: small constant ticks, occasional big peaks, drift back. */
+function animateVuToBpm(bpm) {
   const n = document.getElementById('vu-needle');
   if (!n) return;
-  if (n._anim) return; // already running
+  if (n._anim) return;
+  const beatMs = 60000 / (bpm || 96);   // default to ~96 BPM if no track BPM available
   let phase = 0;
+  let target = 0;
+  let current = -45;
   n._anim = setInterval(() => {
-    phase += 0.1;
-    const v = Math.sin(phase) * 30 + Math.sin(phase * 3.1) * 10;
-    n.style.transform = `rotate(${v}deg)`;
-  }, 80);
+    phase += 0.18;
+    // Modulate: slow sine carrier + faster harmonic + random transients on the beat
+    const beatPhase = (Date.now() % beatMs) / beatMs;
+    const beatKick = beatPhase < 0.12 ? 25 : 0;  // hit on each downbeat
+    const carrier = Math.sin(phase) * 22;
+    const harmonic = Math.sin(phase * 2.7) * 12;
+    const noise = (Math.random() - 0.5) * 14;
+    target = carrier + harmonic + beatKick + noise;
+    // Smooth toward target so we don't twitch like a square wave
+    current += (target - current) * 0.35;
+    n.style.transform = `rotate(${current.toFixed(1)}deg)`;
+  }, 60);
 }
 function stopVuAnim() {
   const n = document.getElementById('vu-needle');
   if (!n) return;
   if (n._anim) { clearInterval(n._anim); n._anim = null; }
-  // Reset needle to resting (-45° = far left, like a real VU at silence)
-  n.style.transition = 'transform 400ms ease-out';
-  n.style.transform = 'rotate(-45deg)';
-  setTimeout(() => { n.style.transition = 'transform 80ms ease-out'; }, 500);
+  // Drift back to idle resting position (~-40°), then start a subtle idle wiggle
+  n.style.transition = 'transform 600ms cubic-bezier(0.4, 0, 0.2, 1)';
+  n.style.transform = 'rotate(-40deg)';
+  setTimeout(() => { n.style.transition = 'transform 80ms ease-out'; startVuIdle(); }, 650);
+}
+/* Idle drift — when nothing is playing, give the needle a faint heartbeat so
+   the console doesn't feel dead. ±4° at 1.5s period. */
+function startVuIdle() {
+  const n = document.getElementById('vu-needle');
+  if (!n || n._anim || n._idle) return;
+  let p = 0;
+  n._idle = setInterval(() => {
+    p += 0.06;
+    const v = -40 + Math.sin(p) * 3.5 + Math.sin(p * 2.3) * 1.5;
+    n.style.transform = `rotate(${v.toFixed(1)}deg)`;
+  }, 120);
+}
+function stopVuIdle() {
+  const n = document.getElementById('vu-needle');
+  if (!n) return;
+  if (n._idle) { clearInterval(n._idle); n._idle = null; }
+}
+/* Wrap the playing animation so it also kills idle */
+const _origAnimateVu = animateVuToBpm;
+animateVuToBpm = function(bpm) {
+  stopVuIdle();
+  _origAnimateVu(bpm);
+};
+/* Boot idle as soon as the DOM is ready */
+if (document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', () => setTimeout(startVuIdle, 800));
+} else {
+  setTimeout(startVuIdle, 800);
 }
 
 /* ---------- TOP TRACKS / ARTISTS ---------- */
@@ -6892,6 +7138,58 @@ function radarNote(msg) {
   let n = panel.querySelector('.radar-note');
   if (!n) { n = document.createElement('div'); n.className = 'radar-note muted'; n.style.cssText = 'padding:8px 0;font-size:11px;text-align:center;'; panel.appendChild(n); }
   n.textContent = msg;
+}
+
+/* Render a radar from the canon (no Spotify needed) — used as the page-load default
+   so the Taste Profile is NEVER blank. When Spotify connects, the live data takes over. */
+function renderRadarFromCanon() {
+  try {
+    if (typeof Chart === 'undefined' || !window.CANON) return;
+    const counts = {};
+    CANON.filter(c => c.type === 'album' && c.genre).forEach(c => {
+      const g = String(c.genre).split(/[\/,;]/)[0].trim();
+      if (g) counts[g] = (counts[g] || 0) + 1;
+    });
+    const top = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 8);
+    if (!top.length) { radarNote('— connect Spotify to plot your taste fingerprint —'); return; }
+
+    const ctx = document.getElementById('radar-chart')?.getContext('2d');
+    if (!ctx) return;
+    const labels = top.map(([g]) => g.replace(/\b\w/g, c => c.toUpperCase()));
+    const data = top.map(([, n]) => n);
+    const ink = getComputedStyle(document.documentElement).getPropertyValue('--ink').trim() || '#0F0E0C';
+    const brass = getComputedStyle(document.documentElement).getPropertyValue('--brass').trim() || '#B8924F';
+    if (radarChart) radarChart.destroy();
+    radarChart = new Chart(ctx, {
+      type: 'radar',
+      data: {
+        labels,
+        datasets: [{
+          label: 'Canon genres',
+          data,
+          backgroundColor: 'rgba(184, 146, 79, 0.25)',
+          borderColor: brass,
+          borderWidth: 2,
+          pointBackgroundColor: brass,
+          pointRadius: 3
+        }]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          r: {
+            beginAtZero: true,
+            ticks: { display: false },
+            grid: { color: 'rgba(184, 146, 79, 0.2)' },
+            angleLines: { color: 'rgba(184, 146, 79, 0.2)' },
+            pointLabels: { color: ink, font: { family: 'Antonio', size: 10, weight: '500' } }
+          }
+        },
+        plugins: { legend: { display: false } }
+      }
+    });
+    radarNote('— from your canon · connect Spotify for live activity —');
+  } catch (e) { console.warn('[ZS] canon radar failed', e); }
 }
 async function loadRadar() {
   // Spotify deprecated /audio-features for new apps (Nov 2024). Build the taste
@@ -7213,19 +7511,37 @@ async function startPlayback(body, target) {
   throw new Error('Device not found after retries');
 }
 
+/* iOS Safari can't host the Spotify Web Playback SDK (Spotify's own constraint).
+   On iOS we must push playback to an external device — the phone's native Spotify
+   app, a desktop, a Connect speaker, etc. Detect and route accordingly. */
+function isIOS() {
+  const ua = navigator.userAgent || '';
+  // iPhone / iPod, AND iPad on iOS 13+ which reports as "MacIntel" + touch
+  return /iPad|iPhone|iPod/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+}
+function isMobileSafari() {
+  const ua = navigator.userAgent || '';
+  return isIOS() && /Safari/.test(ua) && !/CriOS|FxiOS|EdgiOS/.test(ua);
+}
+
 async function pickDevice() {
-  // Prefer an EXTERNAL device (Spotify desktop / phone) so playback survives the
-  // browser closing or losing focus. Fall back to the in-browser SDK only if
-  // no real device is available.
+  // 1) Prefer the user's explicitly-chosen device (set via the DEVICES picker)
+  const preferredId = localStorage.getItem('zs:preferred_device_id');
   const devs = await spotifyFetch('/me/player/devices').catch(() => null);
   const list = (devs && devs.devices) || [];
-  // External = anything that's not our own browser SDK device.
+  if (preferredId) {
+    const found = list.find(d => d.id === preferredId);
+    if (found) return found;
+  }
+  // 2) Otherwise prefer an EXTERNAL device (Spotify desktop / phone / speaker)
+  //    so playback survives the browser closing or losing focus.
   const externals = list.filter(d => d.id && d.id !== window.zsBrowserDeviceId);
   if (externals.length) {
     return externals.find(d => d.is_active) || externals[0];
   }
+  // 3) Last resort — our own in-browser SDK device (desktop only)
   if (window.zsBrowserDeviceId) {
-    return { id: window.zsBrowserDeviceId, name: 'Zubissou Sounds (this browser)', is_active: true };
+    return { id: window.zsBrowserDeviceId, name: 'Zubissou Listening (this browser)', is_active: true };
   }
   return null;
 }
@@ -7234,10 +7550,105 @@ function explainSpotifyError(e) {
   const msg = String(e && e.message || e);
   if (/401/.test(msg)) return 'Token expired — click CONNECT to re-auth.';
   if (/403/.test(msg)) return 'Premium required for playback control.';
-  if (/404/.test(msg) || /NO_ACTIVE_DEVICE/i.test(msg)) return 'No active Spotify device — open Spotify, or reload this page so the in-browser player can become the device.';
+  if (/404/.test(msg) || /NO_ACTIVE_DEVICE/i.test(msg)) {
+    return isIOS()
+      ? 'No Spotify device active. Open the Spotify app on this phone, start any track, then press PLAY here.'
+      : 'No active Spotify device — open Spotify, or reload this page so the in-browser player can become the device.';
+  }
   if (/network/i.test(msg)) return 'Network issue.';
   return 'Spotify: ' + msg;
 }
+
+/* ========================================================================
+   DEVICES PICKER — choose which Spotify device the dashboard plays through.
+   Critical on iOS Safari (Web Playback SDK is desktop-only) — the user has
+   to push playback to their phone's native Spotify app or a Connect speaker.
+   ======================================================================== */
+async function loadDevicesIntoPicker() {
+  const list = document.getElementById('devices-list');
+  const help = document.getElementById('devices-help');
+  const ledDevices = document.getElementById('led-devices');
+  const label = document.getElementById('devices-label');
+  if (!list || !help) return;
+  const tok = await getValidAccessToken();
+  if (!tok) {
+    list.innerHTML = '';
+    help.innerHTML = `<em>Connect Spotify first.</em>`;
+    if (ledDevices) ledDevices.classList.remove('on');
+    if (label) label.textContent = 'DEVICES';
+    return;
+  }
+  const devs = await spotifyFetch('/me/player/devices').catch(() => null);
+  const items = (devs && devs.devices) || [];
+  const preferredId = localStorage.getItem('zs:preferred_device_id');
+  // status pill LED
+  const anyActive = items.some(d => d.is_active) || items.length > 0;
+  if (ledDevices) ledDevices.classList.toggle('on', !!anyActive);
+  if (label) {
+    const active = items.find(d => d.is_active);
+    label.textContent = active ? (active.name.length > 14 ? active.name.slice(0,12)+'…' : active.name).toUpperCase() : 'DEVICES';
+  }
+  // help text — iOS gets specific instructions
+  if (isIOS()) {
+    help.innerHTML = `
+      <strong>iPhone playback note —</strong> Spotify's Web SDK isn't allowed on iOS Safari, so the dashboard can't be the player here.
+      Open the Spotify app on this phone (or a desktop / speaker), play any track for a second to make the device "active,"
+      then tap it below. The dashboard will push playback to it.`;
+  } else {
+    help.innerHTML = `Tap any device to make it the room's speaker. Press PLAY on the console after.`;
+  }
+  if (!items.length) {
+    list.innerHTML = `<div class="muted" style="padding:14px 0;">— no devices visible —</div>`;
+    return;
+  }
+  list.innerHTML = items.map(d => {
+    const icon = d.type === 'Smartphone' ? '📱'
+      : d.type === 'Computer' ? '💻'
+      : d.type === 'Speaker' ? '🔊'
+      : d.type === 'TV' ? '📺'
+      : '🎧';
+    const isPreferred = d.id === preferredId;
+    const isActive = d.is_active;
+    return `
+      <button class="device-row${isActive ? ' is-active' : ''}${isPreferred ? ' is-preferred' : ''}" data-device-id="${d.id}">
+        <span class="device-icon">${icon}</span>
+        <span class="device-name">${escapeHtml(d.name)}</span>
+        <span class="device-meta">${escapeHtml(d.type || '')}${isActive ? ' · ACTIVE' : ''}${isPreferred ? ' · PREFERRED' : ''}</span>
+      </button>`;
+  }).join('');
+  list.querySelectorAll('.device-row').forEach(row => {
+    row.addEventListener('click', async () => {
+      const id = row.dataset.deviceId;
+      localStorage.setItem('zs:preferred_device_id', id);
+      try {
+        // Push the active session to that device. play:false leaves the user to press PLAY.
+        await spotifyFetch('/me/player', { method: 'PUT', body: JSON.stringify({ device_ids: [id], play: false }) });
+        toast(`Device → ${row.querySelector('.device-name').textContent}`);
+        (document.getElementById('pele-line')||{}).innerHTML = `Speaker set to <em>${escapeHtml(row.querySelector('.device-name').textContent)}</em>. Press <strong>PLAY</strong>.`;
+        setTimeout(() => loadDevicesIntoPicker(), 500);
+      } catch (e) {
+        console.error('[ZS] device transfer failed', e);
+        toast(explainSpotifyError(e));
+      }
+    });
+  });
+}
+
+// Wire up the DEVICES pill + modal
+document.getElementById('devices-btn')?.addEventListener('click', () => {
+  const modal = document.getElementById('devices-modal');
+  if (!modal) return;
+  modal.classList.add('open');
+  modal.setAttribute('aria-hidden', 'false');
+  loadDevicesIntoPicker();
+});
+document.getElementById('devices-refresh-btn')?.addEventListener('click', () => loadDevicesIntoPicker());
+
+// Background poll — keeps the DEVICES pill label fresh every 30s when connected.
+setInterval(() => {
+  if (document.hidden) return;
+  getValidAccessToken().then(t => { if (t) loadDevicesIntoPicker(); });
+}, 30000);
 
 /* Fetch all track URIs across N albums in parallel (Phase 2 channel queue) */
 async function tracksFromAlbums(albumIds, capPerAlbum = 12) {
@@ -7282,7 +7693,21 @@ document.getElementById('play-btn').addEventListener('click', async () => {
 
   let target = await pickDevice();
   if (!target) {
-    // No device yet — try to wake the in-browser Web Playback SDK device
+    // No device. On iOS, the SDK is blocked — route the user straight to the picker
+    // with clear instructions. On desktop, try to wake the Web Playback SDK first.
+    if (isIOS()) {
+      toast('Open Spotify on this phone first.');
+      (document.getElementById('pele-line')||{}).innerHTML =
+        `<strong>To play sound:</strong> open the Spotify app on this phone, hit play on any track for 1 second, then come back and tap <kbd>DEVICES</kbd> → choose this phone. Press PLAY again here.`;
+      const modal = document.getElementById('devices-modal');
+      if (modal) {
+        modal.classList.add('open');
+        modal.setAttribute('aria-hidden', 'false');
+        if (typeof loadDevicesIntoPicker === 'function') loadDevicesIntoPicker();
+      }
+      return;
+    }
+    // Desktop fallback — try the in-browser SDK
     toast('Starting in-browser player…');
     const deviceId = await Promise.race([
       initBrowserPlayer(),
@@ -7294,7 +7719,6 @@ document.getElementById('play-btn').addEventListener('click', async () => {
       (document.getElementById('pele-line')||{}).textContent =
         `Spotify didn't grant streaming permission. Disconnect and reconnect — see below.`;
       toast('Streaming permission missing — see PLAY tip below to reconnect.');
-      // Walk the user through it with a sticky message in the Pelé line area
       setTimeout(() => {
         (document.getElementById('pele-line')||{}).innerHTML =
           `<strong>To fix:</strong> open browser DevTools (Cmd+Option+J), paste <code>localStorage.removeItem('zs:spotify_token');location.reload()</code>, then click CONNECT SPOTIFY again. The new permission "Play content and control playback" must be granted.`;
@@ -7829,7 +8253,11 @@ document.getElementById('reset-all-btn')?.addEventListener('click', () => {
     'All knobs returned to AUTO. The room is open again.';
 });
 
-/* ---------- VOLUME ---------- */
+/* ---------- VOLUME ----------
+   Targets whatever device is currently active in Spotify Connect — phone,
+   desktop app, speaker. SDK control is in parallel for the desktop browser case.
+   The old gate ("only API if no SDK") meant volume silently did nothing on iOS,
+   where playback runs on the native app but the SDK device exists too. */
 (function initVolume() {
   const fader = document.getElementById('vol-fader');
   if (!fader) return;
@@ -7838,26 +8266,43 @@ document.getElementById('reset-all-btn')?.addEventListener('click', () => {
   fader.style.setProperty('--vol', saved + '%');
 
   let apiTimer = null;
-  function applyVolume(v) {
+  async function applyVolume(v) {
     fader.style.setProperty('--vol', v + '%');
     localStorage.setItem('zs:volume', v);
-    // Browser SDK device: instant, no rate limit
+
+    // Browser SDK device (desktop browsers only): instant local control
     if (window.zsBrowserPlayer && typeof window.zsBrowserPlayer.setVolume === 'function') {
       window.zsBrowserPlayer.setVolume(v / 100).catch(() => {});
     }
-    // External device (or as a backstop): debounced Web API call
+
+    // ALWAYS push to the Spotify Web API too — that's what controls external
+    // devices (the iPhone's native app, desktop Spotify, Connect speakers).
+    // Debounced so we don't hammer the API while dragging.
     clearTimeout(apiTimer);
-    apiTimer = setTimeout(() => {
-      getValidAccessToken().then(t => {
-        if (!t) return;
-        // only hit the API if we're NOT on the browser device (SDK already handled it)
-        if (!window.zsBrowserDeviceId) {
-          spotifyFetch(`/me/player/volume?volume_percent=${v}`, { method: 'PUT' }).catch(() => {});
+    apiTimer = setTimeout(async () => {
+      const tok = await getValidAccessToken();
+      if (!tok) return;
+      // Target the user's preferred / currently-active device explicitly
+      let target = null;
+      try { target = (typeof pickDevice === 'function') ? await pickDevice() : null; } catch {}
+      const deviceQ = target?.id ? `&device_id=${encodeURIComponent(target.id)}` : '';
+      try {
+        await spotifyFetch(`/me/player/volume?volume_percent=${v}${deviceQ}`, { method: 'PUT' });
+      } catch (e) {
+        const msg = String(e && e.message || e);
+        if (/403/.test(msg)) {
+          toast('Spotify Premium required for remote volume control.');
+        } else if (/404/.test(msg) || /NO_ACTIVE_DEVICE/i.test(msg)) {
+          // Silent — user hasn't picked a device yet, no point yelling on every drag
+        } else {
+          console.warn('[ZS] volume API failed:', msg);
         }
-      });
-    }, 350);
+      }
+    }, 200);
   }
   fader.addEventListener('input', () => applyVolume(parseInt(fader.value, 10)));
+  fader.addEventListener('change', () => applyVolume(parseInt(fader.value, 10))); // iOS Safari fires `change` on release
+
   // Apply the saved volume to the SDK player once it's ready
   const applySavedWhenReady = setInterval(() => {
     if (window.zsBrowserPlayer && typeof window.zsBrowserPlayer.setVolume === 'function') {
@@ -7902,6 +8347,12 @@ window.onSpotifyWebPlaybackSDKReady = () => {
 
 async function initBrowserPlayer() {
   if (zsBrowserDeviceId) return zsBrowserDeviceId;
+  // iOS Safari + Chrome can't host the Web Playback SDK (Spotify caps it to desktop).
+  // Skip the attempt entirely so we don't waste 5s on a guaranteed timeout.
+  if (isIOS()) {
+    console.log('[ZS] Skipping Web Playback SDK on iOS — using Spotify Connect to push to native device.');
+    return null;
+  }
   // Guard: if an init already started, wait for it instead of creating a 2nd player
   if (window._zsPlayerStarted) {
     for (let i = 0; i < 16; i++) {
@@ -9117,6 +9568,7 @@ function installCollapsibleSections() {
   installVinylViewToggle();
   renderVinylGrid();
   installCollapsibleSections();    // wire up collapse/expand on heavy mobile sections
+  renderRadarFromCanon();          // Taste Profile is never blank — canon genres on first load
   loadXrayIndex().catch(() => {}); // async, doesn't block render
   loadAdSpinning().catch(() => {}); // AD carousel cards
   loadDerrickShelf().catch(() => {}); // Derrick Gee playlists shelf
