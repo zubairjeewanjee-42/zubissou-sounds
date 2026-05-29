@@ -2656,54 +2656,70 @@ html[data-mode="night"] .vol-fader {
 .console-message:empty { opacity: 0; min-height: 0; margin: 0 auto; }
 html[data-mode="night"] .console-message { color: rgba(232, 217, 181, 0.7); }
 
-/* ===== MODE TOGGLE — Records / Sets (compact console-lamp) =====
-   Single hi-fi indicator. One LED that runs cool (RECORDS, green) or hot (SETS, red).
-   Click anywhere on the body to flip. Lives inline with the intent bar row. */
-.mode-toggle {
-  display: inline-flex; align-items: center; gap: 7px;
-  background: rgba(0,0,0,0.10);
-  border: 1px solid rgba(0,0,0,0.16);
-  border-radius: 6px;
-  padding: 4px 9px 4px 8px;
+/* ===== MODE SWITCH — Records / Sets (vintage 2-position slide toggle) =====
+   Like a hi-fi rocker: a sliding thumb moves left (RECORDS) or right (SETS).
+   The label opposite the thumb is dimmed; the label under the thumb is illuminated. */
+.mode-switch {
+  display: inline-flex; align-items: center; gap: 10px;
+  background: transparent;
+  border: none;
+  padding: 4px;
   cursor: pointer;
   font-family: 'Big Shoulders Display', 'Antonio', sans-serif;
   font-weight: 800;
-  font-size: 9px;
-  letter-spacing: 0.28em;
+  font-size: 10px;
+  letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--walnut-soft);
   user-select: none;
-  transition: background 200ms ease, color 200ms ease, transform 60ms ease;
 }
-.mode-toggle:hover { color: var(--walnut); background: rgba(0,0,0,0.14); }
-.mode-toggle:active { transform: scale(0.97); transition-duration: 30ms; }
-.mode-led {
-  width: 7px; height: 7px; border-radius: 50%;
-  background: #2D5A3A;
-  box-shadow: 0 0 4px rgba(76, 175, 88, 0.6), inset 0 0 2px rgba(0,0,0,0.4);
-  transition: background 220ms ease, box-shadow 220ms ease;
+.mode-switch .ms-label {
+  transition: color 220ms ease, opacity 220ms ease;
+  opacity: 0.45;
+  letter-spacing: 0.22em;
+  white-space: nowrap;
 }
-.mode-toggle[data-mode="records"] .mode-led {
-  background: #4CAF58;
-  box-shadow: 0 0 6px rgba(76, 175, 88, 0.85), inset 0 0 2px rgba(0,0,0,0.3);
+.mode-switch[data-mode="records"] .ms-left  { opacity: 1; color: var(--walnut); }
+.mode-switch[data-mode="sets"]    .ms-right { opacity: 1; color: var(--amber-deep); }
+
+/* The slider track — recessed channel with the thumb sliding inside it */
+.mode-switch .ms-track {
+  position: relative;
+  display: inline-block;
+  width: 48px; height: 22px;
+  background: linear-gradient(180deg, rgba(0,0,0,0.22) 0%, rgba(0,0,0,0.12) 100%);
+  border: 1px solid rgba(0,0,0,0.30);
+  border-radius: 12px;
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.35);
+  flex-shrink: 0;
 }
-.mode-toggle[data-mode="sets"] {
-  color: var(--amber-deep);
+.mode-switch .ms-thumb {
+  position: absolute;
+  top: 2px; left: 2px;
+  width: 16px; height: 16px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #F5D78A 0%, #D4A052 45%, #8A6A38 100%);
+  border: 1px solid var(--walnut);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.45);
+  transition: left 280ms cubic-bezier(0.34, 1.56, 0.64, 1), background 280ms ease, box-shadow 280ms ease;
 }
-.mode-toggle[data-mode="sets"] .mode-led {
-  background: #E66A1F;
-  box-shadow: 0 0 8px rgba(230, 106, 31, 0.9), inset 0 0 2px rgba(0,0,0,0.3);
-  animation: modePulse 1.6s ease-in-out infinite;
+.mode-switch[data-mode="sets"] .ms-thumb {
+  left: 28px;
+  background: radial-gradient(circle at 35% 30%, #FFD08A 0%, #E66A1F 60%, #8A3A0F 100%);
+  box-shadow: 0 0 6px rgba(230,106,31,0.7), 0 1px 2px rgba(0,0,0,0.45);
 }
-@keyframes modePulse {
-  0%, 100% { box-shadow: 0 0 6px rgba(230, 106, 31, 0.7), inset 0 0 2px rgba(0,0,0,0.3); }
-  50%      { box-shadow: 0 0 11px rgba(230, 106, 31, 1), inset 0 0 2px rgba(0,0,0,0.3); }
-}
+.mode-switch:hover .ms-thumb { transform: scale(1.05); }
+.mode-switch:active .ms-thumb { transform: scale(0.96); }
 @media (prefers-reduced-motion: reduce) {
-  .mode-toggle[data-mode="sets"] .mode-led { animation: none; }
+  .mode-switch .ms-thumb { transition: left 120ms ease; }
 }
-html[data-mode="night"] .mode-toggle { background: rgba(0,0,0,0.32); border-color: rgba(255,200,120,0.18); color: rgba(232, 217, 181, 0.7); }
-html[data-mode="night"] .mode-toggle:hover { color: var(--vu-cream); }
+html[data-mode="night"] .mode-switch { color: rgba(232, 217, 181, 0.55); }
+html[data-mode="night"] .mode-switch[data-mode="records"] .ms-left { color: var(--vu-cream); }
+html[data-mode="night"] .mode-switch[data-mode="sets"] .ms-right { color: var(--amber); }
+html[data-mode="night"] .mode-switch .ms-track { background: rgba(0,0,0,0.40); border-color: rgba(255,200,120,0.20); }
+
+/* Legacy class still referenced in some places — keep silent */
+.mode-toggle, .mode-tab { display: none !important; }
 
 /* Wrapper row — mode toggle + dialed pill, sit above the action row */
 .mode-row {
@@ -2790,84 +2806,182 @@ html[data-mode="night"] .set-chip { background: rgba(0,0,0,0.32); color: var(--v
   display: flex; align-items: stretch; gap: 8px;
   flex-wrap: wrap;
 }
-/* ===== MOBILE — strict modular stacking, generous touch targets, no overflow ===== */
+/* ===== COLLAPSIBLE SECTIONS (mobile only) =====
+   Heavy sections (Vinyl Wall, My Spotify Playlists) collapse on mobile so the
+   page isn't endless. Header stays visible; tap the chevron to expand/collapse. */
+.collapse-toggle {
+  display: none;
+  font-family: 'Big Shoulders Display', 'Antonio', sans-serif;
+  font-weight: 800; font-size: 11px; letter-spacing: 0.22em;
+  color: var(--brass-deep);
+  background: transparent;
+  border: 1px solid var(--brass-deep);
+  border-radius: 4px;
+  padding: 4px 9px;
+  cursor: pointer;
+  margin-left: auto;
+  transition: background 160ms ease, color 160ms ease, transform 60ms ease;
+}
+.collapse-toggle:hover { background: var(--brass); color: var(--vu-cream); }
+.collapse-toggle:active { transform: scale(0.96); transition-duration: 30ms; }
+.collapse-toggle .chev { display: inline-block; transition: transform 240ms cubic-bezier(0.4,0,0.2,1); }
+.section.is-collapsed .collapse-toggle .chev { transform: rotate(-90deg); }
+html[data-mode="night"] .collapse-toggle { color: var(--brass); border-color: rgba(255,200,120,0.4); }
+html[data-mode="night"] .collapse-toggle:hover { background: var(--brass-deep); color: var(--vu-cream); }
+
 @media (max-width: 560px) {
-  /* CONSOLE — tighter padding, reclaim edge space */
+  .collapse-toggle { display: inline-flex; align-items: center; gap: 6px; }
+  .section.is-collapsed > :not(.section-header) { display: none !important; }
+  /* Make section-header a flex container so the toggle slots to the right */
+  .collapsible-mobile > .section-header {
+    display: flex; align-items: center; flex-wrap: wrap; gap: 8px;
+  }
+  .collapsible-mobile > .section-header > .section-title { flex: 0 1 auto; }
+  .collapsible-mobile > .section-header > .section-meta { flex: 1 1 100%; order: 3; }
+}
+
+/* ============================================================
+   MOBILE AUDIT BLOCK — strict modular stacking, real tap targets
+   Addresses: masthead left-align, info-strip right-pinned, day/night
+   toggle bigger, console copy resized, knob layout (7th spans wide),
+   action row reordered (transport → volume → aux 4-up), Records/Sets
+   slide switch sized, np-empty shrunk, status pills wrapping clean.
+   ============================================================ */
+@media (max-width: 560px) {
+
+  /* ----- TOPBAR (note 1: brand left-justified; note 2: day/night bigger) ----- */
+  .topbar {
+    padding: 12px 14px 10px;
+    align-items: center;
+  }
+  .brand {
+    gap: 2px;
+    flex-direction: column;
+    align-items: flex-start;
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+  .brand-mark { font-size: 22px; letter-spacing: 0.10em; line-height: 1; }
+  .brand-sub { font-size: 11px; }
+
+  /* Day/Night toggle — bigger, thicker, easier to tap with thumb */
+  .daynight { flex-shrink: 0; }
+  .toggle {
+    width: 76px; height: 38px;
+    border-radius: 19px;
+    padding: 3px;
+  }
+  .toggle-bat { width: 30px; height: 30px; }
+  html[data-mode="night"] .toggle-bat { transform: translateX(38px); }
+  .toggle::before { left: 11px; font-size: 14px; }
+  .toggle::after  { right: 12px; font-size: 14px; }
+
+  /* ----- INFO STRIP (notes 3+4: weather + ON AIR stay pinned right, no wrap) ----- */
+  .info-strip {
+    flex-wrap: nowrap;
+    gap: 8px;
+    padding: 8px 12px;
+    overflow: hidden;
+  }
+  .info-strip .info-time {
+    flex: 0 1 auto;
+    min-width: 0;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .info-strip .info-weather {
+    flex: 0 0 auto;
+    margin-left: auto;
+    white-space: nowrap;
+    font-size: 10px;
+  }
+  .info-strip .on-air.on-air-top {
+    flex: 0 0 auto;
+    padding: 3px 7px;
+  }
+  .info-strip .on-air.on-air-top .on-air-label { font-size: 8.5px; letter-spacing: 0.16em; }
+  .info-strip .info-date { font-size: 10px; letter-spacing: 0.18em; }
+  .info-strip .nixie-digit { font-size: 12px; width: 8px; }
+
+  /* ----- CONSOLE (note 5: tighter title, byline) ----- */
   .console { padding: 18px 14px 16px; border-radius: 6px; }
-  .console-title { font-size: 13px; letter-spacing: 0.28em; }
+  .console-title { font-size: 14px; letter-spacing: 0.26em; }
   .console-subtitle { font-size: 11.5px; margin-bottom: 4px; }
-  .console-byline { font-size: 8.5px; letter-spacing: 0.24em; margin: -4px auto 12px; padding: 0 6px; }
+  .console-byline { font-size: 8.5px; letter-spacing: 0.22em; margin: -4px auto 12px; padding: 0 6px; }
   .console-mfg-left, .console-mfg { display: none; }
 
   /* VU + tubes — tighter row */
   .vu-row { gap: 8px; }
 
-  /* INTENT BAR — comfortable type, full bleed */
+  /* INTENT BAR — comfortable type */
   .intent { font-size: 13.5px; padding: 11px 14px; }
 
-  /* MODE ROW — compact, centered, doesn't hog real estate */
-  .mode-row { gap: 8px; margin-bottom: 10px; }
-  .mode-toggle { padding: 5px 10px; font-size: 9.5px; letter-spacing: 0.22em; }
-  .dialed-pill { font-size: 9px; padding: 3px 8px; letter-spacing: 0.18em; }
-
-  /* ACTION ROW — modular stacking via flex-basis.
-     Row 1: PREV / PLAY / NEXT  (full width)
-     Row 2: RANDOM · PRESETS · +BUILD · RESET  (4-up grid)
-     Row 3: volume (full width, centered)
-     The volume slider going off-screen is a flex-shrink bug — fixed by forcing basis:100%. */
-  .action-row {
-    gap: 10px;
-    flex-wrap: wrap;
+  /* ----- KNOBS (note 6: 7th knob spans full width so no orphan empty cell) ----- */
+  .knobs-grid > .knob-cell:nth-child(7) {
+    grid-column: 1 / -1;
+    justify-self: center;
+    max-width: 50%;
   }
 
-  /* Transport row owns its own line */
+  /* ----- MODE SWITCH (note 9: slide toggle, compact) ----- */
+  .mode-row { gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+  .mode-switch { font-size: 11px; gap: 9px; }
+  .mode-switch .ms-track { width: 50px; height: 24px; }
+  .mode-switch .ms-thumb { width: 18px; height: 18px; }
+  .mode-switch[data-mode="sets"] .ms-thumb { left: 28px; }
+  .dialed-pill { font-size: 9.5px; padding: 3px 8px; letter-spacing: 0.18em; }
+
+  /* ----- ACTION ROW (note 10: transport → volume → 4 aux buttons; note 8: 4-up symmetric) -----
+     Re-ordered via CSS `order`. Each row uses flex-basis: 100% to force wrap. */
+  .action-row { gap: 10px; flex-wrap: wrap; }
+
+  /* Row 1: PREV · PLAY · NEXT */
   .action-row > .transport-row {
-    flex: 1 1 100%;
+    flex: 0 0 100%;
     width: 100%;
     gap: 8px;
     order: 1;
   }
   .action-row > .transport-row .play-btn {
     flex: 1 1 auto;
-    height: 54px;
+    height: 56px;
     font-size: 16px;
     letter-spacing: 0.22em;
   }
   .action-row > .transport-row .transport-btn {
-    flex: 0 0 54px;
-    width: 54px;
-    height: 54px;
-    min-width: 54px;
+    flex: 0 0 56px;
+    width: 56px;
+    height: 56px;
+    min-width: 56px;
   }
 
-  /* Four aux buttons share their own row evenly — bigger touch targets, breathing room */
-  .action-row > .aux-btn {
-    flex: 1 1 calc(25% - 6px);
-    max-width: calc(25% - 6px);
-    min-width: 0;
-    height: 46px;
-    padding: 0 6px;
-    font-size: 11px;
-    letter-spacing: 0.10em;
-    order: 2;
-  }
-  .action-row > .aux-btn .aux-icon { margin-right: 4px; width: 12px; height: 12px; }
-
-  /* Volume drops to its own row — no more spilling past the right edge */
+  /* Row 2: VOLUME — directly under play */
   .action-row > .vol-control {
     flex: 0 0 100%;
     width: 100%;
     height: 36px;
     padding: 0 12px;
     justify-content: center;
-    order: 3;
+    order: 2;
   }
   .action-row > .vol-control .vol-fader {
     width: 100%;
     max-width: 280px;
   }
 
-  /* NOW PLAYING when silent — small, unobtrusive. Was eating ~110px of vertical for no reason. */
+  /* Row 3: 4 aux buttons sharing equally — no max-width, just flex-basis 0 + grow 1 */
+  .action-row > .aux-btn {
+    flex: 1 1 0;
+    min-width: 0;
+    height: 46px;
+    padding: 0 4px;
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    order: 3;
+  }
+  .action-row > .aux-btn .aux-icon { margin-right: 4px; width: 12px; height: 12px; }
+
+  /* NOW PLAYING when silent — tight, unobtrusive */
   .np-inline { min-height: 0; padding: 8px 12px; margin-top: 10px; }
   .np-inline .np-empty { font-size: 12.5px; padding: 4px 0; line-height: 1.4; }
 
@@ -2882,13 +2996,20 @@ html[data-mode="night"] .set-chip { background: rgba(0,0,0,0.32); color: var(--v
   .status-pill { flex: 0 0 auto; white-space: nowrap; }
 }
 
-/* Even tighter — small phones (iPhone SE, narrow Androids) */
+/* ----- TIGHTER — small phones (iPhone SE class, narrow Androids) ----- */
 @media (max-width: 400px) {
-  .action-row > .aux-btn { font-size: 10px; letter-spacing: 0.06em; }
+  .brand-mark { font-size: 19px; }
+  .brand-sub { font-size: 10px; }
+  .toggle { width: 70px; height: 36px; }
+  .toggle-bat { width: 28px; height: 28px; }
+  html[data-mode="night"] .toggle-bat { transform: translateX(34px); }
+
+  .action-row > .aux-btn { font-size: 10px; letter-spacing: 0.04em; padding: 0 2px; }
   .action-row > .aux-btn .aux-icon { display: none; }
   .action-row > .transport-row .play-btn { font-size: 15px; letter-spacing: 0.18em; }
-  .console-title { font-size: 12px; letter-spacing: 0.22em; }
+  .console-title { font-size: 13px; letter-spacing: 0.22em; }
   .console-byline { font-size: 8px; letter-spacing: 0.18em; }
+  .info-strip .info-weather { font-size: 9.5px; }
 }
 
 /* ===== STATUS STRIP ===== */
@@ -4511,9 +4632,9 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
       <div class="console">
         <span class="console-mfg-left">MODEL · D</span>
         <span class="console-mfg">ZS-001 · 2026</span>
-        <div class="console-title">ZUBISSOU LISTENING STATION</div>
+        <div class="console-title">ZUBISSOU LISTENING</div>
         <div class="console-subtitle">analog inputs · digital soul</div>
-        <div class="console-byline">a private listening room, built by Zubair Jeewanjee · for heads, by a head</div>
+        <div class="console-byline">a private listening room built by Zubair Jeewanjee</div>
 
         <!-- VU + Tubes row (2 tubes left, VU center, 2 tubes right) -->
         <div class="vu-row">
@@ -4541,15 +4662,17 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
           <!-- Knobs injected by JS -->
         </div>
 
-        <!-- Mode lamp · DIALED feedback. Single click on the lamp flips RECORDS ↔ SETS.
-             The dialed pill appears whenever a preset is currently dialed in,
-             and clears the moment any knob is touched. -->
+        <!-- Records / Sets — vintage 2-position slide toggle.
+             Click the switch to slide between RECORDS (full albums) and SETS (shuffled track mixes). -->
         <div class="mode-row">
-          <button class="mode-toggle" id="mode-toggle" data-mode="records"
-                  aria-label="Playback mode — click to toggle" aria-pressed="false"
-                  title="RECORDS (cool) ↔ SETS (hot) · click to flip">
-            <span class="mode-led" aria-hidden="true"></span>
-            <span class="mode-label" id="mode-label">RECORDS</span>
+          <button class="mode-switch" id="mode-toggle" data-mode="records"
+                  aria-label="Playback mode" aria-pressed="false"
+                  title="Slide · RECORDS ↔ SETS">
+            <span class="ms-label ms-left">RECORDS</span>
+            <span class="ms-track" aria-hidden="true">
+              <span class="ms-thumb"></span>
+            </span>
+            <span class="ms-label ms-right">SETS</span>
           </button>
           <div class="dialed-pill" id="dialed-pill" aria-live="polite">
             <span class="dialed-led" aria-hidden="true"></span>
@@ -4558,8 +4681,8 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
           </div>
         </div>
 
-        <!-- SETS panel — shows playlists matching the current knob state -->
-        <div class="sets-panel" id="sets-panel" aria-live="polite"></div>
+        <!-- Matching-sets chip panel hidden by request — presets modal handles this. -->
+        <div class="sets-panel" id="sets-panel" style="display:none;" aria-hidden="true"></div>
 
         <!-- Action row -->
         <div class="action-row">
@@ -4718,7 +4841,7 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
     </section>
 
     <!-- ===== MY SPOTIFY PLAYLISTS ===== -->
-    <section class="section">
+    <section class="section collapsible-mobile" data-collapse-id="spotify-playlists" data-collapsed-default-mobile="true">
       <div class="section-header">
         <div class="section-title">My Spotify Playlists</div>
         <div class="section-meta" id="my-playlists-meta">what's in rotation tonight · anything overlapping the canon glows amber</div>
@@ -4810,7 +4933,7 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
     </section>
 
     <!-- ===== THE VINYL WALL ===== -->
-    <section class="section">
+    <section class="section collapsible-mobile" data-collapse-id="vinyl-wall" data-collapsed-default-mobile="true">
       <div class="section-header">
         <div class="section-title">The Vinyl Wall</div>
         <div class="section-meta">
@@ -5500,18 +5623,22 @@ function attachKnob(knob) {
   let dragging = false;
   let pId = null;
 
+  let dragMultiplier = 0.7;       // mouse default
   function start(e) {
     dragging = true;
     knob.setPointerCapture && e.pointerId !== undefined && knob.setPointerCapture(e.pointerId);
     pId = e.pointerId;
     startY = e.clientY;
     startV = knobState[id];
+    // Touch fingers cover more screen than a mouse cursor — drag at HALF speed
+    // on touch so the user can land precisely on a target value.
+    dragMultiplier = (e.pointerType === 'touch') ? 0.35 : 0.7;
     e.preventDefault();
   }
   function move(e) {
     if (!dragging) return;
     const dy = startY - e.clientY; // up = increase
-    const v = Math.max(0, Math.min(100, startV + (dy * 0.7)));
+    const v = Math.max(0, Math.min(100, startV + (dy * dragMultiplier)));
     knobState[id] = v;
     knobTouched[id] = true;
     updateKnobVisual(id);
@@ -7091,12 +7218,47 @@ async function getSunRaUris() {
 
 /* Build a canon channel from current context: the intent bar (fuzzy match over
    genre/country/subgenre/artist/album) + the ERA knob. Everything is genuinely
-   shuffled so the lead album differs every press. Returns {uris,label}. */
+   shuffled so the lead album differs every press. Returns {uris,label}.
+
+   MODE-AWARE:
+   - RECORDS mode → returns track URIs grouped by album (current behavior; plays albums in order).
+   - SETS mode    → returns a SHUFFLED, track-level mix:
+       (a) if a preset is currently dialed AND we have curator tracks tagged to it,
+           use those (Derrick Gee / AD picks) — that's the whole point of SETS;
+       (b) otherwise, pull ONE track from each matching canon album and shuffle —
+           never play a full album in order in SETS mode. */
 async function buildChannelSelection(opts = {}) {
   let pool = CANON.filter(c => c.type === 'album' && c.spotify_id);
   if (!pool.length) return null;
 
-  // 0) 🪐 SATURN Easter egg — PLACE dialed to Saturn plays only Sun Ra.
+  const mode = opts.mode || (typeof zsPlayMode !== 'undefined' ? zsPlayMode : 'records');
+
+  // 0a) SETS MODE + dialed preset → curator-track set if we have one
+  if (mode === 'sets' && typeof zsCurrentPresetId === 'string' && zsCurrentPresetId) {
+    try {
+      // Ensure the curator-tracks-by-preset index is loaded
+      if (!window.zsCuratorTracksByPreset && typeof loadCuratorTracksByPreset === 'function') {
+        await loadCuratorTracksByPreset();
+      }
+      const curatorTracks = (typeof getCuratorTracksForPreset === 'function')
+        ? getCuratorTracksForPreset(zsCurrentPresetId) : [];
+      const validUris = curatorTracks
+        .map(t => t.spotify_uri || t.uri || (t.spotify_id ? `spotify:track:${t.spotify_id}` : null))
+        .filter(u => u && u.startsWith('spotify:track:'));
+      if (validUris.length >= 5) {
+        const presetMeta = (typeof PRESETS !== 'undefined' ? PRESETS : [])
+          .find(p => p.id === zsCurrentPresetId);
+        const presetName = presetMeta?.name || 'set';
+        return {
+          uris: zsShuffle(validUris).slice(0, 60),
+          label: `SET · ${presetName} (${validUris.length} tracks from curators)`
+        };
+      }
+    } catch (e) { console.warn('[ZS] curator-track set lookup failed', e); }
+    // fall through to scored canon path if no curator coverage for this preset
+  }
+
+  // 0b) 🪐 SATURN Easter egg — PLACE dialed to Saturn plays only Sun Ra.
   if (!opts.pure && knobTouched.place && placeForValue(knobState.place) === 'Saturn') {
     const uris = await getSunRaUris();
     if (uris && uris.length) return { uris: zsShuffle(uris).slice(0, 40), label: '🪐 Saturn · Sun Ra only' };
@@ -7171,6 +7333,19 @@ async function buildChannelSelection(opts = {}) {
     pool = zsShuffle(pool);
   }
 
+  // SETS mode (no curator coverage): pull MANY albums but only 1 track per album,
+  // then shuffle — produces a proper mix, never a full album in order.
+  if (mode === 'sets') {
+    const wide = pool.slice(0, 30);
+    if (!wide[0]) return null;
+    const uris = await tracksFromAlbums(wide.map(a => a.spotify_id), 1);  // 1 track per album
+    if (!uris.length) return null;
+    const shuffled = zsShuffle(uris).slice(0, 40);
+    const label = note ? `SET · ${note}` : `SET · ${wide.length}-album mix`;
+    return { uris: shuffled, label };
+  }
+
+  // RECORDS mode: original behavior — top albums in order, full tracklists.
   const queue = pool.slice(0, 10);
   if (!queue[0]) return null;
   const uris = await tracksFromAlbums(queue.map(a => a.spotify_id));
@@ -7334,13 +7509,12 @@ let zsCurrentPresetId = null;   // remembers which preset is currently dialed (c
 function setPlayMode(mode) {
   zsPlayMode = mode;
   localStorage.setItem('zs:play_mode', mode);
+  // Drive the slide-switch visual via data-mode (CSS handles thumb position + label dimming).
   const toggle = document.getElementById('mode-toggle');
-  const label = document.getElementById('mode-label');
   if (toggle) {
     toggle.dataset.mode = mode;
     toggle.setAttribute('aria-pressed', mode === 'sets' ? 'true' : 'false');
   }
-  if (label) label.textContent = (mode === 'sets' ? 'SETS' : 'RECORDS');
   refreshSetsPanel();
   if (typeof logTelemetry === 'function') logTelemetry('play_mode_change', { mode });
 }
@@ -8665,6 +8839,44 @@ document.addEventListener('keydown', e => {
   }
 });
 
+/* ---------- COLLAPSIBLE SECTIONS (mobile) ----------
+   Auto-wire any `<section class="collapsible-mobile" data-collapse-id="...">`.
+   Default collapsed on mobile if data-collapsed-default-mobile="true".
+   Persists user choice in localStorage. Desktop layout is unaffected. */
+function installCollapsibleSections() {
+  const isMobile = () => window.matchMedia('(max-width: 560px)').matches;
+  document.querySelectorAll('.collapsible-mobile').forEach(section => {
+    const id = section.dataset.collapseId;
+    if (!id) return;
+    const header = section.querySelector('.section-header');
+    if (!header || header.querySelector('.collapse-toggle')) return;
+
+    // Decide initial state
+    const stored = localStorage.getItem('zs:collapsed:' + id);
+    let collapsed;
+    if (stored === '1') collapsed = true;
+    else if (stored === '0') collapsed = false;
+    else collapsed = isMobile() && section.dataset.collapsedDefaultMobile === 'true';
+    section.classList.toggle('is-collapsed', collapsed);
+
+    // Inject the toggle button
+    const btn = document.createElement('button');
+    btn.className = 'collapse-toggle';
+    btn.type = 'button';
+    btn.setAttribute('aria-expanded', collapsed ? 'false' : 'true');
+    btn.innerHTML = `<span class="chev" aria-hidden="true">▾</span><span class="ct-label">${collapsed ? 'EXPAND' : 'COLLAPSE'}</span>`;
+    btn.addEventListener('click', () => {
+      const isOpen = !section.classList.contains('is-collapsed');
+      const next = isOpen;   // collapse if currently open
+      section.classList.toggle('is-collapsed', next);
+      btn.querySelector('.ct-label').textContent = next ? 'EXPAND' : 'COLLAPSE';
+      btn.setAttribute('aria-expanded', next ? 'false' : 'true');
+      localStorage.setItem('zs:collapsed:' + id, next ? '1' : '0');
+    });
+    header.appendChild(btn);
+  });
+}
+
 /* ---------- BOOT ---------- */
 (async function boot() {
   await loadCanon();
@@ -8672,6 +8884,7 @@ document.addEventListener('keydown', e => {
   buildFuse();
   installVinylViewToggle();
   renderVinylGrid();
+  installCollapsibleSections();    // wire up collapse/expand on heavy mobile sections
   loadXrayIndex().catch(() => {}); // async, doesn't block render
   loadAdSpinning().catch(() => {}); // AD carousel cards
   loadDerrickShelf().catch(() => {}); // Derrick Gee playlists shelf
