@@ -2849,32 +2849,35 @@ html[data-mode="night"] .collapse-toggle:hover { background: var(--brass-deep); 
    ============================================================ */
 @media (max-width: 560px) {
 
-  /* ----- TOPBAR (note 1: brand left-justified; note 2: day/night bigger) ----- */
+  /* ----- TOPBAR (note 1: brand stacks tight + left; note 2: day/night bigger) ----- */
   .topbar {
     padding: 12px 14px 10px;
     align-items: center;
+    gap: 10px;
   }
   .brand {
-    gap: 2px;
+    gap: 0px;
     flex-direction: column;
     align-items: flex-start;
     min-width: 0;
     flex: 1 1 auto;
+    text-align: left;
   }
-  .brand-mark { font-size: 22px; letter-spacing: 0.10em; line-height: 1; }
-  .brand-sub { font-size: 11px; }
+  /* Reduced letter-spacing closes the "big space between Z·U·B·I·S·S·O·U" letters */
+  .brand-mark { font-size: 21px; letter-spacing: 0.06em; line-height: 1; white-space: nowrap; }
+  .brand-sub { font-size: 11px; letter-spacing: 0.01em; }
 
-  /* Day/Night toggle — bigger, thicker, easier to tap with thumb */
+  /* Day/Night toggle — meets the 44pt iOS tap-target spec, thicker for thumbs */
   .daynight { flex-shrink: 0; }
   .toggle {
-    width: 76px; height: 38px;
-    border-radius: 19px;
-    padding: 3px;
+    width: 86px; height: 44px;
+    border-radius: 22px;
+    padding: 4px;
   }
-  .toggle-bat { width: 30px; height: 30px; }
-  html[data-mode="night"] .toggle-bat { transform: translateX(38px); }
-  .toggle::before { left: 11px; font-size: 14px; }
-  .toggle::after  { right: 12px; font-size: 14px; }
+  .toggle-bat { width: 34px; height: 34px; }
+  html[data-mode="night"] .toggle-bat { transform: translateX(42px); }
+  .toggle::before { left: 12px; font-size: 16px; }
+  .toggle::after  { right: 13px; font-size: 16px; }
 
   /* ----- INFO STRIP (notes 3+4: weather + ON AIR stay pinned right, no wrap) ----- */
   .info-strip {
@@ -2916,7 +2919,11 @@ html[data-mode="night"] .collapse-toggle:hover { background: var(--brass-deep); 
   /* INTENT BAR — comfortable type */
   .intent { font-size: 13.5px; padding: 11px 14px; }
 
-  /* ----- KNOBS (note 6: 7th knob spans full width so no orphan empty cell) ----- */
+  /* ----- KNOBS (notes 6 + 7: 7th spans wide, knobs sized up for thumb accuracy) ----- */
+  .knobs-grid { gap: 14px 12px; }
+  .knob-cell { padding: 10px 8px; }
+  .knob { width: 76px; height: 76px; }   /* +27% touch surface vs desktop's 60px */
+  .knob-label { font-size: 12px; }
   .knobs-grid > .knob-cell:nth-child(7) {
     grid-column: 1 / -1;
     justify-self: center;
@@ -3000,9 +3007,9 @@ html[data-mode="night"] .collapse-toggle:hover { background: var(--brass-deep); 
 @media (max-width: 400px) {
   .brand-mark { font-size: 19px; }
   .brand-sub { font-size: 10px; }
-  .toggle { width: 70px; height: 36px; }
-  .toggle-bat { width: 28px; height: 28px; }
-  html[data-mode="night"] .toggle-bat { transform: translateX(34px); }
+  .toggle { width: 78px; height: 42px; border-radius: 21px; }
+  .toggle-bat { width: 32px; height: 32px; }
+  html[data-mode="night"] .toggle-bat { transform: translateX(38px); }
 
   .action-row > .aux-btn { font-size: 10px; letter-spacing: 0.04em; padding: 0 2px; }
   .action-row > .aux-btn .aux-icon { display: none; }
@@ -4493,7 +4500,7 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
   <header class="topbar">
     <div class="brand">
       <span class="brand-mark">ZUBISSOU SOUNDS</span>
-      <span class="brand-sub">— The Listening Station</span>
+      <span class="brand-sub">— a private listening room</span>
     </div>
     <div class="daynight">
       <button class="toggle" id="daynight-toggle" role="switch" aria-checked="false" aria-label="Toggle day/night mode" tabindex="0">
@@ -4954,7 +4961,7 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
       <div class="colophon-rule"></div>
       <div class="colophon-mast">
         <span class="colophon-mark">ZS</span>
-        <span class="colophon-title">ZUBISSOU SOUNDS · THE LISTENING STATION</span>
+        <span class="colophon-title">ZUBISSOU LISTENING</span>
         <span class="colophon-edition">FIRST EDITION · ZS-001 · 2026</span>
       </div>
       <p class="colophon-lede">

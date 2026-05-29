@@ -1,6 +1,6 @@
-# Zubissou Sounds · The Listening Station
+# Zubissou Listening
 
-> A private listening room for the always-on era.
+> A private listening room built by Zubair Jeewanjee.
 > Seven knobs. A canon of one hundred records. The inverse of a feed.
 
 **Live:** [zubissou-sounds.pages.dev](https://zubissou-sounds.pages.dev/)
