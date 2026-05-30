@@ -8,7 +8,7 @@
 
 <!-- ===== PRIMARY META ===== -->
 <title>Zubissou Studio — music curation for the moment, by Zubair Jeewanjee</title>
-<meta name="description" content="A private listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed. Built by Zubair Jeewanjee.">
+<meta name="description" content="A personalized listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed. Built by Zubair Jeewanjee.">
 <meta name="author" content="Zubair Jeewanjee">
 <meta name="keywords" content="Zubissou Listening, Zubissou Sounds, Zubair Jeewanjee, music dashboard, vinyl canon, personal capstone, hi-fi UI, kissa, Wes Anderson UI, taste console">
 <link rel="canonical" href="https://zubissou-sounds.pages.dev/">
@@ -25,7 +25,7 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Zubissou Studio">
 <meta property="og:title" content="Zubissou Studio">
-<meta property="og:description" content="A private listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed. — Z.">
+<meta property="og:description" content="A personalized listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed. — Z.">
 <meta property="og:url" content="https://zubissou-sounds.pages.dev/">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://zubissou-sounds.pages.dev/assets/img/zubair-pier.jpg">
@@ -38,7 +38,7 @@
 <!-- ===== TWITTER CARD ===== -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Zubissou Studio">
-<meta name="twitter:description" content="A private listening room. Seven knobs against one hundred records. Hand-curated. The inverse of a feed.">
+<meta name="twitter:description" content="A personalized listening room. Seven knobs against one hundred records. Hand-curated. The inverse of a feed.">
 <meta name="twitter:creator" content="@zubairjeewanjee">
 <meta name="twitter:image" content="https://zubissou-sounds.pages.dev/assets/img/zubair-pier.jpg">
 <meta name="twitter:image:alt" content="The author with a guitar on a pier in the Red Sea, lighthouse in the distance.">
@@ -55,7 +55,7 @@
   "@type": "CreativeWork",
   "name": "Zubissou Studio",
   "alternateName": ["Zubissou Listening", "Zubissou Sounds", "Zubissou Listening Station"],
-  "description": "A private listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed.",
+  "description": "A personalized listening room. Seven knobs against one hundred records. Hand-curated by the author. The inverse of a feed.",
   "url": "https://zubissou-sounds.pages.dev/",
   "image": "https://zubissou-sounds.pages.dev/assets/img/zubair-pier.jpg",
   "creator": {
@@ -1651,6 +1651,17 @@ html[data-mode="night"] .speaker-cab {
   border: 4px solid var(--vu-cream);
   box-sizing: border-box;
   outline: 1.5px solid var(--nagai-ink);
+  /* Clip any cone movement inside the driver housing — the cabinet must NOT flex.
+     This is how a real driver works: the cone pumps inside the surround, the
+     surround + cabinet stay rigid. */
+  overflow: hidden;
+  /* Force GPU layer so cone animations never reflow the cabinet */
+  transform: translateZ(0);
+}
+/* Absolute lock on the cabinet — no transform, no animation, ever. */
+.speaker-cab {
+  transform: none !important;
+  animation: none !important;
 }
 html[data-mode="night"] .speaker-driver {
   background: var(--nagai-paper);
@@ -1729,8 +1740,9 @@ html[data-mode="night"] .speaker-dust-cap {
   animation: speakerHalo 0.42s ease-in-out infinite alternate;
 }
 @keyframes speakerPulse {
-  0%   { transform: scale(1)    translateY(0); }
-  100% { transform: scale(1.14) translateY(-2px); }   /* real cone throw */
+  /* Cone-only motion. No translate — pure radial pump, contained inside the surround. */
+  0%   { transform: scale(1); }
+  100% { transform: scale(1.09); }
 }
 @keyframes speakerHalo {
   0%   { box-shadow: 0 0 0 0 rgba(255, 130, 50, 0); }
@@ -1747,10 +1759,11 @@ html[data-mode="night"] .speaker-dust-cap {
   animation: speakerTapPulse 360ms cubic-bezier(0.34, 1.56, 0.64, 1);
 }
 @keyframes speakerTapPulse {
+  /* Cone-only throw + recoil. Cabinet rigid. */
   0%   { transform: scale(1); }
-  30%  { transform: scale(1.12); }   /* big throw on tap — like the driver kicked */
-  60%  { transform: scale(0.94); }   /* recoil past zero */
-  100% { transform: scale(1); }      /* settle */
+  30%  { transform: scale(1.09); }
+  60%  { transform: scale(0.95); }
+  100% { transform: scale(1); }
 }
 /* Idle breath when not playing — barely perceptible, just so the room feels on */
 @media (prefers-reduced-motion: no-preference) {
@@ -4934,7 +4947,7 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
   <header class="topbar">
     <div class="brand">
       <span class="brand-mark">ZUBISSOU SOUNDS</span>
-      <span class="brand-sub">— a private listening room</span>
+      <span class="brand-sub">— a personalized listening room</span>
     </div>
     <div class="daynight">
       <button class="toggle" id="daynight-toggle" role="switch" aria-checked="false" aria-label="Toggle day/night mode" tabindex="0">
@@ -5074,7 +5087,7 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
         <span class="console-mfg-left">MODEL · D</span>
         <span class="console-mfg">ZS-001 · 2026</span>
         <div class="console-title">ZUBISSOU STUDIO</div>
-        <div class="console-byline">a private listening room · music curation for the moment · by Zubair Jeewanjee</div>
+        <div class="console-byline">a personalized listening room · music curation for the moment · by Zubair Jeewanjee</div>
 
         <!-- VU + Tubes row (2 tubes left, VU center, 2 tubes right) -->
         <div class="vu-row">
@@ -5407,7 +5420,7 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
         <span class="colophon-edition">FIRST EDITION · ZS-001 · 2026</span>
       </div>
       <p class="colophon-lede">
-        Part private listening room, part music curator's studio. The inverse of a feed.
+        Part personalized listening room, part music curator's studio. The inverse of a feed.
         <br>
         The best curators don't shuffle — they read the room.
         Mood, energy, weather, the hour of the day. Every record chosen for the moment it's in.
@@ -5504,7 +5517,7 @@ html[data-mode="night"] .colophon-coda { color: rgba(232, 217, 181, 0.75); }
       <h2>The Manual<small>A field guide to the Listening Station · by Zubair Jeewanjee</small></h2>
 
       <p style="font-family:'Lora',serif; font-style:italic; font-size:14px; line-height:1.65; color:var(--ink-soft); border-left:2px solid var(--amber-deep); padding-left:14px; margin:14px 0 22px;">
-        Zubissou Listening is a private listening room — built as the inverse of an algorithmic feed.
+        Zubissou Listening is a personalized listening room — built as the inverse of an algorithmic feed.
         Where streaming services chase the next click, this room asks one quieter question:
         <em>what kind of moment is this?</em>
         Seven knobs. A canon of one hundred records. A small circle of independent voices
@@ -5816,6 +5829,10 @@ setScene(autoScene());
     dx = 0; dy = 0;
     pId = e.pointerId;
     width = win.getBoundingClientRect().width;
+    // CRITICAL — without setPointerCapture, iOS Safari stops sending pointermove
+    // events the moment the finger leaves the window-frame element. Capturing
+    // pins the gesture stream to this element until release.
+    try { win.setPointerCapture(e.pointerId); } catch {}
     const cur = currentScene();
     curEl  = sceneEl(cur);
     prevEl = sceneEl(prevOf(cur));
